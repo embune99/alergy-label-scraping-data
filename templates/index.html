@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+
+{% block title %}Categories - Etos products{% endblock %}
+
+{% block content %}
+  <h1>Product categories</h1>
+  <p>Select a category to browse its products.</p>
+
+  <div class="grid" style="margin-top: 1rem;">
+    {% for cat in categories %}
+      <article class="card">
+        <h2>{{ cat.name }}</h2>
+        {% if cat.category_url %}
+          <p><span class="badge">Etos URL</span> <a href="{{ cat.category_url }}" target="_blank" rel="noreferrer">{{ cat.category_url }}</a></p>
+        {% endif %}
+        {% if cat.product_count %}
+          <p>Total products: {{ cat.product_count }}</p>
+        {% endif %}
+        <a href="{{ url_for('category_view', category_name=cat.name) }}">View products →</a>
+      </article>
+    {% endfor %}
+  </div>
+{% endblock %}
+

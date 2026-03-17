@@ -1,0 +1,50 @@
+{% extends "base.html" %}
+
+{% block title %}{{ product_info.product_name or product_id }} - Etos products{% endblock %}
+
+{% block content %}
+  <div class="breadcrumbs">
+    <a href="{{ url_for('index') }}">Categories</a> /
+    <a href="{{ url_for('category_view', category_name=category_name) }}">{{ category_name }}</a> /
+    <strong>{{ product_info.product_name or product_id }}</strong>
+  </div>
+
+  <h1>{{ product_info.product_name or product_id }}</h1>
+
+  <div style="display:flex; flex-wrap:wrap; gap:1.5rem; margin-bottom:2rem;">
+    <div style="flex: 0 0 260px; max-width: 100%;">
+      {% set images = product_info.images or [] %}
+      {% if images %}
+        <img class="product-thumb" src="{{ images[0] }}" alt="{{ product_info.product_name or product_id }}">
+      {% endif %}
+    </div>
+    <div style="flex: 1 1 260px; min-width: 0;">
+      {% if product_info.price %}
+        <p><strong>Price:</strong> {{ product_info.price }}</p>
+      {% endif %}
+
+      {% if inferred_info.product_category %}
+        <p><strong>Category:</strong> {{ inferred_info.product_category }}</p>
+      {% endif %}
+
+      {% if product_info.product_url %}
+        <p><strong>Etos page:</strong> <a href="{{ product_info.product_url }}" target="_blank" rel="noreferrer">{{ product_info.product_url }}</a></p>
+      {% endif %}
+
+      {% if additional_info.id %}
+        <p><strong>Product ID:</strong> {{ additional_info.id }}</p>
+      {% endif %}
+    </div>
+  </div>
+
+  {% if product_info.description %}
+    <h2>Description</h2>
+    <pre>{{ product_info.description }}</pre>
+  {% endif %}
+
+  {% if inferred_info.raw_ingredients %}
+    <h2>Raw ingredients</h2>
+    <pre>{{ inferred_info.raw_ingredients }}</pre>
+  {% endif %}
+{% endblock %}
+

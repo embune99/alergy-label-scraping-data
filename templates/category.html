@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+
+{% block title %}{{ category_name }} - Etos products{% endblock %}
+
+{% block content %}
+  <div class="breadcrumbs">
+    <a href="{{ url_for('index') }}">Categories</a> / <strong>{{ category_name }}</strong>
+  </div>
+
+  <h1>Category: {{ category_name }}</h1>
+  {% if meta.category_url %}
+    <p><span class="badge">Etos URL</span> <a href="{{ meta.category_url }}" target="_blank" rel="noreferrer">{{ meta.category_url }}</a></p>
+  {% endif %}
+  {% if meta.processed_count or meta.crawled_product_urls %}
+    <p>Processed products: {{ meta.processed_count or meta.crawled_product_urls }}</p>
+  {% endif %}
+
+  <h2>Products ({{ products|length }})</h2>
+
+  <div class="grid">
+    {% for p in products %}
+      <article class="card">
+        {% if p.image %}
+          <img class="product-thumb" src="{{ p.image }}" alt="{{ p.name }}">
+        {% endif %}
+        <h3>{{ p.name or p.id }}</h3>
+        {% if p.price %}
+          <p><strong>{{ p.price }}</strong></p>
+        {% endif %}
+        {% if p.product_category %}
+          <p>{{ p.product_category }}</p>
+        {% endif %}
+        <a href="{{ url_for('product_view', category_name=p.category, product_id=p.id) }}">View details →</a>
+      </article>
+    {% endfor %}
+  </div>
+{% endblock %}
+
