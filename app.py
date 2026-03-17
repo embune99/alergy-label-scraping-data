@@ -2,7 +2,7 @@ import json
 import os
 from pathlib import Path
 
-from flask import Flask, render_template, abort
+from flask import Flask, render_template, abort, request
 
 
 BASE_DIR = Path(__file__).resolve().parent
@@ -93,11 +93,32 @@ def category_view(category_name):
         abort(404)
     meta = load_category_meta(category_dir)
     products = load_all_products_for_category(category_dir)
+
+    # simple pagination: 20 items per page
+    per_page = 20
+    try:
+        page = int(request.args.get("page", "1"))
+    except ValueError:
+        page = 1
+    if page < 1:
+        page = 1
+
+    total = len(products)
+    start = (page - 1) * per_page
+    end = start + per_page
+    page_items = products[start:end]
+
+    total_pages = (total + per_page - 1) // per_page if total else 1
+
     return render_template(
         "category.html",
         category_name=category_name,
         meta=meta,
-        products=products,
+        products=page_items,
+        page=page,
+        per_page=per_page,
+        total=total,
+        total_pages=total_pages,
     )
 
 

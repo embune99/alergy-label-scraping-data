@@ -11,11 +11,8 @@
   {% if meta.category_url %}
     <p><span class="badge">Etos URL</span> <a href="{{ meta.category_url }}" target="_blank" rel="noreferrer">{{ meta.category_url }}</a></p>
   {% endif %}
-  {% if meta.processed_count or meta.crawled_product_urls %}
-    <p>Processed products: {{ meta.processed_count or meta.crawled_product_urls }}</p>
-  {% endif %}
 
-  <h2>Products ({{ products|length }})</h2>
+  <h2>Products ({{ total }}) · page {{ page }} of {{ total_pages }}</h2>
 
   <div class="grid">
     {% for p in products %}
@@ -34,5 +31,17 @@
       </article>
     {% endfor %}
   </div>
+
+  {% if total_pages > 1 %}
+    <div style="margin-top: 1.5rem; display: flex; justify-content: center; gap: 0.75rem; align-items: center; font-size: 0.9rem;">
+      {% if page > 1 %}
+        <a href="{{ url_for('category_view', category_name=category_name, page=page-1) }}">&larr; Previous</a>
+      {% endif %}
+      <span>Page {{ page }} of {{ total_pages }}</span>
+      {% if page < total_pages %}
+        <a href="{{ url_for('category_view', category_name=category_name, page=page+1) }}">Next &rarr;</a>
+      {% endif %}
+    </div>
+  {% endif %}
 {% endblock %}
 
