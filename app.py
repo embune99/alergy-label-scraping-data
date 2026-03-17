@@ -1,8 +1,9 @@
 import json
 import os
+from functools import wraps
 from pathlib import Path
 
-from flask import Flask, render_template, abort, request
+from flask import Flask, render_template, abort, request, redirect, url_for, session
 
 
 BASE_DIR = Path(__file__).resolve().parent
@@ -10,6 +11,21 @@ PRODUCTS_DIR = BASE_DIR / "products"
 
 
 app = Flask(__name__)
+app.secret_key = os.environ.get("FLASK_SECRET_KEY", "dev-secret-change-me")
+
+
+USERNAME = "admin"
+PASSWORD = "Aa@123456"
+
+
+def login_required(view_func):
+    @wraps(view_func)
+    def wrapped(*args, **kwargs):
+        if not session.get("logged_in"):
+            return redirect(url_for("login", next=request.path))
+        return view_func(*args, **kwargs)
+
+    return wrapped
 
 
 def iter_category_dirs():
@@ -70,6 +86,7 @@ def load_all_products_for_category(category_dir: Path):
 
 
 @app.route("/")
+@login_required
 def index():
     categories = []
     for category_dir in iter_category_dirs():
@@ -87,12 +104,18 @@ def index():
 
 
 @app.route("/category/<category_name>/")
+@login_required
 def category_view(category_name):
     category_dir = PRODUCTS_DIR / category_name
     if not category_dir.exists() or not category_dir.is_dir():
         abort(404)
     meta = load_category_meta(category_dir)
     products = load_all_products_for_category(category_dir)
+
+    # view type: "cards" (default) or "table"
+    view_type = request.args.get("view", "cards")
+    if view_type not in {"cards", "table"}:
+        view_type = "cards"
 
     # simple pagination: 20 items per page
     per_page = 20
@@ -119,10 +142,12 @@ def category_view(category_name):
         per_page=per_page,
         total=total,
         total_pages=total_pages,
+        view_type=view_type,
     )
 
 
 @app.route("/product/<category_name>/<product_id>/")
+@login_required
 def product_view(category_name, product_id):
     category_dir = PRODUCTS_DIR / category_name
     if not category_dir.exists() or not category_dir.is_dir():
@@ -144,6 +169,28 @@ def product_view(category_name, product_id):
         inferred_info=inferred_info,
         additional_info=additional_info,
     )
+
+
+@app.route("/login", methods=["GET", "POST"])
+def login():
+    error = None
+    if request.method == "POST":
+        username = request.form.get("username", "")
+        password = request.form.get("password", "")
+        if username == USERNAME and password == PASSWORD:
+            session["logged_in"] = True
+            session["username"] = username
+            next_url = request.args.get("next") or url_for("index")
+            return redirect(next_url)
+        error = "Invalid username or password."
+
+    return render_template("login.html", error=error)
+
+
+@app.route("/logout")
+def logout():
+    session.clear()
+    return redirect(url_for("login"))
 
 
 if __name__ == "__main__":

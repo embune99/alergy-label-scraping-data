@@ -14,32 +14,74 @@
 
   <h2>Products ({{ total }}) · page {{ page }} of {{ total_pages }}</h2>
 
-  <div class="grid">
-    {% for p in products %}
-      <article class="card">
-        {% if p.image %}
-          <img class="product-thumb" src="{{ p.image }}" alt="{{ p.name }}">
-        {% endif %}
-        <h3>{{ p.name or p.id }}</h3>
-        {% if p.price %}
-          <p><strong>{{ p.price }}</strong></p>
-        {% endif %}
-        {% if p.product_category %}
-          <p>{{ p.product_category }}</p>
-        {% endif %}
-        <a href="{{ url_for('product_view', category_name=p.category, product_id=p.id) }}">View details →</a>
-      </article>
-    {% endfor %}
+  <div style="margin: 0.75rem 0 1rem; display:flex; justify-content:flex-end; gap:0.5rem; font-size:0.85rem; align-items:center;">
+    {% set is_cards = (view_type == 'cards') %}
+    <span style="padding:0.2rem 0;">View as:</span>
+    <a href="{{ url_for('category_view', category_name=category_name, page=page, view='cards') }}"
+       style="padding:0.2rem 0.6rem; border-radius:999px; border:1px solid {{ 'transparent' if is_cards else '#d1d5db' }}; background: {{ '#111827' if is_cards else '#f9fafb' }}; color: {{ '#f9fafb' if is_cards else '#374151' }}; text-decoration:none;">
+      Cards
+    </a>
+    <a href="{{ url_for('category_view', category_name=category_name, page=page, view='table') }}"
+       style="padding:0.2rem 0.6rem; border-radius:999px; border:1px solid {{ '#d1d5db' if is_cards else 'transparent' }}; background: {{ '#f9fafb' if is_cards else '#111827' }}; color: {{ '#374151' if is_cards else '#f9fafb' }}; text-decoration:none;">
+      Table
+    </a>
   </div>
+
+  {% if view_type == 'table' %}
+    <div style="overflow-x:auto;">
+      <table style="width:100%; border-collapse:collapse; background:#ffffff; border-radius:0.75rem; overflow:hidden; font-size:0.9rem;">
+        <thead style="background:#f3f4f6;">
+          <tr>
+            <th style="text-align:left; padding:0.5rem 0.75rem; border-bottom:1px solid #e5e7eb;">ID</th>
+            <th style="text-align:left; padding:0.5rem 0.75rem; border-bottom:1px solid #e5e7eb;">Name</th>
+            <th style="text-align:left; padding:0.5rem 0.75rem; border-bottom:1px solid #e5e7eb;">Category</th>
+            <th style="text-align:left; padding:0.5rem 0.75rem; border-bottom:1px solid #e5e7eb;">Price</th>
+            <th style="text-align:left; padding:0.5rem 0.75rem; border-bottom:1px solid #e5e7eb;">Actions</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for p in products %}
+            <tr style="border-bottom:1px solid #e5e7eb;">
+              <td style="padding:0.5rem 0.75rem; white-space:nowrap;">{{ p.id }}</td>
+              <td style="padding:0.5rem 0.75rem;">{{ p.name or '—' }}</td>
+              <td style="padding:0.5rem 0.75rem;">{{ p.product_category or '—' }}</td>
+              <td style="padding:0.5rem 0.75rem; white-space:nowrap;">{{ p.price or '—' }}</td>
+              <td style="padding:0.5rem 0.75rem; white-space:nowrap;">
+                <a href="{{ url_for('product_view', category_name=p.category, product_id=p.id) }}">View details →</a>
+              </td>
+            </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  {% else %}
+    <div class="grid">
+      {% for p in products %}
+        <article class="card">
+          {% if p.image %}
+            <img class="product-thumb" src="{{ p.image }}" alt="{{ p.name }}">
+          {% endif %}
+          <h3>{{ p.name or p.id }}</h3>
+          {% if p.price %}
+            <p><strong>{{ p.price }}</strong></p>
+          {% endif %}
+          {% if p.product_category %}
+            <p>{{ p.product_category }}</p>
+          {% endif %}
+          <a href="{{ url_for('product_view', category_name=p.category, product_id=p.id) }}">View details →</a>
+        </article>
+      {% endfor %}
+    </div>
+  {% endif %}
 
   {% if total_pages > 1 %}
     <div style="margin-top: 1.5rem; display: flex; justify-content: center; gap: 0.75rem; align-items: center; font-size: 0.9rem;">
       {% if page > 1 %}
-        <a href="{{ url_for('category_view', category_name=category_name, page=page-1) }}">&larr; Previous</a>
+        <a href="{{ url_for('category_view', category_name=category_name, page=page-1, view=view_type) }}">&larr; Previous</a>
       {% endif %}
       <span>Page {{ page }} of {{ total_pages }}</span>
       {% if page < total_pages %}
-        <a href="{{ url_for('category_view', category_name=category_name, page=page+1) }}">Next &rarr;</a>
+        <a href="{{ url_for('category_view', category_name=category_name, page=page+1, view=view_type) }}">Next &rarr;</a>
       {% endif %}
     </div>
   {% endif %}
