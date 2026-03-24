@@ -112,10 +112,10 @@ def category_view(category_name):
     meta = load_category_meta(category_dir)
     products = load_all_products_for_category(category_dir)
 
-    # view type: "cards" (default) or "table"
-    view_type = request.args.get("view", "cards")
+    # view type: "table" (default) or "cards"
+    view_type = request.args.get("view", "table")
     if view_type not in {"cards", "table"}:
-        view_type = "cards"
+        view_type = "table"
 
     # simple pagination: 20 items per page
     per_page = 20

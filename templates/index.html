@@ -3,20 +3,28 @@
 {% block title %}Categories - Etos products{% endblock %}
 
 {% block content %}
-  <h1>Product categories</h1>
-  <p>Select a category to browse its products.</p>
+  <section class="hero-section">
+    <h1>Product Categories</h1>
+    <p>Browse and explore products from Etos</p>
+  </section>
 
-  <div class="grid" style="margin-top: 1rem;">
+  <div class="grid">
     {% for cat in categories %}
       <article class="card">
+        <!-- <div class="card-icon">📁</div> -->
         <h2>{{ cat.name }}</h2>
-        {% if cat.category_url %}
-          <p><span class="badge">Etos URL</span> <a href="{{ cat.category_url }}" target="_blank" rel="noreferrer">{{ cat.category_url }}</a></p>
-        {% endif %}
         {% if cat.product_count %}
-          <p>Total products: {{ cat.product_count }}</p>
+          <div class="stats-badge">
+            <span>📦</span>
+            <span>{{ cat.product_count }} products</span>
+          </div>
         {% endif %}
-        <a href="{{ url_for('category_view', category_name=cat.name) }}">View products →</a>
+        {% if cat.category_url %}
+          <div class="url-wrapper">
+            <a href="{{ cat.category_url }}" target="_blank" rel="noreferrer" class="url-link" title="{{ cat.category_url }}">{{ cat.category_url }}</a>
+          </div>
+        {% endif %}
+        <a href="{{ url_for('category_view', category_name=cat.name) }}">Browse products →</a>
       </article>
     {% endfor %}
   </div>
