@@ -15,7 +15,7 @@ app.secret_key = os.environ.get("FLASK_SECRET_KEY", "dev-secret-change-me")
 
 
 USERNAME = "admin"
-PASSWORD = "Aa@123456"
+PASSWORD = "allergy@8386"
 
 
 def login_required(view_func):
