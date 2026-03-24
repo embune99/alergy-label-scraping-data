@@ -1,4 +1,5 @@
 import json
+import re
 import sys
 import time
 from pathlib import Path
@@ -131,17 +132,23 @@ def extract_raw_ingredients(soup: BeautifulSoup) -> Optional[str]:
         return None
 
     block = rich_text_blocks[1]
+    # Check if the block contains "Ingredients" (case-insensitive)
+    if "ingredients" not in block.get_text().lower():
+        return None
+
     # Mimic `.lastChild` behaviour: take last child node of this block
     if not block.contents:
         return None
 
-    last_child = block.contents[-1]
-    text = getattr(last_child, "get_text", lambda **_: str(last_child))(
-        strip=True
-    )
+    text = block.get_text()
     # Strip surrounding quotes if present
-    cleaned = text.strip().strip('"').strip()
-    return cleaned or None
+    match = re.search(r"ingredients\s*:?\s*(.*)", text, re.IGNORECASE)
+
+    if match:
+        ingredients_raw = match.group(1).strip()
+        cleaned = ingredients_raw.strip().strip('"').strip()
+        return cleaned or None
+    return None
 
 
 def extract_product_type(soup: BeautifulSoup) -> Optional[str]:
