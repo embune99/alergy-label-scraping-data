@@ -1,19 +1,18 @@
 #!/usr/bin/env python3
 """
-Extract ingredients from product JSON files and append to ingredients.txt
+Extract ingredients from product JSON files and add ingredients array field
 """
 
 import json
 from pathlib import Path
-from typing import Set
+from typing import List
 
 
 PRODUCTS_DIR = Path(__file__).parent / "products"
-INGREDIENTS_FILE = Path(__file__).parent / "ingredients.txt"
 
 
-def extract_ingredients_from_file(filepath: Path) -> Set[str]:
-    """Extract ingredients from a single product JSON file."""
+def extract_ingredients_from_file(filepath: Path) -> List[str]:
+    """Extract ingredients from a single product JSON file and update it with ingredients field."""
     import re
     ingredients = set()
 
@@ -22,6 +21,10 @@ def extract_ingredients_from_file(filepath: Path) -> Set[str]:
             data = json.load(f)
 
         raw = data.get("inferred_information", {}).get("raw_ingredients")
+
+        # Initialize inferred_information if it doesn't exist
+        if "inferred_information" not in data:
+            data["inferred_information"] = {}
         if raw:
             # # Some files have prefix like "CREAM: AQUA / WATER • ..." or "1278120 H - COLOURING CREAM: ..."
             # # Extract the part after the last colon if present and it looks like ingredients
@@ -61,6 +64,15 @@ def extract_ingredients_from_file(filepath: Path) -> Set[str]:
             # Dùng dict.fromkeys() là thủ thuật Pythonic để lọc trùng mà VẪN GIỮ NGUYÊN THỨ TỰ ban đầu.
             ingredients = list(dict.fromkeys(results))
 
+            # Add ingredients field to the JSON
+            data["inferred_information"]["ingredients"] = ingredients
+
+            # Write back to the file
+            with open(filepath, "w", encoding="utf-8") as f:
+                json.dump(data, f, ensure_ascii=False, indent=2)
+
+            print(f"Updated {filepath.name} with {len(ingredients)} ingredients")
+
     except (json.JSONDecodeError, IOError) as e:
         print(f"Error reading {filepath}: {e}")
 
@@ -72,21 +84,14 @@ def main():
     json_files = list(PRODUCTS_DIR.rglob("*.json"))
     print(f"Found {len(json_files)} product JSON files")
 
-    all_ingredients = set()
+    all_ingredients = []
 
-    # Extract ingredients from each file
+    # Extract ingredients from each file and update with ingredients field
     for filepath in json_files:
         ingredients = extract_ingredients_from_file(filepath)
-        all_ingredients.update(ingredients)
+        all_ingredients.extend(ingredients)
 
-    print(f"Extracted {len(all_ingredients)} unique ingredients")
-
-    # Append to ingredients.txt (one per line)
-    with open(INGREDIENTS_FILE, "w", encoding="utf-8") as f:
-        for ingredient in sorted(all_ingredients):
-            f.write(ingredient + "\n")
-
-    print(f"Saved to {INGREDIENTS_FILE}")
+    print(f"\nExtracted {len(all_ingredients)} unique ingredients across all files")
 
 
 if __name__ == "__main__":
