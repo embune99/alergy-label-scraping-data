@@ -258,6 +258,13 @@ def extract_product_data(url: str) -> Dict[str, Any]:
     legal_grade = extract_legal_grade(soup)
     sku = extract_sku(soup, url)
 
+    # Check if need manual ingredient verification
+    need_check_ingredient = False
+    if raw_ingredients is None:
+        # Check if "ingredient" exists anywhere in the page
+        page_text = soup.get_text().lower()
+        need_check_ingredient = "ingredient" in page_text
+
     parsed = urlparse(url)
     website = parsed.netloc
 
@@ -275,6 +282,7 @@ def extract_product_data(url: str) -> Dict[str, Any]:
             "product_type": product_type,
             "product_category": product_category,
             "legal_grade": legal_grade,
+            "need_check_ingredient": need_check_ingredient,
         },
         "additional_information": {
             "id": sku,

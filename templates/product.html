@@ -15,7 +15,66 @@
     <div style="flex: 0 0 260px; max-width: 100%;">
       {% set images = product_info.images or [] %}
       {% if images %}
-        <img class="product-thumb" src="{{ images[0] }}" alt="{{ product_info.product_name or product_id }}">
+        <div class="carousel" style="position: relative;">
+          <button class="carousel-prev" onclick="changeSlide(-1)">&#10094;</button>
+          <img id="carousel-image" class="product-thumb" src="{{ images[0] }}" alt="{{ product_info.product_name or product_id }}">
+          <button class="carousel-next" onclick="changeSlide(1)">&#10095;</button>
+          {% if images|length > 1 %}
+            <div class="carousel-dots" style="display: flex; justify-content: center; gap: 5px; margin-top: 10px;">
+              {% for i in range(images|length) %}
+                <span class="carousel-dot{% if i == 0 %} active{% endif %}" onclick="goToSlide({{ i }})" style="cursor: pointer; height: 10px; width: 10px; background-color: #bbb; border-radius: 50%; display: inline-block;"></span>
+              {% endfor %}
+            </div>
+          {% endif %}
+        </div>
+        <script>
+          const images = [
+            {% for img in images %}
+              '{{ img }}'{% if not loop.last %},{% endif %}
+            {% endfor %}
+          ];
+          let currentIndex = 0;
+          const carouselImage = document.getElementById('carousel-image');
+          const dots = document.querySelectorAll('.carousel-dot');
+
+          function changeSlide(direction) {
+            currentIndex += direction;
+            if (currentIndex >= images.length) currentIndex = 0;
+            if (currentIndex < 0) currentIndex = images.length - 1;
+            updateCarousel();
+          }
+
+          function goToSlide(index) {
+            currentIndex = index;
+            updateCarousel();
+          }
+
+          function updateCarousel() {
+            carouselImage.src = images[currentIndex];
+            dots.forEach((dot, index) => {
+              dot.style.backgroundColor = index === currentIndex ? '#333' : '#bbb';
+            });
+          }
+        </script>
+        <style>
+          .carousel { position: relative; }
+          .carousel-prev, .carousel-next {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            background-color: rgba(0,0,0,0.5);
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            cursor: pointer;
+            font-size: 18px;
+            z-index: 1;
+          }
+          .carousel-prev { left: 0; }
+          .carousel-next { right: 0; }
+          .carousel-prev:hover, .carousel-next:hover { background-color: rgba(0,0,0,0.8); }
+          .product-thumb { width: 100%; height: auto; }
+        </style>
       {% endif %}
     </div>
     <div style="flex: 1 1 260px; min-width: 0;">
