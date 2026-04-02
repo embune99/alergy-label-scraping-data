@@ -139,11 +139,19 @@
                   {% if inci.metadata.get('note') %}
                     <p style="margin:0.25rem 0;"><strong>Notes:</strong> {{ inci.metadata.note|join(' | ') }}</p>
                   {% endif %}
-                  {% if inci.metadata.get('casNo') %}
-                    <p style="margin:0.25rem 0;"><strong>CAS No:</strong> {{ inci.metadata.casNo|join(', ') }}</p>
+                  {% set cas_no = inci.metadata.get('casNo') %}
+                  {% if cas_no and cas_no is iterable and cas_no|length > 0 %}
+                    {% set cas_display = cas_no|join(', ') %}
+                    {% if cas_display and cas_display != '-' and cas_display.strip() %}
+                      <p style="margin:0.25rem 0;"><strong>CAS No:</strong> {{ cas_display }}</p>
+                    {% endif %}
                   {% endif %}
-                  {% if inci.metadata.get('ecNo') %}
-                    <p style="margin:0.25rem 0;"><strong>EC No:</strong> {{ inci.metadata.ecNo|join(', ') }}</p>
+                  {% set ec_no = inci.metadata.get('ecNo') %}
+                  {% if ec_no and ec_no is iterable and ec_no|length > 0 %}
+                    {% set ec_display = ec_no|join(', ') %}
+                    {% if ec_display and ec_display != '-' and ec_display.strip() %}
+                      <p style="margin:0.25rem 0;"><strong>EC No:</strong> {{ ec_display }}</p>
+                    {% endif %}
                   {% endif %}
                 </div>
               {% endfor %}

@@ -177,10 +177,14 @@ def product_view(category_name, product_id):
                     if inci_file.exists():
                         with inci_file.open(encoding="utf-8") as f:
                             inci = json.load(f)
-                            # Only include entries that have casNo
+                            # Only include entries that have valid casNo (non-empty and not just "-" or empty strings)
                             metadata = inci.get("metadata", {})
-                            if metadata.get("casNo"):
-                                ingredient_inci_map[ingredient_name].append(inci)
+                            cas_no = metadata.get("casNo")
+                            if cas_no and isinstance(cas_no, list):
+                                # Filter out dash-only and empty string values
+                                valid_cas = [c for c in cas_no if c and c.strip() and c.strip() != "-"]
+                                if valid_cas:
+                                    ingredient_inci_map[ingredient_name].append(inci)
         elif isinstance(inci_data, list):
             # Legacy format: [ref_ids] - map by INCI name or common name
             for ref_id in inci_data:
@@ -189,14 +193,17 @@ def product_view(category_name, product_id):
                     with inci_file.open(encoding="utf-8") as f:
                         inci = json.load(f)
                         metadata = inci.get("metadata", {})
-                        # Only include entries that have casNo
-                        if metadata.get("casNo"):
-                            inci_names = (metadata.get("inciName") or []) + (metadata.get("nameOfCommonIngredientsGlossary") or [])
-                            for name in inci_names:
-                                name_lower = name.lower().strip()
-                                if name_lower not in ingredient_inci_map:
-                                    ingredient_inci_map[name_lower] = []
-                                ingredient_inci_map[name_lower].append(inci)
+                        # Only include entries that have valid casNo
+                        cas_no = metadata.get("casNo")
+                        if cas_no and isinstance(cas_no, list):
+                            valid_cas = [c for c in cas_no if c and c.strip() and c.strip() != "-"]
+                            if valid_cas:
+                                inci_names = (metadata.get("inciName") or []) + (metadata.get("nameOfCommonIngredientsGlossary") or [])
+                                for name in inci_names:
+                                    name_lower = name.lower().strip()
+                                    if name_lower not in ingredient_inci_map:
+                                        ingredient_inci_map[name_lower] = []
+                                    ingredient_inci_map[name_lower].append(inci)
 
     return render_template(
         "product.html",
