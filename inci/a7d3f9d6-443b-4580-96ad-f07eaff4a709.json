@@ -1,0 +1,148 @@
+{
+  "apiVersion": "2.145.3",
+  "reference": "a7d3f9d6-443b-4580-96ad-f07eaff4a709",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 7.4673347,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "SODIUM HYDROXYMETHYLGLYCINATE"
+    ],
+    "otherRestrictions": [
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>"
+    ],
+    "note": [],
+    "refNo": [
+      "51"
+    ],
+    "sccsOpinionUrls": [
+      "http://ec.europa.eu/health/ph_risk/committees/sccp/documents/out188_en.pdf",
+      "https://ec.europa.eu/health/sites/default/files/scientific_committees/consumer_safety/docs/sccs_o_254.pdf"
+    ],
+    "innName": [],
+    "other": [
+      "Not to be used if the maximum theoretical concentration of releasable formaldehyde, irrespective of the source, if the mixture as placed on the market is ≥ 0,1 % w/w"
+    ],
+    "itemType": [
+      "substance"
+    ],
+    "es_SortDate": [
+      "2021-11-03T00:00:00.000+0100"
+    ],
+    "chemicalName": [
+      "Sodium N-(hydroxymethyl)glycinate /Sodium hydroxymethylamino acetate"
+    ],
+    "sccsOpinion": [
+      "Opinion on The Determination of certain Formaldehyde Releasers in Cosmetic Products",
+      "SCIENTIFIC ADVICE ON the threshold for the warning ‘contains formaldehyde’ in Annex V, preamble point 2 for formaldehyde-releasing substances"
+    ],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "DF8485AC4E4FD0083E65E2105612AD2A"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [
+      "274-357-8"
+    ],
+    "maximumConcentration": [
+      "0.5%"
+    ],
+    "identifiedIngredient": [
+      "37892",
+      "100283"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "inciName": [
+      "Sodium hydroxymethylamino acetate"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "70161-44-3"
+    ],
+    "substanceId": [
+      "28798"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "annexNo": [
+      "V"
+    ],
+    "productTypeBodyParts": [],
+    "publicationDate": [
+      "2021-11-03T00:00:00.000+0100"
+    ],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [],
+    "esDA_IngestDate": [
+      "2023-05-10T16:09:13.617+0200"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "corporate-search-version": [
+      "102"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-05-10T16:09:13.583+0200"
+    ],
+    "refNo_digit": [
+      "51"
+    ],
+    "colour": [],
+    "datasource": [
+      "GROWTH_COSING"
+    ],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [
+      "(EU) 2021/1902"
+    ],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": []
+}

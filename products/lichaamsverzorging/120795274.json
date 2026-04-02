@@ -24,27 +24,31 @@
       "Aqua",
       "Sodium Laureth Sulfate,"
     ],
-    "inci": [
-      "95d201d5-eef8-4b4a-9405-8ace8e6eb88c",
-      "fda7f0e0-8166-4615-827b-24e0655862bb",
-      "f3176b91-2a20-4ce6-b44a-85df660a618d",
-      "56891eee-e7e0-4df4-a41f-43fddb50858c",
-      "b95411b0-fb54-4a85-9901-f92524503f2d",
-      "b09620f6-03ec-4e98-9566-79b564d13377",
-      "03f72bea-b998-4741-942d-4eb90ea2e5c2",
-      "8c333827-b448-4d69-a0a9-ecdc8ba57476",
-      "369ef52d-c775-4087-bad5-be3c9b262684",
-      "b2661101-50d0-47fe-84c0-33a71b2ea3dc",
-      "f20f15b7-c291-495a-862f-5b28364a4b7c",
-      "a9d7ccc5-066f-49da-85ef-5eec1217a478",
-      "f47fb937-5e85-47be-a122-3522901eb942",
-      "40d4b7cd-48f5-4b51-9cc4-c7e1eb6b2aeb",
-      "bf9565d8-8238-4bb2-a23b-e70ff2ab63e4",
-      "88aced55-d191-43a7-85f5-41872fb14e85",
-      "ce1a0029-bfe4-4560-ac93-bc13dedb9c22",
-      "4b61abee-bcae-4f0f-8a16-66dae28df593",
-      "acb2fd0b-1174-4f52-8481-759e0f6a9471"
-    ]
+    "inci": {
+      "aqua": [
+        "acb2fd0b-1174-4f52-8481-759e0f6a9471",
+        "03f72bea-b998-4741-942d-4eb90ea2e5c2",
+        "a9d7ccc5-066f-49da-85ef-5eec1217a478",
+        "b95411b0-fb54-4a85-9901-f92524503f2d",
+        "88aced55-d191-43a7-85f5-41872fb14e85",
+        "95d201d5-eef8-4b4a-9405-8ace8e6eb88c",
+        "bf9565d8-8238-4bb2-a23b-e70ff2ab63e4",
+        "f20f15b7-c291-495a-862f-5b28364a4b7c",
+        "56891eee-e7e0-4df4-a41f-43fddb50858c",
+        "f3176b91-2a20-4ce6-b44a-85df660a618d",
+        "f47fb937-5e85-47be-a122-3522901eb942",
+        "8c333827-b448-4d69-a0a9-ecdc8ba57476"
+      ],
+      "sodium laureth sulfate,": [
+        "b2661101-50d0-47fe-84c0-33a71b2ea3dc",
+        "40d4b7cd-48f5-4b51-9cc4-c7e1eb6b2aeb",
+        "4b61abee-bcae-4f0f-8a16-66dae28df593",
+        "ce1a0029-bfe4-4560-ac93-bc13dedb9c22",
+        "fda7f0e0-8166-4615-827b-24e0655862bb",
+        "369ef52d-c775-4087-bad5-be3c9b262684",
+        "b09620f6-03ec-4e98-9566-79b564d13377"
+      ]
+    }
   },
   "additional_information": {
     "id": "120795274"

@@ -55,27 +55,25 @@ def process_product(product_path: Path, inci_data: dict, save_interval=100):
     inferred = product.get("inferred_information", {})
     if not isinstance(inferred, dict):
         return False
-        
+
     ingredients = inferred.get("ingredients", [])
     if not ingredients or not isinstance(ingredients, list):
         return False
 
-    inci_references = set()
-    inferred_inci = inferred.get("inci", [])
-    if isinstance(inferred_inci, list):
-        inci_references.update(inferred_inci)
-    elif isinstance(inferred_inci, str):
-        inci_references.add(inferred_inci)
-    
+    # Initialize object to map ingredient -> array of references
+    inci_by_ingredient = inferred.get("inci", {})
+    if not isinstance(inci_by_ingredient, dict):
+        inci_by_ingredient = {}
+
     updated_product = False
     inci_data_updated = False
-    
+
     for ingredient in ingredients:
         if not ingredient or not isinstance(ingredient, str):
             continue
-            
+
         search_term = ingredient.lower().replace('\n', ' ').strip()
-        
+
         # Check if the search term is already in the cache (inci_data)
         if search_term in inci_data:
             # Get from local cache
@@ -87,33 +85,37 @@ def process_product(product_path: Path, inci_data: dict, save_interval=100):
             try:
                 # fetch the first page from API
                 api_result = scrape_inci.fetch_page(search_term, 1)
-                
+
                 # We save the 'results' array which has the items with their 'reference'
                 api_items = api_result.get("results", []) if api_result else []
-                
+
                 # Save to cache regardless of whether it's empty or full
                 inci_data[search_term] = api_items
                 inci_data_updated = True
-                
+
                 logging.info(f"  -> API found {len(api_items)} items for '{search_term}'")
                 time.sleep(0.5) # simple rate limit to be polite
-                
+
             except Exception as e:
                 logging.error(f"Failed to fetch from API for '{search_term}': {e}")
                 api_items = []
-        
-        # Process references from the cached items
-        added_new_refs = False
-        for item in api_items:
-            ref = item.get("reference")
-            if ref and ref not in inci_references:
-                inci_references.add(ref)
-                updated_product = True
-                added_new_refs = True
-            
-    # Update the product if any new references were added, or if 'inci' key is missing
-    if updated_product or "inci" not in inferred:
-        inferred["inci"] = list(inci_references)
+
+        # Extract references from the cached items
+        refs = [item.get("reference") for item in api_items if item.get("reference")]
+
+        # Only update if we have references and they're different from existing
+        existing_refs = set(inci_by_ingredient.get(search_term, []))
+        new_refs = [ref for ref in refs if ref not in existing_refs]
+
+        if new_refs:
+            # Merge existing refs with new refs
+            inci_by_ingredient[search_term] = list(existing_refs) + new_refs
+            updated_product = True
+            logging.info(f"  -> Added {len(new_refs)} new refs for '{search_term}'")
+
+    # Update the product if any new references were added, or if 'inci' key is missing/not a dict
+    if updated_product or not isinstance(inferred.get("inci"), dict):
+        inferred["inci"] = inci_by_ingredient
         product["inferred_information"] = inferred
         with open(product_path, 'w', encoding='utf-8') as f:
             json.dump(product, f, ensure_ascii=False, indent=2)

@@ -1,0 +1,127 @@
+{
+  "apiVersion": "2.145.3",
+  "reference": "f7a1566e-9772-4b54-bf94-bda126e3226d",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 21.770638,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "ARACHIS HYPOGAEA OIL"
+    ],
+    "refNo": [],
+    "otherRestrictions": [],
+    "note": [],
+    "sccsOpinionUrls": [
+      "https://ec.europa.eu/health/scientific_committees/consumer_safety/docs/sccs_o_155.pdf"
+    ],
+    "itemType": [
+      "ingredient"
+    ],
+    "other": [],
+    "innName": [
+      "peanut oil"
+    ],
+    "chemicalName": [],
+    "sccsOpinion": [
+      "Opinion on peanut oil (sensitisation only)"
+    ],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "Arachis Hypogaea Oil is the refined fixed oil obtained from the seed kernels of one or more of the cultivated varieties of Arachis hypogaea."
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "4D2F5975185B34C30B9D1330F8847043"
+    ],
+    "cosmeticRestriction": [
+      "III/306"
+    ],
+    "ecNo": [
+      "232-296-4"
+    ],
+    "maximumConcentration": [],
+    "identifiedIngredient": [],
+    "inciName": [
+      "ARACHIS HYPOGAEA OIL"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "8002-03-7"
+    ],
+    "substanceId": [
+      "31969"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "REFERENCE": [
+      "f7a1566e-9772-4b54-bf94-bda126e3226d"
+    ],
+    "productTypeBodyParts": [],
+    "annexNo": [],
+    "phEurName": [
+      "arachidis oleum"
+    ],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "SKIN CONDITIONING - OCCLUSIVE"
+    ],
+    "esDA_IngestDate": [
+      "2024-08-19T12:11:31.284+0200"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2024-08-19T12:11:31.179+0200"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "wordingOfConditions": [],
+    "inciUsaName": [
+      "ARACHIS HYPOGAEA (PEANUT) OIL"
+    ],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": []
+}

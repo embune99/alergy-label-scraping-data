@@ -28,43 +28,63 @@
       "EVERNIA FURFURACEA (TREEMOSS) EXTRACT",
       "CITRONELLOL."
     ],
-    "inci": [
-      "28b7fead-5688-494a-bcff-4fc7a02bb56a",
-      "a209d30f-e08c-4245-b4a8-a1812d41feef",
-      "77a285e7-0ed1-4d6d-b7da-085fb19efa3b",
-      "1895f4f7-b41e-4152-a94a-0c4afbcfbebb",
-      "cc21873c-a0ea-43d6-9dc2-d7f2ea7e43f6",
-      "dfe28bfe-bd94-4e13-9f73-24aba98e5505",
-      "cd6777a5-cf1e-48a5-9a4e-6579e7245e32",
-      "de997fcd-2a6f-4b53-8b67-22b28c8a59c7",
-      "cfcdbaea-0fbc-4c60-9c38-021736c36bb5",
-      "1869042b-c968-4a64-bdf8-4ffdf6e0cac9",
-      "0dc4ed58-7d3b-4143-a03f-a9d1dccdabc9",
-      "44db1d25-80d2-4300-82b8-6ab367e2fbce",
-      "77e8e7bb-b62d-4fd8-a213-f709399099f2",
-      "72782978-6211-443a-8cc5-f91069ce883a",
-      "29d4f600-b472-4e2f-8b48-db00cef00849",
-      "45117ff6-f91e-4af1-b8a8-9353f1c72d2c",
-      "ccd1c9bf-9835-4c02-bb80-d3791d4f6690",
-      "dd349f06-f0ce-41df-b270-ca56be133fb2",
-      "ba477a38-110c-403e-840d-c91597e537ab",
-      "549b54f7-7b81-45cc-8e9a-c32bff9ec2ed",
-      "0fa45e0d-18c7-4d3d-907f-1a580c169fe6",
-      "77758167-316e-48cd-9098-d46c980c897d",
-      "a9d7ccc5-066f-49da-85ef-5eec1217a478",
-      "b6b4c602-e44e-4ab7-8ebb-062c6bcb95b1",
-      "f47fb937-5e85-47be-a122-3522901eb942",
-      "6ae0a396-6e2c-4074-b6b0-83030c18e895",
-      "beb72c34-bce7-480f-a1c6-db5594e43c65",
-      "8159b3b3-c146-4977-b716-08285c972958",
-      "88aced55-d191-43a7-85f5-41872fb14e85",
-      "bf9565d8-8238-4bb2-a23b-e70ff2ab63e4",
-      "80ec36af-1b6b-4e04-b52f-e8975f05801f",
-      "b082823f-ea80-456f-a115-f802290e96ff",
-      "ffa1a140-f081-419a-85b3-5460e0d7ba39",
-      "acb2fd0b-1174-4f52-8481-759e0f6a9471",
-      "ebdb8cd5-9a2a-446d-b207-9c6ea3bb4e2b"
-    ]
+    "inci": {
+      "aqua (water)": [
+        "acb2fd0b-1174-4f52-8481-759e0f6a9471",
+        "a9d7ccc5-066f-49da-85ef-5eec1217a478",
+        "88aced55-d191-43a7-85f5-41872fb14e85",
+        "bf9565d8-8238-4bb2-a23b-e70ff2ab63e4",
+        "f47fb937-5e85-47be-a122-3522901eb942"
+      ],
+      "ethylhexyl methoxycinnamate": [
+        "beb72c34-bce7-480f-a1c6-db5594e43c65",
+        "1895f4f7-b41e-4152-a94a-0c4afbcfbebb",
+        "b082823f-ea80-456f-a115-f802290e96ff"
+      ],
+      "hexyl cinnamal": [
+        "dfe28bfe-bd94-4e13-9f73-24aba98e5505"
+      ],
+      "isoeugenol": [
+        "cd6777a5-cf1e-48a5-9a4e-6579e7245e32",
+        "28b7fead-5688-494a-bcff-4fc7a02bb56a",
+        "549b54f7-7b81-45cc-8e9a-c32bff9ec2ed",
+        "44db1d25-80d2-4300-82b8-6ab367e2fbce"
+      ],
+      "geraniol citral": [
+        "a209d30f-e08c-4245-b4a8-a1812d41feef",
+        "ebdb8cd5-9a2a-446d-b207-9c6ea3bb4e2b"
+      ],
+      "eugenol": [
+        "dd349f06-f0ce-41df-b270-ca56be133fb2",
+        "8159b3b3-c146-4977-b716-08285c972958",
+        "0fa45e0d-18c7-4d3d-907f-1a580c169fe6",
+        "de997fcd-2a6f-4b53-8b67-22b28c8a59c7",
+        "cfcdbaea-0fbc-4c60-9c38-021736c36bb5",
+        "6ae0a396-6e2c-4074-b6b0-83030c18e895",
+        "80ec36af-1b6b-4e04-b52f-e8975f05801f"
+      ],
+      "evernia furfuracea extract": [
+        "45117ff6-f91e-4af1-b8a8-9353f1c72d2c",
+        "72782978-6211-443a-8cc5-f91069ce883a"
+      ],
+      "evernia furfuracea (treemoss) extract": [
+        "45117ff6-f91e-4af1-b8a8-9353f1c72d2c",
+        "72782978-6211-443a-8cc5-f91069ce883a"
+      ],
+      "citronellol.": [
+        "0dc4ed58-7d3b-4143-a03f-a9d1dccdabc9",
+        "77758167-316e-48cd-9098-d46c980c897d",
+        "ba477a38-110c-403e-840d-c91597e537ab",
+        "29d4f600-b472-4e2f-8b48-db00cef00849",
+        "cc21873c-a0ea-43d6-9dc2-d7f2ea7e43f6",
+        "1869042b-c968-4a64-bdf8-4ffdf6e0cac9",
+        "b6b4c602-e44e-4ab7-8ebb-062c6bcb95b1",
+        "ffa1a140-f081-419a-85b3-5460e0d7ba39",
+        "ccd1c9bf-9835-4c02-bb80-d3791d4f6690",
+        "77e8e7bb-b62d-4fd8-a213-f709399099f2",
+        "77a285e7-0ed1-4d6d-b7da-085fb19efa3b"
+      ]
+    }
   },
   "additional_information": {
     "id": "120122811"

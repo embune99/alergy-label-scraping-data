@@ -1,0 +1,107 @@
+{
+  "apiVersion": "2.145.3",
+  "reference": "58e471e0-48ed-4aab-8c1e-1d498c170c77",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 6.651001,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "r-(s-HIV-1 Oligopeptide-5 rh-Oligopeptide-98 Oligopeptide-205 rh-Oligopeptide-109 rh-Oligopeptide-100 Tripeptide-89 rh-Oligopeptide-101)"
+    ],
+    "refNo": [],
+    "otherRestrictions": [],
+    "note": [],
+    "sccsOpinionUrls": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "other": [],
+    "innName": [],
+    "chemicalName": [],
+    "sccsOpinion": [],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "r-(s-HIV-1 Oligopeptide-5 rh-Oligopeptide-98 Oligopeptide-205 rh-Oligopeptide-109 rh-Oligopeptide-100 Tripeptide-89 rh-Oligopeptide-101) is a single chain fusion peptide, produced by fermentation in E. coli. The starting gene is synthesized by the fusion of the genes encoding for s-HIV-1 Oligopeptide-5 SP, rh-Oligopeptide-98, Oligopeptide-205, rh-Oligopeptide-109, rh-Oligopeptide-100, Tripeptide-89 and rh-Oligopeptide-101. The fusion peptide contains 263 amino acids which may contain disulfide bonds and/or glycosylation, and consists of the proper sequence of the 20 standard amino acids."
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "187e881f-3f3d-4c64-872c-0a373b149474"
+    ],
+    "cosmeticRestriction": [
+      "II/416"
+    ],
+    "ecNo": [],
+    "maximumConcentration": [],
+    "identifiedIngredient": [],
+    "inciName": [
+      "R-(S-HIV-1 OLIGOPEPTIDE-5 RH-OLIGOPEPTIDE-98 OLIGOPEPTIDE-205 RH-OLIGOPEPTIDE-109 RH-OLIGOPEPTIDE-100 TRIPEPTIDE-89 RH-OLIGOPEPTIDE-101)"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [],
+    "substanceId": [
+      "104221"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "productTypeBodyParts": [],
+    "annexNo": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "SKIN CONDITIONING - EMOLLIENT",
+      "SKIN PROTECTING"
+    ],
+    "esDA_IngestDate": [
+      "2023-12-14T09:48:17.642+0100"
+    ],
+    "currentVersion": [],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-12-14T09:48:17.525+0100"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": []
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": []
+}

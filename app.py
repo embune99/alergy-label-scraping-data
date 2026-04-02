@@ -8,6 +8,7 @@ from flask import Flask, render_template, abort, request, redirect, url_for, ses
 
 BASE_DIR = Path(__file__).resolve().parent
 PRODUCTS_DIR = BASE_DIR / "products"
+INCI_DIR = BASE_DIR / "inci"
 
 
 app = Flask(__name__)
@@ -161,6 +162,42 @@ def product_view(category_name, product_id):
     inferred_info = data.get("inferred_information", {})
     additional_info = data.get("additional_information", {})
 
+    # Load INCI data from reference IDs and map to ingredients
+    ingredient_inci_map = {}
+    if inferred_info.get("inci"):
+        inci_data = inferred_info["inci"]
+        if isinstance(inci_data, dict):
+            # New format: {ingredient_name: [ref_ids]}
+            for ingredient_name, ref_ids in inci_data.items():
+                if not isinstance(ref_ids, list):
+                    continue
+                ingredient_inci_map[ingredient_name] = []
+                for ref_id in ref_ids:
+                    inci_file = INCI_DIR / f"{ref_id}.json"
+                    if inci_file.exists():
+                        with inci_file.open(encoding="utf-8") as f:
+                            inci = json.load(f)
+                            # Only include entries that have casNo
+                            metadata = inci.get("metadata", {})
+                            if metadata.get("casNo"):
+                                ingredient_inci_map[ingredient_name].append(inci)
+        elif isinstance(inci_data, list):
+            # Legacy format: [ref_ids] - map by INCI name or common name
+            for ref_id in inci_data:
+                inci_file = INCI_DIR / f"{ref_id}.json"
+                if inci_file.exists():
+                    with inci_file.open(encoding="utf-8") as f:
+                        inci = json.load(f)
+                        metadata = inci.get("metadata", {})
+                        # Only include entries that have casNo
+                        if metadata.get("casNo"):
+                            inci_names = (metadata.get("inciName") or []) + (metadata.get("nameOfCommonIngredientsGlossary") or [])
+                            for name in inci_names:
+                                name_lower = name.lower().strip()
+                                if name_lower not in ingredient_inci_map:
+                                    ingredient_inci_map[name_lower] = []
+                                ingredient_inci_map[name_lower].append(inci)
+
     return render_template(
         "product.html",
         category_name=category_name,
@@ -168,6 +205,7 @@ def product_view(category_name, product_id):
         product_info=product_info,
         inferred_info=inferred_info,
         additional_info=additional_info,
+        ingredient_inci_map=ingredient_inci_map,
     )
 
 

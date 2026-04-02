@@ -23,39 +23,49 @@
       "Panthenol",
       "Red 7 (CI 15850)."
     ],
-    "inci": [
-      "299d7c1b-0d33-4121-b0c7-3394b65c41ce",
-      "eb980407-930e-424f-9091-3879c2e5ecfc",
-      "e43e9c7e-530c-44c3-af6a-a162338ef91b",
-      "febc5fb6-f775-402d-8e13-e08ed0a9f16a",
-      "0a8eb996-e85f-4f68-ab8c-c918a17a2068",
-      "ba0f16c8-434e-4075-bb1a-643aa7efad45",
-      "68f43a6a-63d3-4893-bd11-ddf05d1d1428",
-      "dae58323-b8ab-4d71-a0fb-2c610738f58b",
-      "31933de9-8f3e-470c-9744-6491f3497b83",
-      "44c28ff8-3740-444e-b642-e0bdb305d023",
-      "352d78b1-7087-4198-bc6d-bbb00d2f9b97",
-      "b7d7e892-c53d-4bad-89d6-81185529ec3b",
-      "e342caa4-feb8-4dc2-af5a-fcc144dbc2ad",
-      "668f1319-66e2-4b67-a27a-5ed3cd5099c0",
-      "d9cc16cc-9b12-4305-94af-2876133604c3",
-      "4828cb81-0b05-4ba3-8a46-771c5494a2ea",
-      "b0e2ebbd-0d1b-4a21-9eac-4bdd483526f2",
-      "e353a1e9-9330-4c22-bf1a-f58ac6d356a9",
-      "471234b3-ba01-48ae-a37e-7868f8959211",
-      "37ec316d-e273-493f-b1bf-220544e9eaa5",
-      "d4f863e5-3a9b-4b81-9516-be777fb2806e",
-      "a608b5ca-65f9-451d-977c-441fdd3582d9",
-      "a4ad8d2c-9b8f-4138-824f-e29b6ef09361",
-      "c71868c2-5111-4dde-ba34-b26a8eddd7e1",
-      "3b942130-8595-4391-a215-6a35f4317c84",
-      "7e8579f5-6568-47a6-b164-98a195149713",
-      "8bd07fd2-c550-4ac8-a955-65957ebef28b",
-      "c3d456a3-7bde-42d1-b7c2-4f5e02697980",
-      "02b5654c-8fdf-44f4-a178-8f505b61ef9d",
-      "4f06768f-c5c3-46ee-884e-f296ecca24f5",
-      "886347a6-7c3f-44ab-a5b9-7e249701c871"
-    ]
+    "inci": {
+      "polymethyl methacrylate": [
+        "37ec316d-e273-493f-b1bf-220544e9eaa5",
+        "b0e2ebbd-0d1b-4a21-9eac-4bdd483526f2"
+      ],
+      "tris-bht mesitylene": [
+        "68f43a6a-63d3-4893-bd11-ddf05d1d1428"
+      ],
+      "acetyl tributyl citrate": [
+        "0a8eb996-e85f-4f68-ab8c-c918a17a2068"
+      ],
+      "tocopherol": [
+        "e353a1e9-9330-4c22-bf1a-f58ac6d356a9",
+        "e342caa4-feb8-4dc2-af5a-fcc144dbc2ad",
+        "471234b3-ba01-48ae-a37e-7868f8959211",
+        "eb980407-930e-424f-9091-3879c2e5ecfc",
+        "febc5fb6-f775-402d-8e13-e08ed0a9f16a",
+        "31933de9-8f3e-470c-9744-6491f3497b83",
+        "668f1319-66e2-4b67-a27a-5ed3cd5099c0",
+        "4f06768f-c5c3-46ee-884e-f296ecca24f5",
+        "299d7c1b-0d33-4121-b0c7-3394b65c41ce",
+        "3b942130-8595-4391-a215-6a35f4317c84",
+        "c3d456a3-7bde-42d1-b7c2-4f5e02697980",
+        "ba0f16c8-434e-4075-bb1a-643aa7efad45",
+        "44c28ff8-3740-444e-b642-e0bdb305d023",
+        "a4ad8d2c-9b8f-4138-824f-e29b6ef09361",
+        "4828cb81-0b05-4ba3-8a46-771c5494a2ea",
+        "e43e9c7e-530c-44c3-af6a-a162338ef91b",
+        "7e8579f5-6568-47a6-b164-98a195149713"
+      ],
+      "panthenol": [
+        "dae58323-b8ab-4d71-a0fb-2c610738f58b",
+        "02b5654c-8fdf-44f4-a178-8f505b61ef9d",
+        "886347a6-7c3f-44ab-a5b9-7e249701c871",
+        "b7d7e892-c53d-4bad-89d6-81185529ec3b",
+        "352d78b1-7087-4198-bc6d-bbb00d2f9b97",
+        "a608b5ca-65f9-451d-977c-441fdd3582d9",
+        "c71868c2-5111-4dde-ba34-b26a8eddd7e1",
+        "d4f863e5-3a9b-4b81-9516-be777fb2806e",
+        "d9cc16cc-9b12-4305-94af-2876133604c3",
+        "8bd07fd2-c550-4ac8-a955-65957ebef28b"
+      ]
+    }
   },
   "additional_information": {
     "id": "120544918"

@@ -1,0 +1,126 @@
+{
+  "apiVersion": "2.145.3",
+  "reference": "c3c9114b-5040-4b92-99ce-17eec65b344a",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "application/octet-stream",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 7.444151,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [],
+    "otherRestrictions": [],
+    "note": [],
+    "refNo": [
+      "1758"
+    ],
+    "sccsOpinionUrls": [],
+    "innName": [],
+    "itemType": [
+      "substance"
+    ],
+    "other": [],
+    "es_SortDate": [
+      "2026-01-13T00:00:00.000+0100"
+    ],
+    "chemicalName": [],
+    "sccsOpinion": [],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "9d948078-2001-4622-8ae9-e100d0c9b568"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [
+      "219-207-4"
+    ],
+    "maximumConcentration": [],
+    "identifiedIngredient": [],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "inciName": [
+      "7-oxabicyclo[4.1.0]hept-3-ylmethyl 7-oxabicyclo[4.1.0]heptane-3-carboxylate"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "2386-87-0"
+    ],
+    "substanceId": [
+      "105994"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "REFERENCE": [
+      "c3c9114b-5040-4b92-99ce-17eec65b344a"
+    ],
+    "productTypeBodyParts": [],
+    "annexNo": [
+      "II"
+    ],
+    "publicationDate": [
+      "2026-01-13T00:00:00.000+0100"
+    ],
+    "phEurName": [],
+    "es_ContentType": [
+      "application/octet-stream"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [],
+    "esDA_FirstIngestDate": [
+      "2026-01-15T11:13:15.711+0100"
+    ],
+    "esDA_IngestDate": [
+      "2026-01-15T11:13:15.711+0100"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2026-01-15T11:13:15.704+0100"
+    ],
+    "refNo_digit": [
+      "1758"
+    ],
+    "colour": [],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [
+      "(EU) 2026/78"
+    ],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": []
+}

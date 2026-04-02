@@ -21,11 +21,15 @@
       "Nitrogen°. ° 100% of all ingredients are from natural origin",
       "certified by an independent certification organization."
     ],
-    "inci": [
-      "2ab652d5-0843-4be9-92b4-4f58f8daa704",
-      "03837d6e-3180-4a9a-ae83-bedce3968a52",
-      "580b147f-1944-438f-81e4-d5e3c30e5e82"
-    ]
+    "inci": {
+      "magnesium pca°": [
+        "03837d6e-3180-4a9a-ae83-bedce3968a52",
+        "580b147f-1944-438f-81e4-d5e3c30e5e82"
+      ],
+      "magnesium gluconate°": [
+        "2ab652d5-0843-4be9-92b4-4f58f8daa704"
+      ]
+    }
   },
   "additional_information": {
     "id": "120591247"

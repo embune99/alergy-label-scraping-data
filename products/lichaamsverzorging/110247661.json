@@ -23,44 +23,58 @@
       "Benzyl Benzoate",
       "Benzyl Cinnamate."
     ],
-    "inci": [
-      "1a4c8d24-a4c1-4154-93f4-60e1b584d5ef",
-      "3f3b844f-c1d3-4171-9cd8-a985a94df4b2",
-      "fc377fb4-9558-4acb-bc38-55c6a4a237ef",
-      "15da3bda-611e-404c-80d2-b49a6d927a22",
-      "39498b3c-917c-45c3-be7a-5780d333f64a",
-      "84e1ec45-aca4-40d0-90a2-374ef98c6b19",
-      "ee884ec1-56b1-45c8-b4fa-40da023324cf",
-      "cd527998-3238-43e8-a1da-e440f8fc1f9b",
-      "bbd983d7-4d29-4d12-9425-37a87f8ea3c5",
-      "5227021d-cb35-4abc-87ad-65d3018672aa",
-      "504b3b66-56da-40b6-abe9-75f66c292577",
-      "61eb11c5-cc4a-4ee7-b932-d2ca37b57cb4",
-      "0834dc81-80c2-477f-bd95-1305f9263d3a",
-      "3ee59015-be7a-4b65-a801-72024d4cea51",
-      "6e09c9f9-912a-42e4-b6be-8bbf277f273f",
-      "4af2c379-1e4e-44e2-bf1f-bdcf1caac751",
-      "4fa5b661-7ea2-4f5e-bff8-f204e28c4918",
-      "2b8327df-9705-4c2c-9fd1-b42631d7d4ca",
-      "18a5f7d5-a7e7-4f93-9255-51fa259c0ab4",
-      "7abfbf55-02d4-44df-b6e5-313c4cbc3ea7",
-      "1a10b23f-a185-4dd6-82a7-58dcc4d404c3",
-      "ff3247a6-8957-43e2-b464-08d7a063813d",
-      "0e68f68f-ab0f-4bef-ad23-fb405a11e20b",
-      "19b422a6-6a9a-4363-bfc7-70fe174bf7d3",
-      "d42d297a-2352-4c1e-bdb4-f9625ab33c9f",
-      "9d5c0de5-d806-4dd6-b964-76b003d105b6",
-      "9c3a546a-8701-480c-9b82-af57ca3e6186",
-      "8f9be648-8ecc-49a6-bad7-2c9ca8ac823b",
-      "12a6eb1f-8f79-4699-a42d-5ab3ac048c4b",
-      "aae30f63-59d4-4292-aaac-9f4ab3faec97",
-      "877337a9-4a8b-4d17-bed7-f3a39d335e80",
-      "4cf47243-0c23-4b88-b69d-3e91cea4684b",
-      "245034f4-0be5-4e30-a194-8bccfa769973",
-      "1aadcc07-a94e-4be6-8958-c69a8198a725",
-      "0481f185-03ed-4fbf-b928-1c720d653883",
-      "66f656f2-5107-476d-b766-5a15eb974cf3"
-    ]
+    "inci": {
+      "talc": [
+        "61eb11c5-cc4a-4ee7-b932-d2ca37b57cb4",
+        "15da3bda-611e-404c-80d2-b49a6d927a22",
+        "18a5f7d5-a7e7-4f93-9255-51fa259c0ab4",
+        "bbd983d7-4d29-4d12-9425-37a87f8ea3c5",
+        "1a4c8d24-a4c1-4154-93f4-60e1b584d5ef"
+      ],
+      "hydrated silica": [
+        "66f656f2-5107-476d-b766-5a15eb974cf3",
+        "9d5c0de5-d806-4dd6-b964-76b003d105b6",
+        "4cf47243-0c23-4b88-b69d-3e91cea4684b",
+        "5227021d-cb35-4abc-87ad-65d3018672aa",
+        "245034f4-0be5-4e30-a194-8bccfa769973"
+      ],
+      "zinc oxide": [
+        "0e68f68f-ab0f-4bef-ad23-fb405a11e20b",
+        "ee884ec1-56b1-45c8-b4fa-40da023324cf",
+        "1aadcc07-a94e-4be6-8958-c69a8198a725",
+        "3f3b844f-c1d3-4171-9cd8-a985a94df4b2",
+        "0481f185-03ed-4fbf-b928-1c720d653883",
+        "4af2c379-1e4e-44e2-bf1f-bdcf1caac751",
+        "2b8327df-9705-4c2c-9fd1-b42631d7d4ca",
+        "0834dc81-80c2-477f-bd95-1305f9263d3a",
+        "3ee59015-be7a-4b65-a801-72024d4cea51",
+        "39498b3c-917c-45c3-be7a-5780d333f64a",
+        "6e09c9f9-912a-42e4-b6be-8bbf277f273f",
+        "4fa5b661-7ea2-4f5e-bff8-f204e28c4918",
+        "d42d297a-2352-4c1e-bdb4-f9625ab33c9f",
+        "84e1ec45-aca4-40d0-90a2-374ef98c6b19",
+        "504b3b66-56da-40b6-abe9-75f66c292577",
+        "fc377fb4-9558-4acb-bc38-55c6a4a237ef",
+        "19b422a6-6a9a-4363-bfc7-70fe174bf7d3",
+        "aae30f63-59d4-4292-aaac-9f4ab3faec97",
+        "ff3247a6-8957-43e2-b464-08d7a063813d"
+      ],
+      "parfum": [
+        "877337a9-4a8b-4d17-bed7-f3a39d335e80"
+      ],
+      "paraffinum liquidum": [
+        "8f9be648-8ecc-49a6-bad7-2c9ca8ac823b"
+      ],
+      "benzyl benzoate": [
+        "1a10b23f-a185-4dd6-82a7-58dcc4d404c3",
+        "7abfbf55-02d4-44df-b6e5-313c4cbc3ea7",
+        "cd527998-3238-43e8-a1da-e440f8fc1f9b",
+        "9c3a546a-8701-480c-9b82-af57ca3e6186"
+      ],
+      "benzyl cinnamate.": [
+        "12a6eb1f-8f79-4699-a42d-5ab3ac048c4b"
+      ]
+    }
   },
   "additional_information": {
     "id": "110247661"

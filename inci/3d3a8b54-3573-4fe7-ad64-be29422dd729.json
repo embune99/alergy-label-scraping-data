@@ -1,0 +1,126 @@
+{
+  "apiVersion": "2.145.3",
+  "reference": "3d3a8b54-3573-4fe7-ad64-be29422dd729",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 8.127085,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "Anethole"
+    ],
+    "refNo": [
+      "329"
+    ],
+    "otherRestrictions": [],
+    "note": [],
+    "sccsOpinionUrls": [],
+    "itemType": [
+      "substance"
+    ],
+    "other": [
+      "The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds: — 0,001 % in leave-on products — 0,01 % in rinse-off products."
+    ],
+    "innName": [],
+    "es_SortDate": [
+      "2023-07-27T00:00:00.000+0200"
+    ],
+    "chemicalName": [],
+    "sccsOpinion": [],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "31ca14f4-8347-4212-a463-a0e14eb17a44"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [
+      "203-205-5/ 224-052-0"
+    ],
+    "maximumConcentration": [],
+    "identifiedIngredient": [
+      "74302"
+    ],
+    "inciName": [
+      "1-Methoxy-4-(1E)- 1-propen-1-yl- benzene (trans- Anethole)"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "104-46-1/ 4180-23-8"
+    ],
+    "substanceId": [
+      "100402"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "productTypeBodyParts": [],
+    "annexNo": [
+      "III"
+    ],
+    "publicationDate": [
+      "2023-07-27T00:00:00.000+0200"
+    ],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [],
+    "esDA_IngestDate": [
+      "2023-10-03T16:24:45.555+0200"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-10-03T16:24:45.415+0200"
+    ],
+    "refNo_digit": [
+      "329"
+    ],
+    "colour": [],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [
+      "(EU) 2023/1545"
+    ],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": []
+}

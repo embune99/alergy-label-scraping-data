@@ -1,0 +1,186 @@
+{
+  "apiVersion": "2.145.3",
+  "reference": "ee884ec1-56b1-45c8-b4fa-40da023324cf",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 16.482567,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "ZINC OXIDE"
+    ],
+    "otherRestrictions": [
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "as a constituent of other substances, or in mixtures, in concentrations equal to, or greater than 0.1% by weight",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "Shall not be placed on the market, or used, as substance or in mixtures in concentrations equal to ot greater than 0.1% by weight",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "Shall not be used as propellant in aerosols for any use. Aerosols dispenser containing the substance as propellant shall not be placed on the market",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>"
+    ],
+    "note": [],
+    "refNo": [
+      "30"
+    ],
+    "sccsOpinionUrls": [
+      "http://ec.europa.eu/health/ph_risk/committees/sccp/documents/out222_en.pdf",
+      "http://ec.europa.eu/health/ph_risk/committees/04_sccp/docs/sccp_o_00m.pdf",
+      "http://ec.europa.eu/health/ph_risk/committees/04_sccp/docs/sccp_o_123.pdf",
+      "http://ec.europa.eu/health/ph_risk/committees/04_sccp/docs/sccp_o_167.pdf",
+      "http://ec.europa.eu/health/scientific_committees/consumer_safety/docs/sccs_o_137.pdf"
+    ],
+    "innName": [],
+    "other": [],
+    "itemType": [
+      "substance"
+    ],
+    "es_SortDate": [
+      "2016-04-22T00:00:00.000+0200"
+    ],
+    "chemicalName": [],
+    "sccsOpinion": [
+      "Opinion concerning Zinc oxide",
+      "Statement on Zinc Oxide used in Sunscreens",
+      "Opinion on Safety of Nanomaterials in Cosmetic Products",
+      "Clarification on Opinion SCCNFP/0932/05 on Zinc Oxide",
+      "Addendum to the Opinion  SCCS/1489/12 on Zinc oxide (nano form)"
+    ],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "FA098343E1238481E3080E642A72C9DE"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [
+      "215-222-5"
+    ],
+    "maximumConcentration": [
+      "- 25%\r\n\r\n- In case of combined use of zinc oxide and zinc oxide (nano), the sum shall not exceed the limit of 25%"
+    ],
+    "identifiedIngredient": [
+      "38968"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "inciName": [
+      "Zinc oxide"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "1314-13-2"
+    ],
+    "substanceId": [
+      "31185"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "annexNo": [
+      "VI"
+    ],
+    "productTypeBodyParts": [],
+    "publicationDate": [
+      "2016-04-22T00:00:00.000+0200"
+    ],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "UV FILTER"
+    ],
+    "esDA_IngestDate": [
+      "2023-05-10T16:15:34.800+0200"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "corporate-search-version": [
+      "102"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-05-10T16:15:34.769+0200"
+    ],
+    "refNo_digit": [
+      "30"
+    ],
+    "colour": [],
+    "datasource": [
+      "GROWTH_COSING"
+    ],
+    "wordingOfConditions": [
+      "Not to be used in applications that may lead to exposure of the end-user's lungs by inhalation."
+    ],
+    "inciUsaName": [],
+    "relatedRegulations": [
+      "(EU) 2016/621"
+    ],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": []
+}

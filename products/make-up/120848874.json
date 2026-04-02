@@ -41,67 +41,96 @@
       "CI 77499)",
       "FERRIC FERROCYANIDE (CI 77510)]."
     ],
-    "inci": [
-      "9018f995-968c-4347-b927-03cd3a54abc8",
-      "dbeee728-59ad-41c5-852e-f8dcd93fb494",
-      "26bf70ea-9915-471a-babe-df76af960c08",
-      "7f7af546-b403-4849-b709-6055d92a82c4",
-      "cbb39c9f-def9-426b-afa2-35861c1b3742",
-      "1b889f2a-e28c-4a71-9b4a-986f2c499ffb",
-      "b732d3a2-8f4d-4982-9a46-e8e5179bc3fa",
-      "fc447eee-75df-4425-bf66-91a1b3929d87",
-      "819c7781-692d-43f4-a127-29542bf07cd6",
-      "31be702d-9273-49c5-b48d-1a5cb13aea0d",
-      "460a9437-7cf6-4c60-b899-2c699e714c3e",
-      "a912191e-70ef-4af0-9ff4-651976ba55ec",
-      "f8713e30-2f84-4280-9327-abbd3c22133d",
-      "c999310e-bf43-4a66-a1e3-7b3d58929618",
-      "b727a48d-36bf-4dee-a684-046a56d6afdb",
-      "084746f7-afb8-4212-8095-16ca5c4da13d",
-      "cc55c9f9-b14e-49c8-891f-3cacb6362b3f",
-      "33858d6f-e1e3-4604-ab74-5c2f2044755c",
-      "a1868e53-c579-4ddb-bf2e-a757a42e9b17",
-      "3399fdf8-c5cb-4e4d-8706-662dc7c2b91b",
-      "7f04affc-2943-4826-9b9b-371ef19f4ecd",
-      "20f64dc3-0ebd-42b6-99c7-14e0ac9d766a",
-      "c49c5456-a851-4325-bda3-e778fd97c40d",
-      "0be7be00-5f70-4cab-a4dc-2fa5ea039f61",
-      "ff57a03a-400b-4cb0-9686-980d370aefcb",
-      "18028ec2-79ca-4536-9941-86cf6233c1f3",
-      "e366199d-e237-41b2-b093-fddb87d19bfb",
-      "010eae61-86ea-4457-832d-2edb6b3ef55f",
-      "e8bbb0ed-eba1-4b65-9376-3754adc1be4f",
-      "7d7b6af7-26f7-4e93-8b82-c8022388d610",
-      "b2fbed7c-ef88-4dd4-9325-93b9a92c70a1",
-      "2d7746ba-1857-4b68-af08-0d6950387210",
-      "ce57d900-671a-433d-90f9-1d19827b5dd8",
-      "e293b766-5cef-4e68-909e-fe95776354ce",
-      "673a3ca1-d9e2-498f-9a96-b1f8be482650",
-      "1386b984-e17d-4c96-93b8-d6e0941b2bf4",
-      "1101a6c0-c991-4b5a-a414-bca7a5779c23",
-      "2c64f9d5-5ebc-4461-ad0b-a29cdaf53e0b",
-      "c4acc5f9-c040-4e32-8fd3-aaf0455dd33b",
-      "3b6d8c27-57ab-42ee-8cfb-3a30dc79cbdf",
-      "a917e333-0e81-46ef-ac62-93ba543c57bb",
-      "41106e88-eb90-47d8-8a7b-2087564ac839",
-      "bb623d2e-a8af-4b84-a580-929afe3c2461",
-      "cf1583be-fca5-4f27-ab8a-3bd233c61e83",
-      "0c377134-4ea9-421f-96b2-5cdcdb888957",
-      "f7aa451d-b8dd-4710-9277-0836fd7e97ac",
-      "1b24d3a0-563c-438b-8eef-021f2b9b0b16",
-      "46431523-ca8f-46a9-a2b2-d41d7cde1234",
-      "f930c045-1659-4fe6-b49c-b4af4ca16a6a",
-      "4cf47243-0c23-4b88-b69d-3e91cea4684b",
-      "b1a73b9d-ad4b-4e46-b12d-a629efafb901",
-      "c6d47d87-4016-418a-bbef-a038d49f5003",
-      "30385805-de8c-43f0-991e-d5274f263acd",
-      "e8bc4dab-3a90-4d63-8915-d0e1cf0edcaf",
-      "d9e91fd0-0e79-43e7-ba12-db9a4aeea745",
-      "edc7d7f5-fea7-4e27-8207-7bf21f20bac4",
-      "f9ea6bde-ca8b-46bb-b84a-ad78103a62d3",
-      "5fff32e4-414c-4abe-89f2-b3b9df7a879c",
-      "343dfab2-75f2-4301-a6d3-912aec22510d"
-    ]
+    "inci": {
+      "trimethylsiloxysilicate": [
+        "f930c045-1659-4fe6-b49c-b4af4ca16a6a",
+        "084746f7-afb8-4212-8095-16ca5c4da13d",
+        "41106e88-eb90-47d8-8a7b-2087564ac839",
+        "bb623d2e-a8af-4b84-a580-929afe3c2461",
+        "31be702d-9273-49c5-b48d-1a5cb13aea0d",
+        "2c64f9d5-5ebc-4461-ad0b-a29cdaf53e0b",
+        "a912191e-70ef-4af0-9ff4-651976ba55ec",
+        "7f04affc-2943-4826-9b9b-371ef19f4ecd",
+        "f7aa451d-b8dd-4710-9277-0836fd7e97ac",
+        "0c377134-4ea9-421f-96b2-5cdcdb888957",
+        "4cf47243-0c23-4b88-b69d-3e91cea4684b",
+        "673a3ca1-d9e2-498f-9a96-b1f8be482650",
+        "cc55c9f9-b14e-49c8-891f-3cacb6362b3f"
+      ],
+      "hydrogenated polyisobutene": [
+        "b732d3a2-8f4d-4982-9a46-e8e5179bc3fa"
+      ],
+      "synthetic wax": [
+        "20f64dc3-0ebd-42b6-99c7-14e0ac9d766a",
+        "343dfab2-75f2-4301-a6d3-912aec22510d",
+        "c6d47d87-4016-418a-bbef-a038d49f5003",
+        "ce57d900-671a-433d-90f9-1d19827b5dd8",
+        "f9ea6bde-ca8b-46bb-b84a-ad78103a62d3"
+      ],
+      "isododecane": [
+        "819c7781-692d-43f4-a127-29542bf07cd6"
+      ],
+      "synthetic fluorphlogopite": [
+        "e293b766-5cef-4e68-909e-fe95776354ce"
+      ],
+      "polybutene": [
+        "b2fbed7c-ef88-4dd4-9325-93b9a92c70a1",
+        "9018f995-968c-4347-b927-03cd3a54abc8"
+      ],
+      "mica": [
+        "010eae61-86ea-4457-832d-2edb6b3ef55f",
+        "1101a6c0-c991-4b5a-a414-bca7a5779c23",
+        "46431523-ca8f-46a9-a2b2-d41d7cde1234",
+        "a917e333-0e81-46ef-ac62-93ba543c57bb",
+        "dbeee728-59ad-41c5-852e-f8dcd93fb494",
+        "c49c5456-a851-4325-bda3-e778fd97c40d"
+      ],
+      "silica silylate": [
+        "f8713e30-2f84-4280-9327-abbd3c22133d",
+        "1b24d3a0-563c-438b-8eef-021f2b9b0b16",
+        "460a9437-7cf6-4c60-b899-2c699e714c3e",
+        "2d7746ba-1857-4b68-af08-0d6950387210",
+        "30385805-de8c-43f0-991e-d5274f263acd",
+        "1b889f2a-e28c-4a71-9b4a-986f2c499ffb",
+        "e8bbb0ed-eba1-4b65-9376-3754adc1be4f",
+        "d9e91fd0-0e79-43e7-ba12-db9a4aeea745"
+      ],
+      "pentaerythrityl tetra-di-t-butyl hydroxyhydrocinnamate": [
+        "33858d6f-e1e3-4604-ab74-5c2f2044755c"
+      ],
+      "tin oxide": [
+        "c4acc5f9-c040-4e32-8fd3-aaf0455dd33b"
+      ],
+      "macadamia integrifolia seed oil": [
+        "b727a48d-36bf-4dee-a684-046a56d6afdb",
+        "c999310e-bf43-4a66-a1e3-7b3d58929618",
+        "18028ec2-79ca-4536-9941-86cf6233c1f3",
+        "cf1583be-fca5-4f27-ab8a-3bd233c61e83",
+        "edc7d7f5-fea7-4e27-8207-7bf21f20bac4",
+        "5fff32e4-414c-4abe-89f2-b3b9df7a879c"
+      ],
+      "simmondsia chinensis (jojoba) seed oil": [
+        "a1868e53-c579-4ddb-bf2e-a757a42e9b17",
+        "26bf70ea-9915-471a-babe-df76af960c08",
+        "0be7be00-5f70-4cab-a4dc-2fa5ea039f61",
+        "e8bc4dab-3a90-4d63-8915-d0e1cf0edcaf",
+        "b1a73b9d-ad4b-4e46-b12d-a629efafb901",
+        "cbb39c9f-def9-426b-afa2-35861c1b3742",
+        "1386b984-e17d-4c96-93b8-d6e0941b2bf4",
+        "edc7d7f5-fea7-4e27-8207-7bf21f20bac4",
+        "7f7af546-b403-4849-b709-6055d92a82c4",
+        "3399fdf8-c5cb-4e4d-8706-662dc7c2b91b",
+        "e366199d-e237-41b2-b093-fddb87d19bfb"
+      ],
+      "titanium dioxide (ci 77891)": [
+        "3b6d8c27-57ab-42ee-8cfb-3a30dc79cbdf",
+        "fc447eee-75df-4425-bf66-91a1b3929d87",
+        "ff57a03a-400b-4cb0-9686-980d370aefcb"
+      ],
+      "ci 77492": [
+        "7d7b6af7-26f7-4e93-8b82-c8022388d610"
+      ]
+    }
   },
   "additional_information": {
     "id": "120848874"

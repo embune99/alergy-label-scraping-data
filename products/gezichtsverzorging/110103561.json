@@ -22,12 +22,14 @@
       "Prunus Domestica Seed Oil",
       "Prunus Spinosa Flower Extract. [808030000002]"
     ],
-    "inci": [
-      "6b22a2c1-90d0-421a-8b96-de7afbb135d5",
-      "61441354-5729-4ebf-9d50-c7437b26e1c2",
-      "0597981c-e4e6-4834-8418-9743e3af7d2e",
-      "0af94ab1-41fd-468e-bf9d-61fd9284c52b"
-    ]
+    "inci": {
+      "prunus domestica seed oil": [
+        "0af94ab1-41fd-468e-bf9d-61fd9284c52b",
+        "61441354-5729-4ebf-9d50-c7437b26e1c2",
+        "6b22a2c1-90d0-421a-8b96-de7afbb135d5",
+        "0597981c-e4e6-4834-8418-9743e3af7d2e"
+      ]
+    }
   },
   "additional_information": {
     "id": "110103561"

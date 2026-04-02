@@ -30,20 +30,29 @@
       "HUILE MINERALE",
       "PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE (F.I.L. N70055061/1)."
     ],
-    "inci": [
-      "1d8bdff9-3430-4741-a658-04b27e4eba9c",
-      "ecf86144-c4f1-4b59-bacf-56cc76223619",
-      "f9e8f424-37a1-4d5e-89e6-42def6c1323e",
-      "441a4f8d-cfdf-4809-af65-1a229cb60df8",
-      "e11a7133-e449-40c1-81cb-deb3b8964900",
-      "ab7fafbb-a4a2-43fc-9678-c6ed948b4ce0",
-      "8340bcc4-6c28-4635-9cf7-8020c45050ef",
-      "69fdad2b-5ffa-4bb7-9954-9616909be2fe",
-      "29f69409-db67-4d42-8692-2f510335de9e",
-      "b92a91f2-0e87-49c1-a489-8ce8d84926da",
-      "8f9be648-8ecc-49a6-bad7-2c9ca8ac823b",
-      "c8b7826f-cd30-4f5a-b7c1-6b189d7a2520"
-    ]
+    "inci": {
+      "hydrogenated poly(c6-20 olefin)": [
+        "29f69409-db67-4d42-8692-2f510335de9e"
+      ],
+      "cellulose gum": [
+        "ecf86144-c4f1-4b59-bacf-56cc76223619",
+        "441a4f8d-cfdf-4809-af65-1a229cb60df8",
+        "8340bcc4-6c28-4635-9cf7-8020c45050ef",
+        "69fdad2b-5ffa-4bb7-9954-9616909be2fe",
+        "b92a91f2-0e87-49c1-a489-8ce8d84926da",
+        "c8b7826f-cd30-4f5a-b7c1-6b189d7a2520",
+        "e11a7133-e449-40c1-81cb-deb3b8964900",
+        "1d8bdff9-3430-4741-a658-04b27e4eba9c"
+      ],
+      "paraffinum liquidum": [
+        "8f9be648-8ecc-49a6-bad7-2c9ca8ac823b"
+      ],
+      "mineral oil": [
+        "f9e8f424-37a1-4d5e-89e6-42def6c1323e",
+        "ab7fafbb-a4a2-43fc-9678-c6ed948b4ce0",
+        "8f9be648-8ecc-49a6-bad7-2c9ca8ac823b"
+      ]
+    }
   },
   "additional_information": {
     "id": "120844005"

@@ -105,5 +105,65 @@
     <h2>Raw ingredients</h2>
     <pre>{{ inferred_info.raw_ingredients }}</pre>
   {% endif %}
+
+  {% if inferred_info.ingredients %}
+    <h2>Ingredients</h2>
+    <ul style="list-style:none; padding:0;">
+      {% for ingredient in inferred_info.ingredients %}
+        {% set ingredient_key = ingredient.lower().strip() %}
+        <li style="margin-bottom:0.5rem;">
+          <span class="ingredient-toggle"
+                onclick="toggleInci('{{ ingredient_key }}')"
+                style="cursor:pointer; padding:0.5rem 1rem; background:#f0f0f0; border-radius:4px; display:inline-block;">
+            {{ ingredient }}
+            {% if ingredient_inci_map.get(ingredient_key) %}
+              <span style="color:#666; font-size:0.8em;">({{ ingredient_inci_map[ingredient_key]|length }} INCI entries)</span>
+            {% endif %}
+          </span>
+          <div id="inci-{{ ingredient_key }}" style="display:none; margin-top:0.5rem; padding-left:1rem;">
+            {% if ingredient_inci_map.get(ingredient_key) %}
+              {% for inci in ingredient_inci_map[ingredient_key] %}
+                <div style="border:1px solid #ddd; padding:0.75rem; margin-bottom:0.5rem; border-radius:4px; background:#fafafa;">
+                  {% if inci.metadata.get('inciName') %}
+                    <p style="margin:0.25rem 0;"><strong>INCI Name:</strong> {{ inci.metadata.inciName|join(', ') }}</p>
+                  {% endif %}
+                  {% if inci.metadata.get('chemicalDescription') %}
+                    <p style="margin:0.25rem 0;"><strong>Description:</strong> {{ inci.metadata.chemicalDescription|join(' ') }}</p>
+                  {% endif %}
+                  {% if inci.metadata.get('cosmeticRestriction') %}
+                    <p style="margin:0.25rem 0; color:#d32f2f;"><strong>Restrictions:</strong> {{ inci.metadata.cosmeticRestriction|join(', ') }}</p>
+                  {% endif %}
+                  {% if inci.metadata.get('maximumConcentration') %}
+                    <p style="margin:0.25rem 0;"><strong>Max Concentration:</strong> {{ inci.metadata.maximumConcentration|join(', ') }}</p>
+                  {% endif %}
+                  {% if inci.metadata.get('note') %}
+                    <p style="margin:0.25rem 0;"><strong>Notes:</strong> {{ inci.metadata.note|join(' | ') }}</p>
+                  {% endif %}
+                  {% if inci.metadata.get('casNo') %}
+                    <p style="margin:0.25rem 0;"><strong>CAS No:</strong> {{ inci.metadata.casNo|join(', ') }}</p>
+                  {% endif %}
+                  {% if inci.metadata.get('ecNo') %}
+                    <p style="margin:0.25rem 0;"><strong>EC No:</strong> {{ inci.metadata.ecNo|join(', ') }}</p>
+                  {% endif %}
+                </div>
+              {% endfor %}
+            {% else %}
+              <p style="color:#666;">No INCI data available for this ingredient.</p>
+            {% endif %}
+          </div>
+        </li>
+      {% endfor %}
+    </ul>
+    <script>
+      function toggleInci(ingredientKey) {
+        const el = document.getElementById('inci-' + ingredientKey);
+        if (el.style.display === 'none') {
+          el.style.display = 'block';
+        } else {
+          el.style.display = 'none';
+        }
+      }
+    </script>
+  {% endif %}
 {% endblock %}
 

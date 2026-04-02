@@ -1,0 +1,152 @@
+{
+  "apiVersion": "2.145.3",
+  "reference": "1a90854d-4ac2-468e-a55b-3dd73f2804c1",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 10.608789,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "HOMOSALATE"
+    ],
+    "otherRestrictions": [
+      "<empty>",
+      "<empty>",
+      "<empty>"
+    ],
+    "note": [],
+    "refNo": [
+      "3"
+    ],
+    "sccsOpinionUrls": [
+      "http://ec.europa.eu/health/ph_risk/committees/04_sccp/docs/sccp_o_097.pdf",
+      "https://ec.europa.eu/health/sites/default/files/scientific_committees/consumer_safety/docs/sccs_o_244.pdf",
+      "https://health.ec.europa.eu/publications/scientific-advice-safety-homosalate-cas-no-118-56-9-ec-no-204-260-8-uv-filter-cosmetic-products_en"
+    ],
+    "innName": [
+      "Homosalate"
+    ],
+    "other": [
+      "From 1 January 2025 cosmetic products containing that substance and not complying with the conditions shall not be placed on the Union market. From 1 July 2025 cosmetic products containing that substance and not complying with the conditions shall not be made available on the Union market."
+    ],
+    "itemType": [
+      "substance"
+    ],
+    "es_SortDate": [
+      "2009-12-22T00:00:00.000+0100"
+    ],
+    "chemicalName": [
+      "Benzoic acid, 2-hydroxy-, 3,3,5-trimethylcyclohexyl ester / Homosalate"
+    ],
+    "sccsOpinion": [
+      "Opinion on Homosalate",
+      "OPINION on Homosalate",
+      "Scientific Advice on the safety of Homosalate (CAS No 118-56-9, EC No 204-260-8) as a UV-filter in cosmetic products"
+    ],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "87E9F29163E577A40C19229E64B61803"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [
+      "204-260-8"
+    ],
+    "maximumConcentration": [
+      "7,34 %"
+    ],
+    "identifiedIngredient": [
+      "34299"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "inciName": [
+      "Benzoic acid, 2-hydroxy-, 3,3,5-trimethylcyclohexyl ester / Homosalate"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "118-56-9"
+    ],
+    "substanceId": [
+      "28808"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "annexNo": [
+      "VI"
+    ],
+    "productTypeBodyParts": [
+      "Face products with the exception of propellent spray products"
+    ],
+    "publicationDate": [
+      "2009-12-22T00:00:00.000+0100"
+    ],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [],
+    "esDA_IngestDate": [
+      "2023-05-10T16:08:43.796+0200"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "corporate-search-version": [
+      "102"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-05-10T16:08:43.768+0200"
+    ],
+    "refNo_digit": [
+      "3"
+    ],
+    "colour": [],
+    "datasource": [
+      "GROWTH_COSING"
+    ],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [
+      "(EC) 2009/1223"
+    ],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": []
+}

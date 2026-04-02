@@ -21,32 +21,40 @@
       "Paraffin",
       "White Mineral Oil."
     ],
-    "inci": [
-      "08f11ea4-b130-40f9-9475-3c6a4fa65f78",
-      "b2317fc9-0366-415c-a410-4405947c6801",
-      "31bf11f1-942b-4476-9f6c-3e7d1ba1b2b2",
-      "c083ac62-db20-4c57-8581-9a84c5c2c5f3",
-      "66e0df5d-7a21-442d-ba6e-539155912e9f",
-      "4dba314b-7794-4582-adea-ed2ddf8738f6",
-      "9b80377f-db7d-466d-a3c2-3861e2361174",
-      "a08f45ce-3d6c-48e9-ad0a-f2fc3b08b7fd",
-      "7a3e2cdd-0a9e-443d-8584-0953a16a0db2",
-      "7e0ebf96-ec78-441c-a235-4cb9a1729023",
-      "20f64dc3-0ebd-42b6-99c7-14e0ac9d766a",
-      "eaf6aff1-2d65-4b95-ac0e-66d0ff7d46ef",
-      "067b1e41-1034-4d89-a8b7-088d7e49120b",
-      "f5934120-5a32-4b29-94cc-c0ee00d81034",
-      "9e8ac082-8533-4a9c-8d4e-21b87679f0e9",
-      "708f3232-a2e3-4c9e-a418-e0c0e18b7476",
-      "8f9be648-8ecc-49a6-bad7-2c9ca8ac823b",
-      "63c3ee6e-22c0-4236-8bbd-e70e84c1000f",
-      "4c4d74e5-adfa-4181-9d57-ec434661c878",
-      "541cf066-39b6-4ff8-96a3-5e6daf8fe9aa",
-      "164d8c4b-55bd-4df9-8985-a55e8076ec23",
-      "600c9f7f-3354-49d5-8b4d-f7c96f80bbaa",
-      "f9ea6bde-ca8b-46bb-b84a-ad78103a62d3",
-      "658eac9b-59d5-4ce6-b41f-a50863281560"
-    ]
+    "inci": {
+      "hydrogenated microcrystalline wax": [
+        "c083ac62-db20-4c57-8581-9a84c5c2c5f3",
+        "eaf6aff1-2d65-4b95-ac0e-66d0ff7d46ef"
+      ],
+      "paraffin": [
+        "a08f45ce-3d6c-48e9-ad0a-f2fc3b08b7fd",
+        "b2317fc9-0366-415c-a410-4405947c6801",
+        "8f9be648-8ecc-49a6-bad7-2c9ca8ac823b",
+        "f9ea6bde-ca8b-46bb-b84a-ad78103a62d3",
+        "7a3e2cdd-0a9e-443d-8584-0953a16a0db2",
+        "31bf11f1-942b-4476-9f6c-3e7d1ba1b2b2",
+        "600c9f7f-3354-49d5-8b4d-f7c96f80bbaa",
+        "7e0ebf96-ec78-441c-a235-4cb9a1729023",
+        "708f3232-a2e3-4c9e-a418-e0c0e18b7476",
+        "9e8ac082-8533-4a9c-8d4e-21b87679f0e9",
+        "4dba314b-7794-4582-adea-ed2ddf8738f6",
+        "164d8c4b-55bd-4df9-8985-a55e8076ec23",
+        "4c4d74e5-adfa-4181-9d57-ec434661c878",
+        "eaf6aff1-2d65-4b95-ac0e-66d0ff7d46ef",
+        "20f64dc3-0ebd-42b6-99c7-14e0ac9d766a",
+        "658eac9b-59d5-4ce6-b41f-a50863281560",
+        "f5934120-5a32-4b29-94cc-c0ee00d81034",
+        "66e0df5d-7a21-442d-ba6e-539155912e9f",
+        "08f11ea4-b130-40f9-9475-3c6a4fa65f78",
+        "9b80377f-db7d-466d-a3c2-3861e2361174",
+        "067b1e41-1034-4d89-a8b7-088d7e49120b",
+        "541cf066-39b6-4ff8-96a3-5e6daf8fe9aa",
+        "63c3ee6e-22c0-4236-8bbd-e70e84c1000f"
+      ],
+      "white mineral oil.": [
+        "8f9be648-8ecc-49a6-bad7-2c9ca8ac823b"
+      ]
+    }
   },
   "additional_information": {
     "id": "120317205"

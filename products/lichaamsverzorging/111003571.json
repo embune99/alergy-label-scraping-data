@@ -27,64 +27,88 @@
       "TETRAMETHYL ACETYLOCTAHYDRONAPHTHALENES",
       "VANILLIN."
     ],
-    "inci": [
-      "5ea4136c-9b7f-446c-875c-1b04d887a52e",
-      "0018acfb-f2a4-4538-8f28-f8af71041bb9",
-      "a209d30f-e08c-4245-b4a8-a1812d41feef",
-      "c2d79f26-662b-4480-b669-afdef300ad6e",
-      "3d96b2dd-4b8c-4da1-adde-017b9ebe4d8e",
-      "0b00dbe7-d72a-45e2-882e-26818126c472",
-      "dfe28bfe-bd94-4e13-9f73-24aba98e5505",
-      "9015f415-9eed-4347-94fb-64df574e6664",
-      "40f395db-13d0-4c51-a3c5-99a0bfab2bcf",
-      "a803ace3-7f88-4b6f-aa4a-0b4119093446",
-      "8f47a2fa-c519-434c-8bb9-8385cf05fea5",
-      "f1fbd670-b2ca-4b2c-94cf-6853ee1bc9e5",
-      "a19ecbd9-8ced-402a-85d8-9e341468e55f",
-      "99634e65-3bfd-420f-a5b9-7094dc581270",
-      "619cbc0c-e91e-4d0e-8198-06a761755a93",
-      "341c2283-15aa-47ba-b3be-f9ce7b6a51d8",
-      "7b037553-1d27-4931-8108-84efc7f93f6a",
-      "3eb24603-b991-48bf-8648-9aa5deb0800b",
-      "f43f6f59-9dfd-4a87-b632-82dadb6e5796",
-      "d61c4bec-0b4d-4e48-aef5-a218fea8b8cc",
-      "cbc4a314-95f5-4345-98cc-61b2d87bf963",
-      "77e8e7bb-b62d-4fd8-a213-f709399099f2",
-      "ccd1c9bf-9835-4c02-bb80-d3791d4f6690",
-      "79c29bfa-8cdb-4068-9650-6f4f93c4c0c1",
-      "0e1e8e38-fc2e-4ce7-84f9-4dce5df36518",
-      "9c290ae2-6cdf-48e2-9fe6-caa517ebd497",
-      "f2357e58-0181-41f6-b80b-457d1f55ee91",
-      "0991fdd0-aedd-40a1-81e7-eef3ad968570",
-      "ba477a38-110c-403e-840d-c91597e537ab",
-      "1d4c3d38-90cf-4c06-bb42-87ee002513ad",
-      "69822597-6fb3-462c-9d38-a43618bf8505",
-      "8d5a2513-3e2c-44f1-8f85-624d6342866f",
-      "dcbdaa4c-4fbc-4473-987a-6d33558a5c19",
-      "ba4f2dfd-6416-4506-8368-c5ae63d23c65",
-      "7ef988ef-989c-4378-aaeb-c9fc4b0edb1b",
-      "f86e00ab-bdc8-47b5-b7d2-70ef22996a90",
-      "d93d671b-3419-4680-8269-60583ec9ac0e",
-      "0c38e0ea-9191-4fa7-8af5-0577331c1afe",
-      "d489e0ea-9a81-4b1d-b8bc-5502db5adb42",
-      "10bac44b-b523-4691-8274-844ff3684417",
-      "4937f329-ce46-43be-bb99-3307e3966e02",
-      "8f9be648-8ecc-49a6-bad7-2c9ca8ac823b",
-      "a76b947a-0f02-4baa-bd0f-c98706fde6b4",
-      "877337a9-4a8b-4d17-bed7-f3a39d335e80",
-      "f5f287c8-50f4-4c93-8b0d-41c89b985347",
-      "67734a62-d120-45e1-ba29-4a62454d9224",
-      "1282d3f9-0f30-4f82-a66f-fda74e446493",
-      "8ba5be6d-fdf4-4040-8d01-e3e683409f82",
-      "6feb157b-81d0-4e67-ae8f-1479077b74ae",
-      "66d59cfe-69b2-46cf-ad54-d553ca4e9884",
-      "29a385e8-9ff6-43f0-8eac-8788fb368de3",
-      "c396cf4a-6357-436d-8d55-fb24f9961d3d",
-      "72a74c17-4c98-4ee7-a58a-7d5ff3942560",
-      "df84f810-ac37-4e85-b232-c8b9ffc9862f",
-      "fd0d91dc-c977-4163-9703-84bdec9f68f8",
-      "ebdb8cd5-9a2a-446d-b207-9c6ea3bb4e2b"
-    ]
+    "inci": {
+      "paraffinum liquidum": [
+        "8f9be648-8ecc-49a6-bad7-2c9ca8ac823b"
+      ],
+      "parfum": [
+        "877337a9-4a8b-4d17-bed7-f3a39d335e80"
+      ],
+      "theobroma cacao seed butter": [
+        "69822597-6fb3-462c-9d38-a43618bf8505",
+        "3d96b2dd-4b8c-4da1-adde-017b9ebe4d8e",
+        "f1fbd670-b2ca-4b2c-94cf-6853ee1bc9e5",
+        "0c38e0ea-9191-4fa7-8af5-0577331c1afe",
+        "9c290ae2-6cdf-48e2-9fe6-caa517ebd497",
+        "ba4f2dfd-6416-4506-8368-c5ae63d23c65",
+        "0991fdd0-aedd-40a1-81e7-eef3ad968570",
+        "0b00dbe7-d72a-45e2-882e-26818126c472"
+      ],
+      "coumarin": [
+        "5ea4136c-9b7f-446c-875c-1b04d887a52e",
+        "f86e00ab-bdc8-47b5-b7d2-70ef22996a90",
+        "619cbc0c-e91e-4d0e-8198-06a761755a93",
+        "df84f810-ac37-4e85-b232-c8b9ffc9862f",
+        "6feb157b-81d0-4e67-ae8f-1479077b74ae",
+        "79c29bfa-8cdb-4068-9650-6f4f93c4c0c1",
+        "fd0d91dc-c977-4163-9703-84bdec9f68f8"
+      ],
+      "geraniol": [
+        "4937f329-ce46-43be-bb99-3307e3966e02",
+        "ba477a38-110c-403e-840d-c91597e537ab",
+        "1d4c3d38-90cf-4c06-bb42-87ee002513ad",
+        "9015f415-9eed-4347-94fb-64df574e6664",
+        "d93d671b-3419-4680-8269-60583ec9ac0e",
+        "ccd1c9bf-9835-4c02-bb80-d3791d4f6690",
+        "3eb24603-b991-48bf-8648-9aa5deb0800b",
+        "77e8e7bb-b62d-4fd8-a213-f709399099f2",
+        "a209d30f-e08c-4245-b4a8-a1812d41feef",
+        "ebdb8cd5-9a2a-446d-b207-9c6ea3bb4e2b",
+        "d489e0ea-9a81-4b1d-b8bc-5502db5adb42",
+        "f43f6f59-9dfd-4a87-b632-82dadb6e5796",
+        "29a385e8-9ff6-43f0-8eac-8788fb368de3",
+        "0e1e8e38-fc2e-4ce7-84f9-4dce5df36518"
+      ],
+      "hexyl cinnamal": [
+        "dfe28bfe-bd94-4e13-9f73-24aba98e5505"
+      ],
+      "hydroxycitronellal": [
+        "1282d3f9-0f30-4f82-a66f-fda74e446493",
+        "a76b947a-0f02-4baa-bd0f-c98706fde6b4",
+        "40f395db-13d0-4c51-a3c5-99a0bfab2bcf",
+        "341c2283-15aa-47ba-b3be-f9ce7b6a51d8",
+        "8ba5be6d-fdf4-4040-8d01-e3e683409f82"
+      ],
+      "linalool": [
+        "8f47a2fa-c519-434c-8bb9-8385cf05fea5",
+        "c396cf4a-6357-436d-8d55-fb24f9961d3d",
+        "8d5a2513-3e2c-44f1-8f85-624d6342866f",
+        "0018acfb-f2a4-4538-8f28-f8af71041bb9",
+        "f2357e58-0181-41f6-b80b-457d1f55ee91",
+        "a19ecbd9-8ced-402a-85d8-9e341468e55f",
+        "99634e65-3bfd-420f-a5b9-7094dc581270",
+        "72a74c17-4c98-4ee7-a58a-7d5ff3942560",
+        "cbc4a314-95f5-4345-98cc-61b2d87bf963",
+        "f5f287c8-50f4-4c93-8b0d-41c89b985347",
+        "ccd1c9bf-9835-4c02-bb80-d3791d4f6690",
+        "7b037553-1d27-4931-8108-84efc7f93f6a",
+        "c2d79f26-662b-4480-b669-afdef300ad6e",
+        "a803ace3-7f88-4b6f-aa4a-0b4119093446",
+        "67734a62-d120-45e1-ba29-4a62454d9224",
+        "d489e0ea-9a81-4b1d-b8bc-5502db5adb42",
+        "d61c4bec-0b4d-4e48-aef5-a218fea8b8cc",
+        "29a385e8-9ff6-43f0-8eac-8788fb368de3",
+        "dcbdaa4c-4fbc-4473-987a-6d33558a5c19",
+        "d93d671b-3419-4680-8269-60583ec9ac0e"
+      ],
+      "tetramethyl acetyloctahydronaphthalenes": [
+        "7ef988ef-989c-4378-aaeb-c9fc4b0edb1b"
+      ],
+      "vanillin.": [
+        "66d59cfe-69b2-46cf-ad54-d553ca4e9884",
+        "10bac44b-b523-4691-8274-844ff3684417"
+      ]
+    }
   },
   "additional_information": {
     "id": "111003571"
