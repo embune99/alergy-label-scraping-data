@@ -1,0 +1,234 @@
+{
+    "Record": {
+        "RecordType": "CID",
+        "RecordNumber": 962,
+        "RecordTitle": "Water",
+        "Section": [
+            {
+                "TOCHeading": "Names and Identifiers",
+                "Section": [
+                    {
+                        "TOCHeading": "Other Identifiers",
+                        "Section": [
+                            {
+                                "TOCHeading": "CAS",
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 1,
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "7732-18-5"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 3,
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "7732-18-5"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 26,
+                                        "URL": "https://commonchemistry.cas.org/detail?cas_rn=7732-18-5",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "7732-18-5"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 36,
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "7732-18-5"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 43,
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "7732-18-5"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 50,
+                                        "Name": "CAS",
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "7732-18-5"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 55,
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "7732-18-5"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 57,
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "7732-18-5"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 58,
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "7732-18-5"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 59,
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "7732-18-5"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 60,
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "17778-80-2"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 64,
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "7732-18-5"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 65,
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "7732-18-5"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 69,
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "7732-18-5"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 75,
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "7732-18-5"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 76,
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "7732-18-5"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 80,
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "7732-18-5"
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "ReferenceNumber": 90,
+                                        "Value": {
+                                            "StringWithMarkup": [
+                                                {
+                                                    "String": "7732-18-5"
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "TOCHeading": "Related Records",
+                "Section": [
+                    {
+                        "TOCHeading": "Substances",
+                        "Section": [
+                            {
+                                "TOCHeading": "PubChem Reference Collection SID",
+                                "Description": "Substances from the special PubChem Reference Collection associated with this compound.",
+                                "DisplayControls": {
+                                    "MoveToTop": true
+                                },
+                                "Information": [
+                                    {
+                                        "ReferenceNumber": 130,
+                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/481101462",
+                                        "Value": {
+                                            "Number": [
+                                                481101462
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

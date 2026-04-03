@@ -153,6 +153,58 @@ def main() -> None:
 
             product_urls = product_urls_list
 
+        # Check for re_scrape mode
+        re_scrape = prev_meta.get("re_scrape", False) if meta_path.exists() else False
+        only_scrape_empty_ingredients = prev_meta.get(
+            "only_scrape_product_empty_ingredients", False
+        ) if meta_path.exists() else False
+
+        if re_scrape:
+            print("  Re-scrape mode enabled")
+            # Find existing product JSON files
+            product_files = list(category_dir.glob("*.json"))
+            # Filter out meta files
+            product_files = [f for f in product_files if not f.name.startswith("_")]
+            print(f"  Found {len(product_files)} product files")
+
+            urls_to_rescrape: list[tuple[str, Path]] = []
+            for prod_file in product_files:
+                try:
+                    prod_data = json.loads(prod_file.read_text(encoding="utf-8"))
+                    prod_url = prod_data.get("product_information", {}).get("product_url")
+                    raw_ingredients = prod_data.get("inferred_information", {}).get("raw_ingredients")
+                    if not prod_url:
+                        print(f"    Skipping {prod_file.name}: missing product_url")
+                        continue
+                    if only_scrape_empty_ingredients and raw_ingredients is not None:
+                        continue
+                    urls_to_rescrape.append((prod_url, prod_file))
+                except Exception as exc:
+                    print(f"    Error reading {prod_file.name}: {exc}")
+                    continue
+
+            print(f"  Re-scraping {len(urls_to_rescrape)} products")
+            for prod_url, prod_file in urls_to_rescrape:
+                try:
+                    product = extract_product_data(prod_url)
+                except Exception as exc:
+                    print(f"    Error fetching {prod_url}: {exc}")
+                    continue
+
+                with open(prod_file, "w", encoding="utf-8") as f:
+                    json.dump(product, f, ensure_ascii=False, indent=2)
+
+                print(f"    Re-saved {prod_file}")
+
+            # Clear re_scrape flag after completion
+            if meta_path.exists():
+                prev_meta["re_scrape"] = False
+                prev_meta["only_scrape_product_empty_ingredients"] = False
+                with open(meta_path, "w", encoding="utf-8") as f:
+                    json.dump(prev_meta, f, ensure_ascii=False, indent=2)
+            print("  Re-scrape completed")
+            return
+
         # Initialize metadata for the category (using latest known crawl count)
         processed_count = min(previous_processed, len(product_urls))
         crawled_count = len(product_urls)

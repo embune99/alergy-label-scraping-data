@@ -2,5 +2,7 @@
   "category_url": "https://www.etos.nl/lichaamsverzorging/",
   "slug": "lichaamsverzorging",
   "crawled_product_urls": 2220,
-  "processed_count": 2220
+  "processed_count": 2220,
+  "re_scrape": false,
+  "only_scrape_product_empty_ingredients": false
 }

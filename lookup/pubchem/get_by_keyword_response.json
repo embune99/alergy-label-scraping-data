@@ -1,0 +1,44 @@
+{
+    "Disambiguation": {
+        "Record": [
+            {
+                "RecordType": "RefChem",
+                "IDType": "RefChemID",
+                "IntID": 116,
+                "Score": 1,
+                "Name": "Water",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Water",
+                "Related": [
+                    {
+                        "IDType": "PreferredCID",
+                        "IntID": 962
+                    }
+                ]
+            },
+            {
+                "RecordType": "Compound",
+                "IDType": "CID",
+                "IntID": 962,
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/962"
+            }
+        ],
+        "Validity": [
+            {
+                "Type": "SMILES",
+                "IsValid": false
+            },
+            {
+                "Type": "SMARTS",
+                "IsValid": false
+            },
+            {
+                "Type": "Formula",
+                "IsValid": false
+            },
+            {
+                "Type": "Cache",
+                "IsValid": false
+            }
+        ]
+    }
+}

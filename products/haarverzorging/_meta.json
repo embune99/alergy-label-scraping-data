@@ -2,5 +2,7 @@
   "category_url": "https://www.etos.nl/haarverzorging/",
   "slug": "haarverzorging",
   "crawled_product_urls": 1355,
-  "processed_count": 1355
+  "processed_count": 1355,
+  "re_scrape": true,
+  "only_scrape_product_empty_ingredients": true
 }

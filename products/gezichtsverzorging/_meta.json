@@ -2,5 +2,7 @@
   "category_url": "https://www.etos.nl/gezichtsverzorging/",
   "slug": "gezichtsverzorging",
   "crawled_product_urls": 1102,
-  "processed_count": 1102
+  "processed_count": 1102,
+  "re_scrape": true,
+  "only_scrape_product_empty_ingredients": true
 }

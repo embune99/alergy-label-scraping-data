@@ -57,7 +57,7 @@ def extract_ingredients_from_file(filepath: Path) -> List[str]:
 
             # Thay vì map() và flat() liên tục, dùng re.split để cắt chuỗi 
             # bằng bất kỳ delimiter nào trong: " • ", ": ", " / ", ", "
-            results = re.split(r' • |: | / |, ', raw)
+            results = re.split(r' • |: | / |, |,', raw)
 
             # [...new Set(results)] để lọc trùng lặp
             # Dùng list(set(results)) sẽ lọc trùng nhưng làm lộn xộn thứ tự gốc.
@@ -92,6 +92,13 @@ def main():
         all_ingredients.extend(ingredients)
 
     print(f"\nExtracted {len(all_ingredients)} unique ingredients across all files")
+
+    # Save to ingredients.txt (overwrite old data)
+    output_file = Path(__file__).parent / "ingredients.txt"
+    with open(output_file, "w", encoding="utf-8") as f:
+        for ingredient in all_ingredients:
+            f.write(f"{ingredient}\n")
+    print(f"Saved to {output_file}")
 
 
 if __name__ == "__main__":

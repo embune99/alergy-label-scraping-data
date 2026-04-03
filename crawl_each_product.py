@@ -133,7 +133,7 @@ def extract_raw_ingredients(soup: BeautifulSoup) -> Optional[str]:
 
     block = rich_text_blocks[1]
     # Check if the block contains "Ingredients" (case-insensitive)
-    if "ingredients" not in block.get_text().lower():
+    if "ingredients" not in block.get_text().lower() and "ingrediënten" not in block.get_text().lower():
         return None
 
     # Mimic `.lastChild` behaviour: take last child node of this block
@@ -141,10 +141,14 @@ def extract_raw_ingredients(soup: BeautifulSoup) -> Optional[str]:
         return None
 
     text = block.get_text()
-    # Strip surrounding quotes if present
-    match = re.search(r"ingredients\s*:?\s*(.*)", text, re.IGNORECASE)
+    # Find the LAST occurrence of ingredients/ingrediënten keyword and capture everything after it
+    matches = list(re.finditer(r"(?:ingredients|ingrediënten)\s*:?\s*(.*)", text, re.IGNORECASE))
+    match = matches[-1] if matches else None
+    if match:
+        ingredients_raw = match.group(1)
 
     if match:
+        print(match.group(1))
         ingredients_raw = match.group(1).strip()
         cleaned = ingredients_raw.strip().strip('"').strip()
         return cleaned or None
@@ -263,7 +267,7 @@ def extract_product_data(url: str) -> Dict[str, Any]:
     if raw_ingredients is None:
         # Check if "ingredient" exists anywhere in the page
         page_text = soup.get_text().lower()
-        need_check_ingredient = "ingredient" in page_text
+        need_check_ingredient = "ingredient" in page_text or "ingrediënten" in page_text
 
     parsed = urlparse(url)
     website = parsed.netloc

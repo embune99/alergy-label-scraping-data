@@ -13,10 +13,11 @@
     "description": "Het product\nDettol Hypoallergenic (Sensitive) wasgel navulling is verrijkt met twee hydraterende natuurlijke ingrediënten, die je huid intensief voeden. Deze wasgel is antibacterieel** en helpt de verspreiding van bacteriën te voorkomen. De dermatologisch geteste formule behoudt de natuurlijke pH-waarde van je huid en is geschikt voor gevoelige huid. 75% minder plastic in vergelijking met 2 flessen Dettol wasgel."
   },
   "inferred_information": {
-    "raw_ingredients": null,
+    "raw_ingredients": "INGREDIËNTEN Aqua, Sodium Laureth Sulfate, Glycerin, Cocamidopropyl Betaine, Sodium Chloride, Lactic Acid, Citric Acid, Sodium Benzoate, Sodium Hydroxide, Parfum, Tetrasodium EDTA, Sodium Ferrocyanide, CI 42090",
     "product_type": null,
     "product_category": "Lichaamsverzorging",
-    "legal_grade": "De hypoallergene¹ formule, dermatologisch getest, behoudt de natuurlijke pH-waarde van je huid, voor dagelijks gebruik."
+    "legal_grade": "De hypoallergene¹ formule, dermatologisch getest, behoudt de natuurlijke pH-waarde van je huid, voor dagelijks gebruik.",
+    "need_check_ingredient": false
   },
   "additional_information": {
     "id": "120722323"

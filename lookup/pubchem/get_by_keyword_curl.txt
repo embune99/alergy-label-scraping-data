@@ -1,0 +1,4 @@
+curl --location 'https://pubchem.ncbi.nlm.nih.gov/rest/pug/disambiguate/name/JSON?name=aqua' \
+--header 'accept: */*' \
+--header 'content-type: application/json; charset=utf-8' \
+--header 'Cookie: ncbi_sid=95B7D4E99CF3F461_0000SID'

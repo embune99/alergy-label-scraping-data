@@ -1,17 +1,20 @@
 {
   "product_information": {
     "product_url": "https://www.etos.nl/producten/gillette-mach3-navulmesjes-duopak-10-stuks-120846781.html",
-    "images": [],
+    "images": [
+      "https://www.etos.nl/dw/image/v2/BCTN_PRD/on/demandware.static/-/Sites-etos-master-catalog/default/dwc4305a7c/images/120846781/120846781_MCM_PACK_1345756.jpg?sw=800&sfrm=png&q=75"
+    ],
     "website": "www.etos.nl",
-    "product_name": null,
-    "price": null,
-    "description": null
+    "product_name": "Gillette Mach3 Navulmesjes Duopak 10 Stuks",
+    "price": "41.90 EUR",
+    "description": "Het product\nGillette Mach3 navulmesjes voor mannen met 3 mesjes zijn ontworpen voor een klassieke gladde scheerbeurt.\nEen klassieke gladde scheerbeurt: navulmesje met 3 mesjes voor mannen waarmee je glad kunt scheren zonder gedoe\n1 navulmesje = 15 scheerbeurten: 15 keer scheren met elk Gillette Mach3 scheermesje\nMinder scheerirritatie: navulmesje met 3 mesjes en een verbeterde beschermende strip voor beter glijden* (*vs. vorige Mach3)\nCombineer perfect met Gillette Serie scheergel voor meer bescherming tegen scheerirritatie* (*vs. zonder scheergel)\nHoe werkt het?\nDe navulmesjes voor het scheersysteem met 3 mesjes zijn voorzien van een verbeterde beschermende strip voor beter glijden*. De navulmesjes met Lubrastrip zijn ijzersterke mesjes waarmee je 15 keer comfortabel kunt scheren. Bang dat je Gillette handgreep niet past? Alle Mach3 navulmesjes passen op alle Mach3 handgrepen. *vs. vorige Mach3\nIngrediënten\nPEG-45M, PEG-180M, PEG-100, PEG-7M, Methyl Di-T-Butyl Hydroxyhydrocinnamate, Silica, Citric Acid, BHT"
   },
   "inferred_information": {
     "raw_ingredients": null,
-    "product_type": null,
-    "product_category": null,
-    "legal_grade": null
+    "product_type": "Navulmesjes",
+    "product_category": "Lichaamsverzorging",
+    "legal_grade": "Mesjes",
+    "need_check_ingredient": true
   },
   "additional_information": {
     "id": "120846781"

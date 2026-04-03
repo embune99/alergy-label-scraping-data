@@ -2,5 +2,7 @@
   "category_url": "https://www.etos.nl/dermacare/",
   "slug": "dermacare",
   "crawled_product_urls": 592,
-  "processed_count": 592
+  "processed_count": 592,
+  "re_scrape": false,
+  "only_scrape_product_empty_ingredients": false
 }
