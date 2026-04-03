@@ -1,0 +1,125 @@
+{
+  "apiVersion": "2.146",
+  "reference": "7f90fffa-1969-4366-9858-a94c86cd954f",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 13.790581,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "LAURETH-4"
+    ],
+    "otherRestrictions": [
+      "ban substances that deplete the ozone layer"
+    ],
+    "note": [],
+    "refNo": [],
+    "sccsOpinionUrls": [],
+    "innName": [],
+    "other": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "chemicalName": [],
+    "sccsOpinion": [],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "3,6,9,12-tetraoxatetracosan-1-ol; Dodecan-1-ol, ethoxylated; Alcohols, C12-14, ethoxylated"
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "4B105F93C6CBAA203A46669CA7AE8882"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [
+      "226-097-1 / 500-002-6 / 500-213-3"
+    ],
+    "maximumConcentration": [],
+    "identifiedIngredient": [],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "inciName": [
+      "LAURETH-4"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "5274-68-0 / 9002-92-0 / 68439-50-9"
+    ],
+    "substanceId": [
+      "34915"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "annexNo": [],
+    "productTypeBodyParts": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "ANTISTATIC",
+      "SURFACTANT - EMULSIFYING",
+      "FRAGRANCE",
+      "SURFACTANT - CLEANSING"
+    ],
+    "esDA_IngestDate": [
+      "2023-05-22T14:38:48.176+0200"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "corporate-search-version": [
+      "102"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-05-22T14:38:48.149+0200"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "datasource": [
+      "GROWTH_COSING"
+    ],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "7f90fffa-1969-4366-9858-a94c86cd954f. Available at: urn:test",
+  "score": 13.790581
+}

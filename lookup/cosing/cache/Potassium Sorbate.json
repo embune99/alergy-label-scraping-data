@@ -1,0 +1,131 @@
+{
+  "apiVersion": "2.146",
+  "reference": "134cca64-0dd3-4ab3-91d1-69126771188f",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 19.39675,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "POTASSIUM SORBATE"
+    ],
+    "otherRestrictions": [],
+    "note": [],
+    "refNo": [],
+    "sccsOpinionUrls": [],
+    "innName": [
+      "potassium sorbate"
+    ],
+    "other": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "chemicalName": [
+      "Potassium (E,E)-hexa-2,4-dienoate"
+    ],
+    "sccsOpinion": [],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "Potassium Sorbate is the organic salt that conforms generally to the formula:"
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "D74BE9E27207F9FFF75A84BA9FDA6D9E"
+    ],
+    "cosmeticRestriction": [
+      "V/4"
+    ],
+    "ecNo": [
+      "246-376-1 / -"
+    ],
+    "maximumConcentration": [],
+    "identifiedIngredient": [
+      "28122"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "inciName": [
+      "POTASSIUM SORBATE"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "24634-61-5 / 590-00-1"
+    ],
+    "substanceId": [
+      "37025"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "annexNo": [],
+    "productTypeBodyParts": [],
+    "phEurName": [
+      "kalii sorbas"
+    ],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "FRAGRANCE",
+      "PRESERVATIVE"
+    ],
+    "esDA_IngestDate": [
+      "2023-05-22T13:00:01.213+0200"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "corporate-search-version": [
+      "102"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-05-22T13:00:01.178+0200"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "datasource": [
+      "GROWTH_COSING"
+    ],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "134cca64-0dd3-4ab3-91d1-69126771188f. Available at: urn:test",
+  "score": 19.39675
+}

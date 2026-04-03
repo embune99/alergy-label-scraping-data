@@ -22,10 +22,200 @@
     "product_category": "Haarverzorging",
     "legal_grade": null,
     "ingredients": [
-      "Dimethyl Ether · Alcohol denat. · Aqua (Water",
-      "Eau) · Octylacrylamide/Acrylates/Butylaminoethyl Methacrylate Copolymer · Aminomethyl Propanol · VP/VA Copolymer · Parfum (Fragrance) · Panthenol · Niacinamide · Isopropyl Myristate · Glycosphingolipids · Cocoyl Hydrolyzed Keratin · Butylene Glycol · Benzoic Acid · Phenoxyethanol"
+      "Dimethyl Ether",
+      "Alcohol denat.",
+      "Aqua (Water",
+      "Eau)",
+      "Octylacrylamide/Acrylates/Butylaminoethyl Methacrylate Copolymer",
+      "Aminomethyl Propanol",
+      "VP/VA Copolymer",
+      "Parfum (Fragrance)",
+      "Panthenol",
+      "Niacinamide",
+      "Isopropyl Myristate",
+      "Glycosphingolipids",
+      "Cocoyl Hydrolyzed Keratin",
+      "Butylene Glycol",
+      "Benzoic Acid",
+      "Phenoxyethanol"
     ],
-    "inci": {}
+    "inci": {
+      "dimethyl ether": {
+        "cosing_info": {
+          "reference": "5f989003-d2b6-4418-94e4-d3317dbba98a",
+          "inci_name": "DIMETHYL ETHER",
+          "cas_no": [
+            "115-10-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8254",
+            "sid": "481107760",
+            "cas_no": "115-10-6"
+          }
+        ]
+      },
+      "alcohol denat.": {
+        "cosing_info": {
+          "reference": "1eb22e6e-941d-4099-b8e6-5533a356ce04",
+          "inci_name": "ALCOHOL DENAT.",
+          "cas_no": [
+            "64-17-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "702",
+            "sid": "481101440",
+            "cas_no": "64-17-5"
+          }
+        ]
+      },
+      "aminomethyl propanol": {
+        "cosing_info": {
+          "reference": "c2762f8b-8a82-4c4a-aafc-a595115f1c2b",
+          "inci_name": "AMINOMETHYL PROPANOL",
+          "cas_no": [
+            "124-68-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "11807",
+            "sid": "505459246",
+            "cas_no": "124-68-5"
+          }
+        ]
+      },
+      "panthenol": {
+        "cosing_info": {
+          "reference": "02b5654c-8fdf-44f4-a178-8f505b61ef9d",
+          "inci_name": "PANTHENOL",
+          "cas_no": [
+            "81-13-0",
+            "16485-10-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "131204",
+            "sid": "481107077",
+            "cas_no": "81-13-0"
+          },
+          {
+            "cid": "4678",
+            "sid": "483926094",
+            "cas_no": "16485-10-2"
+          }
+        ]
+      },
+      "niacinamide": {
+        "cosing_info": {
+          "reference": "1d812aa9-1b8a-48cb-988b-d2478184a2f4",
+          "inci_name": "NIACINAMIDE",
+          "cas_no": [
+            "98-92-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "936",
+            "sid": "483925991",
+            "cas_no": "98-92-0"
+          }
+        ]
+      },
+      "isopropyl myristate": {
+        "cosing_info": {
+          "reference": "ecf619d0-67c9-4f2d-a247-626f0ad4ab3e",
+          "inci_name": "ISOPROPYL MYRISTATE",
+          "cas_no": [
+            "110-27-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8042",
+            "sid": "481107261",
+            "cas_no": "110-27-0"
+          }
+        ]
+      },
+      "glycosphingolipids": {
+        "cosing_info": {
+          "reference": "a6d94073-7dc9-4378-a518-adfce847abf0",
+          "inci_name": "GLYCOSPHINGOLIPIDS",
+          "cas_no": [
+            "95119-86-1",
+            "125712-73-4",
+            "308067-30-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6419175",
+            "sid": "500786737",
+            "cas_no": "95119-86-1"
+          },
+          {
+            "cid": "10260120",
+            "sid": "518179667",
+            "cas_no": "125712-73-4"
+          }
+        ]
+      },
+      "cocoyl hydrolyzed keratin": {
+        "cosing_info": {
+          "reference": "3777bee6-e4ef-4875-aeaa-0f539112c074",
+          "inci_name": "COCOYL HYDROLYZED KERATIN",
+          "cas_no": []
+        },
+        "pubchem_info": []
+      },
+      "butylene glycol": {
+        "cosing_info": {
+          "reference": "0f8a5d9f-369e-49e5-beca-66607ac949a6",
+          "inci_name": "BUTYLENE GLYCOL",
+          "cas_no": [
+            "107-88-0 (i), 6290-03-5 (ii)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "benzoic acid": {
+        "cosing_info": {
+          "reference": "f7928fa0-3b53-41ab-bab2-d159039fab42",
+          "inci_name": "BENZOIC ACID",
+          "cas_no": [
+            "65-85-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "243",
+            "sid": "481107960",
+            "cas_no": "65-85-0"
+          }
+        ]
+      },
+      "phenoxyethanol": {
+        "cosing_info": {
+          "reference": "f8f3a6ab-5656-4d9a-a085-729e03a7376d",
+          "inci_name": "PHENOXYETHANOL",
+          "cas_no": [
+            "122-99-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "31236",
+            "sid": "483926132",
+            "cas_no": "122-99-6"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120833736"

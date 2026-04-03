@@ -19,11 +19,16 @@
       "Hydrogenated Vegetable Oil"
     ],
     "inci": {
-      "hydrogenated vegetable oil": [
-        "9a408358-d4d5-4c0b-bf60-38a846ae14da",
-        "1af03afd-2472-4db5-963f-63a3a5961828",
-        "c4885753-8b1b-49ec-8c0d-b4b1cc24b872"
-      ]
+      "hydrogenated vegetable oil": {
+        "cosing_info": {
+          "reference": "9a408358-d4d5-4c0b-bf60-38a846ae14da",
+          "inci_name": "HYDROGENATED VEGETABLE OIL",
+          "cas_no": [
+            "68334-28-1"
+          ]
+        },
+        "pubchem_info": []
+      }
     }
   },
   "additional_information": {

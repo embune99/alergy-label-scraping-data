@@ -1,0 +1,131 @@
+{
+  "apiVersion": "2.146",
+  "reference": "ee503bdc-a61c-4a70-883e-c9af6876b5ac",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 22.687958,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "ORYZA SATIVA STARCH"
+    ],
+    "otherRestrictions": [
+      "ban substances that deplete the ozone layer"
+    ],
+    "note": [],
+    "refNo": [],
+    "sccsOpinionUrls": [],
+    "innName": [
+      "starch"
+    ],
+    "other": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "chemicalName": [],
+    "sccsOpinion": [],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "Oryza Sativa Starch is a high-polymeric carbohydrate material derived from the peeled seeds of the Rice, Oryza sativa L., Poaceae"
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "199FA3FF5B85121BEF3B1901E4CADA56"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [
+      "232-679-6"
+    ],
+    "maximumConcentration": [],
+    "identifiedIngredient": [],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "inciName": [
+      "ORYZA SATIVA STARCH"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "9005-25-8"
+    ],
+    "substanceId": [
+      "35757"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "annexNo": [],
+    "productTypeBodyParts": [],
+    "phEurName": [
+      "oryzae amylum"
+    ],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "ABSORBENT",
+      "BINDING",
+      "BULKING",
+      "VISCOSITY CONTROLLING"
+    ],
+    "esDA_IngestDate": [
+      "2023-05-22T14:26:22.711+0200"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "corporate-search-version": [
+      "102"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-05-22T14:26:22.641+0200"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "datasource": [
+      "GROWTH_COSING"
+    ],
+    "wordingOfConditions": [],
+    "inciUsaName": [
+      "ORYZA SATIVA (RICE) STARCH"
+    ],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "ee503bdc-a61c-4a70-883e-c9af6876b5ac. Available at: urn:test",
+  "score": 22.687958
+}

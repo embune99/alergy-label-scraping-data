@@ -23,9 +23,449 @@
     "legal_grade": null,
     "ingredients": [
       "Aqua (Water",
-      "Eau) · Sodium Laureth Sulfate · Cocamidopropyl Betaine · Sodium Chloride · Dimethicone · Hydrolyzed Keratin · Combretum Farinosum Flower Nectar · PEG-7 Glyceryl Cocoate · Parfum (Fragrance) · Sodium Benzoate · Citric Acid · Amodimethicone · Guar Hydroxypropyltrimonium Chloride · Hydrogenated Castor Oil · Glycol Distearate · Laureth-4 · PEG-120 Methyl Glucose Dioleate · Glycerin · Laureth-23 · Trideceth-10 · Sodium Hydroxide · Limonene · Benzyl Salicylate · Phenoxyethanol · Hexyl Cinnamal · Propylene Glycol · Sodium Salicylate · Benzyl Alcohol · Potassium Sorbate"
+      "Eau)",
+      "Sodium Laureth Sulfate",
+      "Cocamidopropyl Betaine",
+      "Sodium Chloride",
+      "Dimethicone",
+      "Hydrolyzed Keratin",
+      "Combretum Farinosum Flower Nectar",
+      "PEG-7 Glyceryl Cocoate",
+      "Parfum (Fragrance)",
+      "Sodium Benzoate",
+      "Citric Acid",
+      "Amodimethicone",
+      "Guar Hydroxypropyltrimonium Chloride",
+      "Hydrogenated Castor Oil",
+      "Glycol Distearate",
+      "Laureth-4",
+      "PEG-120 Methyl Glucose Dioleate",
+      "Glycerin",
+      "Laureth-23",
+      "Trideceth-10",
+      "Sodium Hydroxide",
+      "Limonene",
+      "Benzyl Salicylate",
+      "Phenoxyethanol",
+      "Hexyl Cinnamal",
+      "Propylene Glycol",
+      "Sodium Salicylate",
+      "Benzyl Alcohol",
+      "Potassium Sorbate"
     ],
-    "inci": {}
+    "inci": {
+      "sodium laureth sulfate": {
+        "cosing_info": {
+          "reference": "b2661101-50d0-47fe-84c0-33a71b2ea3dc",
+          "inci_name": "SODIUM LAURETH SULFATE",
+          "cas_no": [
+            "3088-31-1",
+            "9004-82-4",
+            "68891-38-3",
+            "1335-72-4",
+            "68585-34-2",
+            "91648-56-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "23682204",
+            "sid": "505583106",
+            "cas_no": "3088-31-1"
+          },
+          {
+            "cid": "23665884",
+            "sid": null,
+            "cas_no": "9004-82-4"
+          },
+          {
+            "cid": "21889068",
+            "sid": null,
+            "cas_no": "1335-72-4"
+          }
+        ]
+      },
+      "cocamidopropyl betaine": {
+        "cosing_info": {
+          "reference": "dbd8d0cb-fa8f-41cc-b426-41c912015faf",
+          "inci_name": "COCAMIDOPROPYL BETAINE",
+          "cas_no": [
+            "97862-59-4 (generic)",
+            "61789-40-0",
+            "70851-07-9",
+            "83138-08-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "sodium chloride": {
+        "cosing_info": {
+          "reference": "e8ddd4bc-b16f-443b-9b38-b84c2dcf0a33",
+          "inci_name": "SODIUM CHLORIDE",
+          "cas_no": [
+            "7647-14-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5234",
+            "sid": "481108026",
+            "cas_no": "7647-14-5"
+          }
+        ]
+      },
+      "dimethicone": {
+        "cosing_info": {
+          "reference": "b947645c-f865-48ca-826d-35ae47722838",
+          "inci_name": "DIMETHICONE",
+          "cas_no": [
+            "63148-62-9",
+            "9006-65-9",
+            "9016-00-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "hydrolyzed keratin": {
+        "cosing_info": {
+          "reference": "1495bd9e-72b0-4c55-b0c5-2adce406c596",
+          "inci_name": "HYDROLYZED KERATIN",
+          "cas_no": [
+            "69430-36-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "combretum farinosum flower nectar": {
+        "cosing_info": {
+          "reference": "cc99ba6d-409a-43fc-a29f-7f7613b51a0c",
+          "inci_name": "COMBRETUM FARINOSUM FLOWER NECTAR",
+          "cas_no": []
+        },
+        "pubchem_info": []
+      },
+      "peg-7 glyceryl cocoate": {
+        "cosing_info": {
+          "reference": "ad992fd2-7e3f-4f1c-9e91-754051cc32c2",
+          "inci_name": "PEG-7 GLYCERYL COCOATE",
+          "cas_no": [
+            "66105-29-1, 68201-46-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "sodium benzoate": {
+        "cosing_info": {
+          "reference": "65824413-7700-4374-af04-049ca055f371",
+          "inci_name": "SODIUM BENZOATE",
+          "cas_no": [
+            "532-32-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "517055",
+            "sid": "481108023",
+            "cas_no": "532-32-1"
+          }
+        ]
+      },
+      "citric acid": {
+        "cosing_info": {
+          "reference": "398b79ca-fc64-43b5-bf15-956e6239c1db",
+          "inci_name": "CITRIC ACID",
+          "cas_no": [
+            "77-92-9",
+            "5949-29-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "311",
+            "sid": "481107970",
+            "cas_no": "77-92-9"
+          },
+          {
+            "cid": "22230",
+            "sid": "481107868",
+            "cas_no": "5949-29-1"
+          }
+        ]
+      },
+      "amodimethicone": {
+        "cosing_info": {
+          "reference": "e968f0ac-f438-4797-8680-7991794344bf",
+          "inci_name": "AMODIMETHICONE",
+          "cas_no": [
+            "71750-80-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "guar hydroxypropyltrimonium chloride": {
+        "cosing_info": {
+          "reference": "610b6f49-f014-439a-9a44-629bd56a9e0b",
+          "inci_name": "GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE",
+          "cas_no": [
+            "65497-29-2"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "hydrogenated castor oil": {
+        "cosing_info": {
+          "reference": "cb2ddcb2-92dc-47b5-b91f-bcb6b2219712",
+          "inci_name": "HYDROGENATED CASTOR OIL",
+          "cas_no": [
+            "8001-78-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "glycol distearate": {
+        "cosing_info": {
+          "reference": "04af4aa0-7e4f-4435-8670-13ac941fe648",
+          "inci_name": "GLYCOL DISTEARATE",
+          "cas_no": [
+            "627-83-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "61174",
+            "sid": "500787329",
+            "cas_no": "627-83-8"
+          }
+        ]
+      },
+      "laureth-4": {
+        "cosing_info": {
+          "reference": "7f90fffa-1969-4366-9858-a94c86cd954f",
+          "inci_name": "LAURETH-4",
+          "cas_no": [
+            "5274-68-0",
+            "9002-92-0",
+            "68439-50-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "78933",
+            "sid": "518157406",
+            "cas_no": "5274-68-0"
+          }
+        ]
+      },
+      "peg-120 methyl glucose dioleate": {
+        "cosing_info": {
+          "reference": "c788d32e-b8b9-46bc-806f-76cd2eb23647",
+          "inci_name": "PEG-120 METHYL GLUCOSE DIOLEATE",
+          "cas_no": [
+            "86893-19-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "168009879",
+            "sid": null,
+            "cas_no": "86893-19-8"
+          }
+        ]
+      },
+      "glycerin": {
+        "cosing_info": {
+          "reference": "59eb65ef-7b29-4486-a311-f194224c11e6",
+          "inci_name": "GLYCERIN",
+          "cas_no": [
+            "56-81-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "753",
+            "sid": "481110738",
+            "cas_no": "56-81-5"
+          }
+        ]
+      },
+      "laureth-23": {
+        "cosing_info": {
+          "reference": "92f10615-1747-4667-88b6-cdec9efe1c8e",
+          "inci_name": "LAURETH-23",
+          "cas_no": [
+            "9002-92-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "trideceth-10": {
+        "cosing_info": {
+          "reference": "efd9310d-5b22-4f11-8ee0-d18c4db0f00d",
+          "inci_name": "TRIDECETH-10",
+          "cas_no": [
+            "24938-91-8",
+            "69011-36-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "38049",
+            "sid": "505895342",
+            "cas_no": "24938-91-8"
+          }
+        ]
+      },
+      "sodium hydroxide": {
+        "cosing_info": {
+          "reference": "c823fcab-6ed5-460d-803a-cd7d42ec2cf7",
+          "inci_name": "SODIUM HYDROXIDE",
+          "cas_no": [
+            "1310-73-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "14798",
+            "sid": "481101463",
+            "cas_no": "1310-73-2"
+          }
+        ]
+      },
+      "limonene": {
+        "cosing_info": {
+          "reference": "d9a853fb-831a-4f8e-a3f5-d57b976d9c88",
+          "inci_name": "LIMONENE",
+          "cas_no": [
+            "138-86-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "22311",
+            "sid": "518147164",
+            "cas_no": "138-86-3"
+          }
+        ]
+      },
+      "benzyl salicylate": {
+        "cosing_info": {
+          "reference": "ba0d9117-68cd-47ec-943e-ee22d1f97e0c",
+          "inci_name": "BENZYL SALICYLATE",
+          "cas_no": [
+            "118-58-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8363",
+            "sid": "481106937",
+            "cas_no": "118-58-1"
+          }
+        ]
+      },
+      "phenoxyethanol": {
+        "cosing_info": {
+          "reference": "f8f3a6ab-5656-4d9a-a085-729e03a7376d",
+          "inci_name": "PHENOXYETHANOL",
+          "cas_no": [
+            "122-99-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "31236",
+            "sid": "483926132",
+            "cas_no": "122-99-6"
+          }
+        ]
+      },
+      "hexyl cinnamal": {
+        "cosing_info": {
+          "reference": "dfe28bfe-bd94-4e13-9f73-24aba98e5505",
+          "inci_name": "HEXYL CINNAMAL",
+          "cas_no": [
+            "101-86-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "1550884",
+            "sid": "505551463",
+            "cas_no": "101-86-0"
+          }
+        ]
+      },
+      "propylene glycol": {
+        "cosing_info": {
+          "reference": "86c80ec2-3646-450a-88b7-06496837ed33",
+          "inci_name": "PROPYLENE GLYCOL",
+          "cas_no": [
+            "57-55-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "1030",
+            "sid": "481108016",
+            "cas_no": "57-55-6"
+          }
+        ]
+      },
+      "sodium salicylate": {
+        "cosing_info": {
+          "reference": "002924f7-7ba8-467f-bb9e-75e16d16742e",
+          "inci_name": "SODIUM SALICYLATE",
+          "cas_no": [
+            "54-21-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "16760658",
+            "sid": "481107586",
+            "cas_no": "54-21-7"
+          }
+        ]
+      },
+      "benzyl alcohol": {
+        "cosing_info": {
+          "reference": "43b6ac65-f60d-42b8-8d5e-72d73a17cce5",
+          "inci_name": "BENZYL ALCOHOL",
+          "cas_no": [
+            "100-51-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "244",
+            "sid": "481107731",
+            "cas_no": "100-51-6"
+          }
+        ]
+      },
+      "potassium sorbate": {
+        "cosing_info": {
+          "reference": "134cca64-0dd3-4ab3-91d1-69126771188f",
+          "inci_name": "POTASSIUM SORBATE",
+          "cas_no": [
+            "24634-61-5",
+            "590-00-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "23676745",
+            "sid": "481107499",
+            "cas_no": "24634-61-5"
+          },
+          {
+            "cid": "23676745",
+            "sid": "481107499",
+            "cas_no": "590-00-1"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "112178401"

@@ -21,9 +21,189 @@
     "legal_grade": null,
     "ingredients": [
       "Aqua (Water",
-      "Eau) · Hydroxypropyl Starch · Butane · Propane · Panthenol · Niacinamide · Lactic Acid · Propylene Glycol · Sodium Benzoate · Sodium Hydroxide · Cetrimonium Chloride · Parfum (Fragrance) · Caprylyl/Capryl Glucoside"
+      "Eau)",
+      "Hydroxypropyl Starch",
+      "Butane",
+      "Propane",
+      "Panthenol",
+      "Niacinamide",
+      "Lactic Acid",
+      "Propylene Glycol",
+      "Sodium Benzoate",
+      "Sodium Hydroxide",
+      "Cetrimonium Chloride",
+      "Parfum (Fragrance)",
+      "Caprylyl/Capryl Glucoside"
     ],
-    "inci": {}
+    "inci": {
+      "hydroxypropyl starch": {
+        "cosing_info": {
+          "reference": "93782f1a-117c-49e6-8eca-9fe44b1ef6fc",
+          "inci_name": "HYDROXYPROPYL STARCH",
+          "cas_no": [
+            "9049-76-7",
+            "68584-86-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "24847857",
+            "sid": "518155301",
+            "cas_no": "9049-76-7"
+          }
+        ]
+      },
+      "butane": {
+        "cosing_info": {
+          "reference": "a3948035-8d7e-42b1-9fbd-8135fa9678d9",
+          "inci_name": "BUTANE",
+          "cas_no": [
+            "106-97-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "7843",
+            "sid": "481107962",
+            "cas_no": "106-97-8"
+          }
+        ]
+      },
+      "propane": {
+        "cosing_info": {
+          "reference": "e1e9357e-8ff9-4507-a248-5ba6c6014644",
+          "inci_name": "PROPANE",
+          "cas_no": [
+            "74-98-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6334",
+            "sid": "481107828",
+            "cas_no": "74-98-6"
+          }
+        ]
+      },
+      "panthenol": {
+        "cosing_info": {
+          "reference": "02b5654c-8fdf-44f4-a178-8f505b61ef9d",
+          "inci_name": "PANTHENOL",
+          "cas_no": [
+            "81-13-0",
+            "16485-10-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "131204",
+            "sid": "481107077",
+            "cas_no": "81-13-0"
+          },
+          {
+            "cid": "4678",
+            "sid": "483926094",
+            "cas_no": "16485-10-2"
+          }
+        ]
+      },
+      "niacinamide": {
+        "cosing_info": {
+          "reference": "1d812aa9-1b8a-48cb-988b-d2478184a2f4",
+          "inci_name": "NIACINAMIDE",
+          "cas_no": [
+            "98-92-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "936",
+            "sid": "483925991",
+            "cas_no": "98-92-0"
+          }
+        ]
+      },
+      "lactic acid": {
+        "cosing_info": {
+          "reference": "366b5960-4dd9-4f4a-9b25-d670d30f3b6f",
+          "inci_name": "LACTIC ACID",
+          "cas_no": [
+            "50-21-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "612",
+            "sid": "481107791",
+            "cas_no": "50-21-5"
+          }
+        ]
+      },
+      "propylene glycol": {
+        "cosing_info": {
+          "reference": "86c80ec2-3646-450a-88b7-06496837ed33",
+          "inci_name": "PROPYLENE GLYCOL",
+          "cas_no": [
+            "57-55-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "1030",
+            "sid": "481108016",
+            "cas_no": "57-55-6"
+          }
+        ]
+      },
+      "sodium benzoate": {
+        "cosing_info": {
+          "reference": "65824413-7700-4374-af04-049ca055f371",
+          "inci_name": "SODIUM BENZOATE",
+          "cas_no": [
+            "532-32-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "517055",
+            "sid": "481108023",
+            "cas_no": "532-32-1"
+          }
+        ]
+      },
+      "sodium hydroxide": {
+        "cosing_info": {
+          "reference": "c823fcab-6ed5-460d-803a-cd7d42ec2cf7",
+          "inci_name": "SODIUM HYDROXIDE",
+          "cas_no": [
+            "1310-73-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "14798",
+            "sid": "481101463",
+            "cas_no": "1310-73-2"
+          }
+        ]
+      },
+      "cetrimonium chloride": {
+        "cosing_info": {
+          "reference": "479d1457-4166-488f-b750-14ec81c62286",
+          "inci_name": "CETRIMONIUM CHLORIDE",
+          "cas_no": [
+            "112-02-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8154",
+            "sid": "516568819",
+            "cas_no": "112-02-7"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120833584"

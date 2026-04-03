@@ -27,14 +27,835 @@
     "ingredients": [
       "Crèmekleuring",
       "Aqua (Water",
-      "Eau) · Cetearyl Alcohol · Ammonium Hydroxide · Glyceryl Stearate SE · Toluene-2",
-      "5-Diamine Sulfate · Ceteareth-20 · Octyldodecanol · Sodium Laureth Sulfate · Resorcinol · Sodium Cetearyl Sulfate · Ethanolamine · Parfum (Fragrance) · m-Aminophenol · Oleic Acid · Glycerin · Sodium Sulfite · Etidronic Acid · Carbomer · 2-Amino-4-Hydroxyethylaminoanisole Sulfate · Potassium Hydroxide · Ascorbic Acid · Hydrolyzed Keratin · Linalool · Citronellol · Ethyl Linalool · Sodium Sulfate · Benzoic Acid. Ontwikkelemulsie",
-      "Eau) · Hydrogen Peroxide · Cetearyl Alcohol · PEG-40 Castor Oil · Etidronic Acid · Sodium Cetearyl Sulfate · 2",
-      "6-Dicarboxypyridine · Disodium Pyrophosphate · Potassium Hydroxide · Sodium Benzoate. Intens verzorgend masker",
-      "Eau) · Cetearyl Alcohol · Glycerin · Behentrimonium Chloride · Distearoylethyl Hydroxyethylmonium Methosulfate · Hydrolyzed Keratin · Magnesium Citrate · Magnesium Chloride · Amodimethicone/Morpholinomethyl Silsesquioxane Copolymer · Isopropyl Myristate · Behenamidopropyl Dimethylamine · Lactic Acid · Parfum (Fragrance) · Amodimethicone · Butyrospermum Parkii (Shea) Butter · Isopropyl Alcohol · Sodium Benzoate · Ceteareth-20 · Linalool · Sodium Hydroxide · Trideceth-10 · Hexyl Cinnamal · Limonene · Phenoxyethanol · Trideceth-5 · Benzyl Alcohol · Potassium Sorbate · Methyl Benzoate. Bevat waterstofperoxide",
+      "Eau)",
+      "Cetearyl Alcohol",
+      "Ammonium Hydroxide",
+      "Glyceryl Stearate SE",
+      "Toluene-2",
+      "5-Diamine Sulfate",
+      "Ceteareth-20",
+      "Octyldodecanol",
+      "Sodium Laureth Sulfate",
+      "Resorcinol",
+      "Sodium Cetearyl Sulfate",
+      "Ethanolamine",
+      "Parfum (Fragrance)",
+      "m-Aminophenol",
+      "Oleic Acid",
+      "Glycerin",
+      "Sodium Sulfite",
+      "Etidronic Acid",
+      "Carbomer",
+      "2-Amino-4-Hydroxyethylaminoanisole Sulfate",
+      "Potassium Hydroxide",
+      "Ascorbic Acid",
+      "Hydrolyzed Keratin",
+      "Linalool",
+      "Citronellol",
+      "Ethyl Linalool",
+      "Sodium Sulfate",
+      "Benzoic Acid. Ontwikkelemulsie",
+      "Hydrogen Peroxide",
+      "PEG-40 Castor Oil",
+      "2",
+      "6-Dicarboxypyridine",
+      "Disodium Pyrophosphate",
+      "Sodium Benzoate. Intens verzorgend masker",
+      "Behentrimonium Chloride",
+      "Distearoylethyl Hydroxyethylmonium Methosulfate",
+      "Magnesium Citrate",
+      "Magnesium Chloride",
+      "Amodimethicone/Morpholinomethyl Silsesquioxane Copolymer",
+      "Isopropyl Myristate",
+      "Behenamidopropyl Dimethylamine",
+      "Lactic Acid",
+      "Amodimethicone",
+      "Butyrospermum Parkii (Shea) Butter",
+      "Isopropyl Alcohol",
+      "Sodium Benzoate",
+      "Sodium Hydroxide",
+      "Trideceth-10",
+      "Hexyl Cinnamal",
+      "Limonene",
+      "Phenoxyethanol",
+      "Trideceth-5",
+      "Benzyl Alcohol",
+      "Potassium Sorbate",
+      "Methyl Benzoate. Bevat waterstofperoxide",
       "fenyleendiaminen (tolueendiaminen) en resorcinol."
     ],
-    "inci": {}
+    "inci": {
+      "cetearyl alcohol": {
+        "cosing_info": {
+          "reference": "194ab09b-a86f-40a8-9883-b63e577e0807",
+          "inci_name": "CETEARYL ALCOHOL",
+          "cas_no": [
+            "67762-27-0",
+            "8005-44-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "62238",
+            "sid": null,
+            "cas_no": "8005-44-5"
+          }
+        ]
+      },
+      "ammonium hydroxide": {
+        "cosing_info": {
+          "reference": "c828cda2-4204-4cbc-9cc0-cac0a1461984",
+          "inci_name": "AMMONIUM HYDROXIDE",
+          "cas_no": [
+            "1336-21-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "14923",
+            "sid": "481107953",
+            "cas_no": "1336-21-6"
+          }
+        ]
+      },
+      "glyceryl stearate se": {
+        "cosing_info": {
+          "reference": "66967107-41f7-4fa5-86da-f937eb66018f",
+          "inci_name": "GLYCERYL STEARATE SE",
+          "cas_no": [
+            "11099-07-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "93066",
+            "sid": "518177284",
+            "cas_no": "11099-07-3"
+          }
+        ]
+      },
+      "toluene-2": {
+        "cosing_info": {
+          "reference": "b641f207-4c89-41ae-9211-2254901d10e6",
+          "inci_name": "2-Methyl-m-phenylenediamine (Toluene-2,6-diamine)",
+          "cas_no": [
+            "823-40-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "13205",
+            "sid": "500726542",
+            "cas_no": "823-40-5"
+          }
+        ]
+      },
+      "ceteareth-20": {
+        "cosing_info": {
+          "reference": "05480beb-c679-4042-968d-2368618d2cee",
+          "inci_name": "CETEARETH-20",
+          "cas_no": [
+            "68439-49-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "octyldodecanol": {
+        "cosing_info": {
+          "reference": "50436008-d73a-42e0-817b-8d693cb20b97",
+          "inci_name": "OCTYLDODECANOL",
+          "cas_no": [
+            "5333-42-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "21414",
+            "sid": "500811329",
+            "cas_no": "5333-42-6"
+          }
+        ]
+      },
+      "sodium laureth sulfate": {
+        "cosing_info": {
+          "reference": "b2661101-50d0-47fe-84c0-33a71b2ea3dc",
+          "inci_name": "SODIUM LAURETH SULFATE",
+          "cas_no": [
+            "3088-31-1",
+            "9004-82-4",
+            "68891-38-3",
+            "1335-72-4",
+            "68585-34-2",
+            "91648-56-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "23682204",
+            "sid": "505583106",
+            "cas_no": "3088-31-1"
+          },
+          {
+            "cid": "23665884",
+            "sid": null,
+            "cas_no": "9004-82-4"
+          },
+          {
+            "cid": "21889068",
+            "sid": null,
+            "cas_no": "1335-72-4"
+          }
+        ]
+      },
+      "resorcinol": {
+        "cosing_info": {
+          "reference": "5bbe6c29-3be7-40a1-98d5-b601bb2371c4",
+          "inci_name": "RESORCINOL",
+          "cas_no": [
+            "108-46-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5054",
+            "sid": "481107831",
+            "cas_no": "108-46-3"
+          }
+        ]
+      },
+      "sodium cetearyl sulfate": {
+        "cosing_info": {
+          "reference": "2a463797-af5b-4c4e-ae17-ce5e83af310e",
+          "inci_name": "SODIUM CETEARYL SULFATE",
+          "cas_no": [
+            "59186-41-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "23621259",
+            "sid": "500827253",
+            "cas_no": "59186-41-3"
+          }
+        ]
+      },
+      "ethanolamine": {
+        "cosing_info": {
+          "reference": "051cc5b1-668a-4afa-a304-554087e2dc0c",
+          "inci_name": "ETHANOLAMINE",
+          "cas_no": [
+            "141-43-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "700",
+            "sid": "483925951",
+            "cas_no": "141-43-5"
+          }
+        ]
+      },
+      "m-aminophenol": {
+        "cosing_info": {
+          "reference": "637f8a15-1693-4f20-91d8-39cf99beef73",
+          "inci_name": "M-AMINOPHENOL",
+          "cas_no": [
+            "591-27-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "11568",
+            "sid": "500736404",
+            "cas_no": "591-27-5"
+          }
+        ]
+      },
+      "oleic acid": {
+        "cosing_info": {
+          "reference": "0f460f76-96c5-46c9-a125-d96c9e963a35",
+          "inci_name": "OLEIC ACID",
+          "cas_no": [
+            "112-80-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "445639",
+            "sid": "481107815",
+            "cas_no": "112-80-1"
+          }
+        ]
+      },
+      "glycerin": {
+        "cosing_info": {
+          "reference": "59eb65ef-7b29-4486-a311-f194224c11e6",
+          "inci_name": "GLYCERIN",
+          "cas_no": [
+            "56-81-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "753",
+            "sid": "481110738",
+            "cas_no": "56-81-5"
+          }
+        ]
+      },
+      "sodium sulfite": {
+        "cosing_info": {
+          "reference": "c72b6047-2846-42d2-8e0a-6f05d062184b",
+          "inci_name": "SODIUM SULFITE",
+          "cas_no": [
+            "7757-83-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "24437",
+            "sid": "481107590",
+            "cas_no": "7757-83-7"
+          }
+        ]
+      },
+      "etidronic acid": {
+        "cosing_info": {
+          "reference": "bed5db5c-4406-4e4b-964c-9d6fa74ee3c7",
+          "inci_name": "ETIDRONIC ACID",
+          "cas_no": [
+            "2809-21-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "3305",
+            "sid": "481107159",
+            "cas_no": "2809-21-4"
+          }
+        ]
+      },
+      "carbomer": {
+        "cosing_info": {
+          "reference": "e3f36da9-bb8f-4de8-a8d0-c3995cd87e7f",
+          "inci_name": "CARBOMER",
+          "cas_no": [
+            "9007-20-9",
+            "9003-01-4",
+            "76050-42-5",
+            "9062-04-8",
+            "9007-16-3",
+            "9007-17-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "91824753",
+            "sid": null,
+            "cas_no": "9062-04-8"
+          }
+        ]
+      },
+      "2-amino-4-hydroxyethylaminoanisole sulfate": {
+        "cosing_info": {
+          "reference": "3e4d6dc8-a108-4056-bfd0-63ee59614c45",
+          "inci_name": "2-AMINO-4-HYDROXYETHYLAMINOANISOLE SULFATE",
+          "cas_no": [
+            "83763-48-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "14453744",
+            "sid": "500728624",
+            "cas_no": "83763-48-8"
+          }
+        ]
+      },
+      "potassium hydroxide": {
+        "cosing_info": {
+          "reference": "46d24c83-1ace-4209-a88d-c3f205d323de",
+          "inci_name": "POTASSIUM HYDROXIDE",
+          "cas_no": [
+            "1310-58-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "14797",
+            "sid": "481108011",
+            "cas_no": "1310-58-3"
+          }
+        ]
+      },
+      "ascorbic acid": {
+        "cosing_info": {
+          "reference": "4566935f-c71f-40e0-9f50-cde43ab151b2",
+          "inci_name": "ASCORBIC ACID",
+          "cas_no": [
+            "50-81-7",
+            "62624-30-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "54670067",
+            "sid": "481107957",
+            "cas_no": "50-81-7"
+          },
+          {
+            "cid": "54676860",
+            "sid": "505578434",
+            "cas_no": "62624-30-0"
+          }
+        ]
+      },
+      "hydrolyzed keratin": {
+        "cosing_info": {
+          "reference": "1495bd9e-72b0-4c55-b0c5-2adce406c596",
+          "inci_name": "HYDROLYZED KERATIN",
+          "cas_no": [
+            "69430-36-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "linalool": {
+        "cosing_info": {
+          "reference": "8f47a2fa-c519-434c-8bb9-8385cf05fea5",
+          "inci_name": "LINALOOL",
+          "cas_no": [
+            "78-70-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6549",
+            "sid": "482028551",
+            "cas_no": "78-70-6"
+          }
+        ]
+      },
+      "citronellol": {
+        "cosing_info": {
+          "reference": "0dc4ed58-7d3b-4143-a03f-a9d1dccdabc9",
+          "inci_name": "CITRONELLOL",
+          "cas_no": [
+            "106-22-9",
+            "26489-01-0",
+            "7540-51-4",
+            "1117-61-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8842",
+            "sid": "482039864",
+            "cas_no": "106-22-9"
+          },
+          {
+            "cid": "8842",
+            "sid": "482039864",
+            "cas_no": "26489-01-0"
+          },
+          {
+            "cid": "7793",
+            "sid": "505563004",
+            "cas_no": "7540-51-4"
+          },
+          {
+            "cid": "101977",
+            "sid": "483924806",
+            "cas_no": "1117-61-9"
+          }
+        ]
+      },
+      "ethyl linalool": {
+        "cosing_info": {
+          "reference": "8d5a2513-3e2c-44f1-8f85-624d6342866f",
+          "inci_name": "ETHYL LINALOOL",
+          "cas_no": [
+            "10339-55-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6433547",
+            "sid": "505591980",
+            "cas_no": "10339-55-6"
+          }
+        ]
+      },
+      "sodium sulfate": {
+        "cosing_info": {
+          "reference": "4d29ce4a-462e-4edb-b88a-9eeacd97005c",
+          "inci_name": "SODIUM SULFATE",
+          "cas_no": [
+            "7727-73-3",
+            "7757-82-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "62649",
+            "sid": "516577841",
+            "cas_no": "7727-73-3"
+          },
+          {
+            "cid": "24436",
+            "sid": "481108029",
+            "cas_no": "7757-82-6"
+          }
+        ]
+      },
+      "hydrogen peroxide": {
+        "cosing_info": {
+          "reference": "b64c5682-9399-41d4-9dbc-68f4cf277c5a",
+          "inci_name": "HYDROGEN PEROXIDE",
+          "cas_no": [
+            "7722-84-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "784",
+            "sid": "481107986",
+            "cas_no": "7722-84-1"
+          }
+        ]
+      },
+      "peg-40 castor oil": {
+        "cosing_info": {
+          "reference": "cb0fa7cd-c5d4-42d8-a944-173e051b6842",
+          "inci_name": "PEG-40 CASTOR OIL",
+          "cas_no": [
+            "61791-12-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "2": {
+        "cosing_info": {
+          "reference": "2d34c014-91f9-4f21-8c6b-35048316fe43",
+          "inci_name": "CI 42520",
+          "cas_no": [
+            "3248-91-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "14454445",
+            "sid": "505567965",
+            "cas_no": "3248-91-7"
+          }
+        ]
+      },
+      "disodium pyrophosphate": {
+        "cosing_info": {
+          "reference": "9a36d68d-cfcc-48b5-a7b1-b5e0286611ea",
+          "inci_name": "DISODIUM PYROPHOSPHATE",
+          "cas_no": [
+            "7758-16-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "24451",
+            "sid": "500778501",
+            "cas_no": "7758-16-9"
+          }
+        ]
+      },
+      "behentrimonium chloride": {
+        "cosing_info": {
+          "reference": "4e76b734-8f70-43a9-aa01-f4759629abc2",
+          "inci_name": "BEHENTRIMONIUM CHLORIDE",
+          "cas_no": [
+            "17301-53-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "3014969",
+            "sid": "505556930",
+            "cas_no": "17301-53-0"
+          }
+        ]
+      },
+      "distearoylethyl hydroxyethylmonium methosulfate": {
+        "cosing_info": {
+          "reference": "54320e4b-b7f8-45e7-800b-b65648f6f901",
+          "inci_name": "DISTEAROYLETHYL HYDROXYETHYLMONIUM METHOSULFATE",
+          "cas_no": []
+        },
+        "pubchem_info": [
+          {
+            "cid": "21124016",
+            "sid": "505585377",
+            "cas_no": null
+          }
+        ]
+      },
+      "magnesium citrate": {
+        "cosing_info": {
+          "reference": "733c2c37-bc56-4d6a-81ab-43b959b855d2",
+          "inci_name": "MAGNESIUM CITRATE",
+          "cas_no": [
+            "7779-25-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6099959",
+            "sid": "483925818",
+            "cas_no": "7779-25-1"
+          }
+        ]
+      },
+      "magnesium chloride": {
+        "cosing_info": {
+          "reference": "d5ccc455-9d51-4f8d-b4da-fa8ff1f50e56",
+          "inci_name": "MAGNESIUM CHLORIDE",
+          "cas_no": [
+            "7786-30-3",
+            "7791-18-6 (hydrate)"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5360315",
+            "sid": "481107801",
+            "cas_no": "7786-30-3"
+          }
+        ]
+      },
+      "isopropyl myristate": {
+        "cosing_info": {
+          "reference": "ecf619d0-67c9-4f2d-a247-626f0ad4ab3e",
+          "inci_name": "ISOPROPYL MYRISTATE",
+          "cas_no": [
+            "110-27-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8042",
+            "sid": "481107261",
+            "cas_no": "110-27-0"
+          }
+        ]
+      },
+      "behenamidopropyl dimethylamine": {
+        "cosing_info": {
+          "reference": "ace0b55b-0928-4e86-95a0-e9bd1fbbdf6a",
+          "inci_name": "BEHENAMIDOPROPYL DIMETHYLAMINE",
+          "cas_no": [
+            "60270-33-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "108912",
+            "sid": "500760298",
+            "cas_no": "60270-33-9"
+          }
+        ]
+      },
+      "lactic acid": {
+        "cosing_info": {
+          "reference": "366b5960-4dd9-4f4a-9b25-d670d30f3b6f",
+          "inci_name": "LACTIC ACID",
+          "cas_no": [
+            "50-21-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "612",
+            "sid": "481107791",
+            "cas_no": "50-21-5"
+          }
+        ]
+      },
+      "amodimethicone": {
+        "cosing_info": {
+          "reference": "e968f0ac-f438-4797-8680-7991794344bf",
+          "inci_name": "AMODIMETHICONE",
+          "cas_no": [
+            "71750-80-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "isopropyl alcohol": {
+        "cosing_info": {
+          "reference": "70d92e7b-a00c-4753-9dd6-4db8493aeb78",
+          "inci_name": "ISOPROPYL ALCOHOL",
+          "cas_no": [
+            "67-63-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "3776",
+            "sid": "481107989",
+            "cas_no": "67-63-0"
+          }
+        ]
+      },
+      "sodium benzoate": {
+        "cosing_info": {
+          "reference": "65824413-7700-4374-af04-049ca055f371",
+          "inci_name": "SODIUM BENZOATE",
+          "cas_no": [
+            "532-32-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "517055",
+            "sid": "481108023",
+            "cas_no": "532-32-1"
+          }
+        ]
+      },
+      "sodium hydroxide": {
+        "cosing_info": {
+          "reference": "c823fcab-6ed5-460d-803a-cd7d42ec2cf7",
+          "inci_name": "SODIUM HYDROXIDE",
+          "cas_no": [
+            "1310-73-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "14798",
+            "sid": "481101463",
+            "cas_no": "1310-73-2"
+          }
+        ]
+      },
+      "trideceth-10": {
+        "cosing_info": {
+          "reference": "efd9310d-5b22-4f11-8ee0-d18c4db0f00d",
+          "inci_name": "TRIDECETH-10",
+          "cas_no": [
+            "24938-91-8",
+            "69011-36-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "38049",
+            "sid": "505895342",
+            "cas_no": "24938-91-8"
+          }
+        ]
+      },
+      "hexyl cinnamal": {
+        "cosing_info": {
+          "reference": "dfe28bfe-bd94-4e13-9f73-24aba98e5505",
+          "inci_name": "HEXYL CINNAMAL",
+          "cas_no": [
+            "101-86-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "1550884",
+            "sid": "505551463",
+            "cas_no": "101-86-0"
+          }
+        ]
+      },
+      "limonene": {
+        "cosing_info": {
+          "reference": "d9a853fb-831a-4f8e-a3f5-d57b976d9c88",
+          "inci_name": "LIMONENE",
+          "cas_no": [
+            "138-86-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "22311",
+            "sid": "518147164",
+            "cas_no": "138-86-3"
+          }
+        ]
+      },
+      "phenoxyethanol": {
+        "cosing_info": {
+          "reference": "f8f3a6ab-5656-4d9a-a085-729e03a7376d",
+          "inci_name": "PHENOXYETHANOL",
+          "cas_no": [
+            "122-99-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "31236",
+            "sid": "483926132",
+            "cas_no": "122-99-6"
+          }
+        ]
+      },
+      "trideceth-5": {
+        "cosing_info": {
+          "reference": "2dd78c9e-f10e-4e54-af41-9e2457441267",
+          "inci_name": "TRIDECETH-5",
+          "cas_no": [
+            "24938-91-8",
+            "69011-36-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "38049",
+            "sid": "505895342",
+            "cas_no": "24938-91-8"
+          }
+        ]
+      },
+      "benzyl alcohol": {
+        "cosing_info": {
+          "reference": "43b6ac65-f60d-42b8-8d5e-72d73a17cce5",
+          "inci_name": "BENZYL ALCOHOL",
+          "cas_no": [
+            "100-51-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "244",
+            "sid": "481107731",
+            "cas_no": "100-51-6"
+          }
+        ]
+      },
+      "potassium sorbate": {
+        "cosing_info": {
+          "reference": "134cca64-0dd3-4ab3-91d1-69126771188f",
+          "inci_name": "POTASSIUM SORBATE",
+          "cas_no": [
+            "24634-61-5",
+            "590-00-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "23676745",
+            "sid": "481107499",
+            "cas_no": "24634-61-5"
+          },
+          {
+            "cid": "23676745",
+            "sid": "481107499",
+            "cas_no": "590-00-1"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120831343"

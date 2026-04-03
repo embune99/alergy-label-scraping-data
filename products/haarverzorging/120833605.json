@@ -17,11 +17,356 @@
     "legal_grade": null,
     "ingredients": [
       "Aqua (Water",
-      "Eau) · Cera Alba (Beeswax",
-      "Cire d'Abeille) · Petrolatum · PVP · C12-15 Alkyl Benzoate · Stearic Acid · Palmitic Acid · Cetyl Alcohol · Parfum (Fragrance) · Steareth-21 · Steareth-2 · Paraffinum Liquidum (Mineral Oil",
-      "Huile Minérale) · PPG-5-Ceteth-20 · Phenoxyethanol · Panthenol · Niacinamide · Oleth-20 · VP/DMAPA Acrylates Copolymer · Cetearyl Alcohol · Caprylyl Glycol · Acrylates/ C10-30 Alkyl Acrylate Crosspolymer · Aminomethyl Propanol · Benzyl Alcohol · Dicetyl Phosphate · Ceteth-10 Phosphate · C12-15 Alcohols · Ethylhexylglycerin · Benzalkonium Chloride · Tropolone"
+      "Eau)",
+      "Cera Alba (Beeswax",
+      "Cire d'Abeille)",
+      "Petrolatum",
+      "PVP",
+      "C12-15 Alkyl Benzoate",
+      "Stearic Acid",
+      "Palmitic Acid",
+      "Cetyl Alcohol",
+      "Parfum (Fragrance)",
+      "Steareth-21",
+      "Steareth-2",
+      "Paraffinum Liquidum (Mineral Oil",
+      "Huile Minérale)",
+      "PPG-5-Ceteth-20",
+      "Phenoxyethanol",
+      "Panthenol",
+      "Niacinamide",
+      "Oleth-20",
+      "VP/DMAPA Acrylates Copolymer",
+      "Cetearyl Alcohol",
+      "Caprylyl Glycol",
+      "Acrylates/ C10-30 Alkyl Acrylate Crosspolymer",
+      "Aminomethyl Propanol",
+      "Benzyl Alcohol",
+      "Dicetyl Phosphate",
+      "Ceteth-10 Phosphate",
+      "C12-15 Alcohols",
+      "Ethylhexylglycerin",
+      "Benzalkonium Chloride",
+      "Tropolone"
     ],
-    "inci": {}
+    "inci": {
+      "petrolatum": {
+        "cosing_info": {
+          "reference": "708f3232-a2e3-4c9e-a418-e0c0e18b7476",
+          "inci_name": "PETROLATUM",
+          "cas_no": [
+            "8009-03-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "pvp": {
+        "cosing_info": {
+          "reference": "d25846e6-023c-4224-bfdc-0b156eb53676",
+          "inci_name": "PVP",
+          "cas_no": [
+            "9003-39-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "c12-15 alkyl benzoate": {
+        "cosing_info": {
+          "reference": "f4c3b10d-10f9-4e80-bb53-9a328ca0be2c",
+          "inci_name": "C12-15 ALKYL BENZOATE",
+          "cas_no": [
+            "68411-27-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "stearic acid": {
+        "cosing_info": {
+          "reference": "bcf4f8bf-edd1-45ae-b4f6-6dd7f10d8e3a",
+          "inci_name": "STEARIC ACID",
+          "cas_no": [
+            "57-11-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5281",
+            "sid": "481108030",
+            "cas_no": "57-11-4"
+          }
+        ]
+      },
+      "palmitic acid": {
+        "cosing_info": {
+          "reference": "4a1fb36f-ea4f-471f-8544-604164170721",
+          "inci_name": "PALMITIC ACID",
+          "cas_no": [
+            "57-10-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "985",
+            "sid": "481108005",
+            "cas_no": "57-10-3"
+          }
+        ]
+      },
+      "cetyl alcohol": {
+        "cosing_info": {
+          "reference": "f3568268-ce87-4438-87d8-c8534cc28a30",
+          "inci_name": "CETYL ALCOHOL",
+          "cas_no": [
+            "36653-82-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "2682",
+            "sid": "482037608",
+            "cas_no": "36653-82-4"
+          }
+        ]
+      },
+      "steareth-21": {
+        "cosing_info": {
+          "reference": "a9349010-a19f-42bb-9938-e4df3a309a7b",
+          "inci_name": "STEARETH-21",
+          "cas_no": [
+            "9005-00-9 (Generic)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "steareth-2": {
+        "cosing_info": {
+          "reference": "1dde185a-37d7-4d9b-bd62-a159507f49a6",
+          "inci_name": "STEARETH-2",
+          "cas_no": [
+            "9005-00-9 (Generic)",
+            "16057-43-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "4165923",
+            "sid": "505885064",
+            "cas_no": "16057-43-5"
+          }
+        ]
+      },
+      "ppg-5-ceteth-20": {
+        "cosing_info": {
+          "reference": "91d43244-0568-4de2-919b-6032e2f13f5f",
+          "inci_name": "PPG-5-CETETH-20",
+          "cas_no": [
+            "9087-53-0",
+            "37311-01-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "phenoxyethanol": {
+        "cosing_info": {
+          "reference": "f8f3a6ab-5656-4d9a-a085-729e03a7376d",
+          "inci_name": "PHENOXYETHANOL",
+          "cas_no": [
+            "122-99-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "31236",
+            "sid": "483926132",
+            "cas_no": "122-99-6"
+          }
+        ]
+      },
+      "panthenol": {
+        "cosing_info": {
+          "reference": "02b5654c-8fdf-44f4-a178-8f505b61ef9d",
+          "inci_name": "PANTHENOL",
+          "cas_no": [
+            "81-13-0",
+            "16485-10-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "131204",
+            "sid": "481107077",
+            "cas_no": "81-13-0"
+          },
+          {
+            "cid": "4678",
+            "sid": "483926094",
+            "cas_no": "16485-10-2"
+          }
+        ]
+      },
+      "niacinamide": {
+        "cosing_info": {
+          "reference": "1d812aa9-1b8a-48cb-988b-d2478184a2f4",
+          "inci_name": "NIACINAMIDE",
+          "cas_no": [
+            "98-92-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "936",
+            "sid": "483925991",
+            "cas_no": "98-92-0"
+          }
+        ]
+      },
+      "oleth-20": {
+        "cosing_info": {
+          "reference": "f6333c9d-31db-489c-85d8-558def764603",
+          "inci_name": "OLETH-20",
+          "cas_no": [
+            "9004-98-2"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "cetearyl alcohol": {
+        "cosing_info": {
+          "reference": "194ab09b-a86f-40a8-9883-b63e577e0807",
+          "inci_name": "CETEARYL ALCOHOL",
+          "cas_no": [
+            "67762-27-0",
+            "8005-44-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "62238",
+            "sid": null,
+            "cas_no": "8005-44-5"
+          }
+        ]
+      },
+      "caprylyl glycol": {
+        "cosing_info": {
+          "reference": "9b06d311-16ec-4711-90cd-a561cbae6078",
+          "inci_name": "CAPRYLYL GLYCOL",
+          "cas_no": [
+            "1117-86-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "14231",
+            "sid": "500715531",
+            "cas_no": "1117-86-8"
+          }
+        ]
+      },
+      "aminomethyl propanol": {
+        "cosing_info": {
+          "reference": "c2762f8b-8a82-4c4a-aafc-a595115f1c2b",
+          "inci_name": "AMINOMETHYL PROPANOL",
+          "cas_no": [
+            "124-68-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "11807",
+            "sid": "505459246",
+            "cas_no": "124-68-5"
+          }
+        ]
+      },
+      "benzyl alcohol": {
+        "cosing_info": {
+          "reference": "43b6ac65-f60d-42b8-8d5e-72d73a17cce5",
+          "inci_name": "BENZYL ALCOHOL",
+          "cas_no": [
+            "100-51-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "244",
+            "sid": "481107731",
+            "cas_no": "100-51-6"
+          }
+        ]
+      },
+      "dicetyl phosphate": {
+        "cosing_info": {
+          "reference": "9e5e8c6b-d4f3-4cc3-b415-7d868637d5c2",
+          "inci_name": "DICETYL PHOSPHATE",
+          "cas_no": [
+            "2197-63-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "75143",
+            "sid": "505582361",
+            "cas_no": "2197-63-9"
+          }
+        ]
+      },
+      "c12-15 alcohols": {
+        "cosing_info": {
+          "reference": "ad0c2006-5a0a-48bd-ab2d-d4ce560a48d4",
+          "inci_name": "C12-15 ALCOHOLS",
+          "cas_no": [
+            "63393-82-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "ethylhexylglycerin": {
+        "cosing_info": {
+          "reference": "c4da9c7a-3487-4c25-863c-9ddd013282b5",
+          "inci_name": "ETHYLHEXYLGLYCERIN",
+          "cas_no": [
+            "70445-33-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "9859093",
+            "sid": "483927937",
+            "cas_no": "70445-33-9"
+          }
+        ]
+      },
+      "benzalkonium chloride": {
+        "cosing_info": {
+          "reference": "c1bdfb92-ec04-44cd-a746-0bad91792954",
+          "inci_name": "BENZALKONIUM CHLORIDE",
+          "cas_no": [
+            "63449-41-2",
+            "68391-01-5",
+            "68424-85-1",
+            "85409-22-9"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "tropolone": {
+        "cosing_info": {
+          "reference": "356442fd-8ff9-41a4-a2af-1ef0ff53e090",
+          "inci_name": "TROPOLONE",
+          "cas_no": [
+            "533-75-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "10789",
+            "sid": "504687791",
+            "cas_no": "533-75-5"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120833605"

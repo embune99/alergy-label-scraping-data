@@ -1,0 +1,137 @@
+{
+  "apiVersion": "2.146",
+  "reference": "2d34c014-91f9-4f21-8c6b-35048316fe43",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 8.892588,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "CI 42520"
+    ],
+    "otherRestrictions": [
+      "ban substances that deplete the ozone layer"
+    ],
+    "note": [],
+    "refNo": [],
+    "sccsOpinionUrls": [
+      "http://ec.europa.eu/health/ph_risk/committees/sccp/documents/out258_en.pdf",
+      "https://ec.europa.eu/health/sites/health/files/scientific_committees/consumer_safety/docs/sccs_o_066.pdf"
+    ],
+    "innName": [],
+    "other": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "chemicalName": [
+      "4-[(4-Amino-m-tolyl)(4-imino-3-methylcyclohexa-2,5-dien-1-ylidene)methyl]-o-toluidine monohydrochloride"
+    ],
+    "sccsOpinion": [
+      "Opinion on Basic Violet 2",
+      "Opinion on Basic Violet 2"
+    ],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "CI 42520 is classed chemically as a triphenylmethane colour. It conforms to the formula:"
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "701CC85E6C3BFEAAD9DD2AFF7FC555EC"
+    ],
+    "cosmeticRestriction": [
+      "IV/67 (CI 42520)\r\nIII/278 (Basic Violet 2)"
+    ],
+    "ecNo": [
+      "221-831-7"
+    ],
+    "maximumConcentration": [],
+    "identifiedIngredient": [
+      "30463"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "inciName": [
+      "CI 42520"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "3248-91-7"
+    ],
+    "substanceId": [
+      "32760"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "annexNo": [],
+    "productTypeBodyParts": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "COLORANT",
+      "HAIR DYEING"
+    ],
+    "esDA_IngestDate": [
+      "2023-05-22T14:30:35.706+0200"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "corporate-search-version": [
+      "102"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-05-22T14:30:35.679+0200"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "datasource": [
+      "GROWTH_COSING"
+    ],
+    "wordingOfConditions": [],
+    "inciUsaName": [
+      "Basic Violet 2"
+    ],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "2d34c014-91f9-4f21-8c6b-35048316fe43. Available at: urn:test",
+  "score": 8.892588
+}

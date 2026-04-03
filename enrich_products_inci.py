@@ -17,8 +17,7 @@ sys.path.insert(0, str(LOOKUP_DIR / "cosing"))
 sys.path.insert(0, str(LOOKUP_DIR / "pubchem"))
 
 from lookup_cosing import fetch_page as cosing_fetch
-from lookup_pubchem import search_by_name as pubchem_search_name
-from lookup_pubchem import search_by_cas as pubchem_search_cas
+from lookup_pubchem import search as pubchem_search
 
 # Configuration
 PRODUCTS_DIR = Path(__file__).parent / "products"
@@ -69,11 +68,11 @@ def extract_cosing_info(item: Dict[str, Any]) -> Optional[Dict[str, Any]]:
     inci_name = inci_names[0] if inci_names else ""
     cas_no_raw = metadata.get("casNo", [])
 
-    # Split CAS numbers by " / " and flatten the list
+    # Split CAS numbers by "/" (with or without spaces) and flatten the list
     cas_no = []
     for cas in cas_no_raw:
         if isinstance(cas, str):
-            cas_no.extend([c.strip() for c in cas.split(" / ") if c.strip()])
+            cas_no.extend([c.strip() for c in cas.split("/") if c.strip()])
         else:
             cas_no.append(cas)
 
@@ -96,7 +95,7 @@ def fetch_pubchem_info(ingredient: str, inci_name: Optional[str] = None, cas_lis
         cas_list: List of CAS numbers from CosIng (if available)
 
     Returns:
-        List of PubChem info objects with cid, sid, cas_no
+        List of PubChem info dict with cid, sid, cas_no
     """
     pubchem_results = []
 
@@ -105,30 +104,27 @@ def fetch_pubchem_info(ingredient: str, inci_name: Optional[str] = None, cas_lis
         if cas_list:
             for cas in cas_list:
                 if cas and cas != "-":
-                    print(f"    → PubChem lookup by CAS: {cas}")
-                    results = pubchem_search_cas(cas)
-                    if results:
-                        pubchem_results.extend(results)
-                    time.sleep(0.1)
+                    print(f"    → PubChem lookup: {cas}")
+                    result = pubchem_search(cas)
+                    if result:
+                        result["cas_no"] = cas
+                        pubchem_results.append(result)
 
         # Case 2: No CAS but has INCI name - search by INCI name
         elif inci_name:
-            print(f"    → PubChem lookup by INCI name: {inci_name}")
-            results = pubchem_search_name(inci_name)
-            if results:
-                # Add empty cas_no to results from name search
-                for r in results:
-                    r["cas_no"] = None
-                pubchem_results.extend(results)
+            print(f"    → PubChem lookup: {inci_name}")
+            result = pubchem_search(inci_name)
+            if result:
+                result["cas_no"] = None
+                pubchem_results.append(result)
 
         # Case 3: No CosIng data at all - search by original ingredient name
         else:
-            print(f"    → PubChem lookup by ingredient name: {ingredient}")
-            results = pubchem_search_name(ingredient)
-            if results:
-                for r in results:
-                    r["cas_no"] = None
-                pubchem_results.extend(results)
+            print(f"    → PubChem lookup: {ingredient}")
+            result = pubchem_search(ingredient)
+            if result:
+                result["cas_no"] = None
+                pubchem_results.append(result)
 
     except Exception as e:
         print(f"    [PubChem error: {e}]")
@@ -150,9 +146,15 @@ def enrich_product(product_path: Path) -> bool:
 
     inferred = data.get("inferred_information", {})
     ingredients = inferred.get("ingredients", [])
+    inci = inferred.get("inci", {})
 
     if not ingredients:
         print(f"Skipping {product_path.name}: no ingredients found")
+        return False
+
+    # Skip if already enriched (inci has data)
+    if inci:
+        print(f"Skipping {product_path.name}: already enriched ({len(inci)} ingredients)")
         return False
 
     # Initialize inci dict if not exists

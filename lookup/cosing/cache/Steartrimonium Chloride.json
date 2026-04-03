@@ -1,0 +1,132 @@
+{
+  "apiVersion": "2.146",
+  "reference": "17e465ce-c927-4711-aeb9-d63326df7029",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 19.169407,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "STEARTRIMONIUM CHLORIDE"
+    ],
+    "otherRestrictions": [],
+    "note": [],
+    "refNo": [],
+    "sccsOpinionUrls": [
+      "http://ec.europa.eu/health/scientific_committees/consumer_safety/docs/sccs_o_012.pdf"
+    ],
+    "innName": [],
+    "other": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "chemicalName": [
+      "Trimethyloctadecylammonium chloride"
+    ],
+    "sccsOpinion": [
+      "Opinion on Alkyl (C16, C18, C22) trimethylammonium chloride - For other uses than as a preservative"
+    ],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "Steartrimonium Chloride is the quaternary ammonium salt that conforms to the formula:"
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "14AF6D8BE205373D7FE5B1A897E3C32F"
+    ],
+    "cosmeticRestriction": [
+      "V/44\r\nIII/286"
+    ],
+    "ecNo": [
+      "203-929-1"
+    ],
+    "maximumConcentration": [],
+    "identifiedIngredient": [
+      "31354"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "inciName": [
+      "STEARTRIMONIUM CHLORIDE"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "112-03-8"
+    ],
+    "substanceId": [
+      "38313"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "annexNo": [],
+    "productTypeBodyParts": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "ANTISTATIC",
+      "HAIR CONDITIONING",
+      "PRESERVATIVE"
+    ],
+    "esDA_IngestDate": [
+      "2023-05-22T13:07:55.196+0200"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "corporate-search-version": [
+      "102"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-05-22T13:07:55.167+0200"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "datasource": [
+      "GROWTH_COSING"
+    ],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "17e465ce-c927-4711-aeb9-d63326df7029. Available at: urn:test",
+  "score": 19.169407
+}

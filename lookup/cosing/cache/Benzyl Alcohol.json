@@ -1,0 +1,134 @@
+{
+  "apiVersion": "2.146",
+  "reference": "43b6ac65-f60d-42b8-8d5e-72d73a17cce5",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 16.94525,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "BENZYL ALCOHOL"
+    ],
+    "otherRestrictions": [],
+    "note": [],
+    "refNo": [],
+    "sccsOpinionUrls": [],
+    "innName": [
+      "benzyl alcohol"
+    ],
+    "other": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "chemicalName": [
+      "Benzyl alcohol"
+    ],
+    "sccsOpinion": [],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "Benzyl Alcohol is an aromatic alcohol that conforms to the formula:"
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "D96E486787C0CD0848DCE66C715DCDF1"
+    ],
+    "cosmeticRestriction": [
+      "III/45 and\r\nV/34"
+    ],
+    "ecNo": [
+      "202-859-9"
+    ],
+    "maximumConcentration": [],
+    "identifiedIngredient": [
+      "28294",
+      "29457"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "inciName": [
+      "BENZYL ALCOHOL"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "100-51-6"
+    ],
+    "substanceId": [
+      "32153"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "annexNo": [],
+    "productTypeBodyParts": [],
+    "phEurName": [
+      "alcohol benzylicus"
+    ],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "PRESERVATIVE",
+      "SOLVENT",
+      "VISCOSITY CONTROLLING",
+      "PERFUMING"
+    ],
+    "esDA_IngestDate": [
+      "2023-05-22T13:12:32.482+0200"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "corporate-search-version": [
+      "102"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-05-22T13:12:32.445+0200"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "datasource": [
+      "GROWTH_COSING"
+    ],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "43b6ac65-f60d-42b8-8d5e-72d73a17cce5. Available at: urn:test",
+  "score": 16.94525
+}

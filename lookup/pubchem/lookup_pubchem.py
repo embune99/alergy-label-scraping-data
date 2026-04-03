@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Lookup chemical data from PubChem API.
-Supports search by name or CAS number.
+Searches by keyword (name or CAS number).
 """
 
 import json
@@ -9,12 +9,13 @@ import re
 import time
 import requests
 from pathlib import Path
-from typing import Dict, Any, List, Optional
+from typing import Dict, Any, Optional
 
 # API Configuration
 BASE_URL = "https://pubchem.ncbi.nlm.nih.gov/rest/pug"
 CACHE_DIR = Path(__file__).parent / "cache"
-REQUEST_DELAY = 0.1  # PubChem is more lenient
+MAX_RETRIES = 3
+RETRY_DELAY = 1  # seconds
 
 # Ensure cache directory exists
 CACHE_DIR.mkdir(exist_ok=True)
@@ -55,128 +56,103 @@ def save_to_cache(identifier: str, data: Dict[str, Any]) -> None:
         pass
 
 
-def search_by_name(name: str, use_cache: bool = True) -> List[Dict[str, Any]]:
-    """Search PubChem by compound name. Returns list of results with cid, sid."""
+def get_sid_from_cid(cid: str) -> Optional[str]:
+    """Get SID from CID using pug_view endpoint with retry logic."""
+    for attempt in range(MAX_RETRIES):
+        try:
+            url = f"{BASE_URL}_view/data/compound/{cid}/JSON/"
+            response = requests.get(url, timeout=10)
+            response.raise_for_status()
+
+            data = response.json()
+            sections = data.get("Record", {}).get("Section", [])
+
+            for section in sections:
+                if section.get("TOCHeading") == "Related Records":
+                    for subsection in section.get("Section", []):
+                        if subsection.get("TOCHeading") == "Substances":
+                            for subsubsection in subsection.get("Section", []):
+                                if "SID" in subsubsection.get("TOCHeading", ""):
+                                    info = subsubsection.get("Information", [])
+                                    if info and info[0].get("Value", {}).get("Number"):
+                                        return str(info[0]["Value"]["Number"][0])
+
+            return None
+
+        except (requests.HTTPError, requests.ConnectionError, requests.RequestException) as e:
+            if attempt < MAX_RETRIES - 1:
+                print(f"    [Retry {attempt + 1}/{MAX_RETRIES} for CID {cid}: {type(e).__name__}]")
+                time.sleep(RETRY_DELAY)
+                continue
+            return None
+        except Exception:
+            return None
+
+    return None
+
+
+def search(keyword: str, use_cache: bool = True) -> Optional[Dict[str, Any]]:
+    """Search PubChem by keyword (name or CAS). Returns dict with cid, sid or None."""
     # Check cache
     if use_cache:
-        cached = load_from_cache(f"name_{name}")
+        cached = load_from_cache(keyword)
         if cached:
-            return cached.get("results", [])
+            return cached
 
-    results = []
+    for attempt in range(MAX_RETRIES):
+        try:
+            # Step 1: Search for CID using disambiguate endpoint
+            search_url = f"{BASE_URL}/disambiguate/name/JSON?name={requests.utils.quote(keyword)}"
+            response = requests.get(search_url, timeout=10)
+            response.raise_for_status()
 
-    try:
-        # Step 1: Search for CID
-        search_url = f"{BASE_URL}/compound/name/{requests.utils.quote(name)}/cids/JSON"
-        response = requests.get(search_url, timeout=10)
-        response.raise_for_status()
+            data = response.json()
+            records = data.get("Disambiguation", {}).get("Record", [])
 
-        data = response.json()
-        cids = data.get("IdentifierList", {}).get("CID", [])
+            # Filter for Compound records - take first CID only
+            cid = None
+            for record in records:
+                if record.get("RecordType") == "Compound":
+                    cid = record.get("IntID")
+                    break
 
-        if not cids:
-            # Save empty result to cache
+            if not cid:
+                # Save empty result to cache
+                if use_cache:
+                    save_to_cache(keyword, None)
+                return None
+
+            # Step 2: Get SID for the CID (has its own retry logic)
+            sid = get_sid_from_cid(cid)
+
+            result = {
+                "cid": str(cid),
+                "sid": sid
+            }
+
+            # Save to cache
             if use_cache:
-                save_to_cache(f"name_{name}", {"results": []})
-            return []
+                save_to_cache(keyword, result)
 
-        # Step 2: Get details for each CID
-        for cid in cids[:5]:  # Limit to first 5 results
-            try:
-                # Get SID (substance IDs)
-                sid_url = f"{BASE_URL}/compound/cid/{cid}/sids/JSON"
-                sid_response = requests.get(sid_url, timeout=10)
-                sid_response.raise_for_status()
-                sid_data = sid_response.json()
-                sids = sid_data.get("InformationList", {}).get("Information", [])
-                sid = sids[0].get("SID") if sids else None
+            return result
 
-                results.append({
-                    "cid": str(cid),
-                    "sid": str(sid) if sid else None
-                })
+        except Exception as e:
+            if attempt < MAX_RETRIES - 1:
+                print(f"    [Retry {attempt + 1}/{MAX_RETRIES} for '{keyword}': {type(e).__name__}]")
+                time.sleep(RETRY_DELAY)
+                continue
+            print(f"    [PubChem error for '{keyword}': {e}]")
+            return None
 
-                time.sleep(REQUEST_DELAY)
-            except Exception:
-                results.append({"cid": str(cid), "sid": None})
-
-        # Save to cache
-        if use_cache:
-            save_to_cache(f"name_{name}", {"results": results})
-
-        return results
-
-    except Exception as e:
-        print(f"    [PubChem error for '{name}': {e}]")
-        return []
-
-
-def search_by_cas(cas_no: str, use_cache: bool = True) -> List[Dict[str, Any]]:
-    """Search PubChem by CAS number. Returns list of results with cid, sid."""
-    # Check cache
-    if use_cache:
-        cached = load_from_cache(f"cas_{cas_no}")
-        if cached:
-            return cached.get("results", [])
-
-    results = []
-
-    try:
-        # Step 1: Search for CID using CAS
-        search_url = f"{BASE_URL}/compound/name/{requests.utils.quote(cas_no)}/cids/JSON"
-        response = requests.get(search_url, timeout=10)
-        response.raise_for_status()
-
-        data = response.json()
-        cids = data.get("IdentifierList", {}).get("CID", [])
-
-        if not cids:
-            if use_cache:
-                save_to_cache(f"cas_{cas_no}", {"results": []})
-            return []
-
-        # Step 2: Get details for each CID
-        for cid in cids[:3]:
-            try:
-                sid_url = f"{BASE_URL}/compound/cid/{cid}/sids/JSON"
-                sid_response = requests.get(sid_url, timeout=10)
-                sid_response.raise_for_status()
-                sid_data = sid_response.json()
-                sids = sid_data.get("InformationList", {}).get("Information", [])
-                sid = sids[0].get("SID") if sids else None
-
-                results.append({
-                    "cid": str(cid),
-                    "sid": str(sid) if sid else None,
-                    "cas_no": cas_no
-                })
-
-                time.sleep(REQUEST_DELAY)
-            except Exception:
-                results.append({"cid": str(cid), "sid": None, "cas_no": cas_no})
-
-        # Save to cache
-        if use_cache:
-            save_to_cache(f"cas_{cas_no}", {"results": results})
-
-        return results
-
-    except Exception as e:
-        print(f"    [PubChem error for CAS '{cas_no}': {e}]")
-        return []
+    return None
 
 
 if __name__ == "__main__":
     import argparse
 
     parser = argparse.ArgumentParser(description="Lookup PubChem data.")
-    parser.add_argument("query", help="Name or CAS number to search")
-    parser.add_argument("--type", choices=["name", "cas"], default="name", help="Search type")
+    parser.add_argument("query", help="Keyword to search (name or CAS)")
     args = parser.parse_args()
 
-    if args.type == "cas":
-        result = search_by_cas(args.query)
-    else:
-        result = search_by_name(args.query)
-
+    result = search(args.query)
     print(json.dumps(result, indent=2))

@@ -20,19 +20,46 @@
       "CERA MICROCRISTALLINA"
     ],
     "inci": {
-      "paraffinum liquidum": [
-        "8f9be648-8ecc-49a6-bad7-2c9ca8ac823b"
-      ],
-      "mineral oil": [
-        "f9e8f424-37a1-4d5e-89e6-42def6c1323e",
-        "ab7fafbb-a4a2-43fc-9678-c6ed948b4ce0",
-        "8f9be648-8ecc-49a6-bad7-2c9ca8ac823b"
-      ],
-      "cera microcristallina": [
-        "4dba314b-7794-4582-adea-ed2ddf8738f6",
-        "ebc1caf7-2c48-490d-9c7c-931d070bba68",
-        "7e0ebf96-ec78-441c-a235-4cb9a1729023"
-      ]
+      "paraffinum liquidum": {
+        "cosing_info": {
+          "reference": "8f9be648-8ecc-49a6-bad7-2c9ca8ac823b",
+          "inci_name": "PARAFFINUM LIQUIDUM",
+          "cas_no": [
+            "8012-95-1",
+            "8042-47-5"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "mineral oil": {
+        "cosing_info": {
+          "reference": "f9e8f424-37a1-4d5e-89e6-42def6c1323e",
+          "inci_name": "MINERAL OIL",
+          "cas_no": [
+            "8012-95-1",
+            "8042-47-5",
+            "8020-83-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "139291139",
+            "sid": null,
+            "cas_no": "8020-83-5"
+          }
+        ]
+      },
+      "cera microcristallina": {
+        "cosing_info": {
+          "reference": "4dba314b-7794-4582-adea-ed2ddf8738f6",
+          "inci_name": "CERA MICROCRISTALLINA",
+          "cas_no": [
+            "63231-60-7",
+            "64742-42-3"
+          ]
+        },
+        "pubchem_info": []
+      }
     }
   },
   "additional_information": {

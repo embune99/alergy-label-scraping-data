@@ -21,10 +21,105 @@
     "product_category": "Haarverzorging",
     "legal_grade": null,
     "ingredients": [
-      "Dimethyl Ether · Alcohol denat. · Aqua (Water",
-      "Eau) · Octylacrylamide/Acrylates/Butylaminoethyl Methacrylate Copolymer · Aminomethyl Propanol · Parfum (Fragrance) · Panthenol · Niacinamide · Benzoic Acid."
+      "Dimethyl Ether",
+      "Alcohol denat.",
+      "Aqua (Water",
+      "Eau)",
+      "Octylacrylamide/Acrylates/Butylaminoethyl Methacrylate Copolymer",
+      "Aminomethyl Propanol",
+      "Parfum (Fragrance)",
+      "Panthenol",
+      "Niacinamide",
+      "Benzoic Acid."
     ],
-    "inci": {}
+    "inci": {
+      "dimethyl ether": {
+        "cosing_info": {
+          "reference": "5f989003-d2b6-4418-94e4-d3317dbba98a",
+          "inci_name": "DIMETHYL ETHER",
+          "cas_no": [
+            "115-10-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8254",
+            "sid": "481107760",
+            "cas_no": "115-10-6"
+          }
+        ]
+      },
+      "alcohol denat.": {
+        "cosing_info": {
+          "reference": "1eb22e6e-941d-4099-b8e6-5533a356ce04",
+          "inci_name": "ALCOHOL DENAT.",
+          "cas_no": [
+            "64-17-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "702",
+            "sid": "481101440",
+            "cas_no": "64-17-5"
+          }
+        ]
+      },
+      "aminomethyl propanol": {
+        "cosing_info": {
+          "reference": "c2762f8b-8a82-4c4a-aafc-a595115f1c2b",
+          "inci_name": "AMINOMETHYL PROPANOL",
+          "cas_no": [
+            "124-68-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "11807",
+            "sid": "505459246",
+            "cas_no": "124-68-5"
+          }
+        ]
+      },
+      "panthenol": {
+        "cosing_info": {
+          "reference": "02b5654c-8fdf-44f4-a178-8f505b61ef9d",
+          "inci_name": "PANTHENOL",
+          "cas_no": [
+            "81-13-0",
+            "16485-10-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "131204",
+            "sid": "481107077",
+            "cas_no": "81-13-0"
+          },
+          {
+            "cid": "4678",
+            "sid": "483926094",
+            "cas_no": "16485-10-2"
+          }
+        ]
+      },
+      "niacinamide": {
+        "cosing_info": {
+          "reference": "1d812aa9-1b8a-48cb-988b-d2478184a2f4",
+          "inci_name": "NIACINAMIDE",
+          "cas_no": [
+            "98-92-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "936",
+            "sid": "483925991",
+            "cas_no": "98-92-0"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120833681"

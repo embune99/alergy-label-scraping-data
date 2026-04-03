@@ -1,0 +1,128 @@
+{
+  "apiVersion": "2.146",
+  "reference": "f1b61f42-6174-4213-9a4b-2338730e74f7",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 19.402958,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "6-HYDROXYINDOLE"
+    ],
+    "otherRestrictions": [],
+    "note": [],
+    "refNo": [],
+    "sccsOpinionUrls": [
+      "http://ec.europa.eu/health/ph_risk/committees/sccp/documents/out244_en.pdf",
+      "http://ec.europa.eu/comm/health/ph_risk/committees/04_sccp/docs/sccp_o_046.pdf"
+    ],
+    "innName": [],
+    "other": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "chemicalName": [
+      "1H-indol-6-ol"
+    ],
+    "sccsOpinion": [
+      "Opinion concerning 6-Hydroxyindole",
+      "Opinion on 6-Hydroxyindole"
+    ],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "3DBA4EEEBDC1C56DB2D0E658CDFC5981"
+    ],
+    "cosmeticRestriction": [
+      "Annex III/209"
+    ],
+    "ecNo": [
+      "417-020-4"
+    ],
+    "maximumConcentration": [],
+    "identifiedIngredient": [],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "inciName": [
+      "6-HYDROXYINDOLE"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "2380-86-1"
+    ],
+    "substanceId": [
+      "31541"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "annexNo": [],
+    "productTypeBodyParts": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "HAIR DYEING"
+    ],
+    "esDA_IngestDate": [
+      "2023-05-22T12:58:18.703+0200"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "corporate-search-version": [
+      "102"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-05-22T12:58:18.670+0200"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "datasource": [
+      "GROWTH_COSING"
+    ],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "f1b61f42-6174-4213-9a4b-2338730e74f7. Available at: urn:test",
+  "score": 19.402958
+}

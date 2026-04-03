@@ -38,7 +38,14 @@
             "67762-27-0",
             "8005-44-5"
           ]
-        }
+        },
+        "pubchem_info": [
+          {
+            "cid": "62238",
+            "sid": null,
+            "cas_no": "8005-44-5"
+          }
+        ]
       },
       "propylene glycol": {
         "cosing_info": {
@@ -47,7 +54,14 @@
           "cas_no": [
             "57-55-6"
           ]
-        }
+        },
+        "pubchem_info": [
+          {
+            "cid": "1030",
+            "sid": "481108016",
+            "cas_no": "57-55-6"
+          }
+        ]
       },
       "deceth-3": {
         "cosing_info": {
@@ -56,7 +70,14 @@
           "cas_no": [
             "26183-52-8"
           ]
-        }
+        },
+        "pubchem_info": [
+          {
+            "cid": "62806",
+            "sid": "505456267",
+            "cas_no": "26183-52-8"
+          }
+        ]
       },
       "laureth-12": {
         "cosing_info": {
@@ -66,7 +87,14 @@
             "3056-00-6",
             "9002-92-0"
           ]
-        }
+        },
+        "pubchem_info": [
+          {
+            "cid": "76460",
+            "sid": "481109008",
+            "cas_no": "3056-00-6"
+          }
+        ]
       },
       "ethanolamine": {
         "cosing_info": {
@@ -75,7 +103,14 @@
           "cas_no": [
             "141-43-5"
           ]
-        }
+        },
+        "pubchem_info": [
+          {
+            "cid": "700",
+            "sid": "483925951",
+            "cas_no": "141-43-5"
+          }
+        ]
       },
       "oleth-30": {
         "cosing_info": {
@@ -84,7 +119,8 @@
           "cas_no": [
             "9004-98-2"
           ]
-        }
+        },
+        "pubchem_info": []
       },
       "lauric acid": {
         "cosing_info": {
@@ -93,7 +129,14 @@
           "cas_no": [
             "143-07-7"
           ]
-        }
+        },
+        "pubchem_info": [
+          {
+            "cid": "3893",
+            "sid": "481107792",
+            "cas_no": "143-07-7"
+          }
+        ]
       },
       "polyquaternium-6": {
         "cosing_info": {
@@ -102,7 +145,8 @@
           "cas_no": [
             "26062-79-3"
           ]
-        }
+        },
+        "pubchem_info": []
       },
       "glycol distearate": {
         "cosing_info": {
@@ -111,7 +155,14 @@
           "cas_no": [
             "627-83-8"
           ]
-        }
+        },
+        "pubchem_info": [
+          {
+            "cid": "61174",
+            "sid": "500787329",
+            "cas_no": "627-83-8"
+          }
+        ]
       },
       "sodium": {
         "cosing_info": {
@@ -120,7 +171,14 @@
           "cas_no": [
             "128596-80-5"
           ]
-        }
+        },
+        "pubchem_info": [
+          {
+            "cid": "71308479",
+            "sid": "504500786",
+            "cas_no": "128596-80-5"
+          }
+        ]
       }
     }
   },

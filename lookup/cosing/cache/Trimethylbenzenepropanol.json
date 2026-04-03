@@ -1,0 +1,117 @@
+{
+  "apiVersion": "2.146",
+  "reference": "0dd013cb-5200-4f45-9cec-ab0c5b72783e",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 16.829004,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "TRIMETHYLBENZENEPROPANOL"
+    ],
+    "refNo": [],
+    "otherRestrictions": [],
+    "note": [],
+    "sccsOpinionUrls": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "other": [],
+    "innName": [],
+    "chemicalName": [
+      "3-(2,2-Dimethyl-3-hydroxypropyl)toluene; Benzenepropanol,.beta.,.beta.,3-trimethyl; 2.2-Dimethyl-3-(3-tolyl)propan-1-ol; Majantol"
+    ],
+    "sccsOpinion": [],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "6E077F1862D43234A90DF48B7ACD1361"
+    ],
+    "cosmeticRestriction": [
+      "III/345"
+    ],
+    "ecNo": [
+      "403-140-4"
+    ],
+    "maximumConcentration": [],
+    "identifiedIngredient": [],
+    "inciName": [
+      "TRIMETHYLBENZENEPROPANOL"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "103694-68-4"
+    ],
+    "substanceId": [
+      "87494"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "productTypeBodyParts": [],
+    "annexNo": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "FRAGRANCE",
+      "PERFUMING"
+    ],
+    "esDA_IngestDate": [
+      "2023-10-03T16:45:50.984+0200"
+    ],
+    "currentVersion": [
+      "2"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-10-03T16:45:50.889+0200"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "0dd013cb-5200-4f45-9cec-ab0c5b72783e. Available at: urn:test",
+  "score": 16.829004
+}

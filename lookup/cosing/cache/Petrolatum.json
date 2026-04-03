@@ -1,0 +1,129 @@
+{
+  "apiVersion": "2.146",
+  "reference": "708f3232-a2e3-4c9e-a418-e0c0e18b7476",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 13.968741,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "PETROLATUM"
+    ],
+    "otherRestrictions": [
+      "ban substances that deplete the ozone layer"
+    ],
+    "note": [],
+    "refNo": [],
+    "sccsOpinionUrls": [],
+    "innName": [
+      "petrolatum"
+    ],
+    "other": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "chemicalName": [],
+    "sccsOpinion": [],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "Petrolatum. A complex combination of hydrocarbons obtained as a semi-solid from dewaxing paraffinic residual oil. It consists predominantly of saturated crystalline and liquid hydrocarbons having carbon numbers predominantly greater than C25"
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "827D1AF8007746F5052701B4E4E26966"
+    ],
+    "cosmeticRestriction": [
+      "II/904 (except if the full refining history is known and it can be shown that the substance from which it is produced is not a carcinogen)"
+    ],
+    "ecNo": [
+      "232-373-2"
+    ],
+    "maximumConcentration": [],
+    "identifiedIngredient": [
+      "29078"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "inciName": [
+      "PETROLATUM"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "8009-03-8"
+    ],
+    "substanceId": [
+      "79504"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "annexNo": [],
+    "productTypeBodyParts": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "ANTISTATIC",
+      "SKIN CONDITIONING - EMOLLIENT"
+    ],
+    "esDA_IngestDate": [
+      "2023-05-22T14:29:16.900+0200"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "corporate-search-version": [
+      "102"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-05-22T14:29:16.871+0200"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "datasource": [
+      "GROWTH_COSING"
+    ],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "708f3232-a2e3-4c9e-a418-e0c0e18b7476. Available at: urn:test",
+  "score": 13.968741
+}

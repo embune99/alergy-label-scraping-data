@@ -1,0 +1,121 @@
+{
+  "apiVersion": "2.146",
+  "reference": "319a7f33-e7c2-4980-893c-95401d36c377",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 35.352245,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "CITRUS AURANTIUM BERGAMIA PEEL OIL"
+    ],
+    "refNo": [],
+    "otherRestrictions": [],
+    "note": [],
+    "sccsOpinionUrls": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "other": [],
+    "innName": [],
+    "chemicalName": [],
+    "sccsOpinion": [],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "Citrus Aurantium Bergamia Peel Oil is the volatile oil obtained from the peel of Citrus aurantium bergamia, Rutaceae"
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "CAFBA802EF96C0478F5C5F35A2940706"
+    ],
+    "cosmeticRestriction": [
+      "III/352"
+    ],
+    "ecNo": [
+      "289-612-9"
+    ],
+    "maximumConcentration": [],
+    "identifiedIngredient": [
+      "100425"
+    ],
+    "inciName": [
+      "CITRUS AURANTIUM BERGAMIA PEEL OIL"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "89957-91-5"
+    ],
+    "substanceId": [
+      "89008"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "productTypeBodyParts": [],
+    "annexNo": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "FRAGRANCE",
+      "PERFUMING"
+    ],
+    "esDA_IngestDate": [
+      "2023-10-03T16:57:13.920+0200"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-10-03T16:57:13.864+0200"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "wordingOfConditions": [],
+    "inciUsaName": [
+      "Citrus Aurantium Bergamia (Bergamot) Peel Oil"
+    ],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "319a7f33-e7c2-4980-893c-95401d36c377. Available at: urn:test",
+  "score": 35.352245
+}

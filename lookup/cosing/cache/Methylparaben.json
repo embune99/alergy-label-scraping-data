@@ -1,0 +1,149 @@
+{
+  "apiVersion": "2.146",
+  "reference": "62bb4ff0-9d89-4621-a0b1-8dd6974cbc31",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 15.583574,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "METHYLPARABEN"
+    ],
+    "otherRestrictions": [
+      "ban substances that deplete the ozone layer"
+    ],
+    "note": [],
+    "refNo": [],
+    "sccsOpinionUrls": [
+      "http://ec.europa.eu/health/ph_risk/committees/sccp/docshtml/sccp_out59_en.htm",
+      "http://ec.europa.eu/health/ph_risk/committees/04_sccp/docs/sccp_o_019.pdf",
+      "http://ec.europa.eu/health/ph_risk/committees/04_sccp/docs/sccp_o_00d.pdf",
+      "http://ec.europa.eu/health/ph_risk/committees/04_sccp/docs/sccp_o_074.pdf",
+      "http://ec.europa.eu/health/ph_risk/committees/04_sccp/docs/sccp_o_138.pdf",
+      "http://ec.europa.eu/health/scientific_committees/consumer_safety/docs/sccs_o_041.pdf",
+      "http://ec.europa.eu/health/scientific_committees/consumer_safety/docs/sccs_o_132.pdf"
+    ],
+    "innName": [
+      "methylparaben"
+    ],
+    "other": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "chemicalName": [
+      "Methyl 4-hydroxybenzoate"
+    ],
+    "sccsOpinion": [
+      "Opinion concerning Restrictions on Materials listed in annex VI of Directive 76/768/EEC on Cosmetic Products",
+      "Extended Opinion on the Safety Evaluation of Parabens",
+      "Opinion on Parabens, underarm cosmetics and breast cancer",
+      "Opinion on Parabens",
+      "Opinion on Parabens",
+      "Opinion on Parabens",
+      "Opinion on Parabens updated request for a scientific opinion on 'propyl-and butylparaben'"
+    ],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "Methylparaben is the ester of methyl alcohol and p-hydroxybenzoic acid. It conforms to the formula:"
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "363FFFFDF998D4118557789F75B9CB97"
+    ],
+    "cosmeticRestriction": [
+      "V/12"
+    ],
+    "ecNo": [
+      "202-785-7"
+    ],
+    "maximumConcentration": [],
+    "identifiedIngredient": [
+      "92341"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "inciName": [
+      "METHYLPARABEN"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "99-76-3"
+    ],
+    "substanceId": [
+      "35342"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "annexNo": [],
+    "productTypeBodyParts": [],
+    "phEurName": [
+      "methylis parahydroxybenzoas"
+    ],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "FRAGRANCE",
+      "PRESERVATIVE"
+    ],
+    "esDA_IngestDate": [
+      "2023-05-22T14:38:07.964+0200"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "corporate-search-version": [
+      "102"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-05-22T14:38:07.941+0200"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "datasource": [
+      "GROWTH_COSING"
+    ],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "62bb4ff0-9d89-4621-a0b1-8dd6974cbc31. Available at: urn:test",
+  "score": 15.583574
+}

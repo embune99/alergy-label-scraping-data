@@ -26,71 +26,108 @@
       ""
     ],
     "inci": {
-      "aqua": [
-        "acb2fd0b-1174-4f52-8481-759e0f6a9471",
-        "03f72bea-b998-4741-942d-4eb90ea2e5c2",
-        "a9d7ccc5-066f-49da-85ef-5eec1217a478",
-        "b95411b0-fb54-4a85-9901-f92524503f2d",
-        "88aced55-d191-43a7-85f5-41872fb14e85",
-        "95d201d5-eef8-4b4a-9405-8ace8e6eb88c",
-        "bf9565d8-8238-4bb2-a23b-e70ff2ab63e4",
-        "f20f15b7-c291-495a-862f-5b28364a4b7c",
-        "56891eee-e7e0-4df4-a41f-43fddb50858c",
-        "f3176b91-2a20-4ce6-b44a-85df660a618d",
-        "f47fb937-5e85-47be-a122-3522901eb942",
-        "8c333827-b448-4d69-a0a9-ecdc8ba57476"
-      ],
-      "sodium laureth sulfate": [
-        "b2661101-50d0-47fe-84c0-33a71b2ea3dc",
-        "40d4b7cd-48f5-4b51-9cc4-c7e1eb6b2aeb",
-        "4b61abee-bcae-4f0f-8a16-66dae28df593",
-        "ce1a0029-bfe4-4560-ac93-bc13dedb9c22",
-        "fda7f0e0-8166-4615-827b-24e0655862bb",
-        "369ef52d-c775-4087-bad5-be3c9b262684",
-        "b09620f6-03ec-4e98-9566-79b564d13377"
-      ],
-      "cocamidopropyl betaine": [
-        "dbd8d0cb-fa8f-41cc-b426-41c912015faf",
-        "b09620f6-03ec-4e98-9566-79b564d13377"
-      ],
-      "coco-glucoside": [
-        "8977b14c-4cd8-40f6-9016-49647d697baf",
-        "4601e8c8-c3f0-4435-9842-9575a0899b75",
-        "c5a6415d-58f8-416e-8408-bacec4f58793",
-        "dab8d346-a54e-4521-83da-cd1b79d5bf21",
-        "f7629358-dfad-4662-b075-42144b74cb0f",
-        "8d18af08-a64f-414d-a8be-c1eaed77dbff",
-        "b0776c28-b13c-41b4-a3e1-0c417fa77a04",
-        "4586c3b8-e9ad-408d-9846-fc84393787e9",
-        "337b4f0f-d922-4166-ba86-f3bd84482e1a",
-        "9c9f8831-560b-46d4-8274-397fad49a074"
-      ],
-      "lactic acid": [
-        "366b5960-4dd9-4f4a-9b25-d670d30f3b6f",
-        "d31a8d26-d71a-4959-9159-5c42b8cfe549",
-        "03ff8841-a4ee-4792-a560-c816495970d8",
-        "c03df1c9-18b7-43f1-b065-61b5a27bb900",
-        "97794d0c-d395-4644-89b9-2cdbaf0f81b3",
-        "d2a01d1c-8cfb-4e75-98e6-6d62ba83c4a6",
-        "262b545e-8ced-4703-b90b-36f88fe48724",
-        "f1547e9b-d224-4c4b-8d9f-9a7eb7d6cc21",
-        "cb9201e0-9710-4c88-9134-d677ae0ba208",
-        "c23e32ec-de65-4887-9545-bae9837dc891",
-        "727c38c1-4f8c-4228-9124-4c61e4794487",
-        "b749e066-d540-4a3d-88b4-ee45517f0aac",
-        "9708cee6-39e8-49e2-989e-f27e82682169",
-        "4f252bb3-4105-43ee-8ef7-8b00337afd75",
-        "3f6adfd5-0f1c-465c-a31b-b5748148070e",
-        "d8638571-2c24-4db5-b294-ff1159ca4da7",
-        "bf48a709-95ae-42bf-be72-29253b54ea58",
-        "8e99afe3-f248-4c04-ade7-689900590462",
-        "689f373a-8170-49b1-aff0-50d1f4c8b49a",
-        "3a4b30a5-fd78-4deb-a058-360ddebeb98d",
-        "2be95a51-4278-4661-82c2-66e6a1d80c59"
-      ],
-      "piroctone olamine,": [
-        "4aa934e2-d331-49c2-8c54-9843002396a1"
-      ]
+      "aqua": {
+        "cosing_info": {
+          "reference": "acb2fd0b-1174-4f52-8481-759e0f6a9471",
+          "inci_name": "AQUA",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "sodium laureth sulfate": {
+        "cosing_info": {
+          "reference": "b2661101-50d0-47fe-84c0-33a71b2ea3dc",
+          "inci_name": "SODIUM LAURETH SULFATE",
+          "cas_no": [
+            "3088-31-1",
+            "9004-82-4",
+            "68891-38-3",
+            "1335-72-4",
+            "68585-34-2",
+            "91648-56-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "23682204",
+            "sid": "505583106",
+            "cas_no": "3088-31-1"
+          },
+          {
+            "cid": "23665884",
+            "sid": null,
+            "cas_no": "9004-82-4"
+          },
+          {
+            "cid": "21889068",
+            "sid": null,
+            "cas_no": "1335-72-4"
+          }
+        ]
+      },
+      "cocamidopropyl betaine": {
+        "cosing_info": {
+          "reference": "dbd8d0cb-fa8f-41cc-b426-41c912015faf",
+          "inci_name": "COCAMIDOPROPYL BETAINE",
+          "cas_no": [
+            "97862-59-4 (generic)",
+            "61789-40-0",
+            "70851-07-9",
+            "83138-08-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "coco-glucoside": {
+        "cosing_info": {
+          "reference": "8977b14c-4cd8-40f6-9016-49647d697baf",
+          "inci_name": "COCO-GLUCOSIDE",
+          "cas_no": [
+            "110615-47-9"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "lactic acid": {
+        "cosing_info": {
+          "reference": "366b5960-4dd9-4f4a-9b25-d670d30f3b6f",
+          "inci_name": "LACTIC ACID",
+          "cas_no": [
+            "50-21-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "612",
+            "sid": "481107791",
+            "cas_no": "50-21-5"
+          }
+        ]
+      },
+      "piroctone olamine": {
+        "cosing_info": {
+          "reference": "4aa934e2-d331-49c2-8c54-9843002396a1",
+          "inci_name": "PIROCTONE OLAMINE",
+          "cas_no": [
+            "68890-66-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "50258",
+            "sid": "483928118",
+            "cas_no": "68890-66-4"
+          }
+        ]
+      }
     }
   },
   "additional_information": {

@@ -17,11 +17,242 @@
     "legal_grade": null,
     "ingredients": [
       "Aqua (Water",
-      "Eau) · Cera Alba (Beeswax",
-      "Cire d'Abeille) · Stearic Acid · Palmitic Acid · VP/VA Copolymer · Cera Carnauba (Copernicia Cerifera (Carnauba) Wax",
-      "Cire de Carnauba) · Propylene Glycol · Steareth-21 · Steareth-2 · Parfum (Fragrance) · PPG-5-Ceteth-20 · Cetyl Ethylhexanoate · Phenoxyethanol · Panthenol · Niacinamide · Aminomethyl Propanol · Acrylates/C10-30 Alkyl Acrylate Crosspolymer · Tropolone · CI 16035 (Red 40) · CI 47005 · CI 60730 (Ext. Violet 2) · CI 15985 (Yellow 6) · CI 42090 (Blue 1) · CI 42053 (Green 3)"
+      "Eau)",
+      "Cera Alba (Beeswax",
+      "Cire d'Abeille)",
+      "Stearic Acid",
+      "Palmitic Acid",
+      "VP/VA Copolymer",
+      "Cera Carnauba (Copernicia Cerifera (Carnauba) Wax",
+      "Cire de Carnauba)",
+      "Propylene Glycol",
+      "Steareth-21",
+      "Steareth-2",
+      "Parfum (Fragrance)",
+      "PPG-5-Ceteth-20",
+      "Cetyl Ethylhexanoate",
+      "Phenoxyethanol",
+      "Panthenol",
+      "Niacinamide",
+      "Aminomethyl Propanol",
+      "Acrylates/C10-30 Alkyl Acrylate Crosspolymer",
+      "Tropolone",
+      "CI 16035 (Red 40)",
+      "CI 47005",
+      "CI 60730 (Ext. Violet 2)",
+      "CI 15985 (Yellow 6)",
+      "CI 42090 (Blue 1)",
+      "CI 42053 (Green 3)"
     ],
-    "inci": {}
+    "inci": {
+      "stearic acid": {
+        "cosing_info": {
+          "reference": "bcf4f8bf-edd1-45ae-b4f6-6dd7f10d8e3a",
+          "inci_name": "STEARIC ACID",
+          "cas_no": [
+            "57-11-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5281",
+            "sid": "481108030",
+            "cas_no": "57-11-4"
+          }
+        ]
+      },
+      "palmitic acid": {
+        "cosing_info": {
+          "reference": "4a1fb36f-ea4f-471f-8544-604164170721",
+          "inci_name": "PALMITIC ACID",
+          "cas_no": [
+            "57-10-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "985",
+            "sid": "481108005",
+            "cas_no": "57-10-3"
+          }
+        ]
+      },
+      "propylene glycol": {
+        "cosing_info": {
+          "reference": "86c80ec2-3646-450a-88b7-06496837ed33",
+          "inci_name": "PROPYLENE GLYCOL",
+          "cas_no": [
+            "57-55-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "1030",
+            "sid": "481108016",
+            "cas_no": "57-55-6"
+          }
+        ]
+      },
+      "steareth-21": {
+        "cosing_info": {
+          "reference": "a9349010-a19f-42bb-9938-e4df3a309a7b",
+          "inci_name": "STEARETH-21",
+          "cas_no": [
+            "9005-00-9 (Generic)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "steareth-2": {
+        "cosing_info": {
+          "reference": "1dde185a-37d7-4d9b-bd62-a159507f49a6",
+          "inci_name": "STEARETH-2",
+          "cas_no": [
+            "9005-00-9 (Generic)",
+            "16057-43-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "4165923",
+            "sid": "505885064",
+            "cas_no": "16057-43-5"
+          }
+        ]
+      },
+      "ppg-5-ceteth-20": {
+        "cosing_info": {
+          "reference": "91d43244-0568-4de2-919b-6032e2f13f5f",
+          "inci_name": "PPG-5-CETETH-20",
+          "cas_no": [
+            "9087-53-0",
+            "37311-01-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "cetyl ethylhexanoate": {
+        "cosing_info": {
+          "reference": "0e05cb7d-4816-46af-ba93-e7f130dba292",
+          "inci_name": "CETYL ETHYLHEXANOATE",
+          "cas_no": [
+            "59130-69-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "42956",
+            "sid": "505571064",
+            "cas_no": "59130-69-7"
+          }
+        ]
+      },
+      "phenoxyethanol": {
+        "cosing_info": {
+          "reference": "f8f3a6ab-5656-4d9a-a085-729e03a7376d",
+          "inci_name": "PHENOXYETHANOL",
+          "cas_no": [
+            "122-99-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "31236",
+            "sid": "483926132",
+            "cas_no": "122-99-6"
+          }
+        ]
+      },
+      "panthenol": {
+        "cosing_info": {
+          "reference": "02b5654c-8fdf-44f4-a178-8f505b61ef9d",
+          "inci_name": "PANTHENOL",
+          "cas_no": [
+            "81-13-0",
+            "16485-10-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "131204",
+            "sid": "481107077",
+            "cas_no": "81-13-0"
+          },
+          {
+            "cid": "4678",
+            "sid": "483926094",
+            "cas_no": "16485-10-2"
+          }
+        ]
+      },
+      "niacinamide": {
+        "cosing_info": {
+          "reference": "1d812aa9-1b8a-48cb-988b-d2478184a2f4",
+          "inci_name": "NIACINAMIDE",
+          "cas_no": [
+            "98-92-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "936",
+            "sid": "483925991",
+            "cas_no": "98-92-0"
+          }
+        ]
+      },
+      "aminomethyl propanol": {
+        "cosing_info": {
+          "reference": "c2762f8b-8a82-4c4a-aafc-a595115f1c2b",
+          "inci_name": "AMINOMETHYL PROPANOL",
+          "cas_no": [
+            "124-68-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "11807",
+            "sid": "505459246",
+            "cas_no": "124-68-5"
+          }
+        ]
+      },
+      "tropolone": {
+        "cosing_info": {
+          "reference": "356442fd-8ff9-41a4-a2af-1ef0ff53e090",
+          "inci_name": "TROPOLONE",
+          "cas_no": [
+            "533-75-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "10789",
+            "sid": "504687791",
+            "cas_no": "533-75-5"
+          }
+        ]
+      },
+      "ci 47005": {
+        "cosing_info": {
+          "reference": "acd67006-e1ab-45de-a547-bfcc8ad9c6cb",
+          "inci_name": "CI 47005",
+          "cas_no": [
+            "8004-92-0",
+            "94891-32-4",
+            "95193-83-2",
+            "68814-04-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "25113171",
+            "sid": "505568305",
+            "cas_no": "68814-04-0"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120833921"

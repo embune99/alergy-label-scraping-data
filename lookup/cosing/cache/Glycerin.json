@@ -1,0 +1,129 @@
+{
+  "apiVersion": "2.146",
+  "reference": "59eb65ef-7b29-4486-a311-f194224c11e6",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 11.521374,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "GLYCERIN"
+    ],
+    "refNo": [],
+    "otherRestrictions": [],
+    "note": [],
+    "sccsOpinionUrls": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "other": [],
+    "innName": [
+      "glycerol"
+    ],
+    "chemicalName": [
+      "Glycerine ;Glycerol (INN); Glycerol (RIFM); Glycerolum (EP); Glycyl Alcohol; 1,2,3-Propanetriol; 1,2,3-Trihydroxypropane"
+    ],
+    "sccsOpinion": [],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "Glycerin is the polyhydric alcohol that conforms generally to the formula"
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "8B6D5A4ACA15596EB2F4AE1A4F622100"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [
+      "200-289-5"
+    ],
+    "maximumConcentration": [],
+    "identifiedIngredient": [],
+    "inciName": [
+      "GLYCERIN"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "56-81-5"
+    ],
+    "substanceId": [
+      "34040"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "productTypeBodyParts": [],
+    "annexNo": [],
+    "phEurName": [
+      "glycerolum"
+    ],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "DENATURANT",
+      "HAIR CONDITIONING",
+      "HUMECTANT",
+      "ORAL CARE",
+      "SKIN PROTECTING",
+      "SOLVENT",
+      "VISCOSITY CONTROLLING",
+      "PERFUMING",
+      "FRAGRANCE",
+      "SKIN CONDITIONING - HUMECTANT"
+    ],
+    "esDA_IngestDate": [
+      "2024-03-14T16:26:49.529+0100"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2024-03-14T16:26:49.366+0100"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "59eb65ef-7b29-4486-a311-f194224c11e6. Available at: urn:test",
+  "score": 11.521374
+}

@@ -19,11 +19,50 @@
     "product_category": "Mini reisverpakkingen",
     "legal_grade": null,
     "ingredients": [
-      "Dimethyl Ether · Alcohol denat. (38",
-      "1 Vol.%) · Aqua (Water",
-      "Eau) · Octylacrylamide/Acrylates/Butylaminoethyl Methacrylate Copolymer · Aminomethyl Propanol · Parfum (Fragrance) · Benzoic Acid."
+      "Dimethyl Ether",
+      "Alcohol denat. (38",
+      "1 Vol.%)",
+      "Aqua (Water",
+      "Eau)",
+      "Octylacrylamide/Acrylates/Butylaminoethyl Methacrylate Copolymer",
+      "Aminomethyl Propanol",
+      "Parfum (Fragrance)",
+      "Benzoic Acid."
     ],
-    "inci": {}
+    "inci": {
+      "dimethyl ether": {
+        "cosing_info": {
+          "reference": "5f989003-d2b6-4418-94e4-d3317dbba98a",
+          "inci_name": "DIMETHYL ETHER",
+          "cas_no": [
+            "115-10-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8254",
+            "sid": "481107760",
+            "cas_no": "115-10-6"
+          }
+        ]
+      },
+      "aminomethyl propanol": {
+        "cosing_info": {
+          "reference": "c2762f8b-8a82-4c4a-aafc-a595115f1c2b",
+          "inci_name": "AMINOMETHYL PROPANOL",
+          "cas_no": [
+            "124-68-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "11807",
+            "sid": "505459246",
+            "cas_no": "124-68-5"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120803406"
