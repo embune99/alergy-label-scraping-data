@@ -22,485 +22,293 @@
     "legal_grade": null,
     "ingredients": [
       "Aqua",
-      "Cetearyl Alcohol",
-      "Cetrimonium Chloride",
-      "Bis-(Isostearoyl/Oleoyl Isopropyl) Dimonium Methosulfate",
-      "Cetyl Esters",
+      "Cetearyl",
+      "Alcohol",
+      "Cetrimonium",
+      "Chloride",
+      "Bis-(Isostearoyl/Oleoyl",
+      "Isopropyl)",
+      "Dimonium",
+      "Methosulfate",
+      "Cetyl",
+      "Esters",
       "Panthenol",
-      "Sodium Hydroxide",
+      "Sodium",
+      "Hydroxide",
       "Glycine",
-      "Prunus Amygdalus Dulcis Oil",
-      "Hydrolyzed Vegetable Protein",
-      "Citric Acid",
-      "Benzoic Acid",
-      "Sodium Benzoate",
+      "Prunus",
+      "Amygdalus",
+      "Dulcis",
+      "Oil",
+      "Hydrolyzed",
+      "Vegetable",
+      "Protein",
+      "Citric",
+      "Acid",
+      "Benzoic",
+      "Benzoate",
       "Parfum",
-      "Citrus Aurantium Peel Oil",
+      "Citrus",
+      "Aurantium",
+      "Peel",
       "Limonene",
-      "Tetramethyl Acetyloctahydronaphthalenes",
+      "Tetramethyl",
+      "Acetyloctahydronaphthalenes",
       "Vanillin."
     ],
     "inci": {
-      "aqua": [
-        "acb2fd0b-1174-4f52-8481-759e0f6a9471",
-        "03f72bea-b998-4741-942d-4eb90ea2e5c2",
-        "a9d7ccc5-066f-49da-85ef-5eec1217a478",
-        "b95411b0-fb54-4a85-9901-f92524503f2d",
-        "88aced55-d191-43a7-85f5-41872fb14e85",
-        "95d201d5-eef8-4b4a-9405-8ace8e6eb88c",
-        "bf9565d8-8238-4bb2-a23b-e70ff2ab63e4",
-        "f20f15b7-c291-495a-862f-5b28364a4b7c",
-        "56891eee-e7e0-4df4-a41f-43fddb50858c",
-        "f3176b91-2a20-4ce6-b44a-85df660a618d",
-        "f47fb937-5e85-47be-a122-3522901eb942",
-        "8c333827-b448-4d69-a0a9-ecdc8ba57476"
-      ],
-      "cetearyl alcohol": [
-        "99d4999e-c34d-40f3-b876-4d68bf0127cb",
-        "194ab09b-a86f-40a8-9883-b63e577e0807",
-        "b6b1f0e6-82aa-4c55-9203-a07e187d115e",
-        "b63880e1-66b3-4e71-a08b-c3ee35090dd1",
-        "d43587fc-d952-491a-9bba-b7ea483f591c",
-        "3820d596-a346-4557-b1df-04af078f672d",
-        "29d51668-d06e-4ca0-84a3-ec7965c67457",
-        "fa9b3e4e-2d08-407a-8d12-86ef97f6f8d5",
-        "66fd3a55-b090-413d-9de1-32fee95173a8",
-        "7f249cb6-3b5c-4bb9-bd64-ec5e5333582d"
-      ],
-      "cetrimonium chloride": [
-        "479d1457-4166-488f-b750-14ec81c62286"
-      ],
-      "cetyl esters": [
-        "6f70e63a-9d10-4a6c-b469-93bed6e9ffb6",
-        "f9507c73-0b2f-4d2e-976e-9b43141666d7",
-        "12f4e538-20a6-4c8f-9402-8dbea9fb85f5",
-        "4a0b5a7e-f43f-4033-865b-1048b5a38d64",
-        "4eee9041-3888-4236-9a28-4db561fb5d3f",
-        "ce0d71e1-3ae8-42c2-aeb8-e63f087e4fb3",
-        "bdc1f8c3-2d57-4db4-bb86-7fdf786c326f",
-        "cffbf9e8-9dd5-450c-94f1-9d7589f6820e",
-        "4251e8ea-aab3-48ee-8398-f59f5d924643",
-        "0963cbe8-3f21-4cf6-9f7d-f67a947a4870",
-        "1809d037-591a-49af-a73d-99f09da60ab7",
-        "045e04d7-7ae9-465d-9662-f08cf9075b3c",
-        "12c0d7a3-69b0-403e-8b92-d933e88bff32",
-        "2c7688bc-70f8-4efc-937b-69b2a241e0fd",
-        "2a463797-af5b-4c4e-ae17-ce5e83af310e",
-        "2fce232c-dcb8-4f5f-82f8-a468938ecfb7",
-        "cf24c91c-085c-4a15-92af-ec56646bb233",
-        "a32a5869-fed0-4992-83d9-efd4865ad401",
-        "b3fbdb67-5a4c-4bfa-9aa3-3a741ec6221e",
-        "78ff5f69-d0d0-4426-ac8d-8954b4b4d202",
-        "b1f03b56-fb4a-4afe-9246-2564f081435c",
-        "acc1bb70-123a-4a7f-adac-de9ea7537e7b"
-      ],
-      "panthenol": [
-        "dae58323-b8ab-4d71-a0fb-2c610738f58b",
-        "02b5654c-8fdf-44f4-a178-8f505b61ef9d",
-        "886347a6-7c3f-44ab-a5b9-7e249701c871",
-        "b7d7e892-c53d-4bad-89d6-81185529ec3b",
-        "352d78b1-7087-4198-bc6d-bbb00d2f9b97",
-        "a608b5ca-65f9-451d-977c-441fdd3582d9",
-        "c71868c2-5111-4dde-ba34-b26a8eddd7e1",
-        "d4f863e5-3a9b-4b81-9516-be777fb2806e",
-        "d9cc16cc-9b12-4305-94af-2876133604c3",
-        "8bd07fd2-c550-4ac8-a955-65957ebef28b"
-      ],
-      "sodium hydroxide": [
-        "8a1627c4-efa4-495f-a325-384600295a69",
-        "c823fcab-6ed5-460d-803a-cd7d42ec2cf7",
-        "87bf452e-289b-46cf-8df5-631864466f28",
-        "e9589e3c-67f5-49cf-8635-2c77ca5c69fc",
-        "2255970b-923b-42eb-8216-b44f21061998",
-        "6ccebde7-8031-4e68-a462-4f783c1c315c",
-        "3cfd5281-35c2-4ea5-bf87-46760095aeaa",
-        "09ddffe6-f8dd-4665-9e37-b6983b717128",
-        "07f35b57-ee7e-4ecf-a1a8-ab2cf5d537cb",
-        "2ccc2299-ae0a-4690-ac5a-edadcc87e2df",
-        "5ad93aca-b85f-48db-a698-b1e9a5c676d4",
-        "c9eaefd0-d178-46f3-8148-c75842a20a14",
-        "5a30f586-6de3-4ff2-8d1c-b0ccc0017b27",
-        "15b59c8a-c186-43c9-a559-a9634c884605",
-        "3f211248-d99a-4a78-9b6c-e6291e3b2380",
-        "2b0b85d6-e809-4240-b7d7-cc0ce505618a",
-        "6cec33d6-b93c-4d3d-a2af-459b8e1476e1",
-        "ebaee095-f25a-4c85-a223-acab21ad4a8c",
-        "1dcca685-8faf-4459-9be6-ef0625429c01",
-        "eb769c44-3a24-495e-8ea6-4c719e1d8200",
-        "4fa5b661-7ea2-4f5e-bff8-f204e28c4918",
-        "fd59e278-a319-4c4f-a948-d606b95c37fc",
-        "c74d3cde-3657-433b-a8c9-eeb71d3e20b5",
-        "95c89e5c-0b13-41dc-8b33-1369c837de99",
-        "8b5d4e1b-a4b5-4c28-8a7e-dd7796f4bda4",
-        "40984f18-0f57-4c1d-8a56-10c7d07641f8",
-        "3ae2a908-ec02-4604-b68a-3d3d2f35ade8",
-        "b33da5d7-416e-47a2-aec9-f8c9c998fc8b",
-        "2bfe7c24-e0ef-4666-b730-b304405c63c9",
-        "9a62ddb9-a4a6-4b6a-9c43-63a23d2d4d88",
-        "d42d297a-2352-4c1e-bdb4-f9625ab33c9f",
-        "32fda4ba-0c63-4234-b5f4-8b5cbab73f7e",
-        "4cd39350-e441-4efd-9649-a35c4c2a5d7c",
-        "5b244c75-3714-4225-832c-9abc9620284a",
-        "245034f4-0be5-4e30-a194-8bccfa769973",
-        "70cfc356-09f7-4443-ab61-a32a9634952e",
-        "32ec3128-e566-4f0f-9295-c4e2b56b4d72",
-        "653f6665-cc7f-4b44-8521-e98966cb0407"
-      ],
-      "glycine": [
-        "86a48168-97e5-4cc3-aff4-bd4f9e2a69cc",
-        "d9239146-7c6e-415c-84d4-7616c4af5db3",
-        "cda301e1-b483-46d1-8cac-b10dcf064ba3",
-        "821abd5f-0b02-49b0-9eb0-23294d38b8df",
-        "8f1138e6-1756-4992-8aff-747fc7c6a795",
-        "56a4bd66-240a-4ce0-b2ad-4a459d1f97c9",
-        "a0c428d5-a671-4ece-8291-3c7c4ee509cc",
-        "0b60588e-3fc1-4f24-ba83-e1af156709ba",
-        "3376ad1f-4c50-482f-87d2-c8110ad6ab7f",
-        "2a20bc9a-8407-4d35-8628-360987f4728d",
-        "8cdb3086-8f62-47da-b9d2-5816d71a28df",
-        "97405f60-c38c-40ec-8d2b-e606654d370c",
-        "8eed8540-3dfd-41b4-9cd9-bc228a875768",
-        "3baf5619-f5b6-4ca9-9d31-7175ee070e53",
-        "cd628ad4-0518-4d6b-bd39-99b539a4a38a",
-        "c6f4748b-9532-4a97-a0b8-450982ba1e04",
-        "bcf8e8ac-11ea-45b0-8a5b-223180dc760f",
-        "e36b3f8d-0b32-4fae-92ea-69abc6a671ee",
-        "59d161a0-c002-41f1-8d2a-5ffbaef30a0d",
-        "3fbda9e7-189e-4035-b887-f3d3da3c3d3a",
-        "18085a05-dd9b-4857-9a31-110c7a1d90da",
-        "bc484d88-9798-480d-9559-dc0b19041154",
-        "406771ed-9e57-42e9-bec0-5cc30a8ec32a",
-        "3660cbc3-719d-4b48-8910-fe0d14848a32",
-        "24f28282-a942-4b94-851b-ba9c2a1b3a54",
-        "08f567e5-1f05-4427-911c-c4756c2f7fdf",
-        "cb82d4af-bfd3-405f-91b0-b99cac8d37d6",
-        "3493bed5-6b03-45db-91ee-9c7077ec0fd7",
-        "a7e25607-28fd-4d98-9b45-1e7882fe435b",
-        "1ca3a114-9fb3-442b-a1a0-1dd1ef3ebb42",
-        "aa7dde0f-7e75-461b-80b5-f176917dd621",
-        "f0931ca5-24ae-4a01-b431-e9a6333d1d1f",
-        "da58ac95-0a1f-46ec-88c3-35dedef75fd3",
-        "37cce5de-f87b-4657-8665-6854e9445f70",
-        "68bc9a18-2059-46c2-86a5-becf4397e442",
-        "bef10808-4040-4aea-95b6-3fc09124488a",
-        "193e1da0-b5e5-4015-9a18-2ad6b618c0f0",
-        "d3de8770-6d38-4d8f-8165-c81f93575371",
-        "396d3228-d651-4412-a220-ad2e24aba73b",
-        "b55b71b5-e7d3-4dad-bdc9-9c54d304f1fc",
-        "e89704df-ac9f-4bdb-8d7c-8e531ca2b0a0",
-        "66b3e37b-31bc-46c3-adf0-05cdefe234d1",
-        "9a62ddb9-a4a6-4b6a-9c43-63a23d2d4d88",
-        "1ef171ca-f617-4884-8750-f51ebe742d16",
-        "b4f75c89-fa21-4daf-84cd-d23132419c30",
-        "cc53f767-e932-489d-8008-7ba347d67ee2",
-        "377630f4-f9ce-451e-be90-b5e1052d83ea",
-        "95d0f195-0f80-4e01-845e-a0112aa8d28a",
-        "a71241dc-132e-4757-b3de-5f7e090022e1",
-        "b20f5d26-d000-4fff-b237-12316d59120e",
-        "317a508a-f282-4b9a-a7c0-258d6fafad8c",
-        "810758d4-e450-4072-a6cf-357b1e826175",
-        "f2d8fffc-3106-4ea8-8ce4-0b9b8ec7bcda",
-        "6c1cee1f-f056-4db9-902a-1666af326667",
-        "796b1e51-dfa4-48e3-ae1a-d1ff755c8798",
-        "fccd2199-47ec-4486-b241-64393147ffa7",
-        "ff791c43-2076-443d-a3fe-607e7c3a452f",
-        "2d14c03b-b6ee-47df-8b3d-11ab15ebd815",
-        "6bcc9ba4-577b-4bac-8a79-ea0c661e0da1",
-        "daaad835-6a3a-42f6-b28f-8b668ff95b0f",
-        "370a9642-6f1e-4864-a143-b16ffa97e4b8",
-        "1e95b230-fd4c-409d-a972-070a8547d369",
-        "e4b589cd-d320-41e9-8a2d-d9a9efb213ee",
-        "64d46c19-8e81-45cb-a741-6569e306af05",
-        "fc25cac1-9969-41f8-b091-7ff377534d8f",
-        "bca3a86d-11ce-4fe6-b966-ab7fe97f56aa",
-        "0e124a31-e4f9-4bfb-902b-9db83438f310",
-        "af29ffcf-850c-4e67-855a-a466d96a73d8",
-        "af470610-4d97-4d60-bb5a-925907b23ddc",
-        "71949fc0-6077-46ad-b887-95f0476afb84",
-        "bbfde81a-aa1f-4f63-b5cd-2fd6e05c8de1",
-        "654ef81f-9063-4d22-a287-805cd8f44422",
-        "bc79e67a-d148-42e9-ba4c-c67613976b3f",
-        "78cb134d-8093-4b63-b896-238f8803e724",
-        "53f05009-1e7d-44ec-b1df-52ec7bccafcf",
-        "a7d3f9d6-443b-4580-96ad-f07eaff4a709",
-        "a7ce11b2-fb70-4ebd-ac05-646fb818c9ba",
-        "f478c779-7e79-409e-83ca-76d21fb2e00d",
-        "8b76376b-aa8c-47c4-8209-64bacd6d043f",
-        "d7ad8366-3370-4bb3-9def-54d2f3da7175",
-        "a5405801-20b0-40ad-b68e-3b8da93e55d0",
-        "69d002c0-0094-4f8e-b93d-c41646887dab",
-        "0d05efcd-bbfa-49b3-ac42-13a825810a7c",
-        "9654325f-cde4-431b-abd4-ca087c52a8cf",
-        "2bc6f703-49d3-45cc-a7f1-fe748427c791",
-        "2cbdc716-639b-445a-9098-4083689521c4",
-        "8000db74-dc93-4f8b-a4e1-997119401f72",
-        "ba69a484-793e-459b-9064-b7709bea2e8d",
-        "121f2ed6-b5f4-4e8b-92d3-051c8a416895",
-        "26ac30bc-fb4c-4c65-9bc4-9df9fd716ad5",
-        "f9d1dddb-50d1-444b-a64c-a4a8caf09598",
-        "7dee283a-877b-466e-a479-436b86e91f35",
-        "95dc6f0f-9c36-42b0-898b-5601fc02898b",
-        "85e9d30a-1d14-4af4-950b-823a42080c78",
-        "507728b8-9779-4926-b063-0b6b113e3935",
-        "5ca3eb81-47aa-4b41-b87b-4a714ac4f2cd",
-        "d894fe70-c044-46fd-80a1-630a73c0929c",
-        "a649b51e-a9b9-45ef-ac4d-57acfc80ca79",
-        "830cb1d5-09ef-4dc6-9b71-765627d952e9",
-        "5776cc86-ca88-414e-bd54-d9047f595c39"
-      ],
-      "prunus amygdalus dulcis oil": [
-        "1fec07a6-1653-496b-8f4c-83443d9a6291",
-        "bdda5b03-ba0d-4fb4-a8b7-c6cd6ff627f6",
-        "4fe8d8ef-fc8b-4ef6-a763-1bb741ba58cd",
-        "af8e95a0-294e-471b-8795-cbc1de7a9016",
-        "7bc030a3-bdb9-4043-b8a7-01089a72caaf",
-        "60186aa0-ce41-43de-ae71-3d2d23064798",
-        "4e1309a5-f9a1-49d5-9203-d052347b1f32",
-        "01817d98-80f5-449f-a06e-f8ebc3cc119b",
-        "4ff2bf83-55c4-4154-8d77-123a5128af05",
-        "2ad97062-7b71-4caf-b46f-7eebfe576a3d",
-        "4ac34120-6e60-4fed-a09b-1841c89cdda9",
-        "688ae9b6-dfde-44eb-ac08-9083aafe2ae8",
-        "6dcd5bf5-6eff-4891-b697-6ab0673b776c",
-        "55f338af-6a8c-4952-8bb9-244f69699e31",
-        "1491515d-e266-4cdb-aca7-b89288eadd5d",
-        "bf48a709-95ae-42bf-be72-29253b54ea58",
-        "650273b1-bbc9-41d3-8405-1133b1f885ca",
-        "770cae99-cd35-40d2-a905-563b40d78ba8",
-        "a4b97e27-89da-4f19-a145-fd51094bb70c",
-        "9d7ea0e0-c661-4317-9414-25b5a1470f14",
-        "d84f17dc-c9c5-4f9c-9b06-09db69b73dd9",
-        "c9491e07-37e5-462f-aa30-467ecfa69c22",
-        "4e7684d5-851a-4d11-9eec-0367b3af3aa6",
-        "1afaf044-d1c1-4cf6-9360-7e4a98e7338b",
-        "91cc1aa4-8fbe-49e4-b20d-52a1ee781992",
-        "dafd5d3b-59b2-46a9-8303-e78c112052fb",
-        "451a2f8a-488b-47e6-9b1d-fdd26f24fcf8",
-        "587bcea5-ad42-4945-b488-bfcbaa4d906f",
-        "6aaac0ec-eec8-4d10-8282-e63cedbf963f",
-        "a7c5c1d6-d23f-4cf3-9bf4-62f98f7062ec",
-        "1ad1a9d0-539b-45ad-ba04-0ef0ed211c17",
-        "4234f784-8632-43ad-b5c2-c429140a94e6",
-        "74248939-5711-4ba5-a93c-b75d9ac40c36",
-        "aa3b5eac-3f08-4894-aed6-688af8618498",
-        "7159cb0e-d3ba-432c-9465-88c0ad3c2347",
-        "12cd363f-5599-4626-9962-31dd869197c4",
-        "0c7726cf-56dc-4bf1-8f63-9d0783188467",
-        "41d8f0ba-bc82-43eb-8ec7-f63f7182ee58",
-        "981eec56-7788-48d9-9c28-e8f63201a5f3",
-        "953a2881-c6e4-441d-bb9b-2a8e098f4b59"
-      ],
-      "hydrolyzed vegetable protein": [
-        "fbd4f5cb-2b21-44cf-860d-cf93c057bdf1",
-        "c76046d9-c458-4203-80e4-0a62148b9ec8",
-        "e503f0e8-e95a-4505-9a1a-b5b9e273c1e9",
-        "2a3ea0d4-8d11-4745-948f-185c408be3ac",
-        "b9edbdcc-0591-4bc3-9e23-4f0262db3d66"
-      ],
-      "citric acid": [
-        "398b79ca-fc64-43b5-bf15-956e6239c1db",
-        "1480f95d-9343-4f09-bf68-4ce68b5cb5c7",
-        "4f345ae4-4989-4790-ac69-9e3918f3521f",
-        "a15f0ed1-c032-4545-b545-31b808440ebe",
-        "0475616d-fb2f-49f8-8edf-06ad7de3aea6",
-        "114a0f38-02c6-4b8e-9497-4a7123db4b99",
-        "92fdfdd5-7cf8-4c76-9c54-8d01be21e806",
-        "2ae3cc68-1096-41c2-8368-1288163e2c75",
-        "50ed5817-b951-4e9e-9bd1-06713bd3c42a",
-        "efb40140-403c-48f0-b76f-a54cc3313786",
-        "e30e18c1-47d2-4558-815f-6902599aa7f2",
-        "3fd7f7bf-ff0e-4fe8-bcf1-fdec2f388e71",
-        "dfbffaa1-9498-4c09-83ba-071285866fca",
-        "14c5d1bf-54ae-4e14-8439-c9297a9561a5",
-        "b30a0a54-bd97-4cdc-b193-b15f41b9aa9d",
-        "0bc748a1-0dfe-4bd6-90a4-7424a130dcba",
-        "b3426c0c-001b-4cf4-ba7f-1b93964598e4",
-        "380e8aa3-149d-497f-973e-8d8898ac05a4",
-        "dda20ee1-8364-4540-92b5-bbd50fa99c85",
-        "cc3cfaeb-3457-44f7-8961-61598a2deda5",
-        "00b6e815-ef31-425b-8c98-9aa6d426f696",
-        "173aa29a-c8ac-404b-b971-119e702bbb54",
-        "0085caa1-70bf-4a6d-9845-62d38ee1de03",
-        "29d51668-d06e-4ca0-84a3-ec7965c67457",
-        "f9c6d0eb-eb39-4671-8fe2-a2e6e4594e66",
-        "16841e6c-abfc-4300-87cb-072d880bb571",
-        "21e68034-a1bb-442c-b382-bf8024b87500",
-        "53bcef98-1ed3-4d7a-9335-739e04539609",
-        "879dfe97-f5b0-409b-b3ab-7e45038f373b",
-        "2d50705f-7aab-497a-9eb1-949bfacf4e2e",
-        "f38c86bd-f573-4998-bc93-0ae4477dac25",
-        "09cfe452-a81c-440f-9b2f-dde3e79cbe88",
-        "e9589e3c-67f5-49cf-8635-2c77ca5c69fc",
-        "3f4d6b44-cde0-447c-b3cf-140a9e375e7c",
-        "7b4c4daf-505f-4391-86e9-854b747710e3",
-        "a59d320f-ad7e-4f45-bb78-3a39371f5b2f",
-        "ecdae489-cedf-4392-8c60-3fa9e0ccad15",
-        "a2a8a8f3-e6e5-41fe-b8e0-8e96c6ec03ea"
-      ],
-      "benzoic acid": [
-        "f7928fa0-3b53-41ab-bab2-d159039fab42",
-        "5699100b-8124-4e97-a6f2-099568607044",
-        "f4c3b10d-10f9-4e80-bb53-9a328ca0be2c",
-        "2b2c9888-c9cf-4945-94e2-e757396bf147",
-        "8713734d-ad7a-4410-a5dd-e618ccbb0710",
-        "1e0aac86-530f-42d5-8a54-fc5426487b82",
-        "eeaa7c73-35a7-4b21-98da-50f02b147731",
-        "86b6deba-606c-4098-9a53-afa8aa4c6f60",
-        "65824413-7700-4374-af04-049ca055f371",
-        "d00b0151-14da-4d1e-873c-ef3a1881caaf",
-        "ecf4cdd3-37d6-4875-aaaf-9e988a5e2d89",
-        "b778eb69-6020-42cf-bc4b-72ac398c70b2",
-        "150b2c1f-2690-4937-8d5a-19a27658b0a6",
-        "59cbe894-696c-4d2c-95d4-25abbede62af",
-        "f752e82a-5b32-499f-8fce-0cce698aaffc",
-        "06323e5d-1b15-4f40-9f48-bbacdd9b6c1f",
-        "cbc4a314-95f5-4345-98cc-61b2d87bf963",
-        "b7f12d0d-bf3f-4185-af13-4532fdae63c6",
-        "6df864a5-23b1-403f-aa8e-3f7df988766c",
-        "1e1f3cb5-f477-45a0-8689-0bcb0dd1c47c",
-        "36b245af-b73b-41d7-93c5-39ab53100646",
-        "7742a14a-fff7-4611-84e0-a87b3d8e8c2b",
-        "82d1c592-a928-477d-a87b-68a5bedb499b",
-        "75f8beea-d158-4cc7-b499-989a795997d6",
-        "93008b25-d9c9-4b37-ab27-e827d3b49f96",
-        "e769e2fa-190d-4139-b987-d13a0991dc57",
-        "7712d5e7-fc0d-457f-9636-fc7df50bcdd5",
-        "aa167ba5-04c7-4e27-bcfe-bbb3570e34a7",
-        "96e2795e-7ad0-4bc8-9449-c5c90388c14a",
-        "9b008f20-f1a3-485d-8abd-798e6f146801",
-        "7bb9c028-ad59-4d77-91ac-4ae06f734d45",
-        "1a90854d-4ac2-468e-a55b-3dd73f2804c1",
-        "525d309f-e047-4606-8520-e4155fc301e9",
-        "efa2d25e-cac6-4294-a0e7-9ffb17298e66",
-        "ef57e2a8-2ffd-40d4-b129-d24a8ccaf86b",
-        "711df306-8d1a-4e6c-973e-d2927ae6f2d1",
-        "a1138eed-201c-48bb-8e30-327bc1ddd4bc",
-        "00f2a31e-62af-4488-8e13-fc9be047d87e",
-        "9b43a2ac-1185-47a3-b848-665910eb33ef",
-        "b8db0223-0099-4096-bf69-a99cdf4f4227",
-        "32c1f34f-7cbb-4bcd-819a-cecfc5d0bbbe",
-        "0ee0ab0a-23d8-4f54-9ef8-6158afb1baed",
-        "f384e098-22c1-4494-ae42-7544a5fa287b",
-        "ff2a5c40-284e-4b30-9ae2-470d488671cc",
-        "771e748d-0bac-40ee-8c02-b6953c33e2a4",
-        "d0ba68b2-728a-4937-a82e-f92a8bbe0ad6",
-        "a25ca2da-d851-47ed-8265-a1286d3c5d38",
-        "80de556d-aa88-4be1-b839-63179f4674f6",
-        "2e510d8f-b375-414e-bf73-9b2ba41aa7b4",
-        "153b8e97-267b-45d0-93b5-d58b864a7798",
-        "71025d80-f9f2-40a8-b8a6-0067fea12a69",
-        "e44c07dd-0be1-4423-ae0c-82397307cb6c",
-        "1b52d982-a9cb-4563-b99f-6ed7db65c980",
-        "95c5bf26-1d22-4bcb-9a21-13e8e725855f",
-        "d3f34d11-dd53-4b74-a13e-a0db173f4aa3",
-        "93ef325c-4b57-4326-be03-58d2341a2321",
-        "a0d7e706-1771-4677-9d00-49093a4a517e",
-        "1a993c19-d19c-4653-b4a9-5a4644c8ca34",
-        "fb5e9229-54a7-4c5f-b808-9119425f1a7c",
-        "88f9b616-e367-4b0a-844d-498d59d9d1ba",
-        "6e800675-83d7-4939-a27f-02375a459f9b",
-        "7e475aeb-2870-4e6f-9d4c-d1bec9c94806",
-        "f2517b2f-b4a6-40c0-ac33-02f51f5741ef",
-        "df1f04ba-cd04-4ebf-a2f6-e1cdd48ad5f1",
-        "ac812435-a9de-4309-92f3-7d425cee29b8",
-        "de3ab370-d351-4326-a913-e8b862f0468a",
-        "d81a5fec-f600-4972-ad09-6e10f5aec840",
-        "08fb24ca-7cc4-4914-87ee-c83d8c8c5bf8",
-        "1a05d819-dba8-4e88-a4c8-0fca3d590037",
-        "497c67dc-63ac-4130-b960-f6027be4eb46",
-        "0222d355-ee57-40b2-9030-62fd8b13be3b",
-        "71f6d2d4-ee24-48a3-90fb-2b8ce563d8d9",
-        "3be12a1f-a720-49d2-9a04-87e91f9bc988",
-        "e5e3ec12-1539-4809-909d-e98f2c4b7f0a",
-        "a1bad8f8-34d7-47b7-9a74-30609382b3f6",
-        "c0886eb7-d340-40a6-b45d-42b4154bbc7b",
-        "f74cc718-172c-4f68-a4d1-98f030ce53b0",
-        "93f2b5b3-9285-4253-9f28-573d6fa563a2",
-        "de65109b-ad0c-417e-bf33-db0d88a77139",
-        "b1ef8095-db81-4bc5-bb58-c9e643b08187",
-        "4c5342f4-f366-460a-b706-9a1da3e2b2f6",
-        "e0639f70-efc4-424e-a259-4464aeaea8ea",
-        "827e38a9-09a6-49f7-8bd8-31f20167e4e0",
-        "49ef2652-392d-42c4-b440-a3d8a0417b4c",
-        "df4d11e5-6f2c-4f36-b34a-79b51470fa62",
-        "e5889810-a9dd-4c47-aa2f-b84870d74c0a",
-        "a2c8cfc5-0523-48cb-bcba-1fe5a4542e39",
-        "e1b91adf-00e3-4863-b3e4-95ed06b9d0c9",
-        "35a61c17-8eed-46cd-ab57-a0cffe1818bf",
-        "d5699e18-bd52-49cd-a971-e7471e910778",
-        "c5cfd309-f98a-489d-89a3-a081ed424a6c",
-        "d470e88f-21e2-4756-b7c9-e27d73bfb929",
-        "a348f543-552b-4aec-96b1-6ac8a2cf1644",
-        "d3615361-2ce8-414d-9ce1-7870a8b07342",
-        "086d6787-1baf-4a94-abdb-7665a81d22ee",
-        "bf55d03b-4761-4fa1-a4e5-932784bdf1b9",
-        "457cffaa-8b8e-4564-bba2-53610061b7a5",
-        "8701b34f-461c-404d-845f-866a4bedd7ca",
-        "f56267c1-cc7e-4101-b45f-fb51b27678b4",
-        "a1af5c7a-13b6-4b1f-b7f1-d2bfc55f4b94"
-      ],
-      "sodium benzoate": [
-        "65824413-7700-4374-af04-049ca055f371"
-      ],
-      "parfum": [
-        "877337a9-4a8b-4d17-bed7-f3a39d335e80"
-      ],
-      "citrus aurantium peel oil": [
-        "319a7f33-e7c2-4980-893c-95401d36c377",
-        "f0fc6896-88e3-4c26-9653-fe2b7e78874c",
-        "b747f753-b493-47a5-b0d3-4d3ec981e273",
-        "a923c1c8-494d-4330-9bff-3e8b24f17b00",
-        "f9c05970-20d5-47a4-8093-098a52a53874",
-        "ecf6ef2d-4da6-4ff8-a1d0-d29422d24e3a",
-        "a4931990-2a2a-46dc-a740-46703fe88c6d",
-        "6627e41a-1b9d-4622-89b3-1964337768d2",
-        "67734a62-d120-45e1-ba29-4a62454d9224",
-        "d657011d-cff1-41f2-8f9f-fe37c7a11a84",
-        "dcbdaa4c-4fbc-4473-987a-6d33558a5c19",
-        "a64c558c-1c8a-4f75-8411-0108578fb4f6"
-      ],
-      "limonene": [
-        "d9a853fb-831a-4f8e-a3f5-d57b976d9c88",
-        "23d540ea-0079-4c28-8b69-10033f69f535",
-        "d61c4bec-0b4d-4e48-aef5-a218fea8b8cc",
-        "094b1ce3-9584-4c45-b567-8123e10e7033",
-        "77c4653c-3430-4779-bdd8-d76199258418",
-        "dd0b9281-85f3-43f2-b398-855b0154e62a",
-        "65222645-e4f3-41ab-aba8-9c8715c879bd",
-        "59c3e02e-9dda-4c79-a55e-14af2cdcf062",
-        "2fd55649-0293-4f5a-a737-e487ede48da7",
-        "2f9203ba-2582-4f8f-a9d3-6127a0b3f84b",
-        "fcb99a35-7fdb-447a-9c32-0754d66b463b",
-        "57bf7d48-3909-49da-a340-cc2a2164759c",
-        "e99411e7-a980-4d98-a824-64d3ba18b1ce",
-        "b9d71c6d-39c6-47c0-ade3-b681e8f343f2",
-        "f0386f6b-f59b-49a8-a468-5c77e8a8188e",
-        "7f9f30da-c884-4e7d-ba53-2b8eb25b55be",
-        "cffcb078-879d-49cd-964d-2166ba4444e3",
-        "c520b563-610e-4e05-be57-11ba1a7c203a",
-        "67734a62-d120-45e1-ba29-4a62454d9224",
-        "6166f166-7a24-446d-b5a3-c7eb8d60fb7f",
-        "a209d30f-e08c-4245-b4a8-a1812d41feef",
-        "ebdb8cd5-9a2a-446d-b207-9c6ea3bb4e2b",
-        "d489e0ea-9a81-4b1d-b8bc-5502db5adb42",
-        "37922c57-22ba-47ac-86a5-185e7d7702fb",
-        "5fd73f7d-090a-41e9-9cf8-ec2d82359ab1",
-        "f43f6f59-9dfd-4a87-b632-82dadb6e5796",
-        "29a385e8-9ff6-43f0-8eac-8788fb368de3",
-        "e3c609ab-4b8a-4089-89b0-18279e3f2837",
-        "cfcdbaea-0fbc-4c60-9c38-021736c36bb5",
-        "0e1e8e38-fc2e-4ce7-84f9-4dce5df36518",
-        "dcbdaa4c-4fbc-4473-987a-6d33558a5c19",
-        "d93d671b-3419-4680-8269-60583ec9ac0e",
-        "caf20e39-06fb-43bf-8453-7a582cc1d1d4"
-      ],
-      "tetramethyl acetyloctahydronaphthalenes": [
-        "7ef988ef-989c-4378-aaeb-c9fc4b0edb1b"
-      ],
-      "vanillin.": [
-        "66d59cfe-69b2-46cf-ad54-d553ca4e9884",
-        "10bac44b-b523-4691-8274-844ff3684417"
-      ]
+      "aqua": {
+        "cosing_info": {
+          "reference": "acb2fd0b-1174-4f52-8481-759e0f6a9471",
+          "inci_name": "AQUA",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "cetearyl alcohol": {
+        "cosing_info": {
+          "reference": "194ab09b-a86f-40a8-9883-b63e577e0807",
+          "inci_name": "CETEARYL ALCOHOL",
+          "cas_no": [
+            "67762-27-0",
+            "8005-44-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "62238",
+            "sid": null,
+            "cas_no": "8005-44-5"
+          }
+        ]
+      },
+      "cetrimonium chloride": {
+        "cosing_info": {
+          "reference": "479d1457-4166-488f-b750-14ec81c62286",
+          "inci_name": "CETRIMONIUM CHLORIDE",
+          "cas_no": [
+            "112-02-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8154",
+            "sid": "516568819",
+            "cas_no": "112-02-7"
+          }
+        ]
+      },
+      "cetyl esters": {
+        "cosing_info": {
+          "reference": "4eee9041-3888-4236-9a28-4db561fb5d3f",
+          "inci_name": "CETYL ESTERS",
+          "cas_no": []
+        },
+        "pubchem_info": []
+      },
+      "panthenol": {
+        "cosing_info": {
+          "reference": "02b5654c-8fdf-44f4-a178-8f505b61ef9d",
+          "inci_name": "PANTHENOL",
+          "cas_no": [
+            "81-13-0",
+            "16485-10-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "131204",
+            "sid": "481107077",
+            "cas_no": "81-13-0"
+          },
+          {
+            "cid": "4678",
+            "sid": "483926094",
+            "cas_no": "16485-10-2"
+          }
+        ]
+      },
+      "sodium hydroxide": {
+        "cosing_info": {
+          "reference": "c823fcab-6ed5-460d-803a-cd7d42ec2cf7",
+          "inci_name": "SODIUM HYDROXIDE",
+          "cas_no": [
+            "1310-73-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "14798",
+            "sid": "481101463",
+            "cas_no": "1310-73-2"
+          }
+        ]
+      },
+      "glycine": {
+        "cosing_info": {
+          "reference": "86a48168-97e5-4cc3-aff4-bd4f9e2a69cc",
+          "inci_name": "GLYCINE",
+          "cas_no": [
+            "56-40-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "750",
+            "sid": "481107780",
+            "cas_no": "56-40-6"
+          }
+        ]
+      },
+      "prunus amygdalus dulcis oil": {
+        "cosing_info": {
+          "reference": "1fec07a6-1653-496b-8f4c-83443d9a6291",
+          "inci_name": "PRUNUS AMYGDALUS DULCIS OIL",
+          "cas_no": [
+            "8007-69-0",
+            "90320-37-9"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "hydrolyzed vegetable protein": {
+        "cosing_info": {
+          "reference": "fbd4f5cb-2b21-44cf-860d-cf93c057bdf1",
+          "inci_name": "HYDROLYZED VEGETABLE PROTEIN",
+          "cas_no": [
+            "100209-45-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "citric acid": {
+        "cosing_info": {
+          "reference": "398b79ca-fc64-43b5-bf15-956e6239c1db",
+          "inci_name": "CITRIC ACID",
+          "cas_no": [
+            "77-92-9",
+            "5949-29-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "311",
+            "sid": "481107970",
+            "cas_no": "77-92-9"
+          },
+          {
+            "cid": "22230",
+            "sid": "481107868",
+            "cas_no": "5949-29-1"
+          }
+        ]
+      },
+      "benzoic acid": {
+        "cosing_info": {
+          "reference": "f7928fa0-3b53-41ab-bab2-d159039fab42",
+          "inci_name": "BENZOIC ACID",
+          "cas_no": [
+            "65-85-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "243",
+            "sid": "481107960",
+            "cas_no": "65-85-0"
+          }
+        ]
+      },
+      "sodium benzoate": {
+        "cosing_info": {
+          "reference": "65824413-7700-4374-af04-049ca055f371",
+          "inci_name": "SODIUM BENZOATE",
+          "cas_no": [
+            "532-32-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "517055",
+            "sid": "481108023",
+            "cas_no": "532-32-1"
+          }
+        ]
+      },
+      "parfum": {
+        "cosing_info": {
+          "reference": "877337a9-4a8b-4d17-bed7-f3a39d335e80",
+          "inci_name": "PARFUM",
+          "cas_no": []
+        },
+        "pubchem_info": []
+      },
+      "citrus aurantium peel oil": {
+        "cosing_info": {
+          "reference": "6627e41a-1b9d-4622-89b3-1964337768d2",
+          "inci_name": "CITRUS AURANTIUM PEEL OIL",
+          "cas_no": []
+        },
+        "pubchem_info": []
+      },
+      "limonene": {
+        "cosing_info": {
+          "reference": "d9a853fb-831a-4f8e-a3f5-d57b976d9c88",
+          "inci_name": "LIMONENE",
+          "cas_no": [
+            "138-86-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "22311",
+            "sid": "518147164",
+            "cas_no": "138-86-3"
+          }
+        ]
+      },
+      "tetramethyl acetyloctahydronaphthalenes": {
+        "cosing_info": {
+          "reference": "7ef988ef-989c-4378-aaeb-c9fc4b0edb1b",
+          "inci_name": "TETRAMETHYL ACETYLOCTAHYDRONAPHTHALENES",
+          "cas_no": [
+            "54464-57-2",
+            "54464-59-4",
+            "68155-66-8",
+            "68155-67-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "108242",
+            "sid": "505787547",
+            "cas_no": "54464-57-2"
+          },
+          {
+            "cid": "108243",
+            "sid": "518145041",
+            "cas_no": "54464-59-4"
+          },
+          {
+            "cid": "109193",
+            "sid": "505416029",
+            "cas_no": "68155-66-8"
+          },
+          {
+            "cid": "109194",
+            "sid": "505416028",
+            "cas_no": "68155-67-9"
+          }
+        ]
+      }
     }
   },
   "additional_information": {

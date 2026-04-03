@@ -22,37 +22,450 @@
     "product_category": "Haarverzorging",
     "legal_grade": null,
     "ingredients": [
-      "Aqua (Water",
+      "Aqua",
+      "(Water",
       "Eau)",
-      "Sodium Laureth Sulfate",
-      "Sodium Chloride",
-      "Cocamidopropyl Betaine",
-      "Sunflower Seed Oil PEG-8 Esters",
-      "Hydrolyzed Keratin",
-      "Sodium Benzoate",
-      "Parfum (Fragrance)",
+      "Sodium",
+      "Laureth",
+      "Sulfate",
+      "Chloride",
+      "Cocamidopropyl",
+      "Betaine",
+      "Sunflower",
+      "Seed",
+      "Oil",
+      "PEG-8",
+      "Esters",
+      "Hydrolyzed",
+      "Keratin",
+      "Benzoate",
+      "Parfum",
+      "(Fragrance)",
       "Coco-Glucoside",
-      "Glyceryl Oleate",
-      "PEG-7 Glyceryl Cocoate",
-      "Citric Acid",
-      "Hydroxypropyl Guar Hydroxypropyltrimonium Chloride",
-      "PEG-40 Hydrogenated Castor Oil",
-      "PEG-120 Methyl Glucose Dioleate",
+      "Glyceryl",
+      "Oleate",
+      "PEG-7",
+      "Cocoate",
+      "Citric",
+      "Acid",
+      "Hydroxypropyl",
+      "Guar",
+      "Hydroxypropyltrimonium",
+      "PEG-40",
+      "Hydrogenated",
+      "Castor",
+      "PEG-120",
+      "Methyl",
+      "Glucose",
+      "Dioleate",
       "Linalool",
-      "Tetramethyl Acetyloctahydronaphthalenes",
-      "Propylene Glycol",
-      "Linalyl Acetate",
-      "Sodium Hydroxide",
+      "Tetramethyl",
+      "Acetyloctahydronaphthalenes",
+      "Propylene",
+      "Glycol",
+      "Linalyl",
+      "Acetate",
+      "Hydroxide",
       "Limonene",
-      "Benzyl Alcohol",
-      "Camellia Oleifera Seed Oil",
-      "Calophyllum Inophyllum Seed Oil",
-      "Perilla Frutescens Seed Oil",
-      "Prunus Serrulata Flower Extract",
-      "CI 47005",
-      "CI 15985 (Yellow 6)"
+      "Benzyl",
+      "Alcohol",
+      "Camellia",
+      "Oleifera",
+      "Calophyllum",
+      "Inophyllum",
+      "Perilla",
+      "Frutescens",
+      "Prunus",
+      "Serrulata",
+      "Flower",
+      "Extract",
+      "CI",
+      "47005",
+      "15985",
+      "(Yellow",
+      "6)"
     ],
-    "inci": {}
+    "inci": {
+      "sodium laureth sulfate": {
+        "cosing_info": {
+          "reference": "b2661101-50d0-47fe-84c0-33a71b2ea3dc",
+          "inci_name": "SODIUM LAURETH SULFATE",
+          "cas_no": [
+            "3088-31-1",
+            "9004-82-4",
+            "68891-38-3",
+            "1335-72-4",
+            "68585-34-2",
+            "91648-56-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "23682204",
+            "sid": "505583106",
+            "cas_no": "3088-31-1"
+          },
+          {
+            "cid": "23665884",
+            "sid": null,
+            "cas_no": "9004-82-4"
+          },
+          {
+            "cid": "21889068",
+            "sid": null,
+            "cas_no": "1335-72-4"
+          }
+        ]
+      },
+      "sodium chloride": {
+        "cosing_info": {
+          "reference": "e8ddd4bc-b16f-443b-9b38-b84c2dcf0a33",
+          "inci_name": "SODIUM CHLORIDE",
+          "cas_no": [
+            "7647-14-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5234",
+            "sid": "481108026",
+            "cas_no": "7647-14-5"
+          }
+        ]
+      },
+      "cocamidopropyl betaine": {
+        "cosing_info": {
+          "reference": "dbd8d0cb-fa8f-41cc-b426-41c912015faf",
+          "inci_name": "COCAMIDOPROPYL BETAINE",
+          "cas_no": [
+            "97862-59-4 (generic)",
+            "61789-40-0",
+            "70851-07-9",
+            "83138-08-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "sunflower seed oil peg-8 esters": {
+        "cosing_info": {
+          "reference": "c5e30c1d-50a6-4fba-a091-bee7911e27d4",
+          "inci_name": "SUNFLOWER SEED OIL PEG-8 ESTERS",
+          "cas_no": []
+        },
+        "pubchem_info": []
+      },
+      "hydrolyzed keratin": {
+        "cosing_info": {
+          "reference": "1495bd9e-72b0-4c55-b0c5-2adce406c596",
+          "inci_name": "HYDROLYZED KERATIN",
+          "cas_no": [
+            "69430-36-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "sodium benzoate": {
+        "cosing_info": {
+          "reference": "65824413-7700-4374-af04-049ca055f371",
+          "inci_name": "SODIUM BENZOATE",
+          "cas_no": [
+            "532-32-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "517055",
+            "sid": "481108023",
+            "cas_no": "532-32-1"
+          }
+        ]
+      },
+      "coco-glucoside": {
+        "cosing_info": {
+          "reference": "8977b14c-4cd8-40f6-9016-49647d697baf",
+          "inci_name": "COCO-GLUCOSIDE",
+          "cas_no": [
+            "110615-47-9"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "glyceryl oleate": {
+        "cosing_info": {
+          "reference": "2f284eb0-6800-450f-a30b-a1a9bf576490",
+          "inci_name": "GLYCERYL OLEATE",
+          "cas_no": [
+            "25496-72-4",
+            "111-03-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5283468",
+            "sid": "505659282",
+            "cas_no": "25496-72-4"
+          },
+          {
+            "cid": "5283468",
+            "sid": "505659282",
+            "cas_no": "111-03-5"
+          }
+        ]
+      },
+      "peg-7 glyceryl cocoate": {
+        "cosing_info": {
+          "reference": "ad992fd2-7e3f-4f1c-9e91-754051cc32c2",
+          "inci_name": "PEG-7 GLYCERYL COCOATE",
+          "cas_no": [
+            "66105-29-1, 68201-46-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "citric acid": {
+        "cosing_info": {
+          "reference": "398b79ca-fc64-43b5-bf15-956e6239c1db",
+          "inci_name": "CITRIC ACID",
+          "cas_no": [
+            "77-92-9",
+            "5949-29-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "311",
+            "sid": "481107970",
+            "cas_no": "77-92-9"
+          },
+          {
+            "cid": "22230",
+            "sid": "481107868",
+            "cas_no": "5949-29-1"
+          }
+        ]
+      },
+      "hydroxypropyl guar hydroxypropyltrimonium chloride": {
+        "cosing_info": {
+          "reference": "ad83f981-11d6-4dd3-899c-e0aaca5b65db",
+          "inci_name": "HYDROXYPROPYL GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE",
+          "cas_no": [
+            "71329-50-5"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "peg-40 hydrogenated castor oil": {
+        "cosing_info": {
+          "reference": "b564afdc-0251-4872-84bd-212a6e457dc4",
+          "inci_name": "PEG-40 HYDROGENATED CASTOR OIL",
+          "cas_no": [
+            "61788-85-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "peg-120 methyl glucose dioleate": {
+        "cosing_info": {
+          "reference": "c788d32e-b8b9-46bc-806f-76cd2eb23647",
+          "inci_name": "PEG-120 METHYL GLUCOSE DIOLEATE",
+          "cas_no": [
+            "86893-19-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "168009879",
+            "sid": null,
+            "cas_no": "86893-19-8"
+          }
+        ]
+      },
+      "linalool": {
+        "cosing_info": {
+          "reference": "8f47a2fa-c519-434c-8bb9-8385cf05fea5",
+          "inci_name": "LINALOOL",
+          "cas_no": [
+            "78-70-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6549",
+            "sid": "482028551",
+            "cas_no": "78-70-6"
+          }
+        ]
+      },
+      "tetramethyl acetyloctahydronaphthalenes": {
+        "cosing_info": {
+          "reference": "7ef988ef-989c-4378-aaeb-c9fc4b0edb1b",
+          "inci_name": "TETRAMETHYL ACETYLOCTAHYDRONAPHTHALENES",
+          "cas_no": [
+            "54464-57-2",
+            "54464-59-4",
+            "68155-66-8",
+            "68155-67-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "108242",
+            "sid": "505787547",
+            "cas_no": "54464-57-2"
+          },
+          {
+            "cid": "108243",
+            "sid": "518145041",
+            "cas_no": "54464-59-4"
+          },
+          {
+            "cid": "109193",
+            "sid": "505416029",
+            "cas_no": "68155-66-8"
+          },
+          {
+            "cid": "109194",
+            "sid": "505416028",
+            "cas_no": "68155-67-9"
+          }
+        ]
+      },
+      "propylene glycol": {
+        "cosing_info": {
+          "reference": "86c80ec2-3646-450a-88b7-06496837ed33",
+          "inci_name": "PROPYLENE GLYCOL",
+          "cas_no": [
+            "57-55-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "1030",
+            "sid": "481108016",
+            "cas_no": "57-55-6"
+          }
+        ]
+      },
+      "linalyl acetate": {
+        "cosing_info": {
+          "reference": "b5a2ca6c-f9ef-4258-b968-f613f7376cb5",
+          "inci_name": "LINALYL ACETATE",
+          "cas_no": [
+            "115-95-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8294",
+            "sid": "482027779",
+            "cas_no": "115-95-7"
+          }
+        ]
+      },
+      "sodium hydroxide": {
+        "cosing_info": {
+          "reference": "c823fcab-6ed5-460d-803a-cd7d42ec2cf7",
+          "inci_name": "SODIUM HYDROXIDE",
+          "cas_no": [
+            "1310-73-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "14798",
+            "sid": "481101463",
+            "cas_no": "1310-73-2"
+          }
+        ]
+      },
+      "limonene": {
+        "cosing_info": {
+          "reference": "d9a853fb-831a-4f8e-a3f5-d57b976d9c88",
+          "inci_name": "LIMONENE",
+          "cas_no": [
+            "138-86-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "22311",
+            "sid": "518147164",
+            "cas_no": "138-86-3"
+          }
+        ]
+      },
+      "benzyl alcohol": {
+        "cosing_info": {
+          "reference": "43b6ac65-f60d-42b8-8d5e-72d73a17cce5",
+          "inci_name": "BENZYL ALCOHOL",
+          "cas_no": [
+            "100-51-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "244",
+            "sid": "481107731",
+            "cas_no": "100-51-6"
+          }
+        ]
+      },
+      "camellia oleifera seed oil": {
+        "cosing_info": {
+          "reference": "fa113bbb-3ba8-47f9-89f3-a249e3f69877",
+          "inci_name": "CAMELLIA OLEIFERA SEED OIL",
+          "cas_no": [
+            "225233-97-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "calophyllum inophyllum seed oil": {
+        "cosing_info": {
+          "reference": "caa91a62-7c4a-4b82-9722-a180d147a474",
+          "inci_name": "CALOPHYLLUM INOPHYLLUM SEED OIL",
+          "cas_no": [
+            "-"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "perilla frutescens seed oil": {
+        "cosing_info": {
+          "reference": "7ae5b9e8-de43-4f31-9e74-f874805e9c1d",
+          "inci_name": "PERILLA FRUTESCENS SEED OIL",
+          "cas_no": []
+        },
+        "pubchem_info": []
+      },
+      "prunus serrulata flower extract": {
+        "cosing_info": {
+          "reference": "fdb71a69-646d-4639-a054-6139710e94eb",
+          "inci_name": "PRUNUS SERRULATA FLOWER EXTRACT",
+          "cas_no": []
+        },
+        "pubchem_info": []
+      },
+      "ci 47005": {
+        "cosing_info": {
+          "reference": "acd67006-e1ab-45de-a547-bfcc8ad9c6cb",
+          "inci_name": "CI 47005",
+          "cas_no": [
+            "8004-92-0",
+            "94891-32-4",
+            "95193-83-2",
+            "68814-04-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "25113171",
+            "sid": "505568305",
+            "cas_no": "68814-04-0"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120825681"

@@ -21,13 +21,49 @@
     "product_category": "Haarverzorging",
     "legal_grade": "Lees voor gebruik de bijgevoegde gebruiksaanwijzing.",
     "ingredients": [
-      "Dimethyl Ether",
-      "Alcohol denat.",
-      "Aqua (Water",
+      "Dimethyl",
+      "Ether",
+      "Alcohol",
+      "denat.",
+      "Aqua",
+      "(Water",
       "Eau)",
       "Octylacrylamide/Acrylates/"
     ],
-    "inci": {}
+    "inci": {
+      "dimethyl ether": {
+        "cosing_info": {
+          "reference": "5f989003-d2b6-4418-94e4-d3317dbba98a",
+          "inci_name": "DIMETHYL ETHER",
+          "cas_no": [
+            "115-10-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8254",
+            "sid": "481107760",
+            "cas_no": "115-10-6"
+          }
+        ]
+      },
+      "alcohol denat.": {
+        "cosing_info": {
+          "reference": "1eb22e6e-941d-4099-b8e6-5533a356ce04",
+          "inci_name": "ALCOHOL DENAT.",
+          "cas_no": [
+            "64-17-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "702",
+            "sid": "481101440",
+            "cas_no": "64-17-5"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120833875"

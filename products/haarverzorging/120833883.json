@@ -22,34 +22,444 @@
     "product_category": "Haarverzorging",
     "legal_grade": null,
     "ingredients": [
-      "Aqua (Water",
+      "Aqua",
+      "(Water",
       "Eau)",
       "Glycerin",
-      "Cetearyl Alcohol",
-      "Caprylic/Capric Triglyceride",
+      "Cetearyl",
+      "Alcohol",
+      "Caprylic/Capric",
+      "Triglyceride",
       "PVP",
-      "Distearoylethyl Dimonium Chloride",
-      "Cellulose Gum",
-      "Aloe Barbadensis Leaf Juice",
+      "Distearoylethyl",
+      "Dimonium",
+      "Chloride",
+      "Cellulose",
+      "Gum",
+      "Aloe",
+      "Barbadensis",
+      "Leaf",
+      "Juice",
       "Panthenol",
       "Niacinamide",
       "Betaine",
-      "Sodium Benzoate",
-      "Parfum (Fragrance)",
+      "Sodium",
+      "Benzoate",
+      "Parfum",
+      "(Fragrance)",
       "Ceteareth-20",
       "Algin",
-      "Citric Acid",
+      "Citric",
+      "Acid",
       "Phenoxyethanol",
       "Linalool",
-      "Benzyl Alcohol",
+      "Benzyl",
       "Ethylhexylglycerin",
       "Geraniol",
       "Limonene",
       "Citronellol",
-      "Alpha-Isomethyl Ionone",
-      "Potassium Sorbate"
+      "Alpha-Isomethyl",
+      "Ionone",
+      "Potassium",
+      "Sorbate"
     ],
-    "inci": {}
+    "inci": {
+      "glycerin": {
+        "cosing_info": {
+          "reference": "59eb65ef-7b29-4486-a311-f194224c11e6",
+          "inci_name": "GLYCERIN",
+          "cas_no": [
+            "56-81-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "753",
+            "sid": "481110738",
+            "cas_no": "56-81-5"
+          }
+        ]
+      },
+      "cetearyl alcohol": {
+        "cosing_info": {
+          "reference": "194ab09b-a86f-40a8-9883-b63e577e0807",
+          "inci_name": "CETEARYL ALCOHOL",
+          "cas_no": [
+            "67762-27-0",
+            "8005-44-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "62238",
+            "sid": null,
+            "cas_no": "8005-44-5"
+          }
+        ]
+      },
+      "caprylic/capric triglyceride": {
+        "cosing_info": null,
+        "pubchem_info": [
+          {
+            "cid": "93356",
+            "sid": "500787193",
+            "cas_no": null
+          }
+        ]
+      },
+      "pvp": {
+        "cosing_info": {
+          "reference": "d25846e6-023c-4224-bfdc-0b156eb53676",
+          "inci_name": "PVP",
+          "cas_no": [
+            "9003-39-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "distearoylethyl dimonium chloride": {
+        "cosing_info": {
+          "reference": "b11e8c26-58e6-440f-898c-e138b5e915a7",
+          "inci_name": "DISTEAROYLETHYL DIMONIUM CHLORIDE",
+          "cas_no": [
+            "67846-68-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "105818",
+            "sid": "505585376",
+            "cas_no": "67846-68-8"
+          }
+        ]
+      },
+      "cellulose gum": {
+        "cosing_info": {
+          "reference": "ecf86144-c4f1-4b59-bacf-56cc76223619",
+          "inci_name": "CELLULOSE GUM",
+          "cas_no": [
+            "9004-32-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6328154",
+            "sid": "505883316",
+            "cas_no": "9004-32-4"
+          }
+        ]
+      },
+      "aloe barbadensis leaf juice": {
+        "cosing_info": {
+          "reference": "18f31d00-f6f7-4142-b533-6f06f9ce0e5b",
+          "inci_name": "ALOE BARBADENSIS LEAF JUICE",
+          "cas_no": [
+            "85507-69-3",
+            "94349-62-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5712222",
+            "sid": "505550691",
+            "cas_no": "85507-69-3"
+          }
+        ]
+      },
+      "panthenol": {
+        "cosing_info": {
+          "reference": "02b5654c-8fdf-44f4-a178-8f505b61ef9d",
+          "inci_name": "PANTHENOL",
+          "cas_no": [
+            "81-13-0",
+            "16485-10-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "131204",
+            "sid": "481107077",
+            "cas_no": "81-13-0"
+          },
+          {
+            "cid": "4678",
+            "sid": "483926094",
+            "cas_no": "16485-10-2"
+          }
+        ]
+      },
+      "niacinamide": {
+        "cosing_info": {
+          "reference": "1d812aa9-1b8a-48cb-988b-d2478184a2f4",
+          "inci_name": "NIACINAMIDE",
+          "cas_no": [
+            "98-92-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "936",
+            "sid": "483925991",
+            "cas_no": "98-92-0"
+          }
+        ]
+      },
+      "betaine": {
+        "cosing_info": {
+          "reference": "73ba24e6-ffb8-4a09-a6ee-99704524b504",
+          "inci_name": "BETAINE",
+          "cas_no": [
+            "107-43-7",
+            "590-47-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "247",
+            "sid": "481106944",
+            "cas_no": "107-43-7"
+          },
+          {
+            "cid": "83815",
+            "sid": null,
+            "cas_no": "590-47-6"
+          }
+        ]
+      },
+      "sodium benzoate": {
+        "cosing_info": {
+          "reference": "65824413-7700-4374-af04-049ca055f371",
+          "inci_name": "SODIUM BENZOATE",
+          "cas_no": [
+            "532-32-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "517055",
+            "sid": "481108023",
+            "cas_no": "532-32-1"
+          }
+        ]
+      },
+      "ceteareth-20": {
+        "cosing_info": {
+          "reference": "05480beb-c679-4042-968d-2368618d2cee",
+          "inci_name": "CETEARETH-20",
+          "cas_no": [
+            "68439-49-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "algin": {
+        "cosing_info": {
+          "reference": "f3f80d59-1045-4ecf-81a6-0f7923d93b0f",
+          "inci_name": "ALGIN",
+          "cas_no": [
+            "9005-38-3",
+            "57606-04-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "15609072",
+            "sid": null,
+            "cas_no": "57606-04-9"
+          }
+        ]
+      },
+      "citric acid": {
+        "cosing_info": {
+          "reference": "398b79ca-fc64-43b5-bf15-956e6239c1db",
+          "inci_name": "CITRIC ACID",
+          "cas_no": [
+            "77-92-9",
+            "5949-29-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "311",
+            "sid": "481107970",
+            "cas_no": "77-92-9"
+          },
+          {
+            "cid": "22230",
+            "sid": "481107868",
+            "cas_no": "5949-29-1"
+          }
+        ]
+      },
+      "phenoxyethanol": {
+        "cosing_info": {
+          "reference": "f8f3a6ab-5656-4d9a-a085-729e03a7376d",
+          "inci_name": "PHENOXYETHANOL",
+          "cas_no": [
+            "122-99-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "31236",
+            "sid": "483926132",
+            "cas_no": "122-99-6"
+          }
+        ]
+      },
+      "linalool": {
+        "cosing_info": {
+          "reference": "8f47a2fa-c519-434c-8bb9-8385cf05fea5",
+          "inci_name": "LINALOOL",
+          "cas_no": [
+            "78-70-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6549",
+            "sid": "482028551",
+            "cas_no": "78-70-6"
+          }
+        ]
+      },
+      "benzyl alcohol": {
+        "cosing_info": {
+          "reference": "43b6ac65-f60d-42b8-8d5e-72d73a17cce5",
+          "inci_name": "BENZYL ALCOHOL",
+          "cas_no": [
+            "100-51-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "244",
+            "sid": "481107731",
+            "cas_no": "100-51-6"
+          }
+        ]
+      },
+      "ethylhexylglycerin": {
+        "cosing_info": {
+          "reference": "c4da9c7a-3487-4c25-863c-9ddd013282b5",
+          "inci_name": "ETHYLHEXYLGLYCERIN",
+          "cas_no": [
+            "70445-33-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "9859093",
+            "sid": "483927937",
+            "cas_no": "70445-33-9"
+          }
+        ]
+      },
+      "geraniol": {
+        "cosing_info": {
+          "reference": "4937f329-ce46-43be-bb99-3307e3966e02",
+          "inci_name": "GERANIOL",
+          "cas_no": [
+            "106-24-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "637566",
+            "sid": "481107196",
+            "cas_no": "106-24-1"
+          }
+        ]
+      },
+      "limonene": {
+        "cosing_info": {
+          "reference": "d9a853fb-831a-4f8e-a3f5-d57b976d9c88",
+          "inci_name": "LIMONENE",
+          "cas_no": [
+            "138-86-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "22311",
+            "sid": "518147164",
+            "cas_no": "138-86-3"
+          }
+        ]
+      },
+      "citronellol": {
+        "cosing_info": {
+          "reference": "0dc4ed58-7d3b-4143-a03f-a9d1dccdabc9",
+          "inci_name": "CITRONELLOL",
+          "cas_no": [
+            "106-22-9",
+            "26489-01-0",
+            "7540-51-4",
+            "1117-61-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8842",
+            "sid": "482039864",
+            "cas_no": "106-22-9"
+          },
+          {
+            "cid": "8842",
+            "sid": "482039864",
+            "cas_no": "26489-01-0"
+          },
+          {
+            "cid": "7793",
+            "sid": "505563004",
+            "cas_no": "7540-51-4"
+          },
+          {
+            "cid": "101977",
+            "sid": "483924806",
+            "cas_no": "1117-61-9"
+          }
+        ]
+      },
+      "alpha-isomethyl ionone": {
+        "cosing_info": {
+          "reference": "bb1bdf74-ac91-4b4f-a06e-4f30fe9e50be",
+          "inci_name": "ALPHA-ISOMETHYL IONONE",
+          "cas_no": [
+            "127-51-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5372174",
+            "sid": "518159587",
+            "cas_no": "127-51-5"
+          }
+        ]
+      },
+      "potassium sorbate": {
+        "cosing_info": {
+          "reference": "134cca64-0dd3-4ab3-91d1-69126771188f",
+          "inci_name": "POTASSIUM SORBATE",
+          "cas_no": [
+            "24634-61-5",
+            "590-00-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "23676745",
+            "sid": "481107499",
+            "cas_no": "24634-61-5"
+          },
+          {
+            "cid": "23676745",
+            "sid": "481107499",
+            "cas_no": "590-00-1"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120833883"

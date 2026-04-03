@@ -26,12 +26,34 @@
     "legal_grade": "Lees voor gebruik de bijgevoegde gebruiksaanwijzing.",
     "ingredients": [
       "Crèmekleuring",
-      "Aqua (Water",
+      "Aqua",
+      "(Water",
       "Eau)",
-      "Cetearyl Alcohol",
-      "Ammonium Hydroxide ·"
+      "Cetearyl",
+      "Alcohol",
+      "Ammonium",
+      "Hydroxide",
+      "·"
     ],
-    "inci": {}
+    "inci": {
+      "cetearyl alcohol": {
+        "cosing_info": {
+          "reference": "194ab09b-a86f-40a8-9883-b63e577e0807",
+          "inci_name": "CETEARYL ALCOHOL",
+          "cas_no": [
+            "67762-27-0",
+            "8005-44-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "62238",
+            "sid": null,
+            "cas_no": "8005-44-5"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120832856"

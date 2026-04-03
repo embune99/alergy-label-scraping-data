@@ -22,36 +22,491 @@
     "product_category": "Haarverzorging",
     "legal_grade": null,
     "ingredients": [
-      "Aqua (Water",
+      "Aqua",
+      "(Water",
       "Eau)",
-      "Sodium Laureth Sulfate",
-      "Sodium Chloride",
-      "Cocamidopropyl Betaine",
-      "Hydrolyzed Keratin",
-      "Hydrolyzed Collagen",
-      "Sodium Benzoate",
-      "Parfum (Fragrance)",
+      "Sodium",
+      "Laureth",
+      "Sulfate",
+      "Chloride",
+      "Cocamidopropyl",
+      "Betaine",
+      "Hydrolyzed",
+      "Keratin",
+      "Collagen",
+      "Benzoate",
+      "Parfum",
+      "(Fragrance)",
       "Coco-Glucoside",
-      "Glyceryl Oleate",
-      "Citric Acid",
-      "PEG-7 Glyceryl Cocoate",
-      "Glycol Distearate",
+      "Glyceryl",
+      "Oleate",
+      "Citric",
+      "Acid",
+      "PEG-7",
+      "Cocoate",
+      "Glycol",
+      "Distearate",
       "Laureth-4",
-      "PEG-120 Methyl Glucose Dioleate",
-      "Hydrogenated Castor Oil",
-      "Benzyl Salicylate",
-      "Hexyl Cinnamal",
-      "Hydroxypropyl Guar Hydroxypropyltrimonium Chloride",
+      "PEG-120",
+      "Methyl",
+      "Glucose",
+      "Dioleate",
+      "Hydrogenated",
+      "Castor",
+      "Oil",
+      "Benzyl",
+      "Salicylate",
+      "Hexyl",
+      "Cinnamal",
+      "Hydroxypropyl",
+      "Guar",
+      "Hydroxypropyltrimonium",
       "Citronellol",
-      "Tetramethyl Acetyloctahydronaphthalenes",
-      "Sodium Hydroxide",
+      "Tetramethyl",
+      "Acetyloctahydronaphthalenes",
+      "Hydroxide",
       "Limonene",
-      "Linalyl Acetate",
+      "Linalyl",
+      "Acetate",
       "Linalool",
-      "Propylene Glycol",
-      "Sorbic Acid"
+      "Propylene",
+      "Sorbic"
     ],
-    "inci": {}
+    "inci": {
+      "sodium laureth sulfate": {
+        "cosing_info": {
+          "reference": "b2661101-50d0-47fe-84c0-33a71b2ea3dc",
+          "inci_name": "SODIUM LAURETH SULFATE",
+          "cas_no": [
+            "3088-31-1",
+            "9004-82-4",
+            "68891-38-3",
+            "1335-72-4",
+            "68585-34-2",
+            "91648-56-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "23682204",
+            "sid": "505583106",
+            "cas_no": "3088-31-1"
+          },
+          {
+            "cid": "23665884",
+            "sid": null,
+            "cas_no": "9004-82-4"
+          },
+          {
+            "cid": "21889068",
+            "sid": null,
+            "cas_no": "1335-72-4"
+          }
+        ]
+      },
+      "sodium chloride": {
+        "cosing_info": {
+          "reference": "e8ddd4bc-b16f-443b-9b38-b84c2dcf0a33",
+          "inci_name": "SODIUM CHLORIDE",
+          "cas_no": [
+            "7647-14-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5234",
+            "sid": "481108026",
+            "cas_no": "7647-14-5"
+          }
+        ]
+      },
+      "cocamidopropyl betaine": {
+        "cosing_info": {
+          "reference": "dbd8d0cb-fa8f-41cc-b426-41c912015faf",
+          "inci_name": "COCAMIDOPROPYL BETAINE",
+          "cas_no": [
+            "97862-59-4 (generic)",
+            "61789-40-0",
+            "70851-07-9",
+            "83138-08-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "hydrolyzed keratin": {
+        "cosing_info": {
+          "reference": "1495bd9e-72b0-4c55-b0c5-2adce406c596",
+          "inci_name": "HYDROLYZED KERATIN",
+          "cas_no": [
+            "69430-36-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "hydrolyzed collagen": {
+        "cosing_info": {
+          "reference": "a8f53315-161a-4d5e-aab5-9df763d5df6d",
+          "inci_name": "HYDROLYZED COLLAGEN",
+          "cas_no": [
+            "92113-31-0",
+            "73049-73-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "168010125",
+            "sid": "505574247",
+            "cas_no": "92113-31-0"
+          }
+        ]
+      },
+      "sodium benzoate": {
+        "cosing_info": {
+          "reference": "65824413-7700-4374-af04-049ca055f371",
+          "inci_name": "SODIUM BENZOATE",
+          "cas_no": [
+            "532-32-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "517055",
+            "sid": "481108023",
+            "cas_no": "532-32-1"
+          }
+        ]
+      },
+      "coco-glucoside": {
+        "cosing_info": {
+          "reference": "8977b14c-4cd8-40f6-9016-49647d697baf",
+          "inci_name": "COCO-GLUCOSIDE",
+          "cas_no": [
+            "110615-47-9"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "glyceryl oleate": {
+        "cosing_info": {
+          "reference": "2f284eb0-6800-450f-a30b-a1a9bf576490",
+          "inci_name": "GLYCERYL OLEATE",
+          "cas_no": [
+            "25496-72-4",
+            "111-03-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5283468",
+            "sid": "505659282",
+            "cas_no": "25496-72-4"
+          },
+          {
+            "cid": "5283468",
+            "sid": "505659282",
+            "cas_no": "111-03-5"
+          }
+        ]
+      },
+      "citric acid": {
+        "cosing_info": {
+          "reference": "398b79ca-fc64-43b5-bf15-956e6239c1db",
+          "inci_name": "CITRIC ACID",
+          "cas_no": [
+            "77-92-9",
+            "5949-29-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "311",
+            "sid": "481107970",
+            "cas_no": "77-92-9"
+          },
+          {
+            "cid": "22230",
+            "sid": "481107868",
+            "cas_no": "5949-29-1"
+          }
+        ]
+      },
+      "peg-7 glyceryl cocoate": {
+        "cosing_info": {
+          "reference": "ad992fd2-7e3f-4f1c-9e91-754051cc32c2",
+          "inci_name": "PEG-7 GLYCERYL COCOATE",
+          "cas_no": [
+            "66105-29-1, 68201-46-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "glycol distearate": {
+        "cosing_info": {
+          "reference": "04af4aa0-7e4f-4435-8670-13ac941fe648",
+          "inci_name": "GLYCOL DISTEARATE",
+          "cas_no": [
+            "627-83-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "61174",
+            "sid": "500787329",
+            "cas_no": "627-83-8"
+          }
+        ]
+      },
+      "laureth-4": {
+        "cosing_info": {
+          "reference": "7f90fffa-1969-4366-9858-a94c86cd954f",
+          "inci_name": "LAURETH-4",
+          "cas_no": [
+            "5274-68-0",
+            "9002-92-0",
+            "68439-50-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "78933",
+            "sid": "518157406",
+            "cas_no": "5274-68-0"
+          }
+        ]
+      },
+      "peg-120 methyl glucose dioleate": {
+        "cosing_info": {
+          "reference": "c788d32e-b8b9-46bc-806f-76cd2eb23647",
+          "inci_name": "PEG-120 METHYL GLUCOSE DIOLEATE",
+          "cas_no": [
+            "86893-19-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "168009879",
+            "sid": null,
+            "cas_no": "86893-19-8"
+          }
+        ]
+      },
+      "hydrogenated castor oil": {
+        "cosing_info": {
+          "reference": "cb2ddcb2-92dc-47b5-b91f-bcb6b2219712",
+          "inci_name": "HYDROGENATED CASTOR OIL",
+          "cas_no": [
+            "8001-78-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "benzyl salicylate": {
+        "cosing_info": {
+          "reference": "ba0d9117-68cd-47ec-943e-ee22d1f97e0c",
+          "inci_name": "BENZYL SALICYLATE",
+          "cas_no": [
+            "118-58-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8363",
+            "sid": "481106937",
+            "cas_no": "118-58-1"
+          }
+        ]
+      },
+      "hexyl cinnamal": {
+        "cosing_info": {
+          "reference": "dfe28bfe-bd94-4e13-9f73-24aba98e5505",
+          "inci_name": "HEXYL CINNAMAL",
+          "cas_no": [
+            "101-86-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "1550884",
+            "sid": "505551463",
+            "cas_no": "101-86-0"
+          }
+        ]
+      },
+      "hydroxypropyl guar hydroxypropyltrimonium chloride": {
+        "cosing_info": {
+          "reference": "ad83f981-11d6-4dd3-899c-e0aaca5b65db",
+          "inci_name": "HYDROXYPROPYL GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE",
+          "cas_no": [
+            "71329-50-5"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "citronellol": {
+        "cosing_info": {
+          "reference": "0dc4ed58-7d3b-4143-a03f-a9d1dccdabc9",
+          "inci_name": "CITRONELLOL",
+          "cas_no": [
+            "106-22-9",
+            "26489-01-0",
+            "7540-51-4",
+            "1117-61-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8842",
+            "sid": "482039864",
+            "cas_no": "106-22-9"
+          },
+          {
+            "cid": "8842",
+            "sid": "482039864",
+            "cas_no": "26489-01-0"
+          },
+          {
+            "cid": "7793",
+            "sid": "505563004",
+            "cas_no": "7540-51-4"
+          },
+          {
+            "cid": "101977",
+            "sid": "483924806",
+            "cas_no": "1117-61-9"
+          }
+        ]
+      },
+      "tetramethyl acetyloctahydronaphthalenes": {
+        "cosing_info": {
+          "reference": "7ef988ef-989c-4378-aaeb-c9fc4b0edb1b",
+          "inci_name": "TETRAMETHYL ACETYLOCTAHYDRONAPHTHALENES",
+          "cas_no": [
+            "54464-57-2",
+            "54464-59-4",
+            "68155-66-8",
+            "68155-67-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "108242",
+            "sid": "505787547",
+            "cas_no": "54464-57-2"
+          },
+          {
+            "cid": "108243",
+            "sid": "518145041",
+            "cas_no": "54464-59-4"
+          },
+          {
+            "cid": "109193",
+            "sid": "505416029",
+            "cas_no": "68155-66-8"
+          },
+          {
+            "cid": "109194",
+            "sid": "505416028",
+            "cas_no": "68155-67-9"
+          }
+        ]
+      },
+      "sodium hydroxide": {
+        "cosing_info": {
+          "reference": "c823fcab-6ed5-460d-803a-cd7d42ec2cf7",
+          "inci_name": "SODIUM HYDROXIDE",
+          "cas_no": [
+            "1310-73-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "14798",
+            "sid": "481101463",
+            "cas_no": "1310-73-2"
+          }
+        ]
+      },
+      "limonene": {
+        "cosing_info": {
+          "reference": "d9a853fb-831a-4f8e-a3f5-d57b976d9c88",
+          "inci_name": "LIMONENE",
+          "cas_no": [
+            "138-86-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "22311",
+            "sid": "518147164",
+            "cas_no": "138-86-3"
+          }
+        ]
+      },
+      "linalyl acetate": {
+        "cosing_info": {
+          "reference": "b5a2ca6c-f9ef-4258-b968-f613f7376cb5",
+          "inci_name": "LINALYL ACETATE",
+          "cas_no": [
+            "115-95-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8294",
+            "sid": "482027779",
+            "cas_no": "115-95-7"
+          }
+        ]
+      },
+      "linalool": {
+        "cosing_info": {
+          "reference": "8f47a2fa-c519-434c-8bb9-8385cf05fea5",
+          "inci_name": "LINALOOL",
+          "cas_no": [
+            "78-70-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6549",
+            "sid": "482028551",
+            "cas_no": "78-70-6"
+          }
+        ]
+      },
+      "propylene glycol": {
+        "cosing_info": {
+          "reference": "86c80ec2-3646-450a-88b7-06496837ed33",
+          "inci_name": "PROPYLENE GLYCOL",
+          "cas_no": [
+            "57-55-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "1030",
+            "sid": "481108016",
+            "cas_no": "57-55-6"
+          }
+        ]
+      },
+      "sorbic acid": {
+        "cosing_info": {
+          "reference": "5f5bdaf5-3438-4264-8e3f-00f0ce38b481",
+          "inci_name": "SORBIC ACID",
+          "cas_no": [
+            "110-44-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "643460",
+            "sid": "481107593",
+            "cas_no": "110-44-1"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120825701"

@@ -20,276 +20,214 @@
     "legal_grade": "STERK KLEUREND PRODUCT MET KLEURSTOFFEN.",
     "ingredients": [
       "WATER/AQUA/EAU",
-      "CETEARYL ALCOHOL",
-      "CETRIMONIUM CHLORIDE",
+      "CETEARYL",
+      "ALCOHOL",
+      "CETRIMONIUM",
+      "CHLORIDE",
       "TRIHEPTANOIN",
       "PANTHENOL",
-      "HYDROXYPROPYL GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE",
+      "HYDROXYPROPYL",
+      "GUAR",
+      "HYDROXYPROPYLTRIMONIUM",
       "ETHYLHEXYLGLYCERIN",
-      "HYDROLYZED RICE PROTEIN",
-      "HYDROLYZED VEGETABLE PROTEIN",
-      "SODIUM HYDROXIDE",
-      "CITRIC ACID",
-      "PHENOXYETHANOL",
-      "SODIUM"
+      "HYDROLYZED",
+      "RICE",
+      "PROTEIN",
+      "VEGETABLE",
+      "SODIUM",
+      "HYDROXIDE",
+      "CITRIC",
+      "ACID",
+      "PHENOXYETHANOL"
     ],
     "inci": {
-      "cetearyl alcohol": [
-        "99d4999e-c34d-40f3-b876-4d68bf0127cb",
-        "194ab09b-a86f-40a8-9883-b63e577e0807",
-        "b6b1f0e6-82aa-4c55-9203-a07e187d115e",
-        "b63880e1-66b3-4e71-a08b-c3ee35090dd1",
-        "d43587fc-d952-491a-9bba-b7ea483f591c",
-        "3820d596-a346-4557-b1df-04af078f672d",
-        "29d51668-d06e-4ca0-84a3-ec7965c67457",
-        "fa9b3e4e-2d08-407a-8d12-86ef97f6f8d5",
-        "66fd3a55-b090-413d-9de1-32fee95173a8",
-        "7f249cb6-3b5c-4bb9-bd64-ec5e5333582d"
-      ],
-      "cetrimonium chloride": [
-        "479d1457-4166-488f-b750-14ec81c62286"
-      ],
-      "triheptanoin": [
-        "16072bf6-ae68-485f-acbc-ed1031a54c5d"
-      ],
-      "panthenol": [
-        "dae58323-b8ab-4d71-a0fb-2c610738f58b",
-        "02b5654c-8fdf-44f4-a178-8f505b61ef9d",
-        "886347a6-7c3f-44ab-a5b9-7e249701c871",
-        "b7d7e892-c53d-4bad-89d6-81185529ec3b",
-        "352d78b1-7087-4198-bc6d-bbb00d2f9b97",
-        "a608b5ca-65f9-451d-977c-441fdd3582d9",
-        "c71868c2-5111-4dde-ba34-b26a8eddd7e1",
-        "d4f863e5-3a9b-4b81-9516-be777fb2806e",
-        "d9cc16cc-9b12-4305-94af-2876133604c3",
-        "8bd07fd2-c550-4ac8-a955-65957ebef28b"
-      ],
-      "hydroxypropyl guar hydroxypropyltrimonium chloride": [
-        "ad83f981-11d6-4dd3-899c-e0aaca5b65db"
-      ],
-      "ethylhexylglycerin": [
-        "c4da9c7a-3487-4c25-863c-9ddd013282b5",
-        "e15fd8ce-b1a3-4b57-a5ec-70b85dd949b4"
-      ],
-      "hydrolyzed rice protein": [
-        "0d11a140-54f2-4069-b2b2-a4f4725128d7",
-        "19a81d2e-5549-453f-8ef9-8096c25e7732",
-        "cf0bf432-a96d-424c-9ce2-b766fb497ca7",
-        "b9ddfb71-c3c5-4d7c-ab30-183715ee3e02",
-        "6f8e05b3-032c-419d-a347-d48e88146d69",
-        "c064a685-ea08-4e3f-a425-7219fc2c37e2",
-        "bf539b5a-0f76-493b-ad0c-e18349d774cd",
-        "911045a4-e250-4ac6-8451-afe0f97c1625",
-        "8a0188e6-6113-4849-b409-11528ba36542",
-        "99154484-36a4-4e83-835d-7ef2485edad7",
-        "a773ee09-d1ae-48c7-8cf0-e1f13cbc968f",
-        "fa84afa3-9e97-4b9f-b264-50472a6cef05",
-        "ca642ca9-eb0e-4b0b-b409-aa39b47c80c3",
-        "0fb06325-48c0-47f8-bc0e-9175ade7e8bb",
-        "3b4c2791-892e-4bc3-a33f-60d65a3e550a",
-        "0686a6d6-fd4f-4c81-a738-862e37b1251d",
-        "ec2c09d1-57be-44d6-af3d-4fdc80bad0fa",
-        "615a1130-f3e5-44f9-a332-668085f54e0a",
-        "3a1610bc-172f-46ab-8e8e-deb28b241d38",
-        "537fa7d9-d545-4122-b46c-b6be42f3d02f",
-        "eb727bce-abaa-41cd-9d40-734d1bfd3ade",
-        "69f9c496-fdff-49b0-93cb-2eadf0d250d4",
-        "b9edbdcc-0591-4bc3-9e23-4f0262db3d66"
-      ],
-      "hydrolyzed vegetable protein": [
-        "fbd4f5cb-2b21-44cf-860d-cf93c057bdf1",
-        "c76046d9-c458-4203-80e4-0a62148b9ec8",
-        "e503f0e8-e95a-4505-9a1a-b5b9e273c1e9",
-        "2a3ea0d4-8d11-4745-948f-185c408be3ac",
-        "b9edbdcc-0591-4bc3-9e23-4f0262db3d66"
-      ],
-      "sodium hydroxide": [
-        "8a1627c4-efa4-495f-a325-384600295a69",
-        "c823fcab-6ed5-460d-803a-cd7d42ec2cf7",
-        "87bf452e-289b-46cf-8df5-631864466f28",
-        "e9589e3c-67f5-49cf-8635-2c77ca5c69fc",
-        "2255970b-923b-42eb-8216-b44f21061998",
-        "6ccebde7-8031-4e68-a462-4f783c1c315c",
-        "3cfd5281-35c2-4ea5-bf87-46760095aeaa",
-        "09ddffe6-f8dd-4665-9e37-b6983b717128",
-        "07f35b57-ee7e-4ecf-a1a8-ab2cf5d537cb",
-        "2ccc2299-ae0a-4690-ac5a-edadcc87e2df",
-        "5ad93aca-b85f-48db-a698-b1e9a5c676d4",
-        "c9eaefd0-d178-46f3-8148-c75842a20a14",
-        "5a30f586-6de3-4ff2-8d1c-b0ccc0017b27",
-        "15b59c8a-c186-43c9-a559-a9634c884605",
-        "3f211248-d99a-4a78-9b6c-e6291e3b2380",
-        "2b0b85d6-e809-4240-b7d7-cc0ce505618a",
-        "6cec33d6-b93c-4d3d-a2af-459b8e1476e1",
-        "ebaee095-f25a-4c85-a223-acab21ad4a8c",
-        "1dcca685-8faf-4459-9be6-ef0625429c01",
-        "eb769c44-3a24-495e-8ea6-4c719e1d8200",
-        "4fa5b661-7ea2-4f5e-bff8-f204e28c4918",
-        "fd59e278-a319-4c4f-a948-d606b95c37fc",
-        "c74d3cde-3657-433b-a8c9-eeb71d3e20b5",
-        "95c89e5c-0b13-41dc-8b33-1369c837de99",
-        "8b5d4e1b-a4b5-4c28-8a7e-dd7796f4bda4",
-        "40984f18-0f57-4c1d-8a56-10c7d07641f8",
-        "3ae2a908-ec02-4604-b68a-3d3d2f35ade8",
-        "b33da5d7-416e-47a2-aec9-f8c9c998fc8b",
-        "2bfe7c24-e0ef-4666-b730-b304405c63c9",
-        "9a62ddb9-a4a6-4b6a-9c43-63a23d2d4d88",
-        "d42d297a-2352-4c1e-bdb4-f9625ab33c9f",
-        "32fda4ba-0c63-4234-b5f4-8b5cbab73f7e",
-        "4cd39350-e441-4efd-9649-a35c4c2a5d7c",
-        "5b244c75-3714-4225-832c-9abc9620284a",
-        "245034f4-0be5-4e30-a194-8bccfa769973",
-        "70cfc356-09f7-4443-ab61-a32a9634952e",
-        "32ec3128-e566-4f0f-9295-c4e2b56b4d72",
-        "653f6665-cc7f-4b44-8521-e98966cb0407"
-      ],
-      "citric acid": [
-        "398b79ca-fc64-43b5-bf15-956e6239c1db",
-        "1480f95d-9343-4f09-bf68-4ce68b5cb5c7",
-        "4f345ae4-4989-4790-ac69-9e3918f3521f",
-        "a15f0ed1-c032-4545-b545-31b808440ebe",
-        "0475616d-fb2f-49f8-8edf-06ad7de3aea6",
-        "114a0f38-02c6-4b8e-9497-4a7123db4b99",
-        "92fdfdd5-7cf8-4c76-9c54-8d01be21e806",
-        "2ae3cc68-1096-41c2-8368-1288163e2c75",
-        "50ed5817-b951-4e9e-9bd1-06713bd3c42a",
-        "efb40140-403c-48f0-b76f-a54cc3313786",
-        "e30e18c1-47d2-4558-815f-6902599aa7f2",
-        "3fd7f7bf-ff0e-4fe8-bcf1-fdec2f388e71",
-        "dfbffaa1-9498-4c09-83ba-071285866fca",
-        "14c5d1bf-54ae-4e14-8439-c9297a9561a5",
-        "b30a0a54-bd97-4cdc-b193-b15f41b9aa9d",
-        "0bc748a1-0dfe-4bd6-90a4-7424a130dcba",
-        "b3426c0c-001b-4cf4-ba7f-1b93964598e4",
-        "380e8aa3-149d-497f-973e-8d8898ac05a4",
-        "dda20ee1-8364-4540-92b5-bbd50fa99c85",
-        "cc3cfaeb-3457-44f7-8961-61598a2deda5",
-        "00b6e815-ef31-425b-8c98-9aa6d426f696",
-        "173aa29a-c8ac-404b-b971-119e702bbb54",
-        "0085caa1-70bf-4a6d-9845-62d38ee1de03",
-        "29d51668-d06e-4ca0-84a3-ec7965c67457",
-        "f9c6d0eb-eb39-4671-8fe2-a2e6e4594e66",
-        "16841e6c-abfc-4300-87cb-072d880bb571",
-        "21e68034-a1bb-442c-b382-bf8024b87500",
-        "53bcef98-1ed3-4d7a-9335-739e04539609",
-        "879dfe97-f5b0-409b-b3ab-7e45038f373b",
-        "2d50705f-7aab-497a-9eb1-949bfacf4e2e",
-        "f38c86bd-f573-4998-bc93-0ae4477dac25",
-        "09cfe452-a81c-440f-9b2f-dde3e79cbe88",
-        "e9589e3c-67f5-49cf-8635-2c77ca5c69fc",
-        "3f4d6b44-cde0-447c-b3cf-140a9e375e7c",
-        "7b4c4daf-505f-4391-86e9-854b747710e3",
-        "a59d320f-ad7e-4f45-bb78-3a39371f5b2f",
-        "ecdae489-cedf-4392-8c60-3fa9e0ccad15",
-        "a2a8a8f3-e6e5-41fe-b8e0-8e96c6ec03ea"
-      ],
-      "phenoxyethanol": [
-        "f8f3a6ab-5656-4d9a-a085-729e03a7376d",
-        "4e24ebd7-ace5-457a-a1c2-da84869f28ac",
-        "2f7d305c-12a6-440c-9467-1c445020bb17"
-      ],
-      "sodium": [
-        "0cde2e43-8c02-47a2-979a-7e17c84edaf3",
-        "d82c3208-c9cf-436d-b6b7-e72333de3371",
-        "436c3318-3a15-40db-b19b-54900ed3abc1",
-        "9af5141b-fb4d-48db-800c-159aff45ebbb",
-        "fd59e278-a319-4c4f-a948-d606b95c37fc",
-        "fd46d3db-ca25-4259-92af-0885064ae7bf",
-        "847734fe-0abd-41f4-9048-67f6ccccf570",
-        "6c7d782d-0145-442c-9386-57e805b86565",
-        "8fb78a35-4499-414a-a55b-59ffaf2a8389",
-        "3f6072ad-ebad-4026-8003-a3a3a548670b",
-        "726a4733-b4da-402c-afcc-c625edfb6ad0",
-        "1d0f53ce-c6f3-4305-a062-3779da0adfcf",
-        "3a5539dc-13b0-43ec-820e-09525be3b719",
-        "3ea59fa5-89fe-42b1-8ae3-988e859b3cf3",
-        "5a5fb7a7-ef94-4619-baaa-d412ea2e8697",
-        "f9024ef7-0b6a-4013-b451-3aeb8a0c6bf9",
-        "fe999dd3-270b-4ecb-aa71-25a646e5a5db",
-        "b3c8caa8-3be5-4236-96c6-ff64298b328c",
-        "20192b20-71de-4498-8ee2-563b5c3bdc8f",
-        "f1166b93-a2ab-42f0-9771-cd98d27c92a6",
-        "a581e650-b917-472a-a3de-329936b70b2a",
-        "4a9a01ca-82bc-402c-af7c-2d2a16bb8068",
-        "88340284-e54c-44f6-a5a5-b8d7018b78c5",
-        "002924f7-7ba8-467f-bb9e-75e16d16742e",
-        "65824413-7700-4374-af04-049ca055f371",
-        "34e9aea8-1de8-4214-9e81-f6a2cfe7bb11",
-        "7e180c96-a6c3-4b63-bafd-897db6cf1e73",
-        "b79b6a6c-ad18-4ede-95bd-1d743110d435",
-        "c9e041d4-fb9f-475d-9cb4-6f0ff7d59f91",
-        "a4e99c5d-5755-459b-8467-869d39c9ee89",
-        "c4ac3832-803b-4b14-a3d9-9fd8249330aa",
-        "6d7dbbb9-2d5c-42fe-b521-0c1dcbf495e9",
-        "538d7cb8-f206-49c0-bbcf-db5ee6f2416f",
-        "f0931ca5-24ae-4a01-b431-e9a6333d1d1f",
-        "522ecefe-06b4-44ed-ad8a-a91e06ac288f",
-        "5e401cfd-58d1-44d8-971f-ff8ba5584d34",
-        "46d4b984-052e-4b3d-87a7-4bd993689343",
-        "49861e4f-1155-49fe-b242-996225644602",
-        "b6761c09-6555-45d7-a2fb-07ab2292dba2",
-        "2e7a1e3a-008e-4822-b9e7-e38621a01e44",
-        "0186fee5-66b8-4deb-afb2-266e6227222a",
-        "e4733484-99a2-4861-842d-019e1d648a7d",
-        "c5507ebc-29dc-40ca-93ed-92a63bb72e3d",
-        "1c5f854e-b90e-4038-a853-716dcc2647a1",
-        "cbd161fb-cb2f-4a15-892a-0e427c03d73c",
-        "819ccd1f-443d-495d-8a6b-e4abbc0e4fec",
-        "0192a372-d032-4215-8fbd-0a121cbd6f28",
-        "e122130b-9fd3-47ab-bf29-63f7f233422f",
-        "94f7669f-1c2f-4e34-9fe5-37a5e9c4d4cc",
-        "fad7cddc-8d05-431b-aa6a-09d4cee2e442",
-        "80aaf0c7-ff69-4c43-90e1-b23982b066f1",
-        "8ad62dac-f136-449b-a92e-990faa5fc6ac",
-        "40987a4d-74b7-45b2-a737-879c373659f6",
-        "aa83ffee-48e7-4a88-bea4-c9fa1417a9be",
-        "fc55298e-36f2-400d-901d-cd511afcc2b9",
-        "16cc7370-b760-4804-8def-2bcb646b148c",
-        "662d1bb7-b3ca-4fc9-8452-478bf2dc0d53",
-        "7c23d186-d52c-4bd3-8fdb-3d74c31e440e",
-        "2a8d8d56-8de0-4604-b7db-1d7b7aa0caa6",
-        "cee52015-d73e-4641-b79f-83603b4fb027",
-        "3a9a841c-0a40-4c00-95e8-f9e9da1186ee",
-        "b6a93ec1-e7cf-4ba1-b26e-f55f295a81ea",
-        "2e46c9c5-af00-4998-9717-ced4b1c41645",
-        "fc89c157-81f5-4623-92e0-2a854e794c3e",
-        "2b002647-fcf2-4ce1-9eb0-524f48d092a3",
-        "19e6b804-9052-4a8b-ab13-8822b815653e",
-        "62bb887b-fe83-4349-8d6b-dea729aa54c0",
-        "594ad7ae-b583-4110-83bb-65dfc7ecbde2",
-        "7d4f7057-8362-44e3-9bfb-bb4f104f1661",
-        "f5ef592b-cf41-4960-89e6-bf4654254b5c",
-        "4c269fff-daf9-4fdb-9fee-f683bc510c70",
-        "745ee8ca-c2fe-4178-a7ca-eab1aa2ba149",
-        "fe88678c-86fd-4eb8-81ba-0527b6769ff4",
-        "a54260a8-ff76-46cc-91ae-23198f63906e",
-        "3083850d-fa10-41ae-b307-f649420e96a7",
-        "dbd66b2b-a513-4b4c-8df2-c09158ac9021",
-        "7d4850b2-3674-47f1-99ad-caaf3d75783a",
-        "e03b1bbe-6af8-480c-959c-a45f40450842",
-        "4c20cbf5-6507-428e-8ee7-b7b50bef5ad5",
-        "56a9d235-15a9-49be-b6da-ebdfb5418904",
-        "efd18107-2d1c-49ff-88a8-dcb5eb38c489",
-        "7dba5588-233e-4598-adaf-dba00ebf8247",
-        "df97d9bb-5e57-46dd-90b9-e2057e4ce062",
-        "8c491835-4129-4dff-8002-aada6227816d",
-        "51da8160-fe63-46f5-8621-455de57244ef",
-        "a31d2096-db96-43d0-bc2a-b93d5ac1ab83",
-        "c2ca9d19-0a44-4c73-8236-435f04aa8156",
-        "b311655a-68be-4d0d-9bb0-85a045fe3264",
-        "3540028e-719a-4ac1-be7e-6fb848fa61f2",
-        "81ac9e19-9fd8-426b-af93-147bb14186b5",
-        "e974c199-20c1-41d2-9ace-71862f1e208c",
-        "a5883a61-5ee7-47e6-8d42-c87a97dc4f90",
-        "04bb56f0-7211-4368-a6e5-38e628f70d60",
-        "f2df829c-987c-4123-9470-a32dcfc8931c",
-        "56e46572-97df-4670-b239-597127f4efde",
-        "14b302a8-a4cd-4089-8ef1-8aa7df47d8ba",
-        "1dfa973c-9e3e-4820-9d0a-487fcc0d56a6",
-        "19412053-1070-4b6c-9151-ca1dccf5e2b8",
-        "b77815c7-5f4d-4156-b63f-9e9fb3f922c2",
-        "5b7b71eb-832c-4cf0-846a-9bc81cb98d76"
-      ]
+      "cetearyl alcohol": {
+        "cosing_info": {
+          "reference": "194ab09b-a86f-40a8-9883-b63e577e0807",
+          "inci_name": "CETEARYL ALCOHOL",
+          "cas_no": [
+            "67762-27-0",
+            "8005-44-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "62238",
+            "sid": null,
+            "cas_no": "8005-44-5"
+          }
+        ]
+      },
+      "cetrimonium chloride": {
+        "cosing_info": {
+          "reference": "479d1457-4166-488f-b750-14ec81c62286",
+          "inci_name": "CETRIMONIUM CHLORIDE",
+          "cas_no": [
+            "112-02-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8154",
+            "sid": "516568819",
+            "cas_no": "112-02-7"
+          }
+        ]
+      },
+      "triheptanoin": {
+        "cosing_info": {
+          "reference": "16072bf6-ae68-485f-acbc-ed1031a54c5d",
+          "inci_name": "TRIHEPTANOIN",
+          "cas_no": [
+            "620-67-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "69286",
+            "sid": "483927904",
+            "cas_no": "620-67-7"
+          }
+        ]
+      },
+      "panthenol": {
+        "cosing_info": {
+          "reference": "02b5654c-8fdf-44f4-a178-8f505b61ef9d",
+          "inci_name": "PANTHENOL",
+          "cas_no": [
+            "81-13-0",
+            "16485-10-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "131204",
+            "sid": "481107077",
+            "cas_no": "81-13-0"
+          },
+          {
+            "cid": "4678",
+            "sid": "483926094",
+            "cas_no": "16485-10-2"
+          }
+        ]
+      },
+      "hydroxypropyl guar hydroxypropyltrimonium chloride": {
+        "cosing_info": {
+          "reference": "ad83f981-11d6-4dd3-899c-e0aaca5b65db",
+          "inci_name": "HYDROXYPROPYL GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE",
+          "cas_no": [
+            "71329-50-5"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "ethylhexylglycerin": {
+        "cosing_info": {
+          "reference": "c4da9c7a-3487-4c25-863c-9ddd013282b5",
+          "inci_name": "ETHYLHEXYLGLYCERIN",
+          "cas_no": [
+            "70445-33-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "9859093",
+            "sid": "483927937",
+            "cas_no": "70445-33-9"
+          }
+        ]
+      },
+      "hydrolyzed rice protein": {
+        "cosing_info": {
+          "reference": "19a81d2e-5549-453f-8ef9-8096c25e7732",
+          "inci_name": "HYDROLYZED RICE PROTEIN",
+          "cas_no": [
+            "156715-40-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "hydrolyzed vegetable protein": {
+        "cosing_info": {
+          "reference": "fbd4f5cb-2b21-44cf-860d-cf93c057bdf1",
+          "inci_name": "HYDROLYZED VEGETABLE PROTEIN",
+          "cas_no": [
+            "100209-45-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "sodium hydroxide": {
+        "cosing_info": {
+          "reference": "c823fcab-6ed5-460d-803a-cd7d42ec2cf7",
+          "inci_name": "SODIUM HYDROXIDE",
+          "cas_no": [
+            "1310-73-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "14798",
+            "sid": "481101463",
+            "cas_no": "1310-73-2"
+          }
+        ]
+      },
+      "citric acid": {
+        "cosing_info": {
+          "reference": "398b79ca-fc64-43b5-bf15-956e6239c1db",
+          "inci_name": "CITRIC ACID",
+          "cas_no": [
+            "77-92-9",
+            "5949-29-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "311",
+            "sid": "481107970",
+            "cas_no": "77-92-9"
+          },
+          {
+            "cid": "22230",
+            "sid": "481107868",
+            "cas_no": "5949-29-1"
+          }
+        ]
+      },
+      "phenoxyethanol": {
+        "cosing_info": {
+          "reference": "f8f3a6ab-5656-4d9a-a085-729e03a7376d",
+          "inci_name": "PHENOXYETHANOL",
+          "cas_no": [
+            "122-99-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "31236",
+            "sid": "483926132",
+            "cas_no": "122-99-6"
+          }
+        ]
+      },
+      "sodium": {
+        "cosing_info": {
+          "reference": "436c3318-3a15-40db-b19b-54900ed3abc1",
+          "inci_name": "SODIUM SIALYLLACTOSE",
+          "cas_no": [
+            "128596-80-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "71308479",
+            "sid": "504500786",
+            "cas_no": "128596-80-5"
+          }
+        ]
+      }
     }
   },
   "additional_information": {

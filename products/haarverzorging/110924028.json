@@ -21,33 +21,369 @@
     "product_category": "Haarverzorging",
     "legal_grade": null,
     "ingredients": [
-      "Aqua (Water",
+      "Aqua",
+      "(Water",
       "Eau)",
       "Trisiloxane",
       "Dimethicone",
-      "Prunus Armeniaca (Apricot) Kernel Oil",
-      "Phenyl Trimethicone",
+      "Prunus",
+      "Armeniaca",
+      "(Apricot)",
+      "Kernel",
+      "Oil",
+      "Phenyl",
+      "Trimethicone",
       "Glycosphingolipids",
-      "Hydrolyzed Silk",
+      "Hydrolyzed",
+      "Silk",
       "Sericin",
-      "Hydrolyzed Keratin",
+      "Keratin",
       "Dimethiconol",
       "Polyquaternium-16",
-      "Cetyl PEG/PPG-10/1 Dimethicone",
-      "Parfum (Fragrance)",
-      "Cetrimonium Chloride",
-      "Butylene Glycol",
-      "Lactic Acid",
-      "Sodium Benzoate",
-      "Benzyl Alcohol",
+      "Cetyl",
+      "PEG/PPG-10/1",
+      "Parfum",
+      "(Fragrance)",
+      "Cetrimonium",
+      "Chloride",
+      "Butylene",
+      "Glycol",
+      "Lactic",
+      "Acid",
+      "Sodium",
+      "Benzoate",
+      "Benzyl",
+      "Alcohol",
       "Phenoxyethanol",
-      "Alpha-Isomethyl Ionone",
+      "Alpha-Isomethyl",
+      "Ionone",
       "Limonene",
-      "Potassium Sorbate",
+      "Potassium",
+      "Sorbate",
       "Methylparaben",
       "Propylparaben"
     ],
-    "inci": {}
+    "inci": {
+      "trisiloxane": {
+        "cosing_info": {
+          "reference": "4b80e5b6-a790-416a-b4c5-fb88e8739631",
+          "inci_name": "TRISILOXANE",
+          "cas_no": [
+            "107-51-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "24705",
+            "sid": "518185136",
+            "cas_no": "107-51-7"
+          }
+        ]
+      },
+      "dimethicone": {
+        "cosing_info": {
+          "reference": "b947645c-f865-48ca-826d-35ae47722838",
+          "inci_name": "DIMETHICONE",
+          "cas_no": [
+            "63148-62-9",
+            "9006-65-9",
+            "9016-00-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "phenyl trimethicone": {
+        "cosing_info": {
+          "reference": "9ae54455-3cc9-4aec-a401-548bedccf989",
+          "inci_name": "PHENYL TRIMETHICONE",
+          "cas_no": [
+            "195868-36-1",
+            "70131-69-0",
+            "2116-84-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "62427",
+            "sid": "518143001",
+            "cas_no": "2116-84-9"
+          }
+        ]
+      },
+      "glycosphingolipids": {
+        "cosing_info": {
+          "reference": "a6d94073-7dc9-4378-a518-adfce847abf0",
+          "inci_name": "GLYCOSPHINGOLIPIDS",
+          "cas_no": [
+            "95119-86-1",
+            "125712-73-4",
+            "308067-30-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6419175",
+            "sid": "500786737",
+            "cas_no": "95119-86-1"
+          },
+          {
+            "cid": "10260120",
+            "sid": "518179667",
+            "cas_no": "125712-73-4"
+          }
+        ]
+      },
+      "hydrolyzed silk": {
+        "cosing_info": {
+          "reference": "0342a95d-5c7d-448d-beae-49f83f70b19c",
+          "inci_name": "HYDROLYZED SILK",
+          "cas_no": [
+            "96690-41-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "sericin": {
+        "cosing_info": {
+          "reference": "dfc85923-4931-4979-a804-448a0ba9f262",
+          "inci_name": "SERICIN",
+          "cas_no": [
+            "60650-88-6",
+            "60650-89-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "hydrolyzed keratin": {
+        "cosing_info": {
+          "reference": "1495bd9e-72b0-4c55-b0c5-2adce406c596",
+          "inci_name": "HYDROLYZED KERATIN",
+          "cas_no": [
+            "69430-36-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "dimethiconol": {
+        "cosing_info": {
+          "reference": "d2dcedbb-74b8-4c0a-a9bb-e8246f14aa14",
+          "inci_name": "DIMETHICONOL",
+          "cas_no": [
+            "31692-79-2",
+            "70131-67-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "14014",
+            "sid": "500777796",
+            "cas_no": "31692-79-2"
+          }
+        ]
+      },
+      "polyquaternium-16": {
+        "cosing_info": {
+          "reference": "bb9dae96-5eb1-4fed-8ed5-1ef3afc675c6",
+          "inci_name": "POLYQUATERNIUM-16",
+          "cas_no": [
+            "95144-24-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "163647",
+            "sid": null,
+            "cas_no": "95144-24-4"
+          }
+        ]
+      },
+      "cetyl peg/ppg-10/1 dimethicone": {
+        "cosing_info": null,
+        "pubchem_info": [
+          {
+            "cid": "121235915",
+            "sid": "505571121",
+            "cas_no": null
+          }
+        ]
+      },
+      "cetrimonium chloride": {
+        "cosing_info": {
+          "reference": "479d1457-4166-488f-b750-14ec81c62286",
+          "inci_name": "CETRIMONIUM CHLORIDE",
+          "cas_no": [
+            "112-02-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8154",
+            "sid": "516568819",
+            "cas_no": "112-02-7"
+          }
+        ]
+      },
+      "butylene glycol": {
+        "cosing_info": {
+          "reference": "0f8a5d9f-369e-49e5-beca-66607ac949a6",
+          "inci_name": "BUTYLENE GLYCOL",
+          "cas_no": [
+            "107-88-0 (i), 6290-03-5 (ii)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "lactic acid": {
+        "cosing_info": {
+          "reference": "366b5960-4dd9-4f4a-9b25-d670d30f3b6f",
+          "inci_name": "LACTIC ACID",
+          "cas_no": [
+            "50-21-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "612",
+            "sid": "481107791",
+            "cas_no": "50-21-5"
+          }
+        ]
+      },
+      "sodium benzoate": {
+        "cosing_info": {
+          "reference": "65824413-7700-4374-af04-049ca055f371",
+          "inci_name": "SODIUM BENZOATE",
+          "cas_no": [
+            "532-32-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "517055",
+            "sid": "481108023",
+            "cas_no": "532-32-1"
+          }
+        ]
+      },
+      "benzyl alcohol": {
+        "cosing_info": {
+          "reference": "43b6ac65-f60d-42b8-8d5e-72d73a17cce5",
+          "inci_name": "BENZYL ALCOHOL",
+          "cas_no": [
+            "100-51-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "244",
+            "sid": "481107731",
+            "cas_no": "100-51-6"
+          }
+        ]
+      },
+      "phenoxyethanol": {
+        "cosing_info": {
+          "reference": "f8f3a6ab-5656-4d9a-a085-729e03a7376d",
+          "inci_name": "PHENOXYETHANOL",
+          "cas_no": [
+            "122-99-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "31236",
+            "sid": "483926132",
+            "cas_no": "122-99-6"
+          }
+        ]
+      },
+      "alpha-isomethyl ionone": {
+        "cosing_info": {
+          "reference": "bb1bdf74-ac91-4b4f-a06e-4f30fe9e50be",
+          "inci_name": "ALPHA-ISOMETHYL IONONE",
+          "cas_no": [
+            "127-51-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5372174",
+            "sid": "518159587",
+            "cas_no": "127-51-5"
+          }
+        ]
+      },
+      "limonene": {
+        "cosing_info": {
+          "reference": "d9a853fb-831a-4f8e-a3f5-d57b976d9c88",
+          "inci_name": "LIMONENE",
+          "cas_no": [
+            "138-86-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "22311",
+            "sid": "518147164",
+            "cas_no": "138-86-3"
+          }
+        ]
+      },
+      "potassium sorbate": {
+        "cosing_info": {
+          "reference": "134cca64-0dd3-4ab3-91d1-69126771188f",
+          "inci_name": "POTASSIUM SORBATE",
+          "cas_no": [
+            "24634-61-5",
+            "590-00-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "23676745",
+            "sid": "481107499",
+            "cas_no": "24634-61-5"
+          },
+          {
+            "cid": "23676745",
+            "sid": "481107499",
+            "cas_no": "590-00-1"
+          }
+        ]
+      },
+      "methylparaben": {
+        "cosing_info": {
+          "reference": "62bb4ff0-9d89-4621-a0b1-8dd6974cbc31",
+          "inci_name": "METHYLPARABEN",
+          "cas_no": [
+            "99-76-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "7456",
+            "sid": "481107807",
+            "cas_no": "99-76-3"
+          }
+        ]
+      },
+      "propylparaben": {
+        "cosing_info": {
+          "reference": "073e8050-ad3a-46c8-bfda-6ef3f1fb73b6",
+          "inci_name": "PROPYLPARABEN",
+          "cas_no": [
+            "94-13-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "7175",
+            "sid": "481107517",
+            "cas_no": "94-13-3"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "110924028"

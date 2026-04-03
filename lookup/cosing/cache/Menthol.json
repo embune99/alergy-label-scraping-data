@@ -1,0 +1,125 @@
+{
+  "apiVersion": "2.146",
+  "reference": "80ef1543-35c4-43f0-89bd-2ea8372185cb",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 16.07815,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "MENTHOL"
+    ],
+    "refNo": [],
+    "otherRestrictions": [],
+    "note": [],
+    "sccsOpinionUrls": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "other": [],
+    "innName": [],
+    "chemicalName": [
+      "Cyclohexanol, 5-methyl-2-(1-methylethyl)-"
+    ],
+    "sccsOpinion": [],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "Menthol / DL-menthol / L-menthol"
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "6503003F78E4BACAE7052BA40DCDFA96"
+    ],
+    "cosmeticRestriction": [
+      "III/338"
+    ],
+    "ecNo": [
+      "216-074-4 / 218-690-9 / 201-939-0 / 239-388-3"
+    ],
+    "maximumConcentration": [],
+    "identifiedIngredient": [
+      "100411"
+    ],
+    "inciName": [
+      "MENTHOL"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "1490-04-6 / 2216-51-5 / 89-78-1 / 15356-70-4"
+    ],
+    "substanceId": [
+      "35228"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "productTypeBodyParts": [],
+    "annexNo": [],
+    "phEurName": [
+      "mentholum"
+    ],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "DENATURANT",
+      "FRAGRANCE",
+      "REFRESHING",
+      "SOOTHING"
+    ],
+    "esDA_IngestDate": [
+      "2023-10-03T16:37:54.549+0200"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-10-03T16:37:54.473+0200"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "80ef1543-35c4-43f0-89bd-2ea8372185cb. Available at: urn:test",
+  "score": 16.07815
+}

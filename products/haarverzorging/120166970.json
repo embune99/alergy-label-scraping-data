@@ -24,11 +24,22 @@
       "Isobutane"
     ],
     "inci": {
-      "isobutane": [
-        "07451cc7-8cb8-4a8c-bad0-9546afc0007e",
-        "c008538e-3f9d-4e0a-93ca-e70c55b48a19",
-        "58643bb9-ab23-4a4c-a368-8a651c1d8c3f"
-      ]
+      "isobutane": {
+        "cosing_info": {
+          "reference": "07451cc7-8cb8-4a8c-bad0-9546afc0007e",
+          "inci_name": "ISOBUTANE",
+          "cas_no": [
+            "75-28-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6360",
+            "sid": "481107251",
+            "cas_no": "75-28-5"
+          }
+        ]
+      }
     }
   },
   "additional_information": {

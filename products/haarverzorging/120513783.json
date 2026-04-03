@@ -21,29 +21,304 @@
     "product_category": "Haarverzorging",
     "legal_grade": null,
     "ingredients": [
-      "Aqua (Water",
+      "Aqua",
+      "(Water",
       "Eau)",
-      "Cetearyl Alcohol",
+      "Cetearyl",
+      "Alcohol",
       "Quaternium-87",
-      "Propylene Glycol",
-      "Hydrolyzed Keratin",
-      "Hydroxypropyl Guar Hydroxypropyltrimonium Chloride",
-      "Vitis Vinifera (Grape) Seed Oil",
-      "Isopropyl Myristate",
-      "Distearoylethyl Hydroxyethylmonium Methosulfate",
-      "Parfum (Fragrance)",
-      "Citric Acid",
+      "Propylene",
+      "Glycol",
+      "Hydrolyzed",
+      "Keratin",
+      "Hydroxypropyl",
+      "Guar",
+      "Hydroxypropyltrimonium",
+      "Chloride",
+      "Vitis",
+      "Vinifera",
+      "(Grape)",
+      "Seed",
+      "Oil",
+      "Isopropyl",
+      "Myristate",
+      "Distearoylethyl",
+      "Hydroxyethylmonium",
+      "Methosulfate",
+      "Parfum",
+      "(Fragrance)",
+      "Citric",
+      "Acid",
       "Phenoxyethanol",
-      "Stearamidopropyl Dimethylamine",
-      "Sodium Methylparaben",
+      "Stearamidopropyl",
+      "Dimethylamine",
+      "Sodium",
+      "Methylparaben",
       "Polyquaternium-37",
-      "Dicaprylyl Carbonate",
+      "Dicaprylyl",
+      "Carbonate",
       "Limonene",
-      "Lauryl Glucoside",
-      "Benzyl Alcohol",
-      "Potassium Sorbate"
+      "Lauryl",
+      "Glucoside",
+      "Benzyl",
+      "Potassium",
+      "Sorbate"
     ],
-    "inci": {}
+    "inci": {
+      "cetearyl alcohol": {
+        "cosing_info": {
+          "reference": "194ab09b-a86f-40a8-9883-b63e577e0807",
+          "inci_name": "CETEARYL ALCOHOL",
+          "cas_no": [
+            "67762-27-0",
+            "8005-44-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "62238",
+            "sid": null,
+            "cas_no": "8005-44-5"
+          }
+        ]
+      },
+      "quaternium-87": {
+        "cosing_info": {
+          "reference": "537555c2-c6da-412f-a7d3-2e04a3eb5466",
+          "inci_name": "QUATERNIUM-87",
+          "cas_no": [
+            "92201-88-2"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "propylene glycol": {
+        "cosing_info": {
+          "reference": "86c80ec2-3646-450a-88b7-06496837ed33",
+          "inci_name": "PROPYLENE GLYCOL",
+          "cas_no": [
+            "57-55-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "1030",
+            "sid": "481108016",
+            "cas_no": "57-55-6"
+          }
+        ]
+      },
+      "hydrolyzed keratin": {
+        "cosing_info": {
+          "reference": "1495bd9e-72b0-4c55-b0c5-2adce406c596",
+          "inci_name": "HYDROLYZED KERATIN",
+          "cas_no": [
+            "69430-36-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "hydroxypropyl guar hydroxypropyltrimonium chloride": {
+        "cosing_info": {
+          "reference": "ad83f981-11d6-4dd3-899c-e0aaca5b65db",
+          "inci_name": "HYDROXYPROPYL GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE",
+          "cas_no": [
+            "71329-50-5"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "isopropyl myristate": {
+        "cosing_info": {
+          "reference": "ecf619d0-67c9-4f2d-a247-626f0ad4ab3e",
+          "inci_name": "ISOPROPYL MYRISTATE",
+          "cas_no": [
+            "110-27-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8042",
+            "sid": "481107261",
+            "cas_no": "110-27-0"
+          }
+        ]
+      },
+      "distearoylethyl hydroxyethylmonium methosulfate": {
+        "cosing_info": {
+          "reference": "54320e4b-b7f8-45e7-800b-b65648f6f901",
+          "inci_name": "DISTEAROYLETHYL HYDROXYETHYLMONIUM METHOSULFATE",
+          "cas_no": []
+        },
+        "pubchem_info": [
+          {
+            "cid": "21124016",
+            "sid": "505585377",
+            "cas_no": null
+          }
+        ]
+      },
+      "citric acid": {
+        "cosing_info": {
+          "reference": "398b79ca-fc64-43b5-bf15-956e6239c1db",
+          "inci_name": "CITRIC ACID",
+          "cas_no": [
+            "77-92-9",
+            "5949-29-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "311",
+            "sid": "481107970",
+            "cas_no": "77-92-9"
+          },
+          {
+            "cid": "22230",
+            "sid": "481107868",
+            "cas_no": "5949-29-1"
+          }
+        ]
+      },
+      "phenoxyethanol": {
+        "cosing_info": {
+          "reference": "f8f3a6ab-5656-4d9a-a085-729e03a7376d",
+          "inci_name": "PHENOXYETHANOL",
+          "cas_no": [
+            "122-99-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "31236",
+            "sid": "483926132",
+            "cas_no": "122-99-6"
+          }
+        ]
+      },
+      "stearamidopropyl dimethylamine": {
+        "cosing_info": {
+          "reference": "5e00c600-3747-4f3f-8c5c-6571d98ae12e",
+          "inci_name": "STEARAMIDOPROPYL DIMETHYLAMINE",
+          "cas_no": [
+            "7651-02-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "62109",
+            "sid": "500828813",
+            "cas_no": "7651-02-7"
+          }
+        ]
+      },
+      "sodium methylparaben": {
+        "cosing_info": {
+          "reference": "fcea9e36-5adf-4a57-ad0d-e8d54929cc17",
+          "inci_name": "SODIUM METHYLPARABEN",
+          "cas_no": [
+            "5026-62-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "23663626",
+            "sid": "500801700",
+            "cas_no": "5026-62-0"
+          }
+        ]
+      },
+      "polyquaternium-37": {
+        "cosing_info": {
+          "reference": "f0dbb0c4-c4a0-4803-9c46-37186723bd94",
+          "inci_name": "POLYQUATERNIUM-37",
+          "cas_no": [
+            "26161-33-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "dicaprylyl carbonate": {
+        "cosing_info": {
+          "reference": "49ebe1a5-c0e3-4f17-8a42-e82f1decf79e",
+          "inci_name": "DICAPRYLYL CARBONATE",
+          "cas_no": [
+            "1680-31-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "9904000",
+            "sid": "500776403",
+            "cas_no": "1680-31-5"
+          }
+        ]
+      },
+      "limonene": {
+        "cosing_info": {
+          "reference": "d9a853fb-831a-4f8e-a3f5-d57b976d9c88",
+          "inci_name": "LIMONENE",
+          "cas_no": [
+            "138-86-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "22311",
+            "sid": "518147164",
+            "cas_no": "138-86-3"
+          }
+        ]
+      },
+      "lauryl glucoside": {
+        "cosing_info": {
+          "reference": "2fd6850d-3bf5-4831-84a8-5c4f8402c8a3",
+          "inci_name": "LAURYL GLUCOSIDE",
+          "cas_no": [
+            "110615-47-9"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "benzyl alcohol": {
+        "cosing_info": {
+          "reference": "43b6ac65-f60d-42b8-8d5e-72d73a17cce5",
+          "inci_name": "BENZYL ALCOHOL",
+          "cas_no": [
+            "100-51-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "244",
+            "sid": "481107731",
+            "cas_no": "100-51-6"
+          }
+        ]
+      },
+      "potassium sorbate": {
+        "cosing_info": {
+          "reference": "134cca64-0dd3-4ab3-91d1-69126771188f",
+          "inci_name": "POTASSIUM SORBATE",
+          "cas_no": [
+            "24634-61-5",
+            "590-00-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "23676745",
+            "sid": "481107499",
+            "cas_no": "24634-61-5"
+          },
+          {
+            "cid": "23676745",
+            "sid": "481107499",
+            "cas_no": "590-00-1"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120513783"

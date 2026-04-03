@@ -20,26 +20,232 @@
     "product_category": "Haarverzorging",
     "legal_grade": null,
     "ingredients": [
-      "Aqua (Water",
+      "Aqua",
+      "(Water",
       "Eau)",
       "PVP",
-      "Acrylates/Hydroxyesters Acrylates Copolymer",
-      "Acrylates/Steareth-20 Methacrylate Crosspolymer",
-      "Aminomethyl Propanol",
+      "Acrylates/Hydroxyesters",
+      "Acrylates",
+      "Copolymer",
+      "Acrylates/Steareth-20",
+      "Methacrylate",
+      "Crosspolymer",
+      "Aminomethyl",
+      "Propanol",
       "Phenoxyethanol",
       "Panthenol",
       "Niacinamide",
-      "PEG-40 Hydrogenated Castor Oil",
-      "Benzyl Alcohol",
-      "Caprylyl Glycol",
-      "Parfum (Fragrance)",
+      "PEG-40",
+      "Hydrogenated",
+      "Castor",
+      "Oil",
+      "Benzyl",
+      "Alcohol",
+      "Caprylyl",
+      "Glycol",
+      "Parfum",
+      "(Fragrance)",
       "Ethylhexylglycerin",
       "Glycerin",
       "1",
       "2-Hexanediol",
-      "Sodium Benzoate"
+      "Sodium",
+      "Benzoate"
     ],
-    "inci": {}
+    "inci": {
+      "pvp": {
+        "cosing_info": {
+          "reference": "d25846e6-023c-4224-bfdc-0b156eb53676",
+          "inci_name": "PVP",
+          "cas_no": [
+            "9003-39-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "aminomethyl propanol": {
+        "cosing_info": {
+          "reference": "c2762f8b-8a82-4c4a-aafc-a595115f1c2b",
+          "inci_name": "AMINOMETHYL PROPANOL",
+          "cas_no": [
+            "124-68-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "11807",
+            "sid": "505459246",
+            "cas_no": "124-68-5"
+          }
+        ]
+      },
+      "phenoxyethanol": {
+        "cosing_info": {
+          "reference": "f8f3a6ab-5656-4d9a-a085-729e03a7376d",
+          "inci_name": "PHENOXYETHANOL",
+          "cas_no": [
+            "122-99-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "31236",
+            "sid": "483926132",
+            "cas_no": "122-99-6"
+          }
+        ]
+      },
+      "panthenol": {
+        "cosing_info": {
+          "reference": "02b5654c-8fdf-44f4-a178-8f505b61ef9d",
+          "inci_name": "PANTHENOL",
+          "cas_no": [
+            "81-13-0",
+            "16485-10-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "131204",
+            "sid": "481107077",
+            "cas_no": "81-13-0"
+          },
+          {
+            "cid": "4678",
+            "sid": "483926094",
+            "cas_no": "16485-10-2"
+          }
+        ]
+      },
+      "niacinamide": {
+        "cosing_info": {
+          "reference": "1d812aa9-1b8a-48cb-988b-d2478184a2f4",
+          "inci_name": "NIACINAMIDE",
+          "cas_no": [
+            "98-92-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "936",
+            "sid": "483925991",
+            "cas_no": "98-92-0"
+          }
+        ]
+      },
+      "peg-40 hydrogenated castor oil": {
+        "cosing_info": {
+          "reference": "b564afdc-0251-4872-84bd-212a6e457dc4",
+          "inci_name": "PEG-40 HYDROGENATED CASTOR OIL",
+          "cas_no": [
+            "61788-85-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "benzyl alcohol": {
+        "cosing_info": {
+          "reference": "43b6ac65-f60d-42b8-8d5e-72d73a17cce5",
+          "inci_name": "BENZYL ALCOHOL",
+          "cas_no": [
+            "100-51-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "244",
+            "sid": "481107731",
+            "cas_no": "100-51-6"
+          }
+        ]
+      },
+      "caprylyl glycol": {
+        "cosing_info": {
+          "reference": "9b06d311-16ec-4711-90cd-a561cbae6078",
+          "inci_name": "CAPRYLYL GLYCOL",
+          "cas_no": [
+            "1117-86-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "14231",
+            "sid": "500715531",
+            "cas_no": "1117-86-8"
+          }
+        ]
+      },
+      "ethylhexylglycerin": {
+        "cosing_info": {
+          "reference": "c4da9c7a-3487-4c25-863c-9ddd013282b5",
+          "inci_name": "ETHYLHEXYLGLYCERIN",
+          "cas_no": [
+            "70445-33-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "9859093",
+            "sid": "483927937",
+            "cas_no": "70445-33-9"
+          }
+        ]
+      },
+      "glycerin": {
+        "cosing_info": {
+          "reference": "59eb65ef-7b29-4486-a311-f194224c11e6",
+          "inci_name": "GLYCERIN",
+          "cas_no": [
+            "56-81-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "753",
+            "sid": "481110738",
+            "cas_no": "56-81-5"
+          }
+        ]
+      },
+      "1": {
+        "cosing_info": {
+          "reference": "533536b7-35d6-45c8-b0d5-af243ac0b4cc",
+          "inci_name": "CI 20170",
+          "cas_no": [
+            "1320-07-6",
+            "6371-84-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "23675104",
+            "sid": "505577183",
+            "cas_no": "1320-07-6"
+          },
+          {
+            "cid": "23668750",
+            "sid": "505560141",
+            "cas_no": "6371-84-2"
+          }
+        ]
+      },
+      "sodium benzoate": {
+        "cosing_info": {
+          "reference": "65824413-7700-4374-af04-049ca055f371",
+          "inci_name": "SODIUM BENZOATE",
+          "cas_no": [
+            "532-32-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "517055",
+            "sid": "481108023",
+            "cas_no": "532-32-1"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120836283"

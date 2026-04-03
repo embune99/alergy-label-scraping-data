@@ -20,11 +20,14 @@
     "product_category": "Parfum",
     "legal_grade": null,
     "ingredients": [
-      "ALCOHOL DENAT.",
+      "ALCOHOL",
+      "DENAT.",
       "PARFUM/FRAGRANCE",
       "AQUA/WATER/EAU",
-      "ETHYLHEXYL SALICYLATE",
-      "BUTYL METHOXYDIBENZOYLMETHANE",
+      "ETHYLHEXYL",
+      "SALICYLATE",
+      "BUTYL",
+      "METHOXYDIBENZOYLMETHANE",
       "LIMONENE",
       "LINALOOL",
       "HYDROXYCITRONELLAL",
@@ -32,8 +35,13 @@
       "CITRAL",
       "COUMARIN",
       "GERANIOL",
-      "YELLOW 5 (CI 19140)",
-      "BLUE 1 (CI 42090)."
+      "YELLOW",
+      "5",
+      "(CI",
+      "19140)",
+      "BLUE",
+      "1",
+      "42090)."
     ],
     "inci": {
       "alcohol denat.": [

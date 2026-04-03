@@ -23,33 +23,381 @@
     "product_category": "Haarverzorging",
     "legal_grade": null,
     "ingredients": [
-      "Aqua (Water",
+      "Aqua",
+      "(Water",
       "Eau)",
-      "Cetearyl Alcohol",
-      "Isopropyl Myristate",
-      "Behentrimonium Chloride",
-      "Hydrolyzed Keratin",
-      "Camellia Oleifera Seed Oil",
-      "Calophyllum Inophyllum Seed Oil",
-      "Perilla Frutescens Seed Oil",
-      "Prunus Serrulata Flower Extract",
-      "Distearoylethyl Hydroxyethylmonium Methosulfate",
-      "Stearamidopropyl Dimethylamine",
-      "Cetyl Palmitate",
+      "Cetearyl",
+      "Alcohol",
+      "Isopropyl",
+      "Myristate",
+      "Behentrimonium",
+      "Chloride",
+      "Hydrolyzed",
+      "Keratin",
+      "Camellia",
+      "Oleifera",
+      "Seed",
+      "Oil",
+      "Calophyllum",
+      "Inophyllum",
+      "Perilla",
+      "Frutescens",
+      "Prunus",
+      "Serrulata",
+      "Flower",
+      "Extract",
+      "Distearoylethyl",
+      "Hydroxyethylmonium",
+      "Methosulfate",
+      "Stearamidopropyl",
+      "Dimethylamine",
+      "Cetyl",
+      "Palmitate",
       "Dimethicone",
-      "Lactic Acid",
-      "Parfum (Fragrance)",
-      "Isopropyl Alcohol",
-      "Cetrimonium Chloride",
-      "Guar Hydroxypropyltrimonium Chloride",
+      "Lactic",
+      "Acid",
+      "Parfum",
+      "(Fragrance)",
+      "Cetrimonium",
+      "Guar",
+      "Hydroxypropyltrimonium",
       "Linalool",
-      "Tetramethyl Acetyloctahydronaphthalenes",
-      "Sodium Hydroxide",
-      "Linalyl Acetate",
+      "Tetramethyl",
+      "Acetyloctahydronaphthalenes",
+      "Sodium",
+      "Hydroxide",
+      "Linalyl",
+      "Acetate",
       "Limonene",
-      "Benzyl Alcohol"
+      "Benzyl"
     ],
-    "inci": {}
+    "inci": {
+      "cetearyl alcohol": {
+        "cosing_info": {
+          "reference": "194ab09b-a86f-40a8-9883-b63e577e0807",
+          "inci_name": "CETEARYL ALCOHOL",
+          "cas_no": [
+            "67762-27-0",
+            "8005-44-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "62238",
+            "sid": null,
+            "cas_no": "8005-44-5"
+          }
+        ]
+      },
+      "isopropyl myristate": {
+        "cosing_info": {
+          "reference": "ecf619d0-67c9-4f2d-a247-626f0ad4ab3e",
+          "inci_name": "ISOPROPYL MYRISTATE",
+          "cas_no": [
+            "110-27-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8042",
+            "sid": "481107261",
+            "cas_no": "110-27-0"
+          }
+        ]
+      },
+      "behentrimonium chloride": {
+        "cosing_info": {
+          "reference": "4e76b734-8f70-43a9-aa01-f4759629abc2",
+          "inci_name": "BEHENTRIMONIUM CHLORIDE",
+          "cas_no": [
+            "17301-53-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "3014969",
+            "sid": "505556930",
+            "cas_no": "17301-53-0"
+          }
+        ]
+      },
+      "hydrolyzed keratin": {
+        "cosing_info": {
+          "reference": "1495bd9e-72b0-4c55-b0c5-2adce406c596",
+          "inci_name": "HYDROLYZED KERATIN",
+          "cas_no": [
+            "69430-36-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "camellia oleifera seed oil": {
+        "cosing_info": {
+          "reference": "fa113bbb-3ba8-47f9-89f3-a249e3f69877",
+          "inci_name": "CAMELLIA OLEIFERA SEED OIL",
+          "cas_no": [
+            "225233-97-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "calophyllum inophyllum seed oil": {
+        "cosing_info": {
+          "reference": "caa91a62-7c4a-4b82-9722-a180d147a474",
+          "inci_name": "CALOPHYLLUM INOPHYLLUM SEED OIL",
+          "cas_no": [
+            "-"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "perilla frutescens seed oil": {
+        "cosing_info": {
+          "reference": "7ae5b9e8-de43-4f31-9e74-f874805e9c1d",
+          "inci_name": "PERILLA FRUTESCENS SEED OIL",
+          "cas_no": []
+        },
+        "pubchem_info": []
+      },
+      "prunus serrulata flower extract": {
+        "cosing_info": {
+          "reference": "fdb71a69-646d-4639-a054-6139710e94eb",
+          "inci_name": "PRUNUS SERRULATA FLOWER EXTRACT",
+          "cas_no": []
+        },
+        "pubchem_info": []
+      },
+      "distearoylethyl hydroxyethylmonium methosulfate": {
+        "cosing_info": {
+          "reference": "54320e4b-b7f8-45e7-800b-b65648f6f901",
+          "inci_name": "DISTEAROYLETHYL HYDROXYETHYLMONIUM METHOSULFATE",
+          "cas_no": []
+        },
+        "pubchem_info": [
+          {
+            "cid": "21124016",
+            "sid": "505585377",
+            "cas_no": null
+          }
+        ]
+      },
+      "stearamidopropyl dimethylamine": {
+        "cosing_info": {
+          "reference": "5e00c600-3747-4f3f-8c5c-6571d98ae12e",
+          "inci_name": "STEARAMIDOPROPYL DIMETHYLAMINE",
+          "cas_no": [
+            "7651-02-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "62109",
+            "sid": "500828813",
+            "cas_no": "7651-02-7"
+          }
+        ]
+      },
+      "cetyl palmitate": {
+        "cosing_info": {
+          "reference": "df7ffc6e-01c3-4482-88cf-cdece5e057bb",
+          "inci_name": "CETYL PALMITATE",
+          "cas_no": [
+            "540-10-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "10889",
+            "sid": "516564195",
+            "cas_no": "540-10-3"
+          }
+        ]
+      },
+      "dimethicone": {
+        "cosing_info": {
+          "reference": "b947645c-f865-48ca-826d-35ae47722838",
+          "inci_name": "DIMETHICONE",
+          "cas_no": [
+            "63148-62-9",
+            "9006-65-9",
+            "9016-00-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "lactic acid": {
+        "cosing_info": {
+          "reference": "366b5960-4dd9-4f4a-9b25-d670d30f3b6f",
+          "inci_name": "LACTIC ACID",
+          "cas_no": [
+            "50-21-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "612",
+            "sid": "481107791",
+            "cas_no": "50-21-5"
+          }
+        ]
+      },
+      "isopropyl alcohol": {
+        "cosing_info": {
+          "reference": "70d92e7b-a00c-4753-9dd6-4db8493aeb78",
+          "inci_name": "ISOPROPYL ALCOHOL",
+          "cas_no": [
+            "67-63-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "3776",
+            "sid": "481107989",
+            "cas_no": "67-63-0"
+          }
+        ]
+      },
+      "cetrimonium chloride": {
+        "cosing_info": {
+          "reference": "479d1457-4166-488f-b750-14ec81c62286",
+          "inci_name": "CETRIMONIUM CHLORIDE",
+          "cas_no": [
+            "112-02-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8154",
+            "sid": "516568819",
+            "cas_no": "112-02-7"
+          }
+        ]
+      },
+      "guar hydroxypropyltrimonium chloride": {
+        "cosing_info": {
+          "reference": "610b6f49-f014-439a-9a44-629bd56a9e0b",
+          "inci_name": "GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE",
+          "cas_no": [
+            "65497-29-2"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "linalool": {
+        "cosing_info": {
+          "reference": "8f47a2fa-c519-434c-8bb9-8385cf05fea5",
+          "inci_name": "LINALOOL",
+          "cas_no": [
+            "78-70-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6549",
+            "sid": "482028551",
+            "cas_no": "78-70-6"
+          }
+        ]
+      },
+      "tetramethyl acetyloctahydronaphthalenes": {
+        "cosing_info": {
+          "reference": "7ef988ef-989c-4378-aaeb-c9fc4b0edb1b",
+          "inci_name": "TETRAMETHYL ACETYLOCTAHYDRONAPHTHALENES",
+          "cas_no": [
+            "54464-57-2",
+            "54464-59-4",
+            "68155-66-8",
+            "68155-67-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "108242",
+            "sid": "505787547",
+            "cas_no": "54464-57-2"
+          },
+          {
+            "cid": "108243",
+            "sid": "518145041",
+            "cas_no": "54464-59-4"
+          },
+          {
+            "cid": "109193",
+            "sid": "505416029",
+            "cas_no": "68155-66-8"
+          },
+          {
+            "cid": "109194",
+            "sid": "505416028",
+            "cas_no": "68155-67-9"
+          }
+        ]
+      },
+      "sodium hydroxide": {
+        "cosing_info": {
+          "reference": "c823fcab-6ed5-460d-803a-cd7d42ec2cf7",
+          "inci_name": "SODIUM HYDROXIDE",
+          "cas_no": [
+            "1310-73-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "14798",
+            "sid": "481101463",
+            "cas_no": "1310-73-2"
+          }
+        ]
+      },
+      "linalyl acetate": {
+        "cosing_info": {
+          "reference": "b5a2ca6c-f9ef-4258-b968-f613f7376cb5",
+          "inci_name": "LINALYL ACETATE",
+          "cas_no": [
+            "115-95-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8294",
+            "sid": "482027779",
+            "cas_no": "115-95-7"
+          }
+        ]
+      },
+      "limonene": {
+        "cosing_info": {
+          "reference": "d9a853fb-831a-4f8e-a3f5-d57b976d9c88",
+          "inci_name": "LIMONENE",
+          "cas_no": [
+            "138-86-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "22311",
+            "sid": "518147164",
+            "cas_no": "138-86-3"
+          }
+        ]
+      },
+      "benzyl alcohol": {
+        "cosing_info": {
+          "reference": "43b6ac65-f60d-42b8-8d5e-72d73a17cce5",
+          "inci_name": "BENZYL ALCOHOL",
+          "cas_no": [
+            "100-51-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "244",
+            "sid": "481107731",
+            "cas_no": "100-51-6"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120825525"

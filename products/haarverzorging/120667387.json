@@ -16,159 +16,211 @@
     "legal_grade": null,
     "ingredients": [
       "AQUA",
-      "SODIUM C14-16 OLEFIN SULFONATE",
-      "COCAMIDOPROPYL BETAINE",
-      "DECYL GLUCOSIDE",
+      "SODIUM",
+      "C14-16",
+      "OLEFIN",
+      "SULFONATE",
+      "COCAMIDOPROPYL",
+      "BETAINE",
+      "DECYL",
+      "GLUCOSIDE",
       "COCO-GLUCOSIDE",
-      "GLYCOL DISTEARATE",
-      "COCAMIDE MEA",
+      "GLYCOL",
+      "DISTEARATE",
+      "COCAMIDE",
+      "MEA",
       "PARFUM",
-      "CITRIC ACID",
-      "HYDROXYPROPYL METHYLCELLULOSE",
-      "STEAROXYPROPYL DIMETHYLAMINE",
-      "GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE",
+      "CITRIC",
+      "ACID",
+      "HYDROXYPROPYL",
+      "METHYLCELLULOSE",
+      "STEAROXYPROPYL",
+      "DIMETHYLAMINE",
+      "GUAR",
+      "HYDROXYPROPYLTRIMONIUM",
+      "CHLORIDE",
       "POLYQUATERNIUM-7",
-      "LACTIC ACID",
+      "LACTIC",
       ""
     ],
     "inci": {
-      "aqua": [
-        "acb2fd0b-1174-4f52-8481-759e0f6a9471",
-        "03f72bea-b998-4741-942d-4eb90ea2e5c2",
-        "a9d7ccc5-066f-49da-85ef-5eec1217a478",
-        "b95411b0-fb54-4a85-9901-f92524503f2d",
-        "88aced55-d191-43a7-85f5-41872fb14e85",
-        "95d201d5-eef8-4b4a-9405-8ace8e6eb88c",
-        "bf9565d8-8238-4bb2-a23b-e70ff2ab63e4",
-        "f20f15b7-c291-495a-862f-5b28364a4b7c",
-        "56891eee-e7e0-4df4-a41f-43fddb50858c",
-        "f3176b91-2a20-4ce6-b44a-85df660a618d",
-        "f47fb937-5e85-47be-a122-3522901eb942",
-        "8c333827-b448-4d69-a0a9-ecdc8ba57476"
-      ],
-      "sodium c14-16 olefin sulfonate": [
-        "345a4dd5-278b-4fda-b607-8724d9ec0b1b"
-      ],
-      "cocamidopropyl betaine": [
-        "dbd8d0cb-fa8f-41cc-b426-41c912015faf",
-        "b09620f6-03ec-4e98-9566-79b564d13377"
-      ],
-      "decyl glucoside": [
-        "05f0740b-d4d9-4634-9f91-795630f99b46",
-        "4e9fac9a-fceb-40e8-8624-da8af65440a6",
-        "f8c97ae9-fd9b-47e6-b95c-86ea26fd1776",
-        "37e1a727-c88c-4cba-bb4d-2d2666ad2b63",
-        "09caad47-89ab-4804-9477-952cd5f24ab1",
-        "a84d9f19-2ebe-44cb-a9fd-f105863cb3ae",
-        "de9d7079-644e-41e2-b555-d154d1d2faea"
-      ],
-      "coco-glucoside": [
-        "8977b14c-4cd8-40f6-9016-49647d697baf",
-        "4601e8c8-c3f0-4435-9842-9575a0899b75",
-        "c5a6415d-58f8-416e-8408-bacec4f58793",
-        "dab8d346-a54e-4521-83da-cd1b79d5bf21",
-        "f7629358-dfad-4662-b075-42144b74cb0f",
-        "8d18af08-a64f-414d-a8be-c1eaed77dbff",
-        "b0776c28-b13c-41b4-a3e1-0c417fa77a04",
-        "4586c3b8-e9ad-408d-9846-fc84393787e9",
-        "337b4f0f-d922-4166-ba86-f3bd84482e1a",
-        "9c9f8831-560b-46d4-8274-397fad49a074"
-      ],
-      "glycol distearate": [
-        "c7b2b5fc-4801-4420-9987-e2bce106dcba",
-        "04af4aa0-7e4f-4435-8670-13ac941fe648",
-        "19a6abdc-3e61-457d-97a5-ec2c8420d01c",
-        "c37f0b50-0308-421a-abea-b921b33d0ade"
-      ],
-      "cocamide mea": [
-        "b0f7e03e-7135-43c3-b6b9-10744cae4426",
-        "8b7611af-0653-4541-804b-17fc87dbcb27",
-        "fa1ab8bf-8b41-4201-a37b-9536dfcf7061",
-        "4fff24f2-e620-4d2e-a0cc-0993731d5c89",
-        "b09620f6-03ec-4e98-9566-79b564d13377"
-      ],
-      "parfum": [
-        "877337a9-4a8b-4d17-bed7-f3a39d335e80"
-      ],
-      "citric acid": [
-        "398b79ca-fc64-43b5-bf15-956e6239c1db",
-        "1480f95d-9343-4f09-bf68-4ce68b5cb5c7",
-        "4f345ae4-4989-4790-ac69-9e3918f3521f",
-        "a15f0ed1-c032-4545-b545-31b808440ebe",
-        "0475616d-fb2f-49f8-8edf-06ad7de3aea6",
-        "114a0f38-02c6-4b8e-9497-4a7123db4b99",
-        "92fdfdd5-7cf8-4c76-9c54-8d01be21e806",
-        "2ae3cc68-1096-41c2-8368-1288163e2c75",
-        "50ed5817-b951-4e9e-9bd1-06713bd3c42a",
-        "efb40140-403c-48f0-b76f-a54cc3313786",
-        "e30e18c1-47d2-4558-815f-6902599aa7f2",
-        "3fd7f7bf-ff0e-4fe8-bcf1-fdec2f388e71",
-        "dfbffaa1-9498-4c09-83ba-071285866fca",
-        "14c5d1bf-54ae-4e14-8439-c9297a9561a5",
-        "b30a0a54-bd97-4cdc-b193-b15f41b9aa9d",
-        "0bc748a1-0dfe-4bd6-90a4-7424a130dcba",
-        "b3426c0c-001b-4cf4-ba7f-1b93964598e4",
-        "380e8aa3-149d-497f-973e-8d8898ac05a4",
-        "dda20ee1-8364-4540-92b5-bbd50fa99c85",
-        "cc3cfaeb-3457-44f7-8961-61598a2deda5",
-        "00b6e815-ef31-425b-8c98-9aa6d426f696",
-        "173aa29a-c8ac-404b-b971-119e702bbb54",
-        "0085caa1-70bf-4a6d-9845-62d38ee1de03",
-        "29d51668-d06e-4ca0-84a3-ec7965c67457",
-        "f9c6d0eb-eb39-4671-8fe2-a2e6e4594e66",
-        "16841e6c-abfc-4300-87cb-072d880bb571",
-        "21e68034-a1bb-442c-b382-bf8024b87500",
-        "53bcef98-1ed3-4d7a-9335-739e04539609",
-        "879dfe97-f5b0-409b-b3ab-7e45038f373b",
-        "2d50705f-7aab-497a-9eb1-949bfacf4e2e",
-        "f38c86bd-f573-4998-bc93-0ae4477dac25",
-        "09cfe452-a81c-440f-9b2f-dde3e79cbe88",
-        "e9589e3c-67f5-49cf-8635-2c77ca5c69fc",
-        "3f4d6b44-cde0-447c-b3cf-140a9e375e7c",
-        "7b4c4daf-505f-4391-86e9-854b747710e3",
-        "a59d320f-ad7e-4f45-bb78-3a39371f5b2f",
-        "ecdae489-cedf-4392-8c60-3fa9e0ccad15",
-        "a2a8a8f3-e6e5-41fe-b8e0-8e96c6ec03ea"
-      ],
-      "hydroxypropyl methylcellulose": [
-        "a6d4983f-5452-4b3d-a15f-347dbd7ac192",
-        "94f4f39a-4b5d-4bed-ba59-7ad11356ad26",
-        "d0e8af07-7ffd-40c9-8658-b4dec61c4229",
-        "88ef5ef2-f1af-43a3-9941-14df5676100b"
-      ],
-      "stearoxypropyl dimethylamine": [
-        "20869297-ba1e-4685-832c-88713e5dfbb2"
-      ],
-      "guar hydroxypropyltrimonium chloride": [
-        "610b6f49-f014-439a-9a44-629bd56a9e0b",
-        "ad83f981-11d6-4dd3-899c-e0aaca5b65db"
-      ],
-      "polyquaternium-7": [
-        "a0a148b9-c9f4-4484-9e8e-87906ca42abe"
-      ],
-      "lactic acid,": [
-        "366b5960-4dd9-4f4a-9b25-d670d30f3b6f",
-        "d31a8d26-d71a-4959-9159-5c42b8cfe549",
-        "03ff8841-a4ee-4792-a560-c816495970d8",
-        "c03df1c9-18b7-43f1-b065-61b5a27bb900",
-        "97794d0c-d395-4644-89b9-2cdbaf0f81b3",
-        "d2a01d1c-8cfb-4e75-98e6-6d62ba83c4a6",
-        "262b545e-8ced-4703-b90b-36f88fe48724",
-        "f1547e9b-d224-4c4b-8d9f-9a7eb7d6cc21",
-        "cb9201e0-9710-4c88-9134-d677ae0ba208",
-        "c23e32ec-de65-4887-9545-bae9837dc891",
-        "727c38c1-4f8c-4228-9124-4c61e4794487",
-        "b749e066-d540-4a3d-88b4-ee45517f0aac",
-        "9708cee6-39e8-49e2-989e-f27e82682169",
-        "4f252bb3-4105-43ee-8ef7-8b00337afd75",
-        "3f6adfd5-0f1c-465c-a31b-b5748148070e",
-        "d8638571-2c24-4db5-b294-ff1159ca4da7",
-        "bf48a709-95ae-42bf-be72-29253b54ea58",
-        "8e99afe3-f248-4c04-ade7-689900590462",
-        "689f373a-8170-49b1-aff0-50d1f4c8b49a",
-        "3a4b30a5-fd78-4deb-a058-360ddebeb98d",
-        "2be95a51-4278-4661-82c2-66e6a1d80c59"
-      ]
+      "aqua": {
+        "cosing_info": {
+          "reference": "acb2fd0b-1174-4f52-8481-759e0f6a9471",
+          "inci_name": "AQUA",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "sodium c14-16 olefin sulfonate": {
+        "cosing_info": {
+          "reference": "345a4dd5-278b-4fda-b607-8724d9ec0b1b",
+          "inci_name": "SODIUM C14-16 OLEFIN SULFONATE",
+          "cas_no": [
+            "68439-57-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "cocamidopropyl betaine": {
+        "cosing_info": {
+          "reference": "dbd8d0cb-fa8f-41cc-b426-41c912015faf",
+          "inci_name": "COCAMIDOPROPYL BETAINE",
+          "cas_no": [
+            "97862-59-4 (generic)",
+            "61789-40-0",
+            "70851-07-9",
+            "83138-08-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "decyl glucoside": {
+        "cosing_info": {
+          "reference": "05f0740b-d4d9-4634-9f91-795630f99b46",
+          "inci_name": "DECYL GLUCOSIDE",
+          "cas_no": [
+            "54549-25-6; 58846-77-8; 141464-42-8; 68515-73-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "coco-glucoside": {
+        "cosing_info": {
+          "reference": "8977b14c-4cd8-40f6-9016-49647d697baf",
+          "inci_name": "COCO-GLUCOSIDE",
+          "cas_no": [
+            "110615-47-9"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "glycol distearate": {
+        "cosing_info": {
+          "reference": "04af4aa0-7e4f-4435-8670-13ac941fe648",
+          "inci_name": "GLYCOL DISTEARATE",
+          "cas_no": [
+            "627-83-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "61174",
+            "sid": "500787329",
+            "cas_no": "627-83-8"
+          }
+        ]
+      },
+      "cocamide mea": {
+        "cosing_info": {
+          "reference": "b0f7e03e-7135-43c3-b6b9-10744cae4426",
+          "inci_name": "COCAMIDE MEA",
+          "cas_no": [
+            "68140-00-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "parfum": {
+        "cosing_info": {
+          "reference": "877337a9-4a8b-4d17-bed7-f3a39d335e80",
+          "inci_name": "PARFUM",
+          "cas_no": []
+        },
+        "pubchem_info": []
+      },
+      "citric acid": {
+        "cosing_info": {
+          "reference": "398b79ca-fc64-43b5-bf15-956e6239c1db",
+          "inci_name": "CITRIC ACID",
+          "cas_no": [
+            "77-92-9",
+            "5949-29-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "311",
+            "sid": "481107970",
+            "cas_no": "77-92-9"
+          },
+          {
+            "cid": "22230",
+            "sid": "481107868",
+            "cas_no": "5949-29-1"
+          }
+        ]
+      },
+      "hydroxypropyl methylcellulose": {
+        "cosing_info": {
+          "reference": "d0e8af07-7ffd-40c9-8658-b4dec61c4229",
+          "inci_name": "HYDROXYPROPYL METHYLCELLULOSE",
+          "cas_no": [
+            "9004-65-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "stearoxypropyl dimethylamine": {
+        "cosing_info": {
+          "reference": "20869297-ba1e-4685-832c-88713e5dfbb2",
+          "inci_name": "STEAROXYPROPYL DIMETHYLAMINE",
+          "cas_no": [
+            "17517-01-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "87142",
+            "sid": "505885081",
+            "cas_no": "17517-01-0"
+          }
+        ]
+      },
+      "guar hydroxypropyltrimonium chloride": {
+        "cosing_info": {
+          "reference": "610b6f49-f014-439a-9a44-629bd56a9e0b",
+          "inci_name": "GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE",
+          "cas_no": [
+            "65497-29-2"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "polyquaternium-7": {
+        "cosing_info": {
+          "reference": "a0a148b9-c9f4-4484-9e8e-87906ca42abe",
+          "inci_name": "POLYQUATERNIUM-7",
+          "cas_no": [
+            "26590-05-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "lactic acid": {
+        "cosing_info": {
+          "reference": "366b5960-4dd9-4f4a-9b25-d670d30f3b6f",
+          "inci_name": "LACTIC ACID",
+          "cas_no": [
+            "50-21-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "612",
+            "sid": "481107791",
+            "cas_no": "50-21-5"
+          }
+        ]
+      }
     }
   },
   "additional_information": {

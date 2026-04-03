@@ -57,7 +57,7 @@ def extract_ingredients_from_file(filepath: Path) -> List[str]:
 
             # Thay vì map() và flat() liên tục, dùng re.split để cắt chuỗi 
             # bằng bất kỳ delimiter nào trong: " • ", ": ", " / ", ", "
-            results = re.split(r' • |: | / |, |,| · ', raw)
+            results = re.split(r' • |: | / |, |,| · | * ', raw)
 
             # [...new Set(results)] để lọc trùng lặp
             # Dùng list(set(results)) sẽ lọc trùng nhưng làm lộn xộn thứ tự gốc.

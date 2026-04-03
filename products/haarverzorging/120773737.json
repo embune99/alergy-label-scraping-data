@@ -20,9 +20,79 @@
     "product_category": "Haarverzorging",
     "legal_grade": null,
     "ingredients": [
-      "may vary in color and consistency."
+      "may",
+      "vary",
+      "in",
+      "color",
+      "and",
+      "consistency."
     ],
-    "inci": {}
+    "inci": {
+      "may": {
+        "cosing_info": {
+          "reference": "8a604f92-3735-4923-b03c-b75566bc78b5",
+          "inci_name": "ZEA MAYS STARCH",
+          "cas_no": [
+            "9005-25-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "in": {
+        "cosing_info": {
+          "reference": "08ccc2ce-73cd-4b49-ac8b-98886dcd940f",
+          "inci_name": "Acrylamide, unless regulated elsewhere in this Regulation",
+          "cas_no": [
+            "79-06-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6579",
+            "sid": "481106854",
+            "cas_no": "79-06-1"
+          }
+        ]
+      },
+      "color": {
+        "cosing_info": {
+          "reference": "035896ba-5662-406b-b8e2-9442dd4eb16b",
+          "inci_name": "Sulfonated nigrosine color",
+          "cas_no": [
+            "8005-03-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "135442942",
+            "sid": "505441925",
+            "cas_no": "8005-03-6"
+          }
+        ]
+      },
+      "and": {
+        "cosing_info": {
+          "reference": "46d2e23c-1458-4655-9758-6a52b47500a3",
+          "inci_name": "Secondary alkyl- and alkanolamines and their salts",
+          "cas_no": [
+            "111-42-2",
+            "110-97-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8113",
+            "sid": "481107085",
+            "cas_no": "111-42-2"
+          },
+          {
+            "cid": "8086",
+            "sid": "505583577",
+            "cas_no": "110-97-4"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120773737"
