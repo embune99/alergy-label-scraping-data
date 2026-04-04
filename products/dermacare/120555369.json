@@ -51,7 +51,486 @@
       "Hydroxide",
       "Zinc",
       "PCA"
-    ]
+    ],
+    "inci": {
+      "sodium": {
+        "cosing_info": {
+          "reference": "436c3318-3a15-40db-b19b-54900ed3abc1",
+          "inci_name": "SODIUM SIALYLLACTOSE",
+          "cas_no": [
+            "128596-80-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "71308479",
+            "sid": "504500786",
+            "cas_no": "128596-80-5"
+          }
+        ]
+      },
+      "laureth": {
+        "cosing_info": {
+          "reference": "b634f418-d30d-4f94-aa23-420eaf1e71e3",
+          "inci_name": "SODIUM LAURETH-11 CARBOXYLATE",
+          "cas_no": [
+            "33939-64-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "154267",
+            "sid": "505879589",
+            "cas_no": "33939-64-9"
+          }
+        ]
+      },
+      "sulfate": {
+        "cosing_info": {
+          "reference": "e122130b-9fd3-47ab-bf29-63f7f233422f",
+          "inci_name": "SODIUM LAURYL SULFATE",
+          "cas_no": [
+            "151-21-3",
+            "68585-47-7 (generic)",
+            "68955-19-1 (generic)",
+            "73296-89-6",
+            "85586-07-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "3423265",
+            "sid": "505883583",
+            "cas_no": "151-21-3"
+          }
+        ]
+      },
+      "cocamidopropyl": {
+        "cosing_info": {
+          "reference": "dbd8d0cb-fa8f-41cc-b426-41c912015faf",
+          "inci_name": "COCAMIDOPROPYL BETAINE",
+          "cas_no": [
+            "97862-59-4 (generic)",
+            "61789-40-0",
+            "70851-07-9",
+            "83138-08-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "betaine": {
+        "cosing_info": {
+          "reference": "73ba24e6-ffb8-4a09-a6ee-99704524b504",
+          "inci_name": "BETAINE",
+          "cas_no": [
+            "107-43-7",
+            "590-47-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "247",
+            "sid": "481106944",
+            "cas_no": "107-43-7"
+          },
+          {
+            "cid": "83815",
+            "sid": null,
+            "cas_no": "590-47-6"
+          }
+        ]
+      },
+      "glycerin": {
+        "cosing_info": {
+          "reference": "59eb65ef-7b29-4486-a311-f194224c11e6",
+          "inci_name": "GLYCERIN",
+          "cas_no": [
+            "56-81-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "753",
+            "sid": "481110738",
+            "cas_no": "56-81-5"
+          }
+        ]
+      },
+      "cocamide": {
+        "cosing_info": {
+          "reference": "749a0549-7cdc-40e9-89b9-634b526d2a16",
+          "inci_name": "COCAMIDE",
+          "cas_no": [
+            "61789-19-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "mipa": {
+        "cosing_info": {
+          "reference": "469b18ab-24b2-47bc-a681-99c12ce75b9f",
+          "inci_name": "MIPA-BORATE",
+          "cas_no": [
+            "26038-90-4; 68003-13-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "chloride": {
+        "cosing_info": {
+          "reference": "c34b87ef-4a9c-4fea-ab84-b7fa2e76303d",
+          "inci_name": "Hexamethonium chloride; Hexamethylene(bistrimethylammonium)chloride",
+          "cas_no": [
+            "60-25-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "93550",
+            "sid": "500789484",
+            "cas_no": "60-25-3"
+          }
+        ]
+      },
+      "capryloyl": {
+        "cosing_info": {
+          "reference": "bc79e67a-d148-42e9-ba4c-c67613976b3f",
+          "inci_name": "CAPRYLOYL SARCOSINE",
+          "cas_no": [
+            "2421-32-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "3611914",
+            "sid": null,
+            "cas_no": "2421-32-1"
+          }
+        ]
+      },
+      "glycine": {
+        "cosing_info": {
+          "reference": "86a48168-97e5-4cc3-aff4-bd4f9e2a69cc",
+          "inci_name": "GLYCINE",
+          "cas_no": [
+            "56-40-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "750",
+            "sid": "481107780",
+            "cas_no": "56-40-6"
+          }
+        ]
+      },
+      "acid": {
+        "cosing_info": {
+          "reference": "2ce6a5ff-38b0-47a8-86bf-06e8a480b066",
+          "inci_name": "Perfluoroheptanoic acid; tridecafluoroheptanoic acid",
+          "cas_no": [
+            "375-85-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "67818",
+            "sid": "500815077",
+            "cas_no": "375-85-9"
+          }
+        ]
+      },
+      "citric": {
+        "cosing_info": {
+          "reference": "398b79ca-fc64-43b5-bf15-956e6239c1db",
+          "inci_name": "CITRIC ACID",
+          "cas_no": [
+            "77-92-9",
+            "5949-29-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "311",
+            "sid": "481107970",
+            "cas_no": "77-92-9"
+          },
+          {
+            "cid": "22230",
+            "sid": "481107868",
+            "cas_no": "5949-29-1"
+          }
+        ]
+      },
+      "disodium": {
+        "cosing_info": {
+          "reference": "9a36d68d-cfcc-48b5-a7b1-b5e0286611ea",
+          "inci_name": "DISODIUM PYROPHOSPHATE",
+          "cas_no": [
+            "7758-16-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "24451",
+            "sid": "500778501",
+            "cas_no": "7758-16-9"
+          }
+        ]
+      },
+      "ricinoleamido": {
+        "cosing_info": {
+          "reference": "9deef330-b191-4a4b-a48e-1bd8b0f865e6",
+          "inci_name": "DISODIUM RICINOLEAMIDO MEA-SULFOSUCCINATE",
+          "cas_no": [
+            "65277-54-5",
+            "67893-42-9",
+            "60224-42-2",
+            "40754-60-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6436984",
+            "sid": "505566918",
+            "cas_no": "65277-54-5"
+          },
+          {
+            "cid": "93371",
+            "sid": "505566775",
+            "cas_no": "67893-42-9"
+          },
+          {
+            "cid": "91864440",
+            "sid": null,
+            "cas_no": "40754-60-7"
+          }
+        ]
+      },
+      "mea-sulfosuccinate": {
+        "cosing_info": {
+          "reference": "5520020d-8c5c-47bf-a4f5-b4616f965376",
+          "inci_name": "DISODIUM UNDECYLENAMIDO MEA-SULFOSUCCINATE",
+          "cas_no": [
+            "26650-05-5",
+            "40839-40-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "117833",
+            "sid": "505585096",
+            "cas_no": "26650-05-5"
+          }
+        ]
+      },
+      "glyceryl": {
+        "cosing_info": {
+          "reference": "94832999-3351-45b9-8bd2-ecf3e2675296",
+          "inci_name": "GLYCERYL HEPTANOATE",
+          "cas_no": [
+            "26402-24-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "21924355",
+            "sid": "505659259",
+            "cas_no": "26402-24-4"
+          }
+        ]
+      },
+      "laurate": {
+        "cosing_info": {
+          "reference": "b4d41dd9-4164-4ee3-b9c9-47d7af576c0d",
+          "inci_name": "SORBITAN LAURATE",
+          "cas_no": [
+            "1338-39-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "11046239",
+            "sid": "505884199",
+            "cas_no": "1338-39-2"
+          }
+        ]
+      },
+      "hexylene": {
+        "cosing_info": {
+          "reference": "745152e1-c038-4a6c-a93f-b61779b3d5ae",
+          "inci_name": "HEXYLENE GLYCOL DIMETHACRYLATE/GLYCOL DIMETHACRYLATE CROSSPOLYMER",
+          "cas_no": [
+            "117255-16-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "glycol": {
+        "cosing_info": {
+          "reference": "9676e281-f1c1-45e7-8bc5-dde960d1fc3d",
+          "inci_name": "GLYCOL",
+          "cas_no": [
+            "107-21-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "174",
+            "sid": "481107978",
+            "cas_no": "107-21-1"
+          }
+        ]
+      },
+      "iodopropynyl": {
+        "cosing_info": {
+          "reference": "86e5e14d-aadd-4d03-b0b4-e8889c6a078a",
+          "inci_name": "IODOPROPYNYL BUTYLCARBAMATE",
+          "cas_no": [
+            "55406-53-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "62097",
+            "sid": "505498408",
+            "cas_no": "55406-53-6"
+          }
+        ]
+      },
+      "butylcarbamate": {
+        "cosing_info": {
+          "reference": "0773c32c-65d4-4d97-8522-f50def869140",
+          "inci_name": "TRIMETHYLCYCLOHEXYL BUTYLCARBAMATE",
+          "cas_no": [
+            "1228376-60-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "isopropanolamine": {
+        "cosing_info": {
+          "reference": "4ec208d7-3834-4491-915b-a3a64281df36",
+          "inci_name": "ISOPROPANOLAMINE",
+          "cas_no": [
+            "78-96-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "4",
+            "sid": "505424941",
+            "cas_no": "78-96-6"
+          }
+        ]
+      },
+      "piroctone": {
+        "cosing_info": {
+          "reference": "24f0b2fb-435f-4927-97a2-c37c3edde03a",
+          "inci_name": "PIROCTONE",
+          "cas_no": [
+            "50650-76-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "50259",
+            "sid": "483928117",
+            "cas_no": "50650-76-5"
+          }
+        ]
+      },
+      "olamine": {
+        "cosing_info": {
+          "reference": "4aa934e2-d331-49c2-8c54-9843002396a1",
+          "inci_name": "PIROCTONE OLAMINE",
+          "cas_no": [
+            "68890-66-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "50258",
+            "sid": "483928118",
+            "cas_no": "68890-66-4"
+          }
+        ]
+      },
+      "salicylic": {
+        "cosing_info": {
+          "reference": "34f2aa4a-28c9-4ab4-befd-0c72ddbaf09a",
+          "inci_name": "SALICYLIC ACID",
+          "cas_no": [
+            "69-72-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "338",
+            "sid": "481108019",
+            "cas_no": "69-72-7"
+          }
+        ]
+      },
+      "benzoate": {
+        "cosing_info": {
+          "reference": "5b65f7cc-6a38-4226-ac3a-f0701f04cd27",
+          "inci_name": "CASTOR OIL BENZOATE",
+          "cas_no": [
+            "225927-34-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "hydroxide": {
+        "cosing_info": {
+          "reference": "46d24c83-1ace-4209-a88d-c3f205d323de",
+          "inci_name": "POTASSIUM HYDROXIDE",
+          "cas_no": [
+            "1310-58-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "14797",
+            "sid": "481108011",
+            "cas_no": "1310-58-3"
+          }
+        ]
+      },
+      "zinc": {
+        "cosing_info": {
+          "reference": "88864e22-d427-4884-9581-d304a063160b",
+          "inci_name": "ZINC",
+          "cas_no": [
+            "7440-66-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "23994",
+            "sid": "481107697",
+            "cas_no": "7440-66-6"
+          }
+        ]
+      },
+      "pca": {
+        "cosing_info": {
+          "reference": "e7dd6749-9995-4752-a64a-c733942f22f4",
+          "inci_name": "PCA",
+          "cas_no": [
+            "98-79-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "7405",
+            "sid": "518179613",
+            "cas_no": "98-79-3"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120555369"

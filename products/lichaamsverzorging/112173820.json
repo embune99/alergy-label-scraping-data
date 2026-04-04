@@ -34,7 +34,193 @@
       "Acid",
       "Tetrasodium",
       "EDTA."
-    ]
+    ],
+    "inci": {
+      "propylene": {
+        "cosing_info": {
+          "reference": "0e29f9a6-8bea-465c-8d3c-a49db69ea5ec",
+          "inci_name": "PROPYLENE GLYCOL DILAURATE",
+          "cas_no": [
+            "22788-19-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "90838",
+            "sid": "500819956",
+            "cas_no": "22788-19-8"
+          }
+        ]
+      },
+      "glycol": {
+        "cosing_info": {
+          "reference": "9676e281-f1c1-45e7-8bc5-dde960d1fc3d",
+          "inci_name": "GLYCOL",
+          "cas_no": [
+            "107-21-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "174",
+            "sid": "481107978",
+            "cas_no": "107-21-1"
+          }
+        ]
+      },
+      "aqua": {
+        "cosing_info": {
+          "reference": "acb2fd0b-1174-4f52-8481-759e0f6a9471",
+          "inci_name": "AQUA",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "sodium": {
+        "cosing_info": {
+          "reference": "436c3318-3a15-40db-b19b-54900ed3abc1",
+          "inci_name": "SODIUM SIALYLLACTOSE",
+          "cas_no": [
+            "128596-80-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "71308479",
+            "sid": "504500786",
+            "cas_no": "128596-80-5"
+          }
+        ]
+      },
+      "stearate": {
+        "cosing_info": {
+          "reference": "cdb1ff74-2d7e-4c4d-90e5-e8b8ba176ae4",
+          "inci_name": "SUCROSE STEARATE",
+          "cas_no": [
+            "25168-73-4",
+            "37318-31-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "66895039",
+            "sid": "500829828",
+            "cas_no": "25168-73-4"
+          },
+          {
+            "cid": "66895039",
+            "sid": "500829828",
+            "cas_no": "37318-31-3"
+          }
+        ]
+      },
+      "parfum": {
+        "cosing_info": {
+          "reference": "877337a9-4a8b-4d17-bed7-f3a39d335e80",
+          "inci_name": "PARFUM",
+          "cas_no": []
+        },
+        "pubchem_info": []
+      },
+      "chloride": {
+        "cosing_info": {
+          "reference": "c34b87ef-4a9c-4fea-ab84-b7fa2e76303d",
+          "inci_name": "Hexamethonium chloride; Hexamethylene(bistrimethylammonium)chloride",
+          "cas_no": [
+            "60-25-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "93550",
+            "sid": "500789484",
+            "cas_no": "60-25-3"
+          }
+        ]
+      },
+      "stearyl": {
+        "cosing_info": {
+          "reference": "3e4066a6-9c3b-40ea-a5bb-c4ff27bdb307",
+          "inci_name": "STEARYL POLYLACTATE",
+          "cas_no": [
+            "187664-14-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "alcohol": {
+        "cosing_info": {
+          "reference": "ee98826a-bac8-4089-91f6-32d956b26c61",
+          "inci_name": "ALCOHOL",
+          "cas_no": [
+            "64-17-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "702",
+            "sid": "481101440",
+            "cas_no": "64-17-5"
+          }
+        ]
+      },
+      "stearic": {
+        "cosing_info": {
+          "reference": "bcf4f8bf-edd1-45ae-b4f6-6dd7f10d8e3a",
+          "inci_name": "STEARIC ACID",
+          "cas_no": [
+            "57-11-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5281",
+            "sid": "481108030",
+            "cas_no": "57-11-4"
+          }
+        ]
+      },
+      "acid": {
+        "cosing_info": {
+          "reference": "2ce6a5ff-38b0-47a8-86bf-06e8a480b066",
+          "inci_name": "Perfluoroheptanoic acid; tridecafluoroheptanoic acid",
+          "cas_no": [
+            "375-85-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "67818",
+            "sid": "500815077",
+            "cas_no": "375-85-9"
+          }
+        ]
+      },
+      "tetrasodium": {
+        "cosing_info": {
+          "reference": "01a027b6-331b-4a9f-a100-21ff6722517d",
+          "inci_name": "TETRASODIUM PYROPHOSPHATE",
+          "cas_no": [
+            "7722-88-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "24403",
+            "sid": "483926325",
+            "cas_no": "7722-88-5"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "112173820"

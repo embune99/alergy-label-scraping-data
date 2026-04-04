@@ -45,7 +45,328 @@
       "Acetate",
       "Linalool",
       "Benzyl"
-    ]
+    ],
+    "inci": {
+      "butane": {
+        "cosing_info": {
+          "reference": "a3948035-8d7e-42b1-9fbd-8135fa9678d9",
+          "inci_name": "BUTANE",
+          "cas_no": [
+            "106-97-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "7843",
+            "sid": "481107962",
+            "cas_no": "106-97-8"
+          }
+        ]
+      },
+      "alcohol": {
+        "cosing_info": {
+          "reference": "ee98826a-bac8-4089-91f6-32d956b26c61",
+          "inci_name": "ALCOHOL",
+          "cas_no": [
+            "64-17-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "702",
+            "sid": "481101440",
+            "cas_no": "64-17-5"
+          }
+        ]
+      },
+      "denat.": {
+        "cosing_info": {
+          "reference": "1eb22e6e-941d-4099-b8e6-5533a356ce04",
+          "inci_name": "ALCOHOL DENAT.",
+          "cas_no": [
+            "64-17-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "702",
+            "sid": "481101440",
+            "cas_no": "64-17-5"
+          }
+        ]
+      },
+      "propane": {
+        "cosing_info": {
+          "reference": "e1e9357e-8ff9-4507-a248-5ba6c6014644",
+          "inci_name": "PROPANE",
+          "cas_no": [
+            "74-98-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6334",
+            "sid": "481107828",
+            "cas_no": "74-98-6"
+          }
+        ]
+      },
+      "isobutane": {
+        "cosing_info": {
+          "reference": "07451cc7-8cb8-4a8c-bad0-9546afc0007e",
+          "inci_name": "ISOBUTANE",
+          "cas_no": [
+            "75-28-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6360",
+            "sid": "481107251",
+            "cas_no": "75-28-5"
+          }
+        ]
+      },
+      "parfum": {
+        "cosing_info": {
+          "reference": "877337a9-4a8b-4d17-bed7-f3a39d335e80",
+          "inci_name": "PARFUM",
+          "cas_no": []
+        },
+        "pubchem_info": []
+      },
+      "propylene": {
+        "cosing_info": {
+          "reference": "0e29f9a6-8bea-465c-8d3c-a49db69ea5ec",
+          "inci_name": "PROPYLENE GLYCOL DILAURATE",
+          "cas_no": [
+            "22788-19-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "90838",
+            "sid": "500819956",
+            "cas_no": "22788-19-8"
+          }
+        ]
+      },
+      "glycol": {
+        "cosing_info": {
+          "reference": "9676e281-f1c1-45e7-8bc5-dde960d1fc3d",
+          "inci_name": "GLYCOL",
+          "cas_no": [
+            "107-21-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "174",
+            "sid": "481107978",
+            "cas_no": "107-21-1"
+          }
+        ]
+      },
+      "triethyl": {
+        "cosing_info": {
+          "reference": "7f03bd91-49a2-4ced-890f-e94cef1afa98",
+          "inci_name": "ACETYL TRIETHYL CITRATE",
+          "cas_no": [
+            "77-89-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6504",
+            "sid": "505548246",
+            "cas_no": "77-89-4"
+          }
+        ]
+      },
+      "citrate": {
+        "cosing_info": {
+          "reference": "2b4b78a2-c463-4238-8297-de65cfc1fc70",
+          "inci_name": "BISMUTH CITRATE",
+          "cas_no": [
+            "813-93-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "13135",
+            "sid": "505565203",
+            "cas_no": "813-93-4"
+          }
+        ]
+      },
+      "phenoxyethanol": {
+        "cosing_info": {
+          "reference": "f8f3a6ab-5656-4d9a-a085-729e03a7376d",
+          "inci_name": "PHENOXYETHANOL",
+          "cas_no": [
+            "122-99-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "31236",
+            "sid": "483926132",
+            "cas_no": "122-99-6"
+          }
+        ]
+      },
+      "1": {
+        "cosing_info": {
+          "reference": "533536b7-35d6-45c8-b0d5-af243ac0b4cc",
+          "inci_name": "CI 20170",
+          "cas_no": [
+            "1320-07-6",
+            "6371-84-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "23675104",
+            "sid": "505577183",
+            "cas_no": "1320-07-6"
+          },
+          {
+            "cid": "23668750",
+            "sid": "505560141",
+            "cas_no": "6371-84-2"
+          }
+        ]
+      },
+      "caprylyl": {
+        "cosing_info": {
+          "reference": "a75bfbc3-4ee6-421f-86f5-afbcc5dbb570",
+          "inci_name": "CAPRYLYL LAURATE",
+          "cas_no": [
+            "5303-24-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "79185",
+            "sid": "505569519",
+            "cas_no": "5303-24-2"
+          }
+        ]
+      },
+      "cocamidopropyl": {
+        "cosing_info": {
+          "reference": "dbd8d0cb-fa8f-41cc-b426-41c912015faf",
+          "inci_name": "COCAMIDOPROPYL BETAINE",
+          "cas_no": [
+            "97862-59-4 (generic)",
+            "61789-40-0",
+            "70851-07-9",
+            "83138-08-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "pg-dimonium": {
+        "cosing_info": {
+          "reference": "615c35b1-6940-4ff2-ba93-1e774b75cc61",
+          "inci_name": "MEADOWFOAMAMIDOPROPYL PG-DIMONIUM CHLORIDE",
+          "cas_no": [
+            "345648-01-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "chloride": {
+        "cosing_info": {
+          "reference": "c34b87ef-4a9c-4fea-ab84-b7fa2e76303d",
+          "inci_name": "Hexamethonium chloride; Hexamethylene(bistrimethylammonium)chloride",
+          "cas_no": [
+            "60-25-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "93550",
+            "sid": "500789484",
+            "cas_no": "60-25-3"
+          }
+        ]
+      },
+      "phosphate": {
+        "cosing_info": {
+          "reference": "e40b9150-a386-4dac-a7a4-afdc5de23f89",
+          "inci_name": "TRISTEARYL PHOSPHATE",
+          "cas_no": [
+            "4889-45-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "74962",
+            "sid": "505896505",
+            "cas_no": "4889-45-6"
+          }
+        ]
+      },
+      "menthyl": {
+        "cosing_info": {
+          "reference": "47dccb32-86bf-48c2-9255-6c18f296d18c",
+          "inci_name": "MENTHYL ETHYLCARBAMATE",
+          "cas_no": [
+            "637336-79-9"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "acetate": {
+        "cosing_info": {
+          "reference": "2e90250f-29b8-4066-987b-311a1cbc2f14",
+          "inci_name": "OCTYL ACETATE/MONOMETHYL ACETATE",
+          "cas_no": [
+            "68683-25-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "163261",
+            "sid": "500811241",
+            "cas_no": "68683-25-0"
+          }
+        ]
+      },
+      "linalool": {
+        "cosing_info": {
+          "reference": "8f47a2fa-c519-434c-8bb9-8385cf05fea5",
+          "inci_name": "LINALOOL",
+          "cas_no": [
+            "78-70-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6549",
+            "sid": "482028551",
+            "cas_no": "78-70-6"
+          }
+        ]
+      },
+      "benzyl": {
+        "cosing_info": {
+          "reference": "b8bed1f8-a18b-4f12-ada2-664e686fddd7",
+          "inci_name": "BENZYL ACETATE",
+          "cas_no": [
+            "140-11-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8785",
+            "sid": "481106933",
+            "cas_no": "140-11-4"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "110970690"

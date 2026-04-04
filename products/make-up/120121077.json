@@ -49,7 +49,338 @@
       "actuele",
       "ingrediëntenlijst."
     ],
-    "inci": {}
+    "inci": {
+      "ethyl": {
+        "cosing_info": {
+          "reference": "9fa5620b-e1ed-46f2-878a-a6f9fbd850a4",
+          "inci_name": "ETHYL OLEATE",
+          "cas_no": [
+            "111-62-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5363269",
+            "sid": "500782445",
+            "cas_no": "111-62-6"
+          }
+        ]
+      },
+      "acetate": {
+        "cosing_info": {
+          "reference": "2e90250f-29b8-4066-987b-311a1cbc2f14",
+          "inci_name": "OCTYL ACETATE/MONOMETHYL ACETATE",
+          "cas_no": [
+            "68683-25-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "163261",
+            "sid": "500811241",
+            "cas_no": "68683-25-0"
+          }
+        ]
+      },
+      "butyl": {
+        "cosing_info": {
+          "reference": "b4fa8f70-1796-4542-941f-548bbb07b96b",
+          "inci_name": "BUTYL GLYCOLATE",
+          "cas_no": [
+            "7397-62-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "81882",
+            "sid": "500765673",
+            "cas_no": "7397-62-8"
+          }
+        ]
+      },
+      "alcohol": {
+        "cosing_info": {
+          "reference": "ee98826a-bac8-4089-91f6-32d956b26c61",
+          "inci_name": "ALCOHOL",
+          "cas_no": [
+            "64-17-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "702",
+            "sid": "481101440",
+            "cas_no": "64-17-5"
+          }
+        ]
+      },
+      "denat.": {
+        "cosing_info": {
+          "reference": "1eb22e6e-941d-4099-b8e6-5533a356ce04",
+          "inci_name": "ALCOHOL DENAT.",
+          "cas_no": [
+            "64-17-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "702",
+            "sid": "481101440",
+            "cas_no": "64-17-5"
+          }
+        ]
+      },
+      "cellulose": {
+        "cosing_info": {
+          "reference": "b482f78a-cfe8-4e22-a602-d4f420b37d60",
+          "inci_name": "CELLULOSE",
+          "cas_no": [
+            "9004-34-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "butyrate": {
+        "cosing_info": {
+          "reference": "d9e4558a-3dc1-417d-8fba-1a2473263bda",
+          "inci_name": "CHOLESTERYL BUTYRATE/NONANOATE",
+          "cas_no": [
+            "521-13-1",
+            "1182-66-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "101741",
+            "sid": "516564445",
+            "cas_no": "521-13-1"
+          },
+          {
+            "cid": "2723614",
+            "sid": "500769136",
+            "cas_no": "1182-66-7"
+          }
+        ]
+      },
+      "sucrose": {
+        "cosing_info": {
+          "reference": "b2f6e99b-459b-488b-b49d-e624a8a083b1",
+          "inci_name": "SUCROSE",
+          "cas_no": [
+            "57-50-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5988",
+            "sid": "481108031",
+            "cas_no": "57-50-1"
+          }
+        ]
+      },
+      "benzoate": {
+        "cosing_info": {
+          "reference": "5b65f7cc-6a38-4226-ac3a-f0701f04cd27",
+          "inci_name": "CASTOR OIL BENZOATE",
+          "cas_no": [
+            "225927-34-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "trimethyl": {
+        "cosing_info": {
+          "reference": "60a3eeb8-1b12-4b96-9c87-63c19b1d1be4",
+          "inci_name": "STEAROXYTRIMETHYLSILANE",
+          "cas_no": [
+            "18748-98-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "87778",
+            "sid": "505885082",
+            "cas_no": "18748-98-6"
+          }
+        ]
+      },
+      "pentanyl": {
+        "cosing_info": {
+          "reference": "8b7692b6-bdd7-48bf-8e0c-e76a24882bbc",
+          "inci_name": "TRIMETHYL PENTANYL DIISOBUTYRATE",
+          "cas_no": [
+            "6846-50-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "23284",
+            "sid": "505436447",
+            "cas_no": "6846-50-0"
+          }
+        ]
+      },
+      "diisobutyrate": {
+        "cosing_info": {
+          "reference": "8b7692b6-bdd7-48bf-8e0c-e76a24882bbc",
+          "inci_name": "TRIMETHYL PENTANYL DIISOBUTYRATE",
+          "cas_no": [
+            "6846-50-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "23284",
+            "sid": "505436447",
+            "cas_no": "6846-50-0"
+          }
+        ]
+      },
+      "isopropyl": {
+        "cosing_info": {
+          "reference": "39b9f1de-dcfd-4862-9d82-661671ab0a80",
+          "inci_name": "ISOPROPYL LAURATE",
+          "cas_no": [
+            "10233-13-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "25068",
+            "sid": "500793234",
+            "cas_no": "10233-13-3"
+          }
+        ]
+      },
+      "nitrocellulose": {
+        "cosing_info": {
+          "reference": "0712dec6-a29b-4074-9be0-bb200acda7e4",
+          "inci_name": "NITROCELLULOSE",
+          "cas_no": [
+            "9004-70-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "tribenzoin": {
+        "cosing_info": {
+          "reference": "bdc6a124-e471-4561-94af-92a8ee4fcbf2",
+          "inci_name": "TRIBENZOIN",
+          "cas_no": [
+            "614-33-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "61156",
+            "sid": "505895000",
+            "cas_no": "614-33-5"
+          }
+        ]
+      },
+      "benzophenone-1": {
+        "cosing_info": {
+          "reference": "97680b7b-ed35-4670-a336-43d94041a308",
+          "inci_name": "BENZOPHENONE-1",
+          "cas_no": [
+            "131-56-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8572",
+            "sid": "500725877",
+            "cas_no": "131-56-6"
+          }
+        ]
+      },
+      "dimethicone": {
+        "cosing_info": {
+          "reference": "b947645c-f865-48ca-826d-35ae47722838",
+          "inci_name": "DIMETHICONE",
+          "cas_no": [
+            "63148-62-9",
+            "9006-65-9",
+            "9016-00-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "ci": {
+        "cosing_info": {
+          "reference": "cf0d4d37-d7ff-4040-aeca-ad94f40fffbb",
+          "inci_name": "CI 77400",
+          "cas_no": [
+            "7440-50-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "23978",
+            "sid": "481107044",
+            "cas_no": "7440-50-8"
+          }
+        ]
+      },
+      "60725": {
+        "cosing_info": {
+          "reference": "44c44f57-4280-4600-b47e-2cd53e9b98b0",
+          "inci_name": "CI 60725",
+          "cas_no": [
+            "81-48-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6680",
+            "sid": "500827672",
+            "cas_no": "81-48-1"
+          }
+        ]
+      },
+      "violet": {
+        "cosing_info": {
+          "reference": "c3b63456-2605-42c3-b74b-942c93958b4a",
+          "inci_name": "BASIC VIOLET 3",
+          "cas_no": [
+            "548-62-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "11057",
+            "sid": "481107195",
+            "cas_no": "548-62-9"
+          }
+        ]
+      },
+      "2": {
+        "cosing_info": {
+          "reference": "2d34c014-91f9-4f21-8c6b-35048316fe43",
+          "inci_name": "CI 42520",
+          "cas_no": [
+            "3248-91-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "14454445",
+            "sid": "505567965",
+            "cas_no": "3248-91-7"
+          }
+        ]
+      },
+      "de": {
+        "cosing_info": {
+          "reference": "88340284-e54c-44f6-a5a5-b8d7018b78c5",
+          "inci_name": "SODIUM CYCLODEXTRIN BUTYLSULFONATE",
+          "cas_no": [
+            "182410-00-0"
+          ]
+        },
+        "pubchem_info": []
+      }
+    }
   },
   "additional_information": {
     "id": "120121077"

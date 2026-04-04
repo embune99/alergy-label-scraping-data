@@ -51,7 +51,522 @@
       "CI",
       "17200",
       "42090."
-    ]
+    ],
+    "inci": {
+      "aqua": {
+        "cosing_info": {
+          "reference": "acb2fd0b-1174-4f52-8481-759e0f6a9471",
+          "inci_name": "AQUA",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "sodium": {
+        "cosing_info": {
+          "reference": "436c3318-3a15-40db-b19b-54900ed3abc1",
+          "inci_name": "SODIUM SIALYLLACTOSE",
+          "cas_no": [
+            "128596-80-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "71308479",
+            "sid": "504500786",
+            "cas_no": "128596-80-5"
+          }
+        ]
+      },
+      "laureth": {
+        "cosing_info": {
+          "reference": "b634f418-d30d-4f94-aa23-420eaf1e71e3",
+          "inci_name": "SODIUM LAURETH-11 CARBOXYLATE",
+          "cas_no": [
+            "33939-64-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "154267",
+            "sid": "505879589",
+            "cas_no": "33939-64-9"
+          }
+        ]
+      },
+      "sulfate": {
+        "cosing_info": {
+          "reference": "e122130b-9fd3-47ab-bf29-63f7f233422f",
+          "inci_name": "SODIUM LAURYL SULFATE",
+          "cas_no": [
+            "151-21-3",
+            "68585-47-7 (generic)",
+            "68955-19-1 (generic)",
+            "73296-89-6",
+            "85586-07-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "3423265",
+            "sid": "505883583",
+            "cas_no": "151-21-3"
+          }
+        ]
+      },
+      "cocamidopropyl": {
+        "cosing_info": {
+          "reference": "dbd8d0cb-fa8f-41cc-b426-41c912015faf",
+          "inci_name": "COCAMIDOPROPYL BETAINE",
+          "cas_no": [
+            "97862-59-4 (generic)",
+            "61789-40-0",
+            "70851-07-9",
+            "83138-08-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "betaine": {
+        "cosing_info": {
+          "reference": "73ba24e6-ffb8-4a09-a6ee-99704524b504",
+          "inci_name": "BETAINE",
+          "cas_no": [
+            "107-43-7",
+            "590-47-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "247",
+            "sid": "481106944",
+            "cas_no": "107-43-7"
+          },
+          {
+            "cid": "83815",
+            "sid": null,
+            "cas_no": "590-47-6"
+          }
+        ]
+      },
+      "chloride": {
+        "cosing_info": {
+          "reference": "c34b87ef-4a9c-4fea-ab84-b7fa2e76303d",
+          "inci_name": "Hexamethonium chloride; Hexamethylene(bistrimethylammonium)chloride",
+          "cas_no": [
+            "60-25-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "93550",
+            "sid": "500789484",
+            "cas_no": "60-25-3"
+          }
+        ]
+      },
+      "glycerin": {
+        "cosing_info": {
+          "reference": "59eb65ef-7b29-4486-a311-f194224c11e6",
+          "inci_name": "GLYCERIN",
+          "cas_no": [
+            "56-81-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "753",
+            "sid": "481110738",
+            "cas_no": "56-81-5"
+          }
+        ]
+      },
+      "parfum": {
+        "cosing_info": {
+          "reference": "877337a9-4a8b-4d17-bed7-f3a39d335e80",
+          "inci_name": "PARFUM",
+          "cas_no": []
+        },
+        "pubchem_info": []
+      },
+      "citric": {
+        "cosing_info": {
+          "reference": "398b79ca-fc64-43b5-bf15-956e6239c1db",
+          "inci_name": "CITRIC ACID",
+          "cas_no": [
+            "77-92-9",
+            "5949-29-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "311",
+            "sid": "481107970",
+            "cas_no": "77-92-9"
+          },
+          {
+            "cid": "22230",
+            "sid": "481107868",
+            "cas_no": "5949-29-1"
+          }
+        ]
+      },
+      "acid": {
+        "cosing_info": {
+          "reference": "2ce6a5ff-38b0-47a8-86bf-06e8a480b066",
+          "inci_name": "Perfluoroheptanoic acid; tridecafluoroheptanoic acid",
+          "cas_no": [
+            "375-85-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "67818",
+            "sid": "500815077",
+            "cas_no": "375-85-9"
+          }
+        ]
+      },
+      "benzoate": {
+        "cosing_info": {
+          "reference": "5b65f7cc-6a38-4226-ac3a-f0701f04cd27",
+          "inci_name": "CASTOR OIL BENZOATE",
+          "cas_no": [
+            "225927-34-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "benzophenone-4": {
+        "cosing_info": {
+          "reference": "a15c2fc8-9a3f-4456-8248-8c5dc0a9176f",
+          "inci_name": "BENZOPHENONE-4",
+          "cas_no": [
+            "4065-45-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "19988",
+            "sid": "483926360",
+            "cas_no": "4065-45-6"
+          }
+        ]
+      },
+      "trisodium": {
+        "cosing_info": {
+          "reference": "a14520fa-b937-4099-b19d-e36d9639c616",
+          "inci_name": "TRISODIUM NTA",
+          "cas_no": [
+            "5064-31-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "21152",
+            "sid": "500835593",
+            "cas_no": "5064-31-3"
+          }
+        ]
+      },
+      "ethylenediamine": {
+        "cosing_info": {
+          "reference": "bc4424e4-c8b6-4a9d-a2d5-1fdc8d4b17cb",
+          "inci_name": "ETHYLENEDIAMINE",
+          "cas_no": [
+            "107-15-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "3301",
+            "sid": "481107158",
+            "cas_no": "107-15-3"
+          }
+        ]
+      },
+      "disuccinate": {
+        "cosing_info": {
+          "reference": "836e2c57-78db-4f1d-b3d9-4d47501d1b81",
+          "inci_name": "TRISODIUM ETHYLENEDIAMINE DISUCCINATE",
+          "cas_no": [
+            "20846-91-7",
+            "178949-82-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "497266",
+            "sid": "505592460",
+            "cas_no": "20846-91-7"
+          },
+          {
+            "cid": "73555305",
+            "sid": "505896476",
+            "cas_no": "178949-82-1"
+          }
+        ]
+      },
+      "cananga": {
+        "cosing_info": {
+          "reference": "78ca1143-f29c-4e04-b7f5-dca48aea7167",
+          "inci_name": "CANANGA ODORATA FLOWER EXTRACT",
+          "cas_no": [
+            "83863-30-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "odorata": {
+        "cosing_info": {
+          "reference": "3dccdd57-68a5-4e1b-b2f4-067606a88e32",
+          "inci_name": "ROSA ODORATA EXTRACT",
+          "cas_no": [
+            "97676-09-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "flower": {
+        "cosing_info": {
+          "reference": "c1d12598-6b78-467a-9a80-920b391e0209",
+          "inci_name": "Tagetes minuta flower extract; Tagetes minuta flower oil",
+          "cas_no": [
+            "91770-75-1; 91770-75-1",
+            "8016-84-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "oil": {
+        "cosing_info": {
+          "reference": "73055330-91dd-4d1e-b860-925fb2ecdbc8",
+          "inci_name": "MENHADEN OIL",
+          "cas_no": [
+            "8002-50-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "citrus": {
+        "cosing_info": {
+          "reference": "ecf6ef2d-4da6-4ff8-a1d0-d29422d24e3a",
+          "inci_name": "CITRUS AURANTIUM DULCIS PEEL OIL",
+          "cas_no": [
+            "8008-57-9"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "limon": {
+        "cosing_info": {
+          "reference": "1959a972-8a10-40e2-b207-3c13ac1c13ab",
+          "inci_name": "CITRUS LIMON PEEL",
+          "cas_no": [
+            "92346-89-9",
+            "84929-31-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "168009840",
+            "sid": null,
+            "cas_no": "84929-31-7"
+          }
+        ]
+      },
+      "peel": {
+        "cosing_info": {
+          "reference": "e863d775-c505-4bbd-a8cf-2f9acc6e6afe",
+          "inci_name": "ZANTHOXYLUM PIPERITUM PEEL WATER",
+          "cas_no": [
+            "97404-53-0 (generic)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "lavandula": {
+        "cosing_info": {
+          "reference": "b0514910-40cb-4acf-8b27-74ff7082cefb",
+          "inci_name": "LAVANDULA HYBRIDA EXTRACT",
+          "cas_no": [
+            "91722-69-9"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "angustifolia": {
+        "cosing_info": {
+          "reference": "a236ddaa-9572-411d-b772-f5589169b647",
+          "inci_name": "LAVANDULA ANGUSTIFOLIA ANGUSTIFOLIA HERB EXTRACT",
+          "cas_no": [
+            "84776-65-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "alpha-isomethyl": {
+        "cosing_info": {
+          "reference": "bb1bdf74-ac91-4b4f-a06e-4f30fe9e50be",
+          "inci_name": "ALPHA-ISOMETHYL IONONE",
+          "cas_no": [
+            "127-51-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5372174",
+            "sid": "518159587",
+            "cas_no": "127-51-5"
+          }
+        ]
+      },
+      "ionone": {
+        "cosing_info": {
+          "reference": "cfa7fe92-c563-4769-951b-ec77fd9a2e27",
+          "inci_name": "IONONE",
+          "cas_no": [
+            "8013-90-9",
+            "79-77-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "24680",
+            "sid": "518178763",
+            "cas_no": "8013-90-9"
+          },
+          {
+            "cid": "638014",
+            "sid": "481106941",
+            "cas_no": "79-77-6"
+          }
+        ]
+      },
+      "coumarin": {
+        "cosing_info": {
+          "reference": "5ea4136c-9b7f-446c-875c-1b04d887a52e",
+          "inci_name": "COUMARIN",
+          "cas_no": [
+            "91-64-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "323",
+            "sid": "481107046",
+            "cas_no": "91-64-5"
+          }
+        ]
+      },
+      "hexyl": {
+        "cosing_info": {
+          "reference": "e0639f70-efc4-424e-a259-4464aeaea8ea",
+          "inci_name": "HEXYL SALICYLATE HEXYL ETHER",
+          "cas_no": [
+            "111222-71-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "cinnamal": {
+        "cosing_info": {
+          "reference": "def9943c-d755-44df-8a88-921782a72d1a",
+          "inci_name": "CINNAMAL",
+          "cas_no": [
+            "104-55-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "637511",
+            "sid": "500769665",
+            "cas_no": "104-55-2"
+          }
+        ]
+      },
+      "limonene": {
+        "cosing_info": {
+          "reference": "d9a853fb-831a-4f8e-a3f5-d57b976d9c88",
+          "inci_name": "LIMONENE",
+          "cas_no": [
+            "138-86-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "22311",
+            "sid": "518147164",
+            "cas_no": "138-86-3"
+          }
+        ]
+      },
+      "linalool": {
+        "cosing_info": {
+          "reference": "8f47a2fa-c519-434c-8bb9-8385cf05fea5",
+          "inci_name": "LINALOOL",
+          "cas_no": [
+            "78-70-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6549",
+            "sid": "482028551",
+            "cas_no": "78-70-6"
+          }
+        ]
+      },
+      "ci": {
+        "cosing_info": {
+          "reference": "cf0d4d37-d7ff-4040-aeca-ad94f40fffbb",
+          "inci_name": "CI 77400",
+          "cas_no": [
+            "7440-50-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "23978",
+            "sid": "481107044",
+            "cas_no": "7440-50-8"
+          }
+        ]
+      },
+      "17200": {
+        "cosing_info": {
+          "reference": "eb40eb17-cbea-4b2c-a4b2-3d3fd8b28489",
+          "inci_name": "CI 17200",
+          "cas_no": [
+            "3567-66-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "19116",
+            "sid": null,
+            "cas_no": "3567-66-6"
+          }
+        ]
+      },
+      "42090.": {
+        "cosing_info": {
+          "reference": "1b17ede5-9897-4237-9fe7-b8c70f04d056",
+          "inci_name": "Benzenemethanaminium, N-ethyl-N-[4-[[4-[ethyl-[(3-sulfophenyl)-methyl]-amino]-phenyl](2-sulfophenyl)methylene]-2,5-cyclohexadien-1-ylidene]-3-sulfo, inner salts, disodium salt and its ammonium and aluminium salts (15); Acid Blue  Acid Blue 9 Ammonium salt; CI 42090.\r\n(see note 17)",
+          "cas_no": [
+            "3844-45-9 - 2650-18-2 - 68921-42-6"
+          ]
+        },
+        "pubchem_info": []
+      }
+    }
   },
   "additional_information": {
     "id": "111143207"

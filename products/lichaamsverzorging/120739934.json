@@ -50,7 +50,467 @@
       "Hydroxide",
       "Limonene",
       "Linalool."
-    ]
+    ],
+    "inci": {
+      "aqua": {
+        "cosing_info": {
+          "reference": "acb2fd0b-1174-4f52-8481-759e0f6a9471",
+          "inci_name": "AQUA",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "cetearyl": {
+        "cosing_info": {
+          "reference": "a28ea7b2-c106-47ae-8057-220259726e12",
+          "inci_name": "CETEARYL DIMETHICONE CROSSPOLYMER",
+          "cas_no": [
+            "756876-51-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "alcohol": {
+        "cosing_info": {
+          "reference": "ee98826a-bac8-4089-91f6-32d956b26c61",
+          "inci_name": "ALCOHOL",
+          "cas_no": [
+            "64-17-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "702",
+            "sid": "481101440",
+            "cas_no": "64-17-5"
+          }
+        ]
+      },
+      "glycerin": {
+        "cosing_info": {
+          "reference": "59eb65ef-7b29-4486-a311-f194224c11e6",
+          "inci_name": "GLYCERIN",
+          "cas_no": [
+            "56-81-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "753",
+            "sid": "481110738",
+            "cas_no": "56-81-5"
+          }
+        ]
+      },
+      "triglyceride": {
+        "cosing_info": {
+          "reference": "7a837030-45f2-4113-b7a5-f51fd0594bd1",
+          "inci_name": "C18-36 ACID TRIGLYCERIDE",
+          "cas_no": [
+            "91052-08-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "cellulose": {
+        "cosing_info": {
+          "reference": "b482f78a-cfe8-4e22-a602-d4f420b37d60",
+          "inci_name": "CELLULOSE",
+          "cas_no": [
+            "9004-34-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "acetate": {
+        "cosing_info": {
+          "reference": "2e90250f-29b8-4066-987b-311a1cbc2f14",
+          "inci_name": "OCTYL ACETATE/MONOMETHYL ACETATE",
+          "cas_no": [
+            "68683-25-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "163261",
+            "sid": "500811241",
+            "cas_no": "68683-25-0"
+          }
+        ]
+      },
+      "hydrated": {
+        "cosing_info": {
+          "reference": "66f656f2-5107-476d-b766-5a15eb974cf3",
+          "inci_name": "HYDRATED SILICA",
+          "cas_no": [
+            "10279-57-9",
+            "1343-98-2",
+            "7631-86-9",
+            "112926-00-8",
+            "63231-67-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "190201",
+            "sid": "483925620",
+            "cas_no": "10279-57-9"
+          },
+          {
+            "cid": "14942",
+            "sid": "483926073",
+            "cas_no": "1343-98-2"
+          },
+          {
+            "cid": "24261",
+            "sid": "481108020",
+            "cas_no": "7631-86-9"
+          },
+          {
+            "cid": "24261",
+            "sid": "481108020",
+            "cas_no": "112926-00-8"
+          }
+        ]
+      },
+      "silica": {
+        "cosing_info": {
+          "reference": "e9fab588-fd7f-4caa-966b-2afcba56c07d",
+          "inci_name": "SILICA",
+          "cas_no": [
+            "7631-86-9",
+            "112945-52-5",
+            "60676-86-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "24261",
+            "sid": "481108020",
+            "cas_no": "7631-86-9"
+          },
+          {
+            "cid": "24261",
+            "sid": "481108020",
+            "cas_no": "112945-52-5"
+          },
+          {
+            "cid": "24261",
+            "sid": "481108020",
+            "cas_no": "60676-86-0"
+          }
+        ]
+      },
+      "butyrospermum": {
+        "cosing_info": {
+          "reference": "c916563c-5769-41b5-923d-155825592fa8",
+          "inci_name": "BUTYROSPERMUM PARKII SEEDCAKE EXTRACT",
+          "cas_no": [
+            "91080-23-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "parkii": {
+        "cosing_info": {
+          "reference": "e1c4c82e-1c71-4620-a303-78636f700cfa",
+          "inci_name": "BUTYROSPERMUM PARKII NUT EXTRACT",
+          "cas_no": [
+            "91080-23-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "butter": {
+        "cosing_info": {
+          "reference": "10a7649e-ef17-459d-8c51-d746cf8bb1c9",
+          "inci_name": "BUTTER",
+          "cas_no": [
+            "8029-34-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "dicetyl": {
+        "cosing_info": {
+          "reference": "31d95d95-8753-4bc5-a8ed-799b88686193",
+          "inci_name": "DICETYL THIODIPROPIONATE",
+          "cas_no": [
+            "3287-12-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "76783",
+            "sid": "500776418",
+            "cas_no": "3287-12-5"
+          }
+        ]
+      },
+      "phosphate": {
+        "cosing_info": {
+          "reference": "e40b9150-a386-4dac-a7a4-afdc5de23f89",
+          "inci_name": "TRISTEARYL PHOSPHATE",
+          "cas_no": [
+            "4889-45-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "74962",
+            "sid": "505896505",
+            "cas_no": "4889-45-6"
+          }
+        ]
+      },
+      "ceteth-10": {
+        "cosing_info": {
+          "reference": "6e7b9ca7-fbad-4310-9904-f595dd01ad75",
+          "inci_name": "CETETH-10",
+          "cas_no": [
+            "9004-95-9",
+            "14529-40-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "2724259",
+            "sid": "516575677",
+            "cas_no": "9004-95-9"
+          },
+          {
+            "cid": "10305360",
+            "sid": "504570629",
+            "cas_no": "14529-40-9"
+          }
+        ]
+      },
+      "rosa": {
+        "cosing_info": {
+          "reference": "ccb48ee8-c3cd-464d-854a-65094824b3ed",
+          "inci_name": "ROSA DAMASCENA FLOWER WAX",
+          "cas_no": [
+            "90106-38-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "canina": {
+        "cosing_info": {
+          "reference": "9a551058-4621-416a-b35f-58aab5013f29",
+          "inci_name": "ROSA CANINA SEED",
+          "cas_no": [
+            "84696-47-9"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "fruit": {
+        "cosing_info": {
+          "reference": "bcb3c9aa-e856-4293-bf15-d8d80f6a1117",
+          "inci_name": "COCOS NUCIFERA FRUIT/FRUIT JUICE EXTRACT",
+          "cas_no": [
+            "8001-31-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "oil": {
+        "cosing_info": {
+          "reference": "73055330-91dd-4d1e-b860-925fb2ecdbc8",
+          "inci_name": "MENHADEN OIL",
+          "cas_no": [
+            "8002-50-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "prunus": {
+        "cosing_info": {
+          "reference": "66fda891-5114-4a29-81f7-88df1b2ca9b2",
+          "inci_name": "PRUNUS PERSICA FRUIT",
+          "cas_no": [
+            "84012-34-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "armeniaca": {
+        "cosing_info": {
+          "reference": "cb3ac883-7a5a-4ff2-b7e7-86b459dc3a91",
+          "inci_name": "PRUNUS ARMENIACA FRUIT",
+          "cas_no": [
+            "68650-44-2"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "seed": {
+        "cosing_info": {
+          "reference": "981b4ff2-0470-4c2b-9a2a-bdebc1e66420",
+          "inci_name": "HELIANTHUS ANNUUS SEED WAX",
+          "cas_no": [
+            "1286686-34-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "powder": {
+        "cosing_info": {
+          "reference": "00aa870f-31a9-4a22-8238-74c5e5965f14",
+          "inci_name": "SILK POWDER",
+          "cas_no": [
+            "9009-99-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "parfum": {
+        "cosing_info": {
+          "reference": "877337a9-4a8b-4d17-bed7-f3a39d335e80",
+          "inci_name": "PARFUM",
+          "cas_no": []
+        },
+        "pubchem_info": []
+      },
+      "carbomer": {
+        "cosing_info": {
+          "reference": "e3f36da9-bb8f-4de8-a8d0-c3995cd87e7f",
+          "inci_name": "CARBOMER",
+          "cas_no": [
+            "9007-20-9",
+            "9003-01-4",
+            "76050-42-5",
+            "9062-04-8",
+            "9007-16-3",
+            "9007-17-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "91824753",
+            "sid": null,
+            "cas_no": "9062-04-8"
+          }
+        ]
+      },
+      "benzyl": {
+        "cosing_info": {
+          "reference": "b8bed1f8-a18b-4f12-ada2-664e686fddd7",
+          "inci_name": "BENZYL ACETATE",
+          "cas_no": [
+            "140-11-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8785",
+            "sid": "481106933",
+            "cas_no": "140-11-4"
+          }
+        ]
+      },
+      "dehydroacetic": {
+        "cosing_info": {
+          "reference": "acb07a0c-07eb-4cda-9438-411f55f5b4db",
+          "inci_name": "DEHYDROACETIC ACID",
+          "cas_no": [
+            "520-45-6",
+            "771-03-9",
+            "16807-48-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "122903",
+            "sid": "505757125",
+            "cas_no": "520-45-6"
+          },
+          {
+            "cid": "54678494",
+            "sid": "518158605",
+            "cas_no": "771-03-9"
+          },
+          {
+            "cid": "122903",
+            "sid": "505757125",
+            "cas_no": "16807-48-0"
+          }
+        ]
+      },
+      "acid": {
+        "cosing_info": {
+          "reference": "2ce6a5ff-38b0-47a8-86bf-06e8a480b066",
+          "inci_name": "Perfluoroheptanoic acid; tridecafluoroheptanoic acid",
+          "cas_no": [
+            "375-85-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "67818",
+            "sid": "500815077",
+            "cas_no": "375-85-9"
+          }
+        ]
+      },
+      "sodium": {
+        "cosing_info": {
+          "reference": "436c3318-3a15-40db-b19b-54900ed3abc1",
+          "inci_name": "SODIUM SIALYLLACTOSE",
+          "cas_no": [
+            "128596-80-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "71308479",
+            "sid": "504500786",
+            "cas_no": "128596-80-5"
+          }
+        ]
+      },
+      "hydroxide": {
+        "cosing_info": {
+          "reference": "46d24c83-1ace-4209-a88d-c3f205d323de",
+          "inci_name": "POTASSIUM HYDROXIDE",
+          "cas_no": [
+            "1310-58-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "14797",
+            "sid": "481108011",
+            "cas_no": "1310-58-3"
+          }
+        ]
+      },
+      "limonene": {
+        "cosing_info": {
+          "reference": "d9a853fb-831a-4f8e-a3f5-d57b976d9c88",
+          "inci_name": "LIMONENE",
+          "cas_no": [
+            "138-86-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "22311",
+            "sid": "518147164",
+            "cas_no": "138-86-3"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120739934"

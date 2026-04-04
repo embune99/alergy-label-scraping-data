@@ -31,7 +31,174 @@
       "Seed",
       "Tocopheryl",
       "Acetate."
-    ]
+    ],
+    "inci": {
+      "ethylhexyl": {
+        "cosing_info": {
+          "reference": "beb72c34-bce7-480f-a1c6-db5594e43c65",
+          "inci_name": "ETHYLHEXYL METHOXYCINNAMATE",
+          "cas_no": [
+            "5466-77-3",
+            "83834-59-7 (trans-)"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5355130",
+            "sid": "483926029",
+            "cas_no": "5466-77-3"
+          }
+        ]
+      },
+      "stearate": {
+        "cosing_info": {
+          "reference": "cdb1ff74-2d7e-4c4d-90e5-e8b8ba176ae4",
+          "inci_name": "SUCROSE STEARATE",
+          "cas_no": [
+            "25168-73-4",
+            "37318-31-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "66895039",
+            "sid": "500829828",
+            "cas_no": "25168-73-4"
+          },
+          {
+            "cid": "66895039",
+            "sid": "500829828",
+            "cas_no": "37318-31-3"
+          }
+        ]
+      },
+      "isopropyl": {
+        "cosing_info": {
+          "reference": "39b9f1de-dcfd-4862-9d82-661671ab0a80",
+          "inci_name": "ISOPROPYL LAURATE",
+          "cas_no": [
+            "10233-13-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "25068",
+            "sid": "500793234",
+            "cas_no": "10233-13-3"
+          }
+        ]
+      },
+      "palmitate": {
+        "cosing_info": {
+          "reference": "9aee3c4b-4a30-48de-a006-6eadbefabf22",
+          "inci_name": "ISOSTEARYL PALMITATE",
+          "cas_no": [
+            "72576-80-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "11443583",
+            "sid": "505788087",
+            "cas_no": "72576-80-8"
+          }
+        ]
+      },
+      "prunus": {
+        "cosing_info": {
+          "reference": "66fda891-5114-4a29-81f7-88df1b2ca9b2",
+          "inci_name": "PRUNUS PERSICA FRUIT",
+          "cas_no": [
+            "84012-34-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "amygdalus": {
+        "cosing_info": {
+          "reference": "b7c3dda2-0fbe-432f-82dc-9af978bb3910",
+          "inci_name": "PRUNUS AMYGDALUS SATIVA KERNEL EXTRACT",
+          "cas_no": [
+            "90320-37-9"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "dulcis": {
+        "cosing_info": {
+          "reference": "5f483e31-3135-410e-941f-896551cc389d",
+          "inci_name": "PRUNUS AMYGDALUS DULCIS SEED POWDER",
+          "cas_no": [
+            "90320-37-9 (generic)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "oil": {
+        "cosing_info": {
+          "reference": "73055330-91dd-4d1e-b860-925fb2ecdbc8",
+          "inci_name": "MENHADEN OIL",
+          "cas_no": [
+            "8002-50-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "parfum": {
+        "cosing_info": {
+          "reference": "877337a9-4a8b-4d17-bed7-f3a39d335e80",
+          "inci_name": "PARFUM",
+          "cas_no": []
+        },
+        "pubchem_info": []
+      },
+      "simmondsia": {
+        "cosing_info": {
+          "reference": "8cdfa80d-10d3-4239-b373-be3c29a1ad78",
+          "inci_name": "SIMMONDSIA CHINENSIS SEED EXTRACT",
+          "cas_no": [
+            "90045-98-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "chinensis": {
+        "cosing_info": {
+          "reference": "ab70a694-30d7-45dd-9090-08e5e18b5ef5",
+          "inci_name": "SCHISANDRA CHINENSIS FRUIT",
+          "cas_no": [
+            "223748-53-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "seed": {
+        "cosing_info": {
+          "reference": "981b4ff2-0470-4c2b-9a2a-bdebc1e66420",
+          "inci_name": "HELIANTHUS ANNUUS SEED WAX",
+          "cas_no": [
+            "1286686-34-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "tocopheryl": {
+        "cosing_info": {
+          "reference": "c8695df0-626d-4041-bd19-9ce5a4efa757",
+          "inci_name": "TOCOPHERYL RETINOATE",
+          "cas_no": [
+            "40516-49-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5282180",
+            "sid": "516551734",
+            "cas_no": "40516-49-2"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120254777"

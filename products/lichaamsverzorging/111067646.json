@@ -43,7 +43,375 @@
       "Sodium",
       "Benzoate",
       "Tocopherol."
-    ]
+    ],
+    "inci": {
+      "aqua": {
+        "cosing_info": {
+          "reference": "acb2fd0b-1174-4f52-8481-759e0f6a9471",
+          "inci_name": "AQUA",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "palmitic": {
+        "cosing_info": {
+          "reference": "4a1fb36f-ea4f-471f-8544-604164170721",
+          "inci_name": "PALMITIC ACID",
+          "cas_no": [
+            "57-10-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "985",
+            "sid": "481108005",
+            "cas_no": "57-10-3"
+          }
+        ]
+      },
+      "acid": {
+        "cosing_info": {
+          "reference": "2ce6a5ff-38b0-47a8-86bf-06e8a480b066",
+          "inci_name": "Perfluoroheptanoic acid; tridecafluoroheptanoic acid",
+          "cas_no": [
+            "375-85-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "67818",
+            "sid": "500815077",
+            "cas_no": "375-85-9"
+          }
+        ]
+      },
+      "triethanolamine": {
+        "cosing_info": {
+          "reference": "74f01fa0-bbf9-4da9-a572-228a0a24afa2",
+          "inci_name": "TRIETHANOLAMINE",
+          "cas_no": [
+            "102-71-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "7618",
+            "sid": "516579290",
+            "cas_no": "102-71-6"
+          }
+        ]
+      },
+      "isopentane": {
+        "cosing_info": {
+          "reference": "30b54e2f-e848-44e4-8a82-dd5069ab469a",
+          "inci_name": "ISOPENTANE",
+          "cas_no": [
+            "78-78-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6556",
+            "sid": "481107258",
+            "cas_no": "78-78-4"
+          }
+        ]
+      },
+      "glycerin": {
+        "cosing_info": {
+          "reference": "59eb65ef-7b29-4486-a311-f194224c11e6",
+          "inci_name": "GLYCERIN",
+          "cas_no": [
+            "56-81-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "753",
+            "sid": "481110738",
+            "cas_no": "56-81-5"
+          }
+        ]
+      },
+      "stearic": {
+        "cosing_info": {
+          "reference": "bcf4f8bf-edd1-45ae-b4f6-6dd7f10d8e3a",
+          "inci_name": "STEARIC ACID",
+          "cas_no": [
+            "57-11-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5281",
+            "sid": "481108030",
+            "cas_no": "57-11-4"
+          }
+        ]
+      },
+      "isobutane": {
+        "cosing_info": {
+          "reference": "07451cc7-8cb8-4a8c-bad0-9546afc0007e",
+          "inci_name": "ISOBUTANE",
+          "cas_no": [
+            "75-28-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6360",
+            "sid": "481107251",
+            "cas_no": "75-28-5"
+          }
+        ]
+      },
+      "glyceryl": {
+        "cosing_info": {
+          "reference": "94832999-3351-45b9-8bd2-ecf3e2675296",
+          "inci_name": "GLYCERYL HEPTANOATE",
+          "cas_no": [
+            "26402-24-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "21924355",
+            "sid": "505659259",
+            "cas_no": "26402-24-4"
+          }
+        ]
+      },
+      "oleate": {
+        "cosing_info": {
+          "reference": "9fa5620b-e1ed-46f2-878a-a6f9fbd850a4",
+          "inci_name": "ETHYL OLEATE",
+          "cas_no": [
+            "111-62-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5363269",
+            "sid": "500782445",
+            "cas_no": "111-62-6"
+          }
+        ]
+      },
+      "panthenol": {
+        "cosing_info": {
+          "reference": "02b5654c-8fdf-44f4-a178-8f505b61ef9d",
+          "inci_name": "PANTHENOL",
+          "cas_no": [
+            "81-13-0",
+            "16485-10-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "131204",
+            "sid": "481107077",
+            "cas_no": "81-13-0"
+          },
+          {
+            "cid": "4678",
+            "sid": "483926094",
+            "cas_no": "16485-10-2"
+          }
+        ]
+      },
+      "aloe": {
+        "cosing_info": {
+          "reference": "2417ba86-6200-452d-8506-2e62681569b2",
+          "inci_name": "ALOE SPECIES RESIN",
+          "cas_no": [
+            "84837-08-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "barbadensis": {
+        "cosing_info": {
+          "reference": "9c6d5b9b-517c-4f2f-89fd-d874e4af781c",
+          "inci_name": "ALOE BARBADENSIS EXTRACT",
+          "cas_no": [
+            "85507-69-3",
+            "94349-62-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5712222",
+            "sid": "505550691",
+            "cas_no": "85507-69-3"
+          }
+        ]
+      },
+      "leaf": {
+        "cosing_info": {
+          "reference": "8e8792ba-fdf8-439d-864b-3c48468d6204",
+          "inci_name": "PSIDIUM GUAJAVA LEAF OIL",
+          "cas_no": [
+            "91770-12-6 (generic)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "juice": {
+        "cosing_info": {
+          "reference": "f7c0d3c8-eba3-4cd7-81c3-c1bb0ec8da8b",
+          "inci_name": "BETULA ALBA LEAF JUICE",
+          "cas_no": [
+            "84012-15-7 (generic)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "hydroxyethylcellulose": {
+        "cosing_info": {
+          "reference": "4df6d7e7-1646-4b70-afe9-cd92c032add6",
+          "inci_name": "HYDROXYETHYLCELLULOSE",
+          "cas_no": [
+            "9004-62-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "4327536",
+            "sid": "505785210",
+            "cas_no": "9004-62-0"
+          }
+        ]
+      },
+      "c12-13": {
+        "cosing_info": {
+          "reference": "f144cbab-d6b5-474c-a18c-f401cbf26b06",
+          "inci_name": "C12-13 ALCOHOLS",
+          "cas_no": [
+            "75782-86-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "alkyl": {
+        "cosing_info": {
+          "reference": "06766eaa-53eb-4a7b-9e03-c627de0c732c",
+          "inci_name": "C10 ALKYL ACETATE",
+          "cas_no": [
+            "68478-36-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "lactate": {
+        "cosing_info": {
+          "reference": "b2ccf3ab-6ff2-4482-80e7-07981b2d92da",
+          "inci_name": "LACTATE DEHYDROGENASE",
+          "cas_no": [
+            "9001-60-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "857560",
+            "sid": null,
+            "cas_no": "9001-60-9"
+          }
+        ]
+      },
+      "ascorbyl": {
+        "cosing_info": {
+          "reference": "69287ea0-ac70-4c51-bf6f-5997426b7d1e",
+          "inci_name": "PALMITOYL ASCORBYL GLUCOSIDE",
+          "cas_no": [
+            "287925-69-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "palmitate": {
+        "cosing_info": {
+          "reference": "9aee3c4b-4a30-48de-a006-6eadbefabf22",
+          "inci_name": "ISOSTEARYL PALMITATE",
+          "cas_no": [
+            "72576-80-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "11443583",
+            "sid": "505788087",
+            "cas_no": "72576-80-8"
+          }
+        ]
+      },
+      "citric": {
+        "cosing_info": {
+          "reference": "398b79ca-fc64-43b5-bf15-956e6239c1db",
+          "inci_name": "CITRIC ACID",
+          "cas_no": [
+            "77-92-9",
+            "5949-29-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "311",
+            "sid": "481107970",
+            "cas_no": "77-92-9"
+          },
+          {
+            "cid": "22230",
+            "sid": "481107868",
+            "cas_no": "5949-29-1"
+          }
+        ]
+      },
+      "lecithin": {
+        "cosing_info": {
+          "reference": "14893647-e46e-43be-84ab-32244787ecfa",
+          "inci_name": "LECITHIN",
+          "cas_no": [
+            "8002-43-5",
+            "8030-76-0 (soybean)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "sodium": {
+        "cosing_info": {
+          "reference": "436c3318-3a15-40db-b19b-54900ed3abc1",
+          "inci_name": "SODIUM SIALYLLACTOSE",
+          "cas_no": [
+            "128596-80-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "71308479",
+            "sid": "504500786",
+            "cas_no": "128596-80-5"
+          }
+        ]
+      },
+      "benzoate": {
+        "cosing_info": {
+          "reference": "5b65f7cc-6a38-4226-ac3a-f0701f04cd27",
+          "inci_name": "CASTOR OIL BENZOATE",
+          "cas_no": [
+            "225927-34-4"
+          ]
+        },
+        "pubchem_info": []
+      }
+    }
   },
   "additional_information": {
     "id": "111067646"

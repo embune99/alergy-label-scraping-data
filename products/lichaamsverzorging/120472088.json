@@ -46,7 +46,309 @@
       "Annuus",
       "LIMONENE",
       "LINALOOL"
-    ]
+    ],
+    "inci": {
+      "butyrospermum": {
+        "cosing_info": {
+          "reference": "c916563c-5769-41b5-923d-155825592fa8",
+          "inci_name": "BUTYROSPERMUM PARKII SEEDCAKE EXTRACT",
+          "cas_no": [
+            "91080-23-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "parkii": {
+        "cosing_info": {
+          "reference": "e1c4c82e-1c71-4620-a303-78636f700cfa",
+          "inci_name": "BUTYROSPERMUM PARKII NUT EXTRACT",
+          "cas_no": [
+            "91080-23-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "butter": {
+        "cosing_info": {
+          "reference": "10a7649e-ef17-459d-8c51-d746cf8bb1c9",
+          "inci_name": "BUTTER",
+          "cas_no": [
+            "8029-34-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "zea": {
+        "cosing_info": {
+          "reference": "5b181bc3-e563-413f-8baf-b0f565f51927",
+          "inci_name": "ZEA MAYS KERNEL EXTRACT",
+          "cas_no": [
+            "84696-06-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "mays": {
+        "cosing_info": {
+          "reference": "8a604f92-3735-4923-b03c-b75566bc78b5",
+          "inci_name": "ZEA MAYS STARCH",
+          "cas_no": [
+            "9005-25-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "starch": {
+        "cosing_info": {
+          "reference": "93782f1a-117c-49e6-8eca-9fe44b1ef6fc",
+          "inci_name": "HYDROXYPROPYL STARCH",
+          "cas_no": [
+            "9049-76-7",
+            "68584-86-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "24847857",
+            "sid": "518155301",
+            "cas_no": "9049-76-7"
+          }
+        ]
+      },
+      "sodium": {
+        "cosing_info": {
+          "reference": "436c3318-3a15-40db-b19b-54900ed3abc1",
+          "inci_name": "SODIUM SIALYLLACTOSE",
+          "cas_no": [
+            "128596-80-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "71308479",
+            "sid": "504500786",
+            "cas_no": "128596-80-5"
+          }
+        ]
+      },
+      "bicarbonate": {
+        "cosing_info": {
+          "reference": "4c65cdec-297b-47d9-913c-6698dd590607",
+          "inci_name": "AMINOGUANIDINE BICARBONATE",
+          "cas_no": [
+            "2582-30-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "164944",
+            "sid": "505553277",
+            "cas_no": "2582-30-1"
+          }
+        ]
+      },
+      "cocos": {
+        "cosing_info": {
+          "reference": "e0048346-3a7a-4477-a916-c58362958b47",
+          "inci_name": "COCOS NUCIFERA FRUIT",
+          "cas_no": [
+            "8001-31-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "nucifera": {
+        "cosing_info": {
+          "reference": "7fb7a796-8cfd-4622-8eb5-e47ab948e1ac",
+          "inci_name": "NELUMBO NUCIFERA EXTRACT",
+          "cas_no": [
+            "85085-51-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "oil": {
+        "cosing_info": {
+          "reference": "73055330-91dd-4d1e-b860-925fb2ecdbc8",
+          "inci_name": "MENHADEN OIL",
+          "cas_no": [
+            "8002-50-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "brassica": {
+        "cosing_info": {
+          "reference": "753fb835-7881-4d97-a687-d4b588f37cfa",
+          "inci_name": "BRASSICA NAPUS STEM EXTRACT",
+          "cas_no": [
+            "89958-03-2 (generic)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "campestris": {
+        "cosing_info": {
+          "reference": "205b76c2-374d-4963-ab9d-87ce61a02531",
+          "inci_name": "PSALLIOTA CAMPESTRIS EXTRACT",
+          "cas_no": [
+            "84929-56-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "seed": {
+        "cosing_info": {
+          "reference": "981b4ff2-0470-4c2b-9a2a-bdebc1e66420",
+          "inci_name": "HELIANTHUS ANNUUS SEED WAX",
+          "cas_no": [
+            "1286686-34-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "mentha": {
+        "cosing_info": {
+          "reference": "080f1da2-b4b7-47a1-923f-951bb1d65aec",
+          "inci_name": "MENTHA PIPERITA STEM EXTRACT",
+          "cas_no": [
+            "84082-70-2"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "arvensis": {
+        "cosing_info": {
+          "reference": "b9563eb4-7eab-4b23-8a99-8c4a479b52f8",
+          "inci_name": "SCABIOSA ARVENSIS EXTRACT",
+          "cas_no": [
+            "90046-08-5"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "herb": {
+        "cosing_info": {
+          "reference": "4b0c013e-9202-4f5c-a6b4-f9a08fc8bb3d",
+          "inci_name": "MELILOTUS OFFICINALIS HERB EXTRACT",
+          "cas_no": [
+            "84082-81-5"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "officinalis": {
+        "cosing_info": {
+          "reference": "fde86a8e-9241-40d9-a1d3-35ce8d8504b2",
+          "inci_name": "MELISSA OFFICINALIS LEAF/STEM OIL",
+          "cas_no": [
+            "84082-61-1 (generic); 8014-71-9 (generic)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "leaf": {
+        "cosing_info": {
+          "reference": "8e8792ba-fdf8-439d-864b-3c48468d6204",
+          "inci_name": "PSIDIUM GUAJAVA LEAF OIL",
+          "cas_no": [
+            "91770-12-6 (generic)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "tocopherol": {
+        "cosing_info": {
+          "reference": "e353a1e9-9330-4c22-bf1a-f58ac6d356a9",
+          "inci_name": "TOCOPHEROL",
+          "cas_no": [
+            "54-28-4 (gamma)",
+            "16698-35-4(beta)",
+            "10191-41-0(DL)",
+            "119-13-1",
+            "1406-18-4",
+            "1406-66-2",
+            "2074-53-5 (DL)",
+            "59-02-9 (D)",
+            "7616-22-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "92094",
+            "sid": "500775109",
+            "cas_no": "119-13-1"
+          },
+          {
+            "cid": "14985",
+            "sid": "483926503",
+            "cas_no": "1406-18-4"
+          },
+          {
+            "cid": "14986",
+            "sid": "516579069",
+            "cas_no": "1406-66-2"
+          },
+          {
+            "cid": "14986",
+            "sid": "516579069",
+            "cas_no": "7616-22-0"
+          }
+        ]
+      },
+      "helianthus": {
+        "cosing_info": {
+          "reference": "981b4ff2-0470-4c2b-9a2a-bdebc1e66420",
+          "inci_name": "HELIANTHUS ANNUUS SEED WAX",
+          "cas_no": [
+            "1286686-34-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "annuus": {
+        "cosing_info": {
+          "reference": "2d06b0fb-16aa-4515-bd4c-af0007d51709",
+          "inci_name": "HELIANTHUS ANNUUS SEED",
+          "cas_no": [
+            "84625-38-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "limonene": {
+        "cosing_info": {
+          "reference": "d9a853fb-831a-4f8e-a3f5-d57b976d9c88",
+          "inci_name": "LIMONENE",
+          "cas_no": [
+            "138-86-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "22311",
+            "sid": "518147164",
+            "cas_no": "138-86-3"
+          }
+        ]
+      },
+      "linalool": {
+        "cosing_info": {
+          "reference": "8f47a2fa-c519-434c-8bb9-8385cf05fea5",
+          "inci_name": "LINALOOL",
+          "cas_no": [
+            "78-70-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6549",
+            "sid": "482028551",
+            "cas_no": "78-70-6"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120472088"

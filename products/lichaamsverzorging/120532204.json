@@ -31,7 +31,97 @@
       "Limonene",
       "Linalool",
       "Geraniol"
-    ]
+    ],
+    "inci": {
+      "melaleuca": {
+        "cosing_info": {
+          "reference": "7a24ba25-119a-49bf-9954-e963ddbb88f2",
+          "inci_name": "MELALEUCA CAJAPUTI EXTRACT",
+          "cas_no": [
+            "247243-50-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "alternifolia": {
+        "cosing_info": {
+          "reference": "3aea93b8-3a6e-4c0e-b1c7-a2f26da15ca1",
+          "inci_name": "MELALEUCA ALTERNIFOLIA LEAF EXTRACT",
+          "cas_no": [
+            "85085-48-9 (generic)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "leaf": {
+        "cosing_info": {
+          "reference": "8e8792ba-fdf8-439d-864b-3c48468d6204",
+          "inci_name": "PSIDIUM GUAJAVA LEAF OIL",
+          "cas_no": [
+            "91770-12-6 (generic)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "oil": {
+        "cosing_info": {
+          "reference": "73055330-91dd-4d1e-b860-925fb2ecdbc8",
+          "inci_name": "MENHADEN OIL",
+          "cas_no": [
+            "8002-50-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "limonene": {
+        "cosing_info": {
+          "reference": "d9a853fb-831a-4f8e-a3f5-d57b976d9c88",
+          "inci_name": "LIMONENE",
+          "cas_no": [
+            "138-86-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "22311",
+            "sid": "518147164",
+            "cas_no": "138-86-3"
+          }
+        ]
+      },
+      "linalool": {
+        "cosing_info": {
+          "reference": "8f47a2fa-c519-434c-8bb9-8385cf05fea5",
+          "inci_name": "LINALOOL",
+          "cas_no": [
+            "78-70-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6549",
+            "sid": "482028551",
+            "cas_no": "78-70-6"
+          }
+        ]
+      },
+      "geraniol": {
+        "cosing_info": {
+          "reference": "4937f329-ce46-43be-bb99-3307e3966e02",
+          "inci_name": "GERANIOL",
+          "cas_no": [
+            "106-24-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "637566",
+            "sid": "481107196",
+            "cas_no": "106-24-1"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120532204"

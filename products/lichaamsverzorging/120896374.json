@@ -44,7 +44,294 @@
       "Citric",
       "acid",
       "Maldodextrin."
-    ]
+    ],
+    "inci": {
+      "aqua": {
+        "cosing_info": {
+          "reference": "acb2fd0b-1174-4f52-8481-759e0f6a9471",
+          "inci_name": "AQUA",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "aluminum": {
+        "cosing_info": {
+          "reference": "f8fd658c-b90a-4232-adf0-4e693bea3cfb",
+          "inci_name": "ALUMINUM",
+          "cas_no": [
+            "7429-90-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5359268",
+            "sid": "481106873",
+            "cas_no": "7429-90-5"
+          }
+        ]
+      },
+      "sesquichlorohydrate": {
+        "cosing_info": {
+          "reference": "4ca2d428-9af2-460d-853d-d42228317c35",
+          "inci_name": "ALUMINUM SESQUICHLOROHYDRATE",
+          "cas_no": [
+            "11089-92-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "16204946",
+            "sid": "505892608",
+            "cas_no": "11089-92-2"
+          }
+        ]
+      },
+      "glycerin": {
+        "cosing_info": {
+          "reference": "59eb65ef-7b29-4486-a311-f194224c11e6",
+          "inci_name": "GLYCERIN",
+          "cas_no": [
+            "56-81-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "753",
+            "sid": "481110738",
+            "cas_no": "56-81-5"
+          }
+        ]
+      },
+      "ppg-15": {
+        "cosing_info": {
+          "reference": "fdd4f3f6-8b77-4a52-b253-3a2cec39ef13",
+          "inci_name": "PPG-15",
+          "cas_no": [
+            "25322-69-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "stearyl": {
+        "cosing_info": {
+          "reference": "3e4066a6-9c3b-40ea-a5bb-c4ff27bdb307",
+          "inci_name": "STEARYL POLYLACTATE",
+          "cas_no": [
+            "187664-14-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "ether": {
+        "cosing_info": {
+          "reference": "1a33884e-9c41-4ce7-9725-136604d07dd0",
+          "inci_name": "DISTEARYL ETHER",
+          "cas_no": [
+            "6297-03-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "80526",
+            "sid": "505585378",
+            "cas_no": "6297-03-6"
+          }
+        ]
+      },
+      "steareth-2": {
+        "cosing_info": {
+          "reference": "1dde185a-37d7-4d9b-bd62-a159507f49a6",
+          "inci_name": "STEARETH-2",
+          "cas_no": [
+            "9005-00-9 (Generic)",
+            "16057-43-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "4165923",
+            "sid": "505885064",
+            "cas_no": "16057-43-5"
+          }
+        ]
+      },
+      "steareth-21": {
+        "cosing_info": {
+          "reference": "a9349010-a19f-42bb-9938-e4df3a309a7b",
+          "inci_name": "STEARETH-21",
+          "cas_no": [
+            "9005-00-9 (Generic)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "2-methyl": {
+        "cosing_info": {
+          "reference": "74275805-7657-43e5-848d-52ba85c5376a",
+          "inci_name": "2-METHYL-2-BUTENOL",
+          "cas_no": [
+            "4675-87-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6433417",
+            "sid": "505471712",
+            "cas_no": "4675-87-0"
+          }
+        ]
+      },
+      "morinda": {
+        "cosing_info": {
+          "reference": "830ec5ab-4b4d-4439-9d60-90e5e5d36188",
+          "inci_name": "MORINDA CITRIFOLIA FRUIT EXTRACT",
+          "cas_no": [
+            "84929-68-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "citrifolia": {
+        "cosing_info": {
+          "reference": "830ec5ab-4b4d-4439-9d60-90e5e5d36188",
+          "inci_name": "MORINDA CITRIFOLIA FRUIT EXTRACT",
+          "cas_no": [
+            "84929-68-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "callus": {
+        "cosing_info": {
+          "reference": "99b4465f-a80d-4ff4-9dbf-f8acefc8cc68",
+          "inci_name": "ANGELICA ARCHANGELICA CALLUS EXTRACT",
+          "cas_no": [
+            "84775-41-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "culture": {
+        "cosing_info": {
+          "reference": "98b4ccef-701b-4faa-a0f0-df3b3a079a71",
+          "inci_name": "AGASTACHE RUGOSA CALLUS CULTURE",
+          "cas_no": [
+            "91770-93-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "lysate": {
+        "cosing_info": {
+          "reference": "e5cb6704-f7bc-4ec2-a02b-5a8b9672ab3e",
+          "inci_name": "BIFIDA FERMENT LYSATE",
+          "cas_no": [
+            "96507-89-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "diatomaceous": {
+        "cosing_info": {
+          "reference": "be194eea-756b-4337-9bc5-01c8301f4cc0",
+          "inci_name": "DIATOMACEOUS EARTH",
+          "cas_no": [
+            "61790-53-2",
+            "-"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "earth": {
+        "cosing_info": {
+          "reference": "be194eea-756b-4337-9bc5-01c8301f4cc0",
+          "inci_name": "DIATOMACEOUS EARTH",
+          "cas_no": [
+            "61790-53-2",
+            "-"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "magnesium": {
+        "cosing_info": {
+          "reference": "3fd37db3-bd9e-4d98-b5fe-570c2db54cda",
+          "inci_name": "MAGNESIUM",
+          "cas_no": [
+            "7439-95-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5462224",
+            "sid": "481107309",
+            "cas_no": "7439-95-4"
+          }
+        ]
+      },
+      "trisilicate": {
+        "cosing_info": {
+          "reference": "16a00fa5-01bd-4bfd-8998-89c9254b762b",
+          "inci_name": "MAGNESIUM TRISILICATE",
+          "cas_no": [
+            "14987-04-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5311266",
+            "sid": "483925826",
+            "cas_no": "14987-04-3"
+          }
+        ]
+      },
+      "citric": {
+        "cosing_info": {
+          "reference": "398b79ca-fc64-43b5-bf15-956e6239c1db",
+          "inci_name": "CITRIC ACID",
+          "cas_no": [
+            "77-92-9",
+            "5949-29-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "311",
+            "sid": "481107970",
+            "cas_no": "77-92-9"
+          },
+          {
+            "cid": "22230",
+            "sid": "481107868",
+            "cas_no": "5949-29-1"
+          }
+        ]
+      },
+      "acid": {
+        "cosing_info": {
+          "reference": "2ce6a5ff-38b0-47a8-86bf-06e8a480b066",
+          "inci_name": "Perfluoroheptanoic acid; tridecafluoroheptanoic acid",
+          "cas_no": [
+            "375-85-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "67818",
+            "sid": "500815077",
+            "cas_no": "375-85-9"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120896374"

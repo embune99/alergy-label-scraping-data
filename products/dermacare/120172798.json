@@ -28,7 +28,150 @@
       "Glycine",
       "Soja",
       "(Soybean)"
-    ]
+    ],
+    "inci": {
+      "petrolatum": {
+        "cosing_info": {
+          "reference": "708f3232-a2e3-4c9e-a418-e0c0e18b7476",
+          "inci_name": "PETROLATUM",
+          "cas_no": [
+            "8009-03-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "prunus": {
+        "cosing_info": {
+          "reference": "66fda891-5114-4a29-81f7-88df1b2ca9b2",
+          "inci_name": "PRUNUS PERSICA FRUIT",
+          "cas_no": [
+            "84012-34-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "armeniaca": {
+        "cosing_info": {
+          "reference": "cb3ac883-7a5a-4ff2-b7e7-86b459dc3a91",
+          "inci_name": "PRUNUS ARMENIACA FRUIT",
+          "cas_no": [
+            "68650-44-2"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "kernel": {
+        "cosing_info": {
+          "reference": "ad86ddd5-9e64-4694-9380-d50e4f8b2945",
+          "inci_name": "ORYZA SATIVA KERNEL",
+          "cas_no": [
+            "68553-81-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "oil": {
+        "cosing_info": {
+          "reference": "73055330-91dd-4d1e-b860-925fb2ecdbc8",
+          "inci_name": "MENHADEN OIL",
+          "cas_no": [
+            "8002-50-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "isopropyl": {
+        "cosing_info": {
+          "reference": "39b9f1de-dcfd-4862-9d82-661671ab0a80",
+          "inci_name": "ISOPROPYL LAURATE",
+          "cas_no": [
+            "10233-13-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "25068",
+            "sid": "500793234",
+            "cas_no": "10233-13-3"
+          }
+        ]
+      },
+      "myristate": {
+        "cosing_info": {
+          "reference": "4024f459-47ca-49e6-b37d-bbb47250995d",
+          "inci_name": "DECYL MYRISTATE",
+          "cas_no": [
+            "41927-71-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "170588",
+            "sid": "500774791",
+            "cas_no": "41927-71-3"
+          }
+        ]
+      },
+      "tocopheryl": {
+        "cosing_info": {
+          "reference": "c8695df0-626d-4041-bd19-9ce5a4efa757",
+          "inci_name": "TOCOPHERYL RETINOATE",
+          "cas_no": [
+            "40516-49-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5282180",
+            "sid": "516551734",
+            "cas_no": "40516-49-2"
+          }
+        ]
+      },
+      "acetate": {
+        "cosing_info": {
+          "reference": "2e90250f-29b8-4066-987b-311a1cbc2f14",
+          "inci_name": "OCTYL ACETATE/MONOMETHYL ACETATE",
+          "cas_no": [
+            "68683-25-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "163261",
+            "sid": "500811241",
+            "cas_no": "68683-25-0"
+          }
+        ]
+      },
+      "glycine": {
+        "cosing_info": {
+          "reference": "86a48168-97e5-4cc3-aff4-bd4f9e2a69cc",
+          "inci_name": "GLYCINE",
+          "cas_no": [
+            "56-40-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "750",
+            "sid": "481107780",
+            "cas_no": "56-40-6"
+          }
+        ]
+      },
+      "soja": {
+        "cosing_info": {
+          "reference": "97405f60-c38c-40ec-8d2b-e606654d370c",
+          "inci_name": "GLYCINE SOJA EXTRACT",
+          "cas_no": [
+            "84776-91-0",
+            "8001-22-7"
+          ]
+        },
+        "pubchem_info": []
+      }
+    }
   },
   "additional_information": {
     "id": "120172798"

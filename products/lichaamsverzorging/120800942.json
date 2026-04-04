@@ -41,7 +41,267 @@
       "Bran",
       "Wax",
       "Tocopherol."
-    ]
+    ],
+    "inci": {
+      "hydrogenated": {
+        "cosing_info": {
+          "reference": "eaf6aff1-2d65-4b95-ac0e-66d0ff7d46ef",
+          "inci_name": "HYDROGENATED MICROCRYSTALLINE CERA",
+          "cas_no": [
+            "92045-76-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "vegetable": {
+        "cosing_info": {
+          "reference": "9397ea23-8fac-44b8-bb3e-dfbeb7f18271",
+          "inci_name": "ACETYLATED HYDROGENATED VEGETABLE GLYCERIDE",
+          "cas_no": [
+            "174333-76-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "oil": {
+        "cosing_info": {
+          "reference": "73055330-91dd-4d1e-b860-925fb2ecdbc8",
+          "inci_name": "MENHADEN OIL",
+          "cas_no": [
+            "8002-50-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "c12-15": {
+        "cosing_info": {
+          "reference": "ad0c2006-5a0a-48bd-ab2d-d4ce560a48d4",
+          "inci_name": "C12-15 ALCOHOLS",
+          "cas_no": [
+            "63393-82-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "alkyl": {
+        "cosing_info": {
+          "reference": "06766eaa-53eb-4a7b-9e03-c627de0c732c",
+          "inci_name": "C10 ALKYL ACETATE",
+          "cas_no": [
+            "68478-36-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "benzoate": {
+        "cosing_info": {
+          "reference": "5b65f7cc-6a38-4226-ac3a-f0701f04cd27",
+          "inci_name": "CASTOR OIL BENZOATE",
+          "cas_no": [
+            "225927-34-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "bis-diglyceryl": {
+        "cosing_info": {
+          "reference": "9bc6d45a-2272-4375-817c-3cdfe60c9a55",
+          "inci_name": "BIS-DIGLYCERYL POLYACYLADIPATE-1",
+          "cas_no": [
+            "222722-06-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "polyacyladipate-2": {
+        "cosing_info": {
+          "reference": "e28b28d3-d5db-49be-afe3-2dd1960ec579",
+          "inci_name": "BIS-DIGLYCERYL POLYACYLADIPATE-2",
+          "cas_no": [
+            "82249-33-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "cocos": {
+        "cosing_info": {
+          "reference": "e0048346-3a7a-4477-a916-c58362958b47",
+          "inci_name": "COCOS NUCIFERA FRUIT",
+          "cas_no": [
+            "8001-31-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "nucifera": {
+        "cosing_info": {
+          "reference": "7fb7a796-8cfd-4622-8eb5-e47ab948e1ac",
+          "inci_name": "NELUMBO NUCIFERA EXTRACT",
+          "cas_no": [
+            "85085-51-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "diethylamino": {
+        "cosing_info": {
+          "reference": "150d998e-a72d-4478-96e7-e7e1eadcc7ea",
+          "inci_name": "STARCH DIETHYLAMINOETHYL ETHER",
+          "cas_no": [
+            "9041-94-5"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "hydroxybenzoyl": {
+        "cosing_info": {
+          "reference": "a348f543-552b-4aec-96b1-6ac8a2cf1644",
+          "inci_name": "DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE",
+          "cas_no": [
+            "302776-68-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "10111431",
+            "sid": "500776886",
+            "cas_no": "302776-68-7"
+          }
+        ]
+      },
+      "hexyl": {
+        "cosing_info": {
+          "reference": "e0639f70-efc4-424e-a259-4464aeaea8ea",
+          "inci_name": "HEXYL SALICYLATE HEXYL ETHER",
+          "cas_no": [
+            "111222-71-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "ethylhexyl": {
+        "cosing_info": {
+          "reference": "beb72c34-bce7-480f-a1c6-db5594e43c65",
+          "inci_name": "ETHYLHEXYL METHOXYCINNAMATE",
+          "cas_no": [
+            "5466-77-3",
+            "83834-59-7 (trans-)"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5355130",
+            "sid": "483926029",
+            "cas_no": "5466-77-3"
+          }
+        ]
+      },
+      "triazone": {
+        "cosing_info": {
+          "reference": "29d89d27-6bce-4058-ba2f-52ae1a3031cd",
+          "inci_name": "ETHYLHEXYL TRIAZONE",
+          "cas_no": [
+            "88122-99-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "159201",
+            "sid": "500782584",
+            "cas_no": "88122-99-0"
+          }
+        ]
+      },
+      "bis-ethylhexyloxyphenol": {
+        "cosing_info": {
+          "reference": "c4eb9ee3-b90b-4e75-8fd1-fb2e3dd34ed1",
+          "inci_name": "BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE",
+          "cas_no": [
+            "187393-00-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "135487856",
+            "sid": "505556958",
+            "cas_no": "187393-00-6"
+          }
+        ]
+      },
+      "methoxyphenyl": {
+        "cosing_info": {
+          "reference": "d875a53b-b75c-4265-9016-ae7790982f2e",
+          "inci_name": "BIS-METHOXYPHENYL HEPTANEDIONE",
+          "cas_no": [
+            "123953-63-9"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "triazine": {
+        "cosing_info": {
+          "reference": "0d53daed-6b86-4e5a-ae90-6b8e3aee787a",
+          "inci_name": "TRIS-BIPHENYL TRIAZINE",
+          "cas_no": [
+            "31274-51-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "11628027",
+            "sid": "505896340",
+            "cas_no": "31274-51-8"
+          }
+        ]
+      },
+      "oryza": {
+        "cosing_info": {
+          "reference": "6022ff60-c04b-4a68-9153-f4cdf5b0c490",
+          "inci_name": "ORYZA SATIVA POWDER",
+          "cas_no": [
+            "68553-81-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "sativa": {
+        "cosing_info": {
+          "reference": "d8f748c2-de9f-4395-a4ac-996ecd709b59",
+          "inci_name": "Cannabis and Cannabis resin; Cannabis sativa, ext.",
+          "cas_no": [
+            "8063-14-7",
+            "89958-21-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "bran": {
+        "cosing_info": {
+          "reference": "78a9f214-6ffa-4619-92a5-bbe8b28f42c1",
+          "inci_name": "ORYZA SATIVA BRAN WAX",
+          "cas_no": [
+            "8016-60-2"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "wax": {
+        "cosing_info": {
+          "reference": "58be81f9-c6ef-4483-8b6e-49695c9a7ffd",
+          "inci_name": "VITIS VINIFERA LEAF WAX",
+          "cas_no": [
+            "85594-37-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "3931",
+            "sid": "500750973",
+            "cas_no": "85594-37-2"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120800942"

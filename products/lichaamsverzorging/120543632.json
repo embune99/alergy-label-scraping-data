@@ -43,7 +43,306 @@
       "Annuus",
       "Citral",
       "Geraniol."
-    ]
+    ],
+    "inci": {
+      "lanolin": {
+        "cosing_info": {
+          "reference": "c2f52be5-6ded-4c53-b7d0-45c062bab272",
+          "inci_name": "LANOLIN",
+          "cas_no": [
+            "8006-54-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "cocos": {
+        "cosing_info": {
+          "reference": "e0048346-3a7a-4477-a916-c58362958b47",
+          "inci_name": "COCOS NUCIFERA FRUIT",
+          "cas_no": [
+            "8001-31-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "nucifera": {
+        "cosing_info": {
+          "reference": "7fb7a796-8cfd-4622-8eb5-e47ab948e1ac",
+          "inci_name": "NELUMBO NUCIFERA EXTRACT",
+          "cas_no": [
+            "85085-51-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "oil": {
+        "cosing_info": {
+          "reference": "73055330-91dd-4d1e-b860-925fb2ecdbc8",
+          "inci_name": "MENHADEN OIL",
+          "cas_no": [
+            "8002-50-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "olea": {
+        "cosing_info": {
+          "reference": "a2ce5b5d-ab45-4175-a58c-4f331da2cea3",
+          "inci_name": "OLEA EUROPAEA SEED",
+          "cas_no": [
+            "8001-25-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "europaea": {
+        "cosing_info": {
+          "reference": "266fbf33-97aa-4aee-a6c1-0fc50147c427",
+          "inci_name": "SANICULA EUROPAEA EXTRACT",
+          "cas_no": [
+            "90106-53-9"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "fruit": {
+        "cosing_info": {
+          "reference": "bcb3c9aa-e856-4293-bf15-d8d80f6a1117",
+          "inci_name": "COCOS NUCIFERA FRUIT/FRUIT JUICE EXTRACT",
+          "cas_no": [
+            "8001-31-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "sesamum": {
+        "cosing_info": {
+          "reference": "8e0f44bf-d1d2-4b4a-b720-44204770feed",
+          "inci_name": "SESAMUM INDICUM SEED",
+          "cas_no": [
+            "8008-74-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "indicum": {
+        "cosing_info": {
+          "reference": "8b73a4e6-5770-4eef-95bf-ac5e5b76d070",
+          "inci_name": "CHRYSANTHELLUM INDICUM EXTRACT",
+          "cas_no": [
+            "223748-24-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "seed": {
+        "cosing_info": {
+          "reference": "981b4ff2-0470-4c2b-9a2a-bdebc1e66420",
+          "inci_name": "HELIANTHUS ANNUUS SEED WAX",
+          "cas_no": [
+            "1286686-34-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "prunus": {
+        "cosing_info": {
+          "reference": "66fda891-5114-4a29-81f7-88df1b2ca9b2",
+          "inci_name": "PRUNUS PERSICA FRUIT",
+          "cas_no": [
+            "84012-34-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "amygdalus": {
+        "cosing_info": {
+          "reference": "b7c3dda2-0fbe-432f-82dc-9af978bb3910",
+          "inci_name": "PRUNUS AMYGDALUS SATIVA KERNEL EXTRACT",
+          "cas_no": [
+            "90320-37-9"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "dulcis": {
+        "cosing_info": {
+          "reference": "5f483e31-3135-410e-941f-896551cc389d",
+          "inci_name": "PRUNUS AMYGDALUS DULCIS SEED POWDER",
+          "cas_no": [
+            "90320-37-9 (generic)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "citrus": {
+        "cosing_info": {
+          "reference": "ecf6ef2d-4da6-4ff8-a1d0-d29422d24e3a",
+          "inci_name": "CITRUS AURANTIUM DULCIS PEEL OIL",
+          "cas_no": [
+            "8008-57-9"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "bergamia": {
+        "cosing_info": {
+          "reference": "9e4a8499-0e70-41ce-8076-86e2cc6d72a8",
+          "inci_name": "CITRUS AURANTIUM BERGAMIA LEAF EXTRACT",
+          "cas_no": [
+            "89957-91-5"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "peel": {
+        "cosing_info": {
+          "reference": "e863d775-c505-4bbd-a8cf-2f9acc6e6afe",
+          "inci_name": "ZANTHOXYLUM PIPERITUM PEEL WATER",
+          "cas_no": [
+            "97404-53-0 (generic)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "expressed": {
+        "cosing_info": {
+          "reference": "d891a27f-8cff-4af4-b9c5-2d15e54b851b",
+          "inci_name": "CITRUS NOBILIS PEEL OIL EXPRESSED",
+          "cas_no": [
+            "84929-38-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "lavandula": {
+        "cosing_info": {
+          "reference": "b0514910-40cb-4acf-8b27-74ff7082cefb",
+          "inci_name": "LAVANDULA HYBRIDA EXTRACT",
+          "cas_no": [
+            "91722-69-9"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "hybrida": {
+        "cosing_info": {
+          "reference": "b0514910-40cb-4acf-8b27-74ff7082cefb",
+          "inci_name": "LAVANDULA HYBRIDA EXTRACT",
+          "cas_no": [
+            "91722-69-9"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "linalool": {
+        "cosing_info": {
+          "reference": "8f47a2fa-c519-434c-8bb9-8385cf05fea5",
+          "inci_name": "LINALOOL",
+          "cas_no": [
+            "78-70-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6549",
+            "sid": "482028551",
+            "cas_no": "78-70-6"
+          }
+        ]
+      },
+      "limonene": {
+        "cosing_info": {
+          "reference": "d9a853fb-831a-4f8e-a3f5-d57b976d9c88",
+          "inci_name": "LIMONENE",
+          "cas_no": [
+            "138-86-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "22311",
+            "sid": "518147164",
+            "cas_no": "138-86-3"
+          }
+        ]
+      },
+      "tocopherol": {
+        "cosing_info": {
+          "reference": "e353a1e9-9330-4c22-bf1a-f58ac6d356a9",
+          "inci_name": "TOCOPHEROL",
+          "cas_no": [
+            "54-28-4 (gamma)",
+            "16698-35-4(beta)",
+            "10191-41-0(DL)",
+            "119-13-1",
+            "1406-18-4",
+            "1406-66-2",
+            "2074-53-5 (DL)",
+            "59-02-9 (D)",
+            "7616-22-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "92094",
+            "sid": "500775109",
+            "cas_no": "119-13-1"
+          },
+          {
+            "cid": "14985",
+            "sid": "483926503",
+            "cas_no": "1406-18-4"
+          },
+          {
+            "cid": "14986",
+            "sid": "516579069",
+            "cas_no": "1406-66-2"
+          },
+          {
+            "cid": "14986",
+            "sid": "516579069",
+            "cas_no": "7616-22-0"
+          }
+        ]
+      },
+      "helianthus": {
+        "cosing_info": {
+          "reference": "981b4ff2-0470-4c2b-9a2a-bdebc1e66420",
+          "inci_name": "HELIANTHUS ANNUUS SEED WAX",
+          "cas_no": [
+            "1286686-34-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "annuus": {
+        "cosing_info": {
+          "reference": "2d06b0fb-16aa-4515-bd4c-af0007d51709",
+          "inci_name": "HELIANTHUS ANNUUS SEED",
+          "cas_no": [
+            "84625-38-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "citral": {
+        "cosing_info": {
+          "reference": "c41dea05-5e24-4081-be53-3e926964bbf7",
+          "inci_name": "CITRAL",
+          "cas_no": [
+            "5392-40-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "638011",
+            "sid": "481107032",
+            "cas_no": "5392-40-5"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120543632"

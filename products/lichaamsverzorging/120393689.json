@@ -34,7 +34,235 @@
       "Oil",
       "Ethylhexylglycerin",
       "Limonene."
-    ]
+    ],
+    "inci": {
+      "petrolatum": {
+        "cosing_info": {
+          "reference": "708f3232-a2e3-4c9e-a418-e0c0e18b7476",
+          "inci_name": "PETROLATUM",
+          "cas_no": [
+            "8009-03-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "lanolin": {
+        "cosing_info": {
+          "reference": "c2f52be5-6ded-4c53-b7d0-45c062bab272",
+          "inci_name": "LANOLIN",
+          "cas_no": [
+            "8006-54-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "aqua": {
+        "cosing_info": {
+          "reference": "acb2fd0b-1174-4f52-8481-759e0f6a9471",
+          "inci_name": "AQUA",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "glycerin": {
+        "cosing_info": {
+          "reference": "59eb65ef-7b29-4486-a311-f194224c11e6",
+          "inci_name": "GLYCERIN",
+          "cas_no": [
+            "56-81-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "753",
+            "sid": "481110738",
+            "cas_no": "56-81-5"
+          }
+        ]
+      },
+      "polyglyceryl-3": {
+        "cosing_info": {
+          "reference": "b46a93ef-d6b7-49fe-89bc-6ec74faebe3e",
+          "inci_name": "POLYGLYCERYL-3 CAPRYLATE",
+          "cas_no": [
+            "108777-93-1 (generic)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "diisostearate": {
+        "cosing_info": {
+          "reference": "e4fe68f2-73df-4db7-88b2-0b8527309653",
+          "inci_name": "GLYCERYL DIISOSTEARATE",
+          "cas_no": [
+            "68958-48-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "3034483",
+            "sid": "505659251",
+            "cas_no": "68958-48-5"
+          }
+        ]
+      },
+      "propylene": {
+        "cosing_info": {
+          "reference": "0e29f9a6-8bea-465c-8d3c-a49db69ea5ec",
+          "inci_name": "PROPYLENE GLYCOL DILAURATE",
+          "cas_no": [
+            "22788-19-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "90838",
+            "sid": "500819956",
+            "cas_no": "22788-19-8"
+          }
+        ]
+      },
+      "glycol": {
+        "cosing_info": {
+          "reference": "9676e281-f1c1-45e7-8bc5-dde960d1fc3d",
+          "inci_name": "GLYCOL",
+          "cas_no": [
+            "107-21-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "174",
+            "sid": "481107978",
+            "cas_no": "107-21-1"
+          }
+        ]
+      },
+      "phenoxyethanol": {
+        "cosing_info": {
+          "reference": "f8f3a6ab-5656-4d9a-a085-729e03a7376d",
+          "inci_name": "PHENOXYETHANOL",
+          "cas_no": [
+            "122-99-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "31236",
+            "sid": "483926132",
+            "cas_no": "122-99-6"
+          }
+        ]
+      },
+      "panthenol": {
+        "cosing_info": {
+          "reference": "02b5654c-8fdf-44f4-a178-8f505b61ef9d",
+          "inci_name": "PANTHENOL",
+          "cas_no": [
+            "81-13-0",
+            "16485-10-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "131204",
+            "sid": "481107077",
+            "cas_no": "81-13-0"
+          },
+          {
+            "cid": "4678",
+            "sid": "483926094",
+            "cas_no": "16485-10-2"
+          }
+        ]
+      },
+      "bisabolol": {
+        "cosing_info": {
+          "reference": "af49bbe4-6d8f-4da6-9a5e-deb514149ff1",
+          "inci_name": "BISABOLOL",
+          "cas_no": [
+            "515-69-5",
+            "23089-26-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "1549992",
+            "sid": "516563215",
+            "cas_no": "515-69-5"
+          },
+          {
+            "cid": "442343",
+            "sid": "482029414",
+            "cas_no": "23089-26-1"
+          }
+        ]
+      },
+      "eucalyptus": {
+        "cosing_info": {
+          "reference": "417f63b9-7d48-4308-832e-ab937389c051",
+          "inci_name": "EUCALYPTUS GLOBULUS LEAF EXTRACT",
+          "cas_no": [
+            "84625-32-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "globulus": {
+        "cosing_info": {
+          "reference": "417f63b9-7d48-4308-832e-ab937389c051",
+          "inci_name": "EUCALYPTUS GLOBULUS LEAF EXTRACT",
+          "cas_no": [
+            "84625-32-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "leaf": {
+        "cosing_info": {
+          "reference": "8e8792ba-fdf8-439d-864b-3c48468d6204",
+          "inci_name": "PSIDIUM GUAJAVA LEAF OIL",
+          "cas_no": [
+            "91770-12-6 (generic)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "oil": {
+        "cosing_info": {
+          "reference": "73055330-91dd-4d1e-b860-925fb2ecdbc8",
+          "inci_name": "MENHADEN OIL",
+          "cas_no": [
+            "8002-50-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "ethylhexylglycerin": {
+        "cosing_info": {
+          "reference": "c4da9c7a-3487-4c25-863c-9ddd013282b5",
+          "inci_name": "ETHYLHEXYLGLYCERIN",
+          "cas_no": [
+            "70445-33-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "9859093",
+            "sid": "483927937",
+            "cas_no": "70445-33-9"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120393689"

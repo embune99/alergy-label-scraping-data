@@ -43,7 +43,255 @@
       "Glucoside",
       "Pentylene",
       "Glycol"
-    ]
+    ],
+    "inci": {
+      "aqua": {
+        "cosing_info": {
+          "reference": "acb2fd0b-1174-4f52-8481-759e0f6a9471",
+          "inci_name": "AQUA",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "water": {
+        "cosing_info": {
+          "reference": "f47fb937-5e85-47be-a122-3522901eb942",
+          "inci_name": "WATER",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "aluminum": {
+        "cosing_info": {
+          "reference": "f8fd658c-b90a-4232-adf0-4e693bea3cfb",
+          "inci_name": "ALUMINUM",
+          "cas_no": [
+            "7429-90-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5359268",
+            "sid": "481106873",
+            "cas_no": "7429-90-5"
+          }
+        ]
+      },
+      "chlorohydrate": {
+        "cosing_info": {
+          "reference": "4b9fdb65-0611-408f-8f2d-c8558686b5d1",
+          "inci_name": "ZIRCONIUM CHLOROHYDRATE",
+          "cas_no": [
+            "18428-88-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "10176254",
+            "sid": "505901140",
+            "cas_no": "18428-88-1"
+          }
+        ]
+      },
+      "dimethicone": {
+        "cosing_info": {
+          "reference": "b947645c-f865-48ca-826d-35ae47722838",
+          "inci_name": "DIMETHICONE",
+          "cas_no": [
+            "63148-62-9",
+            "9006-65-9",
+            "9016-00-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "c14-22": {
+        "cosing_info": {
+          "reference": "6be07d26-1b8f-434b-ac39-d5f800bb4760",
+          "inci_name": "C14-22 ALKANE",
+          "cas_no": [
+            "-"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "alcohols": {
+        "cosing_info": {
+          "reference": "b0187ab4-751c-4593-8ca7-4630fd5ed788",
+          "inci_name": "C12-16 ALCOHOLS",
+          "cas_no": [
+            "68855-56-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "parfum": {
+        "cosing_info": {
+          "reference": "877337a9-4a8b-4d17-bed7-f3a39d335e80",
+          "inci_name": "PARFUM",
+          "cas_no": []
+        },
+        "pubchem_info": []
+      },
+      "fragrance": {
+        "cosing_info": {
+          "reference": "8df6b6bc-f26a-438c-8dc4-130db9e8ce6b",
+          "inci_name": "3,7-Dimethyl-2-octen-1-ol (6,7-Dihydrogeraniol), when used as a fragrance ingredient",
+          "cas_no": [
+            "40607-48-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5365836",
+            "sid": "504562939",
+            "cas_no": "40607-48-5"
+          }
+        ]
+      },
+      "copolymer": {
+        "cosing_info": {
+          "reference": "fcf102c4-72b2-4018-84a0-e49a1c54ba96",
+          "inci_name": "ACRYLATES/METHOXY PEG-10 MALEATE/STYRENE COPOLYMER",
+          "cas_no": [
+            "68988-26-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "perlite": {
+        "cosing_info": {
+          "reference": "178937bc-fdfb-408d-b3f1-7b225278766b",
+          "inci_name": "PERLITE",
+          "cas_no": [
+            "130885-09-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "121596494",
+            "sid": "516574772",
+            "cas_no": "130885-09-5"
+          }
+        ]
+      },
+      "zinc": {
+        "cosing_info": {
+          "reference": "88864e22-d427-4884-9581-d304a063160b",
+          "inci_name": "ZINC",
+          "cas_no": [
+            "7440-66-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "23994",
+            "sid": "481107697",
+            "cas_no": "7440-66-6"
+          }
+        ]
+      },
+      "pca": {
+        "cosing_info": {
+          "reference": "e7dd6749-9995-4752-a64a-c733942f22f4",
+          "inci_name": "PCA",
+          "cas_no": [
+            "98-79-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "7405",
+            "sid": "518179613",
+            "cas_no": "98-79-3"
+          }
+        ]
+      },
+      "c12-20": {
+        "cosing_info": {
+          "reference": "e97d2aed-02e3-43c9-8fc5-383501c66c45",
+          "inci_name": "C12-20 ISOALKANE (FORMERLY C12-20 ISOPARAFFIN)",
+          "cas_no": [
+            "64742-46-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "alkyl": {
+        "cosing_info": {
+          "reference": "06766eaa-53eb-4a7b-9e03-c627de0c732c",
+          "inci_name": "C10 ALKYL ACETATE",
+          "cas_no": [
+            "68478-36-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "glucoside": {
+        "cosing_info": {
+          "reference": "df773f30-29f1-4b31-ae90-992d0dc7b7f6",
+          "inci_name": "HEPTYL GLUCOSIDE",
+          "cas_no": [
+            "100231-64-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "113557",
+            "sid": "505779466",
+            "cas_no": "100231-64-9"
+          }
+        ]
+      },
+      "pentylene": {
+        "cosing_info": {
+          "reference": "36f04866-782e-409f-9051-5e6605b012a5",
+          "inci_name": "PENTYLENE GLYCOL",
+          "cas_no": [
+            "5343-92-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "93000",
+            "sid": "505856024",
+            "cas_no": "5343-92-0"
+          }
+        ]
+      },
+      "glycol": {
+        "cosing_info": {
+          "reference": "9676e281-f1c1-45e7-8bc5-dde960d1fc3d",
+          "inci_name": "GLYCOL",
+          "cas_no": [
+            "107-21-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "174",
+            "sid": "481107978",
+            "cas_no": "107-21-1"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120636871"

@@ -40,7 +40,290 @@
       "Paraffinum",
       "Liquidum",
       "Triazone"
-    ]
+    ],
+    "inci": {
+      "c12-15": {
+        "cosing_info": {
+          "reference": "ad0c2006-5a0a-48bd-ab2d-d4ce560a48d4",
+          "inci_name": "C12-15 ALCOHOLS",
+          "cas_no": [
+            "63393-82-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "alkyl": {
+        "cosing_info": {
+          "reference": "06766eaa-53eb-4a7b-9e03-c627de0c732c",
+          "inci_name": "C10 ALKYL ACETATE",
+          "cas_no": [
+            "68478-36-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "benzoate": {
+        "cosing_info": {
+          "reference": "5b65f7cc-6a38-4226-ac3a-f0701f04cd27",
+          "inci_name": "CASTOR OIL BENZOATE",
+          "cas_no": [
+            "225927-34-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "petrolatum": {
+        "cosing_info": {
+          "reference": "708f3232-a2e3-4c9e-a418-e0c0e18b7476",
+          "inci_name": "PETROLATUM",
+          "cas_no": [
+            "8009-03-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "paraffin": {
+        "cosing_info": {
+          "reference": "a08f45ce-3d6c-48e9-ad0a-f2fc3b08b7fd",
+          "inci_name": "PARAFFIN",
+          "cas_no": [
+            "8002-74-2; 64742-51-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "ozokerite": {
+        "cosing_info": {
+          "reference": "88ab82ed-5b39-46e0-bab1-994156488859",
+          "inci_name": "OZOKERITE",
+          "cas_no": [
+            "64742-33-2"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "diethylamino": {
+        "cosing_info": {
+          "reference": "150d998e-a72d-4478-96e7-e7e1eadcc7ea",
+          "inci_name": "STARCH DIETHYLAMINOETHYL ETHER",
+          "cas_no": [
+            "9041-94-5"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "hydroxybenzoyl": {
+        "cosing_info": {
+          "reference": "a348f543-552b-4aec-96b1-6ac8a2cf1644",
+          "inci_name": "DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE",
+          "cas_no": [
+            "302776-68-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "10111431",
+            "sid": "500776886",
+            "cas_no": "302776-68-7"
+          }
+        ]
+      },
+      "hexyl": {
+        "cosing_info": {
+          "reference": "e0639f70-efc4-424e-a259-4464aeaea8ea",
+          "inci_name": "HEXYL SALICYLATE HEXYL ETHER",
+          "cas_no": [
+            "111222-71-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "ethylhexyl": {
+        "cosing_info": {
+          "reference": "beb72c34-bce7-480f-a1c6-db5594e43c65",
+          "inci_name": "ETHYLHEXYL METHOXYCINNAMATE",
+          "cas_no": [
+            "5466-77-3",
+            "83834-59-7 (trans-)"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5355130",
+            "sid": "483926029",
+            "cas_no": "5466-77-3"
+          }
+        ]
+      },
+      "salicylate": {
+        "cosing_info": {
+          "reference": "d9c33ee5-63e3-4708-ba47-82d1215b093f",
+          "inci_name": "SILVER SALICYLATE",
+          "cas_no": [
+            "19025-97-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "54683737",
+            "sid": "505404027",
+            "cas_no": "19025-97-9"
+          }
+        ]
+      },
+      "bis-ethylhexyloxyphenol": {
+        "cosing_info": {
+          "reference": "c4eb9ee3-b90b-4e75-8fd1-fb2e3dd34ed1",
+          "inci_name": "BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE",
+          "cas_no": [
+            "187393-00-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "135487856",
+            "sid": "505556958",
+            "cas_no": "187393-00-6"
+          }
+        ]
+      },
+      "methoxyphenyl": {
+        "cosing_info": {
+          "reference": "d875a53b-b75c-4265-9016-ae7790982f2e",
+          "inci_name": "BIS-METHOXYPHENYL HEPTANEDIONE",
+          "cas_no": [
+            "123953-63-9"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "triazine": {
+        "cosing_info": {
+          "reference": "0d53daed-6b86-4e5a-ae90-6b8e3aee787a",
+          "inci_name": "TRIS-BIPHENYL TRIAZINE",
+          "cas_no": [
+            "31274-51-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "11628027",
+            "sid": "505896340",
+            "cas_no": "31274-51-8"
+          }
+        ]
+      },
+      "macadamia": {
+        "cosing_info": {
+          "reference": "b727a48d-36bf-4dee-a684-046a56d6afdb",
+          "inci_name": "MACADAMIA INTEGRIFOLIA/TETRAPHYLLA SEED OIL",
+          "cas_no": [
+            "438545-25-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "tetraphylla": {
+        "cosing_info": {
+          "reference": "b727a48d-36bf-4dee-a684-046a56d6afdb",
+          "inci_name": "MACADAMIA INTEGRIFOLIA/TETRAPHYLLA SEED OIL",
+          "cas_no": [
+            "438545-25-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "seed": {
+        "cosing_info": {
+          "reference": "981b4ff2-0470-4c2b-9a2a-bdebc1e66420",
+          "inci_name": "HELIANTHUS ANNUUS SEED WAX",
+          "cas_no": [
+            "1286686-34-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "oil": {
+        "cosing_info": {
+          "reference": "73055330-91dd-4d1e-b860-925fb2ecdbc8",
+          "inci_name": "MENHADEN OIL",
+          "cas_no": [
+            "8002-50-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "tocopheryl": {
+        "cosing_info": {
+          "reference": "c8695df0-626d-4041-bd19-9ce5a4efa757",
+          "inci_name": "TOCOPHERYL RETINOATE",
+          "cas_no": [
+            "40516-49-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5282180",
+            "sid": "516551734",
+            "cas_no": "40516-49-2"
+          }
+        ]
+      },
+      "acetate": {
+        "cosing_info": {
+          "reference": "2e90250f-29b8-4066-987b-311a1cbc2f14",
+          "inci_name": "OCTYL ACETATE/MONOMETHYL ACETATE",
+          "cas_no": [
+            "68683-25-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "163261",
+            "sid": "500811241",
+            "cas_no": "68683-25-0"
+          }
+        ]
+      },
+      "paraffinum": {
+        "cosing_info": {
+          "reference": "8f9be648-8ecc-49a6-bad7-2c9ca8ac823b",
+          "inci_name": "PARAFFINUM LIQUIDUM",
+          "cas_no": [
+            "8012-95-1",
+            "8042-47-5"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "liquidum": {
+        "cosing_info": {
+          "reference": "8f9be648-8ecc-49a6-bad7-2c9ca8ac823b",
+          "inci_name": "PARAFFINUM LIQUIDUM",
+          "cas_no": [
+            "8012-95-1",
+            "8042-47-5"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "triazone": {
+        "cosing_info": {
+          "reference": "29d89d27-6bce-4058-ba2f-52ae1a3031cd",
+          "inci_name": "ETHYLHEXYL TRIAZONE",
+          "cas_no": [
+            "88122-99-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "159201",
+            "sid": "500782584",
+            "cas_no": "88122-99-0"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120266727"

@@ -49,7 +49,347 @@
       "Sulfonic",
       "Citric",
       "/"
-    ]
+    ],
+    "inci": {
+      "aqua": {
+        "cosing_info": {
+          "reference": "acb2fd0b-1174-4f52-8481-759e0f6a9471",
+          "inci_name": "AQUA",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "water": {
+        "cosing_info": {
+          "reference": "f47fb937-5e85-47be-a122-3522901eb942",
+          "inci_name": "WATER",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "eau": {
+        "cosing_info": null,
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": null
+          }
+        ]
+      },
+      "alcohol": {
+        "cosing_info": {
+          "reference": "ee98826a-bac8-4089-91f6-32d956b26c61",
+          "inci_name": "ALCOHOL",
+          "cas_no": [
+            "64-17-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "702",
+            "sid": "481101440",
+            "cas_no": "64-17-5"
+          }
+        ]
+      },
+      "denat.": {
+        "cosing_info": {
+          "reference": "1eb22e6e-941d-4099-b8e6-5533a356ce04",
+          "inci_name": "ALCOHOL DENAT.",
+          "cas_no": [
+            "64-17-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "702",
+            "sid": "481101440",
+            "cas_no": "64-17-5"
+          }
+        ]
+      },
+      "glycolic": {
+        "cosing_info": {
+          "reference": "bc322cf7-c2e3-445c-b092-77b2f8282361",
+          "inci_name": "GLYCOLIC ACID",
+          "cas_no": [
+            "79-14-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "757",
+            "sid": "481107207",
+            "cas_no": "79-14-1"
+          }
+        ]
+      },
+      "acid": {
+        "cosing_info": {
+          "reference": "2ce6a5ff-38b0-47a8-86bf-06e8a480b066",
+          "inci_name": "Perfluoroheptanoic acid; tridecafluoroheptanoic acid",
+          "cas_no": [
+            "375-85-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "67818",
+            "sid": "500815077",
+            "cas_no": "375-85-9"
+          }
+        ]
+      },
+      "niacinamide": {
+        "cosing_info": {
+          "reference": "1d812aa9-1b8a-48cb-988b-d2478184a2f4",
+          "inci_name": "NIACINAMIDE",
+          "cas_no": [
+            "98-92-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "936",
+            "sid": "483925991",
+            "cas_no": "98-92-0"
+          }
+        ]
+      },
+      "dimethyl": {
+        "cosing_info": {
+          "reference": "54e23578-8e11-41c3-9753-addfe37f09a7",
+          "inci_name": "DIMETHYL-4-ISOHEPTENAL DIMETHYL ACETAL",
+          "cas_no": [
+            "67674-46-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "106766",
+            "sid": "505534249",
+            "cas_no": "67674-46-8"
+          }
+        ]
+      },
+      "isosorbide": {
+        "cosing_info": {
+          "reference": "e34d5fb7-ece0-47ae-9723-2b011380609e",
+          "inci_name": "ISOSORBIDE",
+          "cas_no": [
+            "652-67-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "12597",
+            "sid": "483925706",
+            "cas_no": "652-67-5"
+          }
+        ]
+      },
+      "pentylene": {
+        "cosing_info": {
+          "reference": "36f04866-782e-409f-9051-5e6605b012a5",
+          "inci_name": "PENTYLENE GLYCOL",
+          "cas_no": [
+            "5343-92-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "93000",
+            "sid": "505856024",
+            "cas_no": "5343-92-0"
+          }
+        ]
+      },
+      "glycol": {
+        "cosing_info": {
+          "reference": "9676e281-f1c1-45e7-8bc5-dde960d1fc3d",
+          "inci_name": "GLYCOL",
+          "cas_no": [
+            "107-21-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "174",
+            "sid": "481107978",
+            "cas_no": "107-21-1"
+          }
+        ]
+      },
+      "salicylic": {
+        "cosing_info": {
+          "reference": "34f2aa4a-28c9-4ab4-befd-0c72ddbaf09a",
+          "inci_name": "SALICYLIC ACID",
+          "cas_no": [
+            "69-72-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "338",
+            "sid": "481108019",
+            "cas_no": "69-72-7"
+          }
+        ]
+      },
+      "sodium": {
+        "cosing_info": {
+          "reference": "436c3318-3a15-40db-b19b-54900ed3abc1",
+          "inci_name": "SODIUM SIALYLLACTOSE",
+          "cas_no": [
+            "128596-80-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "71308479",
+            "sid": "504500786",
+            "cas_no": "128596-80-5"
+          }
+        ]
+      },
+      "hydroxide": {
+        "cosing_info": {
+          "reference": "46d24c83-1ace-4209-a88d-c3f205d323de",
+          "inci_name": "POTASSIUM HYDROXIDE",
+          "cas_no": [
+            "1310-58-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "14797",
+            "sid": "481108011",
+            "cas_no": "1310-58-3"
+          }
+        ]
+      },
+      "peg-60": {
+        "cosing_info": {
+          "reference": "f0e39c50-ca12-48bf-b55b-645294a924fe",
+          "inci_name": "PEG-60",
+          "cas_no": [
+            "25322-68-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "hydrogenated": {
+        "cosing_info": {
+          "reference": "eaf6aff1-2d65-4b95-ac0e-66d0ff7d46ef",
+          "inci_name": "HYDROGENATED MICROCRYSTALLINE CERA",
+          "cas_no": [
+            "92045-76-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "castor": {
+        "cosing_info": {
+          "reference": "1873fd44-7a7e-49d2-9de5-6a02eda6b7ee",
+          "inci_name": "ACETYLATED HYDROGENATED CASTOR GLYCERIDE",
+          "cas_no": [
+            "736150-63-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "oil": {
+        "cosing_info": {
+          "reference": "73055330-91dd-4d1e-b860-925fb2ecdbc8",
+          "inci_name": "MENHADEN OIL",
+          "cas_no": [
+            "8002-50-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "hydroxyethylpiperazine": {
+        "cosing_info": {
+          "reference": "51d6828e-3fc7-4f01-bb53-2eef0b35d527",
+          "inci_name": "HYDROXYETHYLPIPERAZINE ETHANE SULFONIC ACID",
+          "cas_no": [
+            "7365-45-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "23831",
+            "sid": "505779274",
+            "cas_no": "7365-45-9"
+          }
+        ]
+      },
+      "ethane": {
+        "cosing_info": {
+          "reference": "8d8aa5f2-c8cb-4863-a119-5c0195f4a8c1",
+          "inci_name": "ETHANE",
+          "cas_no": [
+            "74-84-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6324",
+            "sid": "500781538",
+            "cas_no": "74-84-0"
+          }
+        ]
+      },
+      "sulfonic": {
+        "cosing_info": {
+          "reference": "ed28332a-de7e-4343-83ee-9e94b6c3df2a",
+          "inci_name": "DIHYDROXYCHALCONE SULFONIC ACID",
+          "cas_no": [
+            "2644621-92-9"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "citric": {
+        "cosing_info": {
+          "reference": "398b79ca-fc64-43b5-bf15-956e6239c1db",
+          "inci_name": "CITRIC ACID",
+          "cas_no": [
+            "77-92-9",
+            "5949-29-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "311",
+            "sid": "481107970",
+            "cas_no": "77-92-9"
+          },
+          {
+            "cid": "22230",
+            "sid": "481107868",
+            "cas_no": "5949-29-1"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120555553"

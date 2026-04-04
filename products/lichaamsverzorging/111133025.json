@@ -42,7 +42,307 @@
       "Odorata",
       "Flower",
       "Ethylhexylglycerin"
-    ]
+    ],
+    "inci": {
+      "propylene": {
+        "cosing_info": {
+          "reference": "0e29f9a6-8bea-465c-8d3c-a49db69ea5ec",
+          "inci_name": "PROPYLENE GLYCOL DILAURATE",
+          "cas_no": [
+            "22788-19-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "90838",
+            "sid": "500819956",
+            "cas_no": "22788-19-8"
+          }
+        ]
+      },
+      "glycol": {
+        "cosing_info": {
+          "reference": "9676e281-f1c1-45e7-8bc5-dde960d1fc3d",
+          "inci_name": "GLYCOL",
+          "cas_no": [
+            "107-21-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "174",
+            "sid": "481107978",
+            "cas_no": "107-21-1"
+          }
+        ]
+      },
+      "hydroxyethylcellulose": {
+        "cosing_info": {
+          "reference": "4df6d7e7-1646-4b70-afe9-cd92c032add6",
+          "inci_name": "HYDROXYETHYLCELLULOSE",
+          "cas_no": [
+            "9004-62-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "4327536",
+            "sid": "505785210",
+            "cas_no": "9004-62-0"
+          }
+        ]
+      },
+      "aroma": {
+        "cosing_info": {
+          "reference": "60048a7a-386c-41a1-b851-0d924d529382",
+          "inci_name": "AROMA",
+          "cas_no": []
+        },
+        "pubchem_info": []
+      },
+      "peg-40": {
+        "cosing_info": {
+          "reference": "a38e8f6b-4ba5-4a34-861c-b31ca4d1cf8b",
+          "inci_name": "PEG-40",
+          "cas_no": [
+            "25322-68-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "hydrogenated": {
+        "cosing_info": {
+          "reference": "eaf6aff1-2d65-4b95-ac0e-66d0ff7d46ef",
+          "inci_name": "HYDROGENATED MICROCRYSTALLINE CERA",
+          "cas_no": [
+            "92045-76-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "castor": {
+        "cosing_info": {
+          "reference": "1873fd44-7a7e-49d2-9de5-6a02eda6b7ee",
+          "inci_name": "ACETYLATED HYDROGENATED CASTOR GLYCERIDE",
+          "cas_no": [
+            "736150-63-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "oil": {
+        "cosing_info": {
+          "reference": "73055330-91dd-4d1e-b860-925fb2ecdbc8",
+          "inci_name": "MENHADEN OIL",
+          "cas_no": [
+            "8002-50-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "benzoic": {
+        "cosing_info": {
+          "reference": "f7928fa0-3b53-41ab-bab2-d159039fab42",
+          "inci_name": "BENZOIC ACID",
+          "cas_no": [
+            "65-85-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "243",
+            "sid": "481107960",
+            "cas_no": "65-85-0"
+          }
+        ]
+      },
+      "acid": {
+        "cosing_info": {
+          "reference": "2ce6a5ff-38b0-47a8-86bf-06e8a480b066",
+          "inci_name": "Perfluoroheptanoic acid; tridecafluoroheptanoic acid",
+          "cas_no": [
+            "375-85-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "67818",
+            "sid": "500815077",
+            "cas_no": "375-85-9"
+          }
+        ]
+      },
+      "sodium": {
+        "cosing_info": {
+          "reference": "436c3318-3a15-40db-b19b-54900ed3abc1",
+          "inci_name": "SODIUM SIALYLLACTOSE",
+          "cas_no": [
+            "128596-80-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "71308479",
+            "sid": "504500786",
+            "cas_no": "128596-80-5"
+          }
+        ]
+      },
+      "saccharin": {
+        "cosing_info": {
+          "reference": "a6e54c17-c675-4a9a-b001-c66f3818f321",
+          "inci_name": "SACCHARIN",
+          "cas_no": [
+            "81-07-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5143",
+            "sid": "481107548",
+            "cas_no": "81-07-2"
+          }
+        ]
+      },
+      "hydroxide": {
+        "cosing_info": {
+          "reference": "46d24c83-1ace-4209-a88d-c3f205d323de",
+          "inci_name": "POTASSIUM HYDROXIDE",
+          "cas_no": [
+            "1310-58-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "14797",
+            "sid": "481108011",
+            "cas_no": "1310-58-3"
+          }
+        ]
+      },
+      "sorbitol": {
+        "cosing_info": {
+          "reference": "53658696-fbb0-4ef0-8194-41c8becf760b",
+          "inci_name": "SORBITOL",
+          "cas_no": [
+            "50-70-4",
+            "1259528-21-6 (generic)"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5780",
+            "sid": "481107839",
+            "cas_no": "50-70-4"
+          }
+        ]
+      },
+      "polysorbate": {
+        "cosing_info": {
+          "reference": "a1aea1e2-2fe9-4a8d-945d-aa5e6e88b201",
+          "inci_name": "POLYSORBATE 80",
+          "cas_no": [
+            "9005-65-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "20": {
+        "cosing_info": {
+          "reference": "21d71e97-e0ee-4541-aa0f-d9e39698f181",
+          "inci_name": "C9-20 ISOALKANE",
+          "cas_no": [
+            "2288769-60-6 (generic)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "citric": {
+        "cosing_info": {
+          "reference": "398b79ca-fc64-43b5-bf15-956e6239c1db",
+          "inci_name": "CITRIC ACID",
+          "cas_no": [
+            "77-92-9",
+            "5949-29-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "311",
+            "sid": "481107970",
+            "cas_no": "77-92-9"
+          },
+          {
+            "cid": "22230",
+            "sid": "481107868",
+            "cas_no": "5949-29-1"
+          }
+        ]
+      },
+      "phenoxyethanol": {
+        "cosing_info": {
+          "reference": "f8f3a6ab-5656-4d9a-a085-729e03a7376d",
+          "inci_name": "PHENOXYETHANOL",
+          "cas_no": [
+            "122-99-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "31236",
+            "sid": "483926132",
+            "cas_no": "122-99-6"
+          }
+        ]
+      },
+      "cananga": {
+        "cosing_info": {
+          "reference": "78ca1143-f29c-4e04-b7f5-dca48aea7167",
+          "inci_name": "CANANGA ODORATA FLOWER EXTRACT",
+          "cas_no": [
+            "83863-30-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "odorata": {
+        "cosing_info": {
+          "reference": "3dccdd57-68a5-4e1b-b2f4-067606a88e32",
+          "inci_name": "ROSA ODORATA EXTRACT",
+          "cas_no": [
+            "97676-09-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "flower": {
+        "cosing_info": {
+          "reference": "c1d12598-6b78-467a-9a80-920b391e0209",
+          "inci_name": "Tagetes minuta flower extract; Tagetes minuta flower oil",
+          "cas_no": [
+            "91770-75-1; 91770-75-1",
+            "8016-84-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "ethylhexylglycerin": {
+        "cosing_info": {
+          "reference": "c4da9c7a-3487-4c25-863c-9ddd013282b5",
+          "inci_name": "ETHYLHEXYLGLYCERIN",
+          "cas_no": [
+            "70445-33-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "9859093",
+            "sid": "483927937",
+            "cas_no": "70445-33-9"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "111133025"

@@ -31,7 +31,105 @@
       "Bis-(t-Butyl",
       "o-Cresolpropanoate)",
       "BHT"
-    ]
+    ],
+    "inci": {
+      "peg-115m": {
+        "cosing_info": {
+          "reference": "2f28e420-7b55-4baa-ba1e-bc1e3ab88781",
+          "inci_name": "PEG-115M",
+          "cas_no": [
+            "25322-68-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "peg-100": {
+        "cosing_info": {
+          "reference": "4fda6be3-4373-4066-b5b6-c82d685800ab",
+          "inci_name": "PEG-100",
+          "cas_no": [
+            "25322-68-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "silica": {
+        "cosing_info": {
+          "reference": "e9fab588-fd7f-4caa-966b-2afcba56c07d",
+          "inci_name": "SILICA",
+          "cas_no": [
+            "7631-86-9",
+            "112945-52-5",
+            "60676-86-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "24261",
+            "sid": "481108020",
+            "cas_no": "7631-86-9"
+          },
+          {
+            "cid": "24261",
+            "sid": "481108020",
+            "cas_no": "112945-52-5"
+          },
+          {
+            "cid": "24261",
+            "sid": "481108020",
+            "cas_no": "60676-86-0"
+          }
+        ]
+      },
+      "diethylene": {
+        "cosing_info": {
+          "reference": "a62c8be2-7736-40d8-98fd-459e475f28ce",
+          "inci_name": "DIETHYLENE GLYCOL",
+          "cas_no": [
+            "111-46-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8117",
+            "sid": "481108572",
+            "cas_no": "111-46-6"
+          }
+        ]
+      },
+      "glycol": {
+        "cosing_info": {
+          "reference": "9676e281-f1c1-45e7-8bc5-dde960d1fc3d",
+          "inci_name": "GLYCOL",
+          "cas_no": [
+            "107-21-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "174",
+            "sid": "481107978",
+            "cas_no": "107-21-1"
+          }
+        ]
+      },
+      "bht": {
+        "cosing_info": {
+          "reference": "6733ccb2-248b-42a4-a116-d3f2ac8c965f",
+          "inci_name": "BHT",
+          "cas_no": [
+            "128-37-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "31404",
+            "sid": "481107738",
+            "cas_no": "128-37-0"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120755934"

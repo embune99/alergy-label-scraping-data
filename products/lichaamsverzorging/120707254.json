@@ -36,7 +36,147 @@
       "Paraffinum",
       "Liquidum",
       ""
-    ]
+    ],
+    "inci": {
+      "aqua": {
+        "cosing_info": {
+          "reference": "acb2fd0b-1174-4f52-8481-759e0f6a9471",
+          "inci_name": "AQUA",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "cetearyl": {
+        "cosing_info": {
+          "reference": "a28ea7b2-c106-47ae-8057-220259726e12",
+          "inci_name": "CETEARYL DIMETHICONE CROSSPOLYMER",
+          "cas_no": [
+            "756876-51-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "alcohol": {
+        "cosing_info": {
+          "reference": "ee98826a-bac8-4089-91f6-32d956b26c61",
+          "inci_name": "ALCOHOL",
+          "cas_no": [
+            "64-17-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "702",
+            "sid": "481101440",
+            "cas_no": "64-17-5"
+          }
+        ]
+      },
+      "potassium": {
+        "cosing_info": {
+          "reference": "a7960d89-221b-44b5-8b26-fc243a13308f",
+          "inci_name": "POTASSIUM CAROATE",
+          "cas_no": [
+            "70693-62-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "thioglycolate": {
+        "cosing_info": {
+          "reference": "4c106851-1ef0-467a-8c05-540717e3054a",
+          "inci_name": "AMMONIUM THIOGLYCOLATE",
+          "cas_no": [
+            "5421-46-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "21534",
+            "sid": "500755629",
+            "cas_no": "5421-46-5"
+          }
+        ]
+      },
+      "calcium": {
+        "cosing_info": {
+          "reference": "cc180388-386f-4acb-a5f0-f53acf4d1553",
+          "inci_name": "CALCIUM",
+          "cas_no": [
+            "7440-70-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5460341",
+            "sid": "481106970",
+            "cas_no": "7440-70-2"
+          }
+        ]
+      },
+      "hydroxide": {
+        "cosing_info": {
+          "reference": "46d24c83-1ace-4209-a88d-c3f205d323de",
+          "inci_name": "POTASSIUM HYDROXIDE",
+          "cas_no": [
+            "1310-58-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "14797",
+            "sid": "481108011",
+            "cas_no": "1310-58-3"
+          }
+        ]
+      },
+      "urea": {
+        "cosing_info": {
+          "reference": "e6f1f77c-6287-4c12-862c-06c1fd5db49c",
+          "inci_name": "UREA",
+          "cas_no": [
+            "57-13-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "1176",
+            "sid": "481108035",
+            "cas_no": "57-13-6"
+          }
+        ]
+      },
+      "paraffinum": {
+        "cosing_info": {
+          "reference": "8f9be648-8ecc-49a6-bad7-2c9ca8ac823b",
+          "inci_name": "PARAFFINUM LIQUIDUM",
+          "cas_no": [
+            "8012-95-1",
+            "8042-47-5"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "liquidum": {
+        "cosing_info": {
+          "reference": "8f9be648-8ecc-49a6-bad7-2c9ca8ac823b",
+          "inci_name": "PARAFFINUM LIQUIDUM",
+          "cas_no": [
+            "8012-95-1",
+            "8042-47-5"
+          ]
+        },
+        "pubchem_info": []
+      }
+    }
   },
   "additional_information": {
     "id": "120707254"

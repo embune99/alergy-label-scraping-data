@@ -40,7 +40,247 @@
       "Geraniol",
       "Limonene",
       "Linalool."
-    ]
+    ],
+    "inci": {
+      "alcohol": {
+        "cosing_info": {
+          "reference": "ee98826a-bac8-4089-91f6-32d956b26c61",
+          "inci_name": "ALCOHOL",
+          "cas_no": [
+            "64-17-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "702",
+            "sid": "481101440",
+            "cas_no": "64-17-5"
+          }
+        ]
+      },
+      "denat.": {
+        "cosing_info": {
+          "reference": "1eb22e6e-941d-4099-b8e6-5533a356ce04",
+          "inci_name": "ALCOHOL DENAT.",
+          "cas_no": [
+            "64-17-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "702",
+            "sid": "481101440",
+            "cas_no": "64-17-5"
+          }
+        ]
+      },
+      "butane": {
+        "cosing_info": {
+          "reference": "a3948035-8d7e-42b1-9fbd-8135fa9678d9",
+          "inci_name": "BUTANE",
+          "cas_no": [
+            "106-97-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "7843",
+            "sid": "481107962",
+            "cas_no": "106-97-8"
+          }
+        ]
+      },
+      "isobutane": {
+        "cosing_info": {
+          "reference": "07451cc7-8cb8-4a8c-bad0-9546afc0007e",
+          "inci_name": "ISOBUTANE",
+          "cas_no": [
+            "75-28-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6360",
+            "sid": "481107251",
+            "cas_no": "75-28-5"
+          }
+        ]
+      },
+      "propane": {
+        "cosing_info": {
+          "reference": "e1e9357e-8ff9-4507-a248-5ba6c6014644",
+          "inci_name": "PROPANE",
+          "cas_no": [
+            "74-98-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6334",
+            "sid": "481107828",
+            "cas_no": "74-98-6"
+          }
+        ]
+      },
+      "parfum": {
+        "cosing_info": {
+          "reference": "877337a9-4a8b-4d17-bed7-f3a39d335e80",
+          "inci_name": "PARFUM",
+          "cas_no": []
+        },
+        "pubchem_info": []
+      },
+      "zinc": {
+        "cosing_info": {
+          "reference": "88864e22-d427-4884-9581-d304a063160b",
+          "inci_name": "ZINC",
+          "cas_no": [
+            "7440-66-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "23994",
+            "sid": "481107697",
+            "cas_no": "7440-66-6"
+          }
+        ]
+      },
+      "neodecanoate": {
+        "cosing_info": {
+          "reference": "e659245e-1268-4603-8dd7-b1e6789e5e1e",
+          "inci_name": "ZINC NEODECANOATE",
+          "cas_no": [
+            "27253-29-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "117959",
+            "sid": "504500707",
+            "cas_no": "27253-29-8"
+          }
+        ]
+      },
+      "alpha-isomethyl": {
+        "cosing_info": {
+          "reference": "bb1bdf74-ac91-4b4f-a06e-4f30fe9e50be",
+          "inci_name": "ALPHA-ISOMETHYL IONONE",
+          "cas_no": [
+            "127-51-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5372174",
+            "sid": "518159587",
+            "cas_no": "127-51-5"
+          }
+        ]
+      },
+      "ionone": {
+        "cosing_info": {
+          "reference": "cfa7fe92-c563-4769-951b-ec77fd9a2e27",
+          "inci_name": "IONONE",
+          "cas_no": [
+            "8013-90-9",
+            "79-77-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "24680",
+            "sid": "518178763",
+            "cas_no": "8013-90-9"
+          },
+          {
+            "cid": "638014",
+            "sid": "481106941",
+            "cas_no": "79-77-6"
+          }
+        ]
+      },
+      "citral": {
+        "cosing_info": {
+          "reference": "c41dea05-5e24-4081-be53-3e926964bbf7",
+          "inci_name": "CITRAL",
+          "cas_no": [
+            "5392-40-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "638011",
+            "sid": "481107032",
+            "cas_no": "5392-40-5"
+          }
+        ]
+      },
+      "coumarin": {
+        "cosing_info": {
+          "reference": "5ea4136c-9b7f-446c-875c-1b04d887a52e",
+          "inci_name": "COUMARIN",
+          "cas_no": [
+            "91-64-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "323",
+            "sid": "481107046",
+            "cas_no": "91-64-5"
+          }
+        ]
+      },
+      "eugenol": {
+        "cosing_info": {
+          "reference": "dd349f06-f0ce-41df-b270-ca56be133fb2",
+          "inci_name": "EUGENOL",
+          "cas_no": [
+            "97-53-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "3314",
+            "sid": "481107773",
+            "cas_no": "97-53-0"
+          }
+        ]
+      },
+      "geraniol": {
+        "cosing_info": {
+          "reference": "4937f329-ce46-43be-bb99-3307e3966e02",
+          "inci_name": "GERANIOL",
+          "cas_no": [
+            "106-24-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "637566",
+            "sid": "481107196",
+            "cas_no": "106-24-1"
+          }
+        ]
+      },
+      "limonene": {
+        "cosing_info": {
+          "reference": "d9a853fb-831a-4f8e-a3f5-d57b976d9c88",
+          "inci_name": "LIMONENE",
+          "cas_no": [
+            "138-86-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "22311",
+            "sid": "518147164",
+            "cas_no": "138-86-3"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120754712"

@@ -20,7 +20,40 @@
       "31%",
       ""
     ],
-    "inci": {}
+    "inci": {
+      "magnesium": {
+        "cosing_info": {
+          "reference": "3fd37db3-bd9e-4d98-b5fe-570c2db54cda",
+          "inci_name": "MAGNESIUM",
+          "cas_no": [
+            "7439-95-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5462224",
+            "sid": "481107309",
+            "cas_no": "7439-95-4"
+          }
+        ]
+      },
+      "chloride": {
+        "cosing_info": {
+          "reference": "c34b87ef-4a9c-4fea-ab84-b7fa2e76303d",
+          "inci_name": "Hexamethonium chloride; Hexamethylene(bistrimethylammonium)chloride",
+          "cas_no": [
+            "60-25-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "93550",
+            "sid": "500789484",
+            "cas_no": "60-25-3"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120319243"

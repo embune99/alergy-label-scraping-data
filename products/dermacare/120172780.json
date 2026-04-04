@@ -28,7 +28,150 @@
       "Trilaureth-4",
       "phosphate",
       "Aqua"
-    ]
+    ],
+    "inci": {
+      "glycine": {
+        "cosing_info": {
+          "reference": "86a48168-97e5-4cc3-aff4-bd4f9e2a69cc",
+          "inci_name": "GLYCINE",
+          "cas_no": [
+            "56-40-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "750",
+            "sid": "481107780",
+            "cas_no": "56-40-6"
+          }
+        ]
+      },
+      "soja": {
+        "cosing_info": {
+          "reference": "97405f60-c38c-40ec-8d2b-e606654d370c",
+          "inci_name": "GLYCINE SOJA EXTRACT",
+          "cas_no": [
+            "84776-91-0",
+            "8001-22-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "oil": {
+        "cosing_info": {
+          "reference": "73055330-91dd-4d1e-b860-925fb2ecdbc8",
+          "inci_name": "MENHADEN OIL",
+          "cas_no": [
+            "8002-50-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "olea": {
+        "cosing_info": {
+          "reference": "a2ce5b5d-ab45-4175-a58c-4f331da2cea3",
+          "inci_name": "OLEA EUROPAEA SEED",
+          "cas_no": [
+            "8001-25-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "europaea": {
+        "cosing_info": {
+          "reference": "266fbf33-97aa-4aee-a6c1-0fc50147c427",
+          "inci_name": "SANICULA EUROPAEA EXTRACT",
+          "cas_no": [
+            "90106-53-9"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "fruit": {
+        "cosing_info": {
+          "reference": "bcb3c9aa-e856-4293-bf15-d8d80f6a1117",
+          "inci_name": "COCOS NUCIFERA FRUIT/FRUIT JUICE EXTRACT",
+          "cas_no": [
+            "8001-31-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "isopropyl": {
+        "cosing_info": {
+          "reference": "39b9f1de-dcfd-4862-9d82-661671ab0a80",
+          "inci_name": "ISOPROPYL LAURATE",
+          "cas_no": [
+            "10233-13-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "25068",
+            "sid": "500793234",
+            "cas_no": "10233-13-3"
+          }
+        ]
+      },
+      "palmitate": {
+        "cosing_info": {
+          "reference": "9aee3c4b-4a30-48de-a006-6eadbefabf22",
+          "inci_name": "ISOSTEARYL PALMITATE",
+          "cas_no": [
+            "72576-80-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "11443583",
+            "sid": "505788087",
+            "cas_no": "72576-80-8"
+          }
+        ]
+      },
+      "trilaureth-4": {
+        "cosing_info": {
+          "reference": "c6c21931-f33e-4390-971d-d032301de088",
+          "inci_name": "TRILAURETH-4 PHOSPHATE",
+          "cas_no": [
+            "31800-90-5"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "phosphate": {
+        "cosing_info": {
+          "reference": "e40b9150-a386-4dac-a7a4-afdc5de23f89",
+          "inci_name": "TRISTEARYL PHOSPHATE",
+          "cas_no": [
+            "4889-45-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "74962",
+            "sid": "505896505",
+            "cas_no": "4889-45-6"
+          }
+        ]
+      },
+      "aqua": {
+        "cosing_info": {
+          "reference": "acb2fd0b-1174-4f52-8481-759e0f6a9471",
+          "inci_name": "AQUA",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120172780"

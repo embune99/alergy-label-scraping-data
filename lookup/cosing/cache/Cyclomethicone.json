@@ -1,0 +1,131 @@
+{
+  "apiVersion": "2.146",
+  "reference": "9232a703-f30c-4256-846f-c71157f01dd6",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 16.829004,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "CYCLOMETHICONE"
+    ],
+    "refNo": [],
+    "otherRestrictions": [],
+    "note": [],
+    "sccsOpinionUrls": [
+      "http://ec.europa.eu/health/ph_risk/committees/04_sccp/docs/sccp_o_035.pdf",
+      "http://ec.europa.eu/health/scientific_committees/consumer_safety/docs/sccs_o_029.pdf"
+    ],
+    "itemType": [
+      "ingredient"
+    ],
+    "other": [],
+    "innName": [
+      "cyclomethicone"
+    ],
+    "chemicalName": [],
+    "sccsOpinion": [
+      "Opinion on Octamethylcyclotetrasiloxane (D4)",
+      "Opinion on Cyclomethicone: D4 and D5"
+    ],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "Cyclomethicone is a generic name for a mixture of cyclic dimethyl polysiloxane compounds that conform to the formula, where n has a value between 4 and 6."
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "2D283EE0EB94BC4E672839B587E596DC"
+    ],
+    "cosmeticRestriction": [
+      "Entry 1388 of Annex II corresponds to D4 (Cyclotetrasiloxane). If Cyclomethicone contains D4 then entry II/1388 applies.\n\nRestricted under COMMISSION REGULATION (EU) 2024/1328. 1. Shall not be placed on the market (a) as a substance on its own; (b) as a constituent of other substances; or (c) in mixtures; in a concentration equal to or greater than 0,1 % by weight of the respective substance after 6 June 2026. [...] 3. By way of derogation: (a) for D4 and D5 in wash-off cosmetic products, paragraph 1, point (c), shall apply after 31 January 2020. For the purposes of this point, “wash-off cosmetic products” means cosmetic products as defined in Article 2(1), point (a), of Regulation (EC) No 1223/2009 of the European Parliament and of the Council (*1) that, under normal conditions of use, are washed off with water after application; (b) for all cosmetic products other than the ones mentioned in paragraph 3(a), paragraph 1 shall apply after 6 June 2027."
+    ],
+    "ecNo": [
+      "- / 209-136-7 / 208-764-9 / 208-762-8"
+    ],
+    "maximumConcentration": [],
+    "identifiedIngredient": [
+      "97207"
+    ],
+    "inciName": [
+      "CYCLOMETHICONE"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "69430-24-6 / 556-67-2 / 541-02-6 / 540-97-6"
+    ],
+    "substanceId": [
+      "33101"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "REFERENCE": [
+      "9232a703-f30c-4256-846f-c71157f01dd6"
+    ],
+    "productTypeBodyParts": [],
+    "annexNo": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "SKIN CONDITIONING - EMOLLIENT",
+      "HAIR CONDITIONING",
+      "SOLVENT"
+    ],
+    "esDA_IngestDate": [
+      "2024-05-23T14:32:20.788+0200"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2024-05-23T14:32:20.719+0200"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "9232a703-f30c-4256-846f-c71157f01dd6. Available at: urn:test",
+  "score": 16.829004
+}

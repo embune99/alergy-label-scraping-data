@@ -33,7 +33,219 @@
       "Tocopherol",
       "Linalool",
       "Limonene."
-    ]
+    ],
+    "inci": {
+      "glycine": {
+        "cosing_info": {
+          "reference": "86a48168-97e5-4cc3-aff4-bd4f9e2a69cc",
+          "inci_name": "GLYCINE",
+          "cas_no": [
+            "56-40-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "750",
+            "sid": "481107780",
+            "cas_no": "56-40-6"
+          }
+        ]
+      },
+      "soya": {
+        "cosing_info": {
+          "reference": "eedeccc8-c4e1-407f-90ec-3a16de24d9c8",
+          "inci_name": "SOYAMINE",
+          "cas_no": [
+            "61790-18-9"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "oil": {
+        "cosing_info": {
+          "reference": "73055330-91dd-4d1e-b860-925fb2ecdbc8",
+          "inci_name": "MENHADEN OIL",
+          "cas_no": [
+            "8002-50-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "elaeis": {
+        "cosing_info": {
+          "reference": "d8adb3dc-c265-48e4-a22c-20f4c6ae8b82",
+          "inci_name": "ELAEIS OLEIFERA FRUIT OIL",
+          "cas_no": [
+            "8002-75-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "guineensis": {
+        "cosing_info": {
+          "reference": "e4501a4b-8863-4b36-9bfb-e91a3d0cc971",
+          "inci_name": "ELAEIS GUINEENSIS EXTRACT",
+          "cas_no": [
+            "8023-79-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "aqua": {
+        "cosing_info": {
+          "reference": "acb2fd0b-1174-4f52-8481-759e0f6a9471",
+          "inci_name": "AQUA",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "sodium": {
+        "cosing_info": {
+          "reference": "436c3318-3a15-40db-b19b-54900ed3abc1",
+          "inci_name": "SODIUM SIALYLLACTOSE",
+          "cas_no": [
+            "128596-80-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "71308479",
+            "sid": "504500786",
+            "cas_no": "128596-80-5"
+          }
+        ]
+      },
+      "hydroxide": {
+        "cosing_info": {
+          "reference": "46d24c83-1ace-4209-a88d-c3f205d323de",
+          "inci_name": "POTASSIUM HYDROXIDE",
+          "cas_no": [
+            "1310-58-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "14797",
+            "sid": "481108011",
+            "cas_no": "1310-58-3"
+          }
+        ]
+      },
+      "triticum": {
+        "cosing_info": {
+          "reference": "3b6df4c2-429e-49d6-9392-90780d909f0b",
+          "inci_name": "TRITICUM VULGARE SEED EXTRACT",
+          "cas_no": [
+            "84012-44-2"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "vulgare": {
+        "cosing_info": {
+          "reference": "6b9c494c-ee2b-43ae-9a21-7a547bc58f49",
+          "inci_name": "FOENICULUM VULGARE VULGARE FRUIT EXTRACT",
+          "cas_no": [
+            "92623-75-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "flower": {
+        "cosing_info": {
+          "reference": "c1d12598-6b78-467a-9a80-920b391e0209",
+          "inci_name": "Tagetes minuta flower extract; Tagetes minuta flower oil",
+          "cas_no": [
+            "91770-75-1; 91770-75-1",
+            "8016-84-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "lavandula": {
+        "cosing_info": {
+          "reference": "b0514910-40cb-4acf-8b27-74ff7082cefb",
+          "inci_name": "LAVANDULA HYBRIDA EXTRACT",
+          "cas_no": [
+            "91722-69-9"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "angustifolia": {
+        "cosing_info": {
+          "reference": "a236ddaa-9572-411d-b772-f5589169b647",
+          "inci_name": "LAVANDULA ANGUSTIFOLIA ANGUSTIFOLIA HERB EXTRACT",
+          "cas_no": [
+            "84776-65-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "tocopherol": {
+        "cosing_info": {
+          "reference": "e353a1e9-9330-4c22-bf1a-f58ac6d356a9",
+          "inci_name": "TOCOPHEROL",
+          "cas_no": [
+            "54-28-4 (gamma)",
+            "16698-35-4(beta)",
+            "10191-41-0(DL)",
+            "119-13-1",
+            "1406-18-4",
+            "1406-66-2",
+            "2074-53-5 (DL)",
+            "59-02-9 (D)",
+            "7616-22-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "92094",
+            "sid": "500775109",
+            "cas_no": "119-13-1"
+          },
+          {
+            "cid": "14985",
+            "sid": "483926503",
+            "cas_no": "1406-18-4"
+          },
+          {
+            "cid": "14986",
+            "sid": "516579069",
+            "cas_no": "1406-66-2"
+          },
+          {
+            "cid": "14986",
+            "sid": "516579069",
+            "cas_no": "7616-22-0"
+          }
+        ]
+      },
+      "linalool": {
+        "cosing_info": {
+          "reference": "8f47a2fa-c519-434c-8bb9-8385cf05fea5",
+          "inci_name": "LINALOOL",
+          "cas_no": [
+            "78-70-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6549",
+            "sid": "482028551",
+            "cas_no": "78-70-6"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120654535"

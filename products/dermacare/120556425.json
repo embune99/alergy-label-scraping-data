@@ -49,7 +49,421 @@
       "Acetate",
       "Parfum",
       "Fragrance"
-    ]
+    ],
+    "inci": {
+      "alcohol": {
+        "cosing_info": {
+          "reference": "ee98826a-bac8-4089-91f6-32d956b26c61",
+          "inci_name": "ALCOHOL",
+          "cas_no": [
+            "64-17-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "702",
+            "sid": "481101440",
+            "cas_no": "64-17-5"
+          }
+        ]
+      },
+      "denat.": {
+        "cosing_info": {
+          "reference": "1eb22e6e-941d-4099-b8e6-5533a356ce04",
+          "inci_name": "ALCOHOL DENAT.",
+          "cas_no": [
+            "64-17-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "702",
+            "sid": "481101440",
+            "cas_no": "64-17-5"
+          }
+        ]
+      },
+      "aqua": {
+        "cosing_info": {
+          "reference": "acb2fd0b-1174-4f52-8481-759e0f6a9471",
+          "inci_name": "AQUA",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "water": {
+        "cosing_info": {
+          "reference": "f47fb937-5e85-47be-a122-3522901eb942",
+          "inci_name": "WATER",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "diethyllutidinate": {
+        "cosing_info": {
+          "reference": "ec478850-8cd1-4ae1-b93c-9a92b781100e",
+          "inci_name": "DIETHYLLUTIDINATE",
+          "cas_no": [
+            "41438-38-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "170509",
+            "sid": "505582967",
+            "cas_no": "41438-38-4"
+          }
+        ]
+      },
+      "citral": {
+        "cosing_info": {
+          "reference": "c41dea05-5e24-4081-be53-3e926964bbf7",
+          "inci_name": "CITRAL",
+          "cas_no": [
+            "5392-40-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "638011",
+            "sid": "481107032",
+            "cas_no": "5392-40-5"
+          }
+        ]
+      },
+      "ethyl": {
+        "cosing_info": {
+          "reference": "9fa5620b-e1ed-46f2-878a-a6f9fbd850a4",
+          "inci_name": "ETHYL OLEATE",
+          "cas_no": [
+            "111-62-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5363269",
+            "sid": "500782445",
+            "cas_no": "111-62-6"
+          }
+        ]
+      },
+      "ester": {
+        "cosing_info": {
+          "reference": "472ad112-6879-4df2-bf7a-f8621830c75f",
+          "inci_name": "PYRROLOQUINOLINE QUINONE ALLYL ESTER",
+          "cas_no": [
+            "175429-96-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "of": {
+        "cosing_info": {
+          "reference": "38a07b0b-c8f4-4668-b3dd-5024d1efb662",
+          "inci_name": "Chlorates of alkali metals",
+          "cas_no": [
+            "3811-04-9",
+            "7775-09-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6426889",
+            "sid": "481107492",
+            "cas_no": "3811-04-9"
+          },
+          {
+            "cid": "516902",
+            "sid": "481107573",
+            "cas_no": "7775-09-9"
+          }
+        ]
+      },
+      "copolymer": {
+        "cosing_info": {
+          "reference": "fcf102c4-72b2-4018-84a0-e49a1c54ba96",
+          "inci_name": "ACRYLATES/METHOXY PEG-10 MALEATE/STYRENE COPOLYMER",
+          "cas_no": [
+            "68988-26-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "geraniol": {
+        "cosing_info": {
+          "reference": "4937f329-ce46-43be-bb99-3307e3966e02",
+          "inci_name": "GERANIOL",
+          "cas_no": [
+            "106-24-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "637566",
+            "sid": "481107196",
+            "cas_no": "106-24-1"
+          }
+        ]
+      },
+      "hexyl": {
+        "cosing_info": {
+          "reference": "e0639f70-efc4-424e-a259-4464aeaea8ea",
+          "inci_name": "HEXYL SALICYLATE HEXYL ETHER",
+          "cas_no": [
+            "111222-71-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "cinnamal": {
+        "cosing_info": {
+          "reference": "def9943c-d755-44df-8a88-921782a72d1a",
+          "inci_name": "CINNAMAL",
+          "cas_no": [
+            "104-55-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "637511",
+            "sid": "500769665",
+            "cas_no": "104-55-2"
+          }
+        ]
+      },
+      "isoeugenol": {
+        "cosing_info": {
+          "reference": "cd6777a5-cf1e-48a5-9a4e-6579e7245e32",
+          "inci_name": "ISOEUGENOL",
+          "cas_no": [
+            "97-54-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "853433",
+            "sid": "516569602",
+            "cas_no": "97-54-1"
+          }
+        ]
+      },
+      "limonene": {
+        "cosing_info": {
+          "reference": "d9a853fb-831a-4f8e-a3f5-d57b976d9c88",
+          "inci_name": "LIMONENE",
+          "cas_no": [
+            "138-86-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "22311",
+            "sid": "518147164",
+            "cas_no": "138-86-3"
+          }
+        ]
+      },
+      "linalool": {
+        "cosing_info": {
+          "reference": "8f47a2fa-c519-434c-8bb9-8385cf05fea5",
+          "inci_name": "LINALOOL",
+          "cas_no": [
+            "78-70-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6549",
+            "sid": "482028551",
+            "cas_no": "78-70-6"
+          }
+        ]
+      },
+      "mentha": {
+        "cosing_info": {
+          "reference": "080f1da2-b4b7-47a1-923f-951bb1d65aec",
+          "inci_name": "MENTHA PIPERITA STEM EXTRACT",
+          "cas_no": [
+            "84082-70-2"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "piperita": {
+        "cosing_info": {
+          "reference": "080f1da2-b4b7-47a1-923f-951bb1d65aec",
+          "inci_name": "MENTHA PIPERITA STEM EXTRACT",
+          "cas_no": [
+            "84082-70-2"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "oil": {
+        "cosing_info": {
+          "reference": "73055330-91dd-4d1e-b860-925fb2ecdbc8",
+          "inci_name": "MENHADEN OIL",
+          "cas_no": [
+            "8002-50-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "peppermint": {
+        "cosing_info": {
+          "reference": "d11314b4-c1ec-46ca-90f3-6dec6455fa9b",
+          "inci_name": "SACCHAROMYCES/PEPPERMINT LEAF FERMENT FILTRATE",
+          "cas_no": [
+            "-"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "menthol": {
+        "cosing_info": {
+          "reference": "80ef1543-35c4-43f0-89bd-2ea8372185cb",
+          "inci_name": "MENTHOL",
+          "cas_no": [
+            "1490-04-6",
+            "2216-51-5",
+            "89-78-1",
+            "15356-70-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "1254",
+            "sid": "481107802",
+            "cas_no": "1490-04-6"
+          },
+          {
+            "cid": "16666",
+            "sid": "518140464",
+            "cas_no": "2216-51-5"
+          },
+          {
+            "cid": "1254",
+            "sid": "481107802",
+            "cas_no": "89-78-1"
+          },
+          {
+            "cid": "1254",
+            "sid": "481107802",
+            "cas_no": "15356-70-4"
+          }
+        ]
+      },
+      "resveratrol": {
+        "cosing_info": {
+          "reference": "fdbed99b-6e41-4d5f-9867-1ad958e520ac",
+          "inci_name": "RESVERATROL",
+          "cas_no": [
+            "501-36-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "445154",
+            "sid": "481107537",
+            "cas_no": "501-36-0"
+          }
+        ]
+      },
+      "rhamnose": {
+        "cosing_info": {
+          "reference": "ec183b85-e719-4ed2-a580-5ddbe84ebb82",
+          "inci_name": "RHAMNOSE",
+          "cas_no": [
+            "3615-41-6",
+            "10030-85-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "25310",
+            "sid": "482095610",
+            "cas_no": "3615-41-6"
+          },
+          {
+            "cid": "20849066",
+            "sid": "500822535",
+            "cas_no": "10030-85-0"
+          }
+        ]
+      },
+      "tocopheryl": {
+        "cosing_info": {
+          "reference": "c8695df0-626d-4041-bd19-9ce5a4efa757",
+          "inci_name": "TOCOPHERYL RETINOATE",
+          "cas_no": [
+            "40516-49-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5282180",
+            "sid": "516551734",
+            "cas_no": "40516-49-2"
+          }
+        ]
+      },
+      "acetate": {
+        "cosing_info": {
+          "reference": "2e90250f-29b8-4066-987b-311a1cbc2f14",
+          "inci_name": "OCTYL ACETATE/MONOMETHYL ACETATE",
+          "cas_no": [
+            "68683-25-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "163261",
+            "sid": "500811241",
+            "cas_no": "68683-25-0"
+          }
+        ]
+      },
+      "parfum": {
+        "cosing_info": {
+          "reference": "877337a9-4a8b-4d17-bed7-f3a39d335e80",
+          "inci_name": "PARFUM",
+          "cas_no": []
+        },
+        "pubchem_info": []
+      },
+      "fragrance": {
+        "cosing_info": {
+          "reference": "8df6b6bc-f26a-438c-8dc4-130db9e8ce6b",
+          "inci_name": "3,7-Dimethyl-2-octen-1-ol (6,7-Dihydrogeraniol), when used as a fragrance ingredient",
+          "cas_no": [
+            "40607-48-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5365836",
+            "sid": "504562939",
+            "cas_no": "40607-48-5"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120556425"

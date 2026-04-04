@@ -51,7 +51,479 @@
       "Glutamate",
       "Parfum",
       "Fragrance"
-    ]
+    ],
+    "inci": {
+      "aqua": {
+        "cosing_info": {
+          "reference": "acb2fd0b-1174-4f52-8481-759e0f6a9471",
+          "inci_name": "AQUA",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "water": {
+        "cosing_info": {
+          "reference": "f47fb937-5e85-47be-a122-3522901eb942",
+          "inci_name": "WATER",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "sodium": {
+        "cosing_info": {
+          "reference": "436c3318-3a15-40db-b19b-54900ed3abc1",
+          "inci_name": "SODIUM SIALYLLACTOSE",
+          "cas_no": [
+            "128596-80-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "71308479",
+            "sid": "504500786",
+            "cas_no": "128596-80-5"
+          }
+        ]
+      },
+      "methyl": {
+        "cosing_info": {
+          "reference": "8ee01b36-0f1d-48c4-a31c-9a3566e62750",
+          "inci_name": "HYDROXYANTHRAQUINONEAMINOPROPYL METHYL MORPHOLINIUM METHOSULFATE",
+          "cas_no": [
+            "38866-20-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "16205112",
+            "sid": "505785171",
+            "cas_no": "38866-20-5"
+          }
+        ]
+      },
+      "cocoyl": {
+        "cosing_info": {
+          "reference": "6afc08fa-037d-4e1c-929c-18c3967abc33",
+          "inci_name": "COCOYL METHYL GLUCAMIDE",
+          "cas_no": [
+            "1591783-13-9"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "taurate": {
+        "cosing_info": {
+          "reference": "edbdfa18-0dbf-4155-8918-2efe9b770fa8",
+          "inci_name": "HYDROXYETHYL ACRYLATE/SODIUM ACRYLOYLDIMETHYL TAURATE COPOLYMER",
+          "cas_no": [
+            "111286-86-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "laureth-5": {
+        "cosing_info": {
+          "reference": "56daacad-99c6-4b09-9f4f-21c7fa6300f8",
+          "inci_name": "LAURETH-5",
+          "cas_no": [
+            "3055-95-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "18281",
+            "sid": "481109022",
+            "cas_no": "3055-95-6"
+          }
+        ]
+      },
+      "carboxylic": {
+        "cosing_info": {
+          "reference": "ebd86f37-a8e8-43cd-973f-840fe432b172",
+          "inci_name": "CAFFEINE CARBOXYLIC ACID",
+          "cas_no": [
+            "652-37-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "69550",
+            "sid": "500752167",
+            "cas_no": "652-37-9"
+          }
+        ]
+      },
+      "acid": {
+        "cosing_info": {
+          "reference": "2ce6a5ff-38b0-47a8-86bf-06e8a480b066",
+          "inci_name": "Perfluoroheptanoic acid; tridecafluoroheptanoic acid",
+          "cas_no": [
+            "375-85-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "67818",
+            "sid": "500815077",
+            "cas_no": "375-85-9"
+          }
+        ]
+      },
+      "cocamidopropyl": {
+        "cosing_info": {
+          "reference": "dbd8d0cb-fa8f-41cc-b426-41c912015faf",
+          "inci_name": "COCAMIDOPROPYL BETAINE",
+          "cas_no": [
+            "97862-59-4 (generic)",
+            "61789-40-0",
+            "70851-07-9",
+            "83138-08-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "betaine": {
+        "cosing_info": {
+          "reference": "73ba24e6-ffb8-4a09-a6ee-99704524b504",
+          "inci_name": "BETAINE",
+          "cas_no": [
+            "107-43-7",
+            "590-47-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "247",
+            "sid": "481106944",
+            "cas_no": "107-43-7"
+          },
+          {
+            "cid": "83815",
+            "sid": null,
+            "cas_no": "590-47-6"
+          }
+        ]
+      },
+      "chloride": {
+        "cosing_info": {
+          "reference": "c34b87ef-4a9c-4fea-ab84-b7fa2e76303d",
+          "inci_name": "Hexamethonium chloride; Hexamethylene(bistrimethylammonium)chloride",
+          "cas_no": [
+            "60-25-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "93550",
+            "sid": "500789484",
+            "cas_no": "60-25-3"
+          }
+        ]
+      },
+      "bisabolol": {
+        "cosing_info": {
+          "reference": "af49bbe4-6d8f-4da6-9a5e-deb514149ff1",
+          "inci_name": "BISABOLOL",
+          "cas_no": [
+            "515-69-5",
+            "23089-26-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "1549992",
+            "sid": "516563215",
+            "cas_no": "515-69-5"
+          },
+          {
+            "cid": "442343",
+            "sid": "482029414",
+            "cas_no": "23089-26-1"
+          }
+        ]
+      },
+      "farnesol": {
+        "cosing_info": {
+          "reference": "be55c4a1-c9d9-422f-b155-1f74cc79efdd",
+          "inci_name": "FARNESOL",
+          "cas_no": [
+            "4602-84-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "445070",
+            "sid": "481107160",
+            "cas_no": "4602-84-0"
+          }
+        ]
+      },
+      "hexylene": {
+        "cosing_info": {
+          "reference": "745152e1-c038-4a6c-a93f-b61779b3d5ae",
+          "inci_name": "HEXYLENE GLYCOL DIMETHACRYLATE/GLYCOL DIMETHACRYLATE CROSSPOLYMER",
+          "cas_no": [
+            "117255-16-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "glycol": {
+        "cosing_info": {
+          "reference": "9676e281-f1c1-45e7-8bc5-dde960d1fc3d",
+          "inci_name": "GLYCOL",
+          "cas_no": [
+            "107-21-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "174",
+            "sid": "481107978",
+            "cas_no": "107-21-1"
+          }
+        ]
+      },
+      "lactic": {
+        "cosing_info": {
+          "reference": "7b7b024e-34fa-4f28-883a-0a1bcc52ffb0",
+          "inci_name": "LACTIC YEASTS",
+          "cas_no": [
+            "68876-77-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "peg-150": {
+        "cosing_info": {
+          "reference": "1c907d8c-4f68-4feb-8e9b-2680f2ae3446",
+          "inci_name": "PEG-150",
+          "cas_no": [
+            "25322-68-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "distearate": {
+        "cosing_info": {
+          "reference": "650e46bc-5042-444e-8f22-e2628cb1a843",
+          "inci_name": "ACETYLATED SUCROSE DISTEARATE",
+          "cas_no": [
+            "121684-92-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "71587451",
+            "sid": "500752530",
+            "cas_no": "121684-92-2"
+          }
+        ]
+      },
+      "peg-55": {
+        "cosing_info": {
+          "reference": "7882603b-5ee3-4c8d-bc2f-8af48f7106b8",
+          "inci_name": "PEG-55",
+          "cas_no": [
+            "25322-68-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "propylene": {
+        "cosing_info": {
+          "reference": "0e29f9a6-8bea-465c-8d3c-a49db69ea5ec",
+          "inci_name": "PROPYLENE GLYCOL DILAURATE",
+          "cas_no": [
+            "22788-19-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "90838",
+            "sid": "500819956",
+            "cas_no": "22788-19-8"
+          }
+        ]
+      },
+      "oleate": {
+        "cosing_info": {
+          "reference": "9fa5620b-e1ed-46f2-878a-a6f9fbd850a4",
+          "inci_name": "ETHYL OLEATE",
+          "cas_no": [
+            "111-62-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5363269",
+            "sid": "500782445",
+            "cas_no": "111-62-6"
+          }
+        ]
+      },
+      "piroctone": {
+        "cosing_info": {
+          "reference": "24f0b2fb-435f-4927-97a2-c37c3edde03a",
+          "inci_name": "PIROCTONE",
+          "cas_no": [
+            "50650-76-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "50259",
+            "sid": "483928117",
+            "cas_no": "50650-76-5"
+          }
+        ]
+      },
+      "olamine": {
+        "cosing_info": {
+          "reference": "4aa934e2-d331-49c2-8c54-9843002396a1",
+          "inci_name": "PIROCTONE OLAMINE",
+          "cas_no": [
+            "68890-66-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "50258",
+            "sid": "483928118",
+            "cas_no": "68890-66-4"
+          }
+        ]
+      },
+      "polyquaternium-10": {
+        "cosing_info": {
+          "reference": "7607a0d5-765e-412a-9217-45a49422c52d",
+          "inci_name": "POLYQUATERNIUM-10",
+          "cas_no": [
+            "81859-24-7",
+            "53568-66-4",
+            "54351-50-7",
+            "55353-19-0",
+            "68610-92-4",
+            "81859-24-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "salicylic": {
+        "cosing_info": {
+          "reference": "34f2aa4a-28c9-4ab4-befd-0c72ddbaf09a",
+          "inci_name": "SALICYLIC ACID",
+          "cas_no": [
+            "69-72-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "338",
+            "sid": "481108019",
+            "cas_no": "69-72-7"
+          }
+        ]
+      },
+      "benzoate": {
+        "cosing_info": {
+          "reference": "5b65f7cc-6a38-4226-ac3a-f0701f04cd27",
+          "inci_name": "CASTOR OIL BENZOATE",
+          "cas_no": [
+            "225927-34-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "hydroxide": {
+        "cosing_info": {
+          "reference": "46d24c83-1ace-4209-a88d-c3f205d323de",
+          "inci_name": "POTASSIUM HYDROXIDE",
+          "cas_no": [
+            "1310-58-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "14797",
+            "sid": "481108011",
+            "cas_no": "1310-58-3"
+          }
+        ]
+      },
+      "lauroyl": {
+        "cosing_info": {
+          "reference": "8b42cee8-a4cd-4e59-9f2a-f9919a52cf20",
+          "inci_name": "LAUROYL ARGININE",
+          "cas_no": [
+            "42492-22-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6451888",
+            "sid": "500795938",
+            "cas_no": "42492-22-8"
+          }
+        ]
+      },
+      "glutamate": {
+        "cosing_info": {
+          "reference": "84d305bc-3f2d-4e6e-ac28-eb37a5d3ab9b",
+          "inci_name": "ALANINE GLUTAMATE",
+          "cas_no": [
+            "13187-90-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "128841",
+            "sid": "516561258",
+            "cas_no": "13187-90-1"
+          }
+        ]
+      },
+      "parfum": {
+        "cosing_info": {
+          "reference": "877337a9-4a8b-4d17-bed7-f3a39d335e80",
+          "inci_name": "PARFUM",
+          "cas_no": []
+        },
+        "pubchem_info": []
+      },
+      "fragrance": {
+        "cosing_info": {
+          "reference": "8df6b6bc-f26a-438c-8dc4-130db9e8ce6b",
+          "inci_name": "3,7-Dimethyl-2-octen-1-ol (6,7-Dihydrogeraniol), when used as a fragrance ingredient",
+          "cas_no": [
+            "40607-48-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5365836",
+            "sid": "504562939",
+            "cas_no": "40607-48-5"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120578456"

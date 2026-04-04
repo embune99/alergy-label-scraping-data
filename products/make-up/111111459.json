@@ -45,7 +45,401 @@
       "BETA-CARYOPHYLLENE",
       "ALPHA-TERPINENE"
     ],
-    "inci": {}
+    "inci": {
+      "alcohol": {
+        "cosing_info": {
+          "reference": "ee98826a-bac8-4089-91f6-32d956b26c61",
+          "inci_name": "ALCOHOL",
+          "cas_no": [
+            "64-17-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "702",
+            "sid": "481101440",
+            "cas_no": "64-17-5"
+          }
+        ]
+      },
+      "water": {
+        "cosing_info": {
+          "reference": "f47fb937-5e85-47be-a122-3522901eb942",
+          "inci_name": "WATER",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "fragrance": {
+        "cosing_info": {
+          "reference": "8df6b6bc-f26a-438c-8dc4-130db9e8ce6b",
+          "inci_name": "3,7-Dimethyl-2-octen-1-ol (6,7-Dihydrogeraniol), when used as a fragrance ingredient",
+          "cas_no": [
+            "40607-48-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5365836",
+            "sid": "504562939",
+            "cas_no": "40607-48-5"
+          }
+        ]
+      },
+      "linalyl": {
+        "cosing_info": {
+          "reference": "cbc4a314-95f5-4345-98cc-61b2d87bf963",
+          "inci_name": "LINALYL BENZOATE",
+          "cas_no": [
+            "126-64-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "31353",
+            "sid": "505794934",
+            "cas_no": "126-64-7"
+          }
+        ]
+      },
+      "acetate": {
+        "cosing_info": {
+          "reference": "2e90250f-29b8-4066-987b-311a1cbc2f14",
+          "inci_name": "OCTYL ACETATE/MONOMETHYL ACETATE",
+          "cas_no": [
+            "68683-25-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "163261",
+            "sid": "500811241",
+            "cas_no": "68683-25-0"
+          }
+        ]
+      },
+      "linalool": {
+        "cosing_info": {
+          "reference": "8f47a2fa-c519-434c-8bb9-8385cf05fea5",
+          "inci_name": "LINALOOL",
+          "cas_no": [
+            "78-70-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6549",
+            "sid": "482028551",
+            "cas_no": "78-70-6"
+          }
+        ]
+      },
+      "limonene": {
+        "cosing_info": {
+          "reference": "d9a853fb-831a-4f8e-a3f5-d57b976d9c88",
+          "inci_name": "LIMONENE",
+          "cas_no": [
+            "138-86-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "22311",
+            "sid": "518147164",
+            "cas_no": "138-86-3"
+          }
+        ]
+      },
+      "citrus": {
+        "cosing_info": {
+          "reference": "ecf6ef2d-4da6-4ff8-a1d0-d29422d24e3a",
+          "inci_name": "CITRUS AURANTIUM DULCIS PEEL OIL",
+          "cas_no": [
+            "8008-57-9"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "aurantium": {
+        "cosing_info": {
+          "reference": "0ee76a08-c272-463e-a11d-7409523e5320",
+          "inci_name": "CITRUS AURANTIUM AMARA PEEL WATER",
+          "cas_no": [
+            "72968-50-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "peel": {
+        "cosing_info": {
+          "reference": "e863d775-c505-4bbd-a8cf-2f9acc6e6afe",
+          "inci_name": "ZANTHOXYLUM PIPERITUM PEEL WATER",
+          "cas_no": [
+            "97404-53-0 (generic)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "oil": {
+        "cosing_info": {
+          "reference": "73055330-91dd-4d1e-b860-925fb2ecdbc8",
+          "inci_name": "MENHADEN OIL",
+          "cas_no": [
+            "8002-50-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "menthol": {
+        "cosing_info": {
+          "reference": "80ef1543-35c4-43f0-89bd-2ea8372185cb",
+          "inci_name": "MENTHOL",
+          "cas_no": [
+            "1490-04-6",
+            "2216-51-5",
+            "89-78-1",
+            "15356-70-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "1254",
+            "sid": "481107802",
+            "cas_no": "1490-04-6"
+          },
+          {
+            "cid": "16666",
+            "sid": "518140464",
+            "cas_no": "2216-51-5"
+          },
+          {
+            "cid": "1254",
+            "sid": "481107802",
+            "cas_no": "89-78-1"
+          },
+          {
+            "cid": "1254",
+            "sid": "481107802",
+            "cas_no": "15356-70-4"
+          }
+        ]
+      },
+      "pinene": {
+        "cosing_info": {
+          "reference": "4f954592-7925-439a-b6bd-4e845d4a6c7c",
+          "inci_name": "PINENE",
+          "cas_no": [
+            "80-56-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6654",
+            "sid": "481106869",
+            "cas_no": "80-56-8"
+          }
+        ]
+      },
+      "eucalyptus": {
+        "cosing_info": {
+          "reference": "417f63b9-7d48-4308-832e-ab937389c051",
+          "inci_name": "EUCALYPTUS GLOBULUS LEAF EXTRACT",
+          "cas_no": [
+            "84625-32-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "globulus": {
+        "cosing_info": {
+          "reference": "417f63b9-7d48-4308-832e-ab937389c051",
+          "inci_name": "EUCALYPTUS GLOBULUS LEAF EXTRACT",
+          "cas_no": [
+            "84625-32-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "geraniol": {
+        "cosing_info": {
+          "reference": "4937f329-ce46-43be-bb99-3307e3966e02",
+          "inci_name": "GERANIOL",
+          "cas_no": [
+            "106-24-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "637566",
+            "sid": "481107196",
+            "cas_no": "106-24-1"
+          }
+        ]
+      },
+      "geranyl": {
+        "cosing_info": {
+          "reference": "aae4650c-b8ee-4e04-ba01-a13aa5ae35c9",
+          "inci_name": "GERANYL NONANOATE",
+          "cas_no": [
+            "68039-29-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6437207",
+            "sid": "505850504",
+            "cas_no": "68039-29-2"
+          }
+        ]
+      },
+      "citral": {
+        "cosing_info": {
+          "reference": "c41dea05-5e24-4081-be53-3e926964bbf7",
+          "inci_name": "CITRAL",
+          "cas_no": [
+            "5392-40-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "638011",
+            "sid": "481107032",
+            "cas_no": "5392-40-5"
+          }
+        ]
+      },
+      "terpineol": {
+        "cosing_info": {
+          "reference": "816d1d06-f045-465c-9ced-267f1cf6b94d",
+          "inci_name": "TERPINEOL",
+          "cas_no": [
+            "8000-41-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "lavandula": {
+        "cosing_info": {
+          "reference": "b0514910-40cb-4acf-8b27-74ff7082cefb",
+          "inci_name": "LAVANDULA HYBRIDA EXTRACT",
+          "cas_no": [
+            "91722-69-9"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "limon": {
+        "cosing_info": {
+          "reference": "1959a972-8a10-40e2-b207-3c13ac1c13ab",
+          "inci_name": "CITRUS LIMON PEEL",
+          "cas_no": [
+            "92346-89-9",
+            "84929-31-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "168009840",
+            "sid": null,
+            "cas_no": "84929-31-7"
+          }
+        ]
+      },
+      "terpinolene": {
+        "cosing_info": {
+          "reference": "5052fbe1-d06c-49c7-88d1-a86f52d9b8eb",
+          "inci_name": "TERPINOLENE",
+          "cas_no": [
+            "586-62-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "11463",
+            "sid": "481107630",
+            "cas_no": "586-62-9"
+          }
+        ]
+      },
+      "hydroxycitronellal": {
+        "cosing_info": {
+          "reference": "1282d3f9-0f30-4f82-a66f-fda74e446493",
+          "inci_name": "Hydroxycitronellal",
+          "cas_no": [
+            "107-75-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "7888",
+            "sid": "500790572",
+            "cas_no": "107-75-5"
+          }
+        ]
+      },
+      "camphor": {
+        "cosing_info": {
+          "reference": "7273134c-57d3-4cbf-b92e-a1b027ec364b",
+          "inci_name": "CAMPHOR",
+          "cas_no": [
+            "464-49-3",
+            "76-22-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "159055",
+            "sid": "518174215",
+            "cas_no": "464-49-3"
+          },
+          {
+            "cid": "2537",
+            "sid": "481107742",
+            "cas_no": "76-22-2"
+          }
+        ]
+      },
+      "beta-caryophyllene": {
+        "cosing_info": {
+          "reference": "07843aed-2428-4a06-be80-2e72b1528d10",
+          "inci_name": "BETA-CARYOPHYLLENE",
+          "cas_no": [
+            "87-44-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5281515",
+            "sid": "481107968",
+            "cas_no": "87-44-5"
+          }
+        ]
+      },
+      "alpha-terpinene": {
+        "cosing_info": {
+          "reference": "8d084bab-3ee2-4e73-9b79-5c9eb929e20f",
+          "inci_name": "ALPHA-TERPINENE",
+          "cas_no": [
+            "99-86-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "7462",
+            "sid": "481106870",
+            "cas_no": "99-86-5"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "111111459"

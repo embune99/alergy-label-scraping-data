@@ -40,7 +40,241 @@
       "Bromide",
       "Parfum",
       "Fragrance"
-    ]
+    ],
+    "inci": {
+      "aqua": {
+        "cosing_info": {
+          "reference": "acb2fd0b-1174-4f52-8481-759e0f6a9471",
+          "inci_name": "AQUA",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "water": {
+        "cosing_info": {
+          "reference": "f47fb937-5e85-47be-a122-3522901eb942",
+          "inci_name": "WATER",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "peg-7": {
+        "cosing_info": {
+          "reference": "ae9e43e9-4d7e-445d-8cd3-a35484150d86",
+          "inci_name": "PEG-7",
+          "cas_no": [
+            "25322-68-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "glycerides": {
+        "cosing_info": {
+          "reference": "9a1efdb3-a73d-4302-b67b-3e19d48ded6e",
+          "inci_name": "HYDROXYLATED MILK GLYCERIDES",
+          "cas_no": [
+            "144635-07-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "poloxamer": {
+        "cosing_info": {
+          "reference": "e7ee4288-c596-43fc-b07f-e886beb1befc",
+          "inci_name": "POLOXAMER 238",
+          "cas_no": [
+            "9003-11-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "124": {
+        "cosing_info": {
+          "reference": "b4923b11-1abb-4ffb-be34-b11d9f7456b9",
+          "inci_name": "POLOXAMER 124",
+          "cas_no": [
+            "9003-11-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "184": {
+        "cosing_info": {
+          "reference": "6f5647c1-52c7-4aa1-9f15-cd38e1bb77b4",
+          "inci_name": "POLOXAMER 184",
+          "cas_no": [
+            "9003-11-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "peg-6": {
+        "cosing_info": {
+          "reference": "289fdaa0-09a2-43cf-8c4c-ebdb8b0a54f1",
+          "inci_name": "PEG-6",
+          "cas_no": [
+            "25322-68-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "glycerin": {
+        "cosing_info": {
+          "reference": "59eb65ef-7b29-4486-a311-f194224c11e6",
+          "inci_name": "GLYCERIN",
+          "cas_no": [
+            "56-81-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "753",
+            "sid": "481110738",
+            "cas_no": "56-81-5"
+          }
+        ]
+      },
+      "polysorbate": {
+        "cosing_info": {
+          "reference": "a1aea1e2-2fe9-4a8d-945d-aa5e6e88b201",
+          "inci_name": "POLYSORBATE 80",
+          "cas_no": [
+            "9005-65-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "80": {
+        "cosing_info": {
+          "reference": "02ae2ed7-4759-4177-a15c-0cf89a887bb9",
+          "inci_name": "POLYURETHANE-80",
+          "cas_no": [
+            "139352-65-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "disodium": {
+        "cosing_info": {
+          "reference": "9a36d68d-cfcc-48b5-a7b1-b5e0286611ea",
+          "inci_name": "DISODIUM PYROPHOSPHATE",
+          "cas_no": [
+            "7758-16-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "24451",
+            "sid": "500778501",
+            "cas_no": "7758-16-9"
+          }
+        ]
+      },
+      "edta": {
+        "cosing_info": {
+          "reference": "64cc9da1-36bb-4875-b859-77375d6ab3f5",
+          "inci_name": "EDTA",
+          "cas_no": [
+            "60-00-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6049",
+            "sid": "481107126",
+            "cas_no": "60-00-4"
+          }
+        ]
+      },
+      "bht": {
+        "cosing_info": {
+          "reference": "6733ccb2-248b-42a4-a116-d3f2ac8c965f",
+          "inci_name": "BHT",
+          "cas_no": [
+            "128-37-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "31404",
+            "sid": "481107738",
+            "cas_no": "128-37-0"
+          }
+        ]
+      },
+      "myrtrimonium": {
+        "cosing_info": {
+          "reference": "eeac8e90-1447-40e3-949f-f19a0166a9ec",
+          "inci_name": "MYRTRIMONIUM BROMIDE",
+          "cas_no": [
+            "1119-97-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "14250",
+            "sid": "505892887",
+            "cas_no": "1119-97-7"
+          }
+        ]
+      },
+      "bromide": {
+        "cosing_info": {
+          "reference": "f8a31e24-4777-468d-92df-2a6d6dedfb75",
+          "inci_name": "BENZALKONIUM BROMIDE",
+          "cas_no": [
+            "91080-29-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "23705",
+            "sid": "483924783",
+            "cas_no": "91080-29-4"
+          }
+        ]
+      },
+      "parfum": {
+        "cosing_info": {
+          "reference": "877337a9-4a8b-4d17-bed7-f3a39d335e80",
+          "inci_name": "PARFUM",
+          "cas_no": []
+        },
+        "pubchem_info": []
+      },
+      "fragrance": {
+        "cosing_info": {
+          "reference": "8df6b6bc-f26a-438c-8dc4-130db9e8ce6b",
+          "inci_name": "3,7-Dimethyl-2-octen-1-ol (6,7-Dihydrogeraniol), when used as a fragrance ingredient",
+          "cas_no": [
+            "40607-48-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5365836",
+            "sid": "504562939",
+            "cas_no": "40607-48-5"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120558949"

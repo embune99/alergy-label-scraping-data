@@ -35,7 +35,172 @@
       "Leaf",
       "Juice",
       "BHT"
-    ]
+    ],
+    "inci": {
+      "peg-115m": {
+        "cosing_info": {
+          "reference": "2f28e420-7b55-4baa-ba1e-bc1e3ab88781",
+          "inci_name": "PEG-115M",
+          "cas_no": [
+            "25322-68-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "peg-7m": {
+        "cosing_info": {
+          "reference": "7c79cd92-c884-44a8-9c83-653cd4604387",
+          "inci_name": "PEG-7M",
+          "cas_no": [
+            "25322-68-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "peg-100": {
+        "cosing_info": {
+          "reference": "4fda6be3-4373-4066-b5b6-c82d685800ab",
+          "inci_name": "PEG-100",
+          "cas_no": [
+            "25322-68-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "silica": {
+        "cosing_info": {
+          "reference": "e9fab588-fd7f-4caa-966b-2afcba56c07d",
+          "inci_name": "SILICA",
+          "cas_no": [
+            "7631-86-9",
+            "112945-52-5",
+            "60676-86-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "24261",
+            "sid": "481108020",
+            "cas_no": "7631-86-9"
+          },
+          {
+            "cid": "24261",
+            "sid": "481108020",
+            "cas_no": "112945-52-5"
+          },
+          {
+            "cid": "24261",
+            "sid": "481108020",
+            "cas_no": "60676-86-0"
+          }
+        ]
+      },
+      "pentaerythrityl": {
+        "cosing_info": {
+          "reference": "b282a45e-7f31-47a9-bc7c-6f43feeccfe7",
+          "inci_name": "PENTAERYTHRITYL TETRAACRYLATE",
+          "cas_no": [
+            "1245638-61-2 ; 4986-89-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "tetra-di-t-butyl": {
+        "cosing_info": {
+          "reference": "33858d6f-e1e3-4604-ab74-5c2f2044755c",
+          "inci_name": "PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE",
+          "cas_no": [
+            "6683-19-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "64819",
+            "sid": "481107448",
+            "cas_no": "6683-19-8"
+          }
+        ]
+      },
+      "hydroxyhydrocinnamate": {
+        "cosing_info": {
+          "reference": "33858d6f-e1e3-4604-ab74-5c2f2044755c",
+          "inci_name": "PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE",
+          "cas_no": [
+            "6683-19-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "64819",
+            "sid": "481107448",
+            "cas_no": "6683-19-8"
+          }
+        ]
+      },
+      "aloe": {
+        "cosing_info": {
+          "reference": "2417ba86-6200-452d-8506-2e62681569b2",
+          "inci_name": "ALOE SPECIES RESIN",
+          "cas_no": [
+            "84837-08-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "barbadensis": {
+        "cosing_info": {
+          "reference": "9c6d5b9b-517c-4f2f-89fd-d874e4af781c",
+          "inci_name": "ALOE BARBADENSIS EXTRACT",
+          "cas_no": [
+            "85507-69-3",
+            "94349-62-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5712222",
+            "sid": "505550691",
+            "cas_no": "85507-69-3"
+          }
+        ]
+      },
+      "leaf": {
+        "cosing_info": {
+          "reference": "8e8792ba-fdf8-439d-864b-3c48468d6204",
+          "inci_name": "PSIDIUM GUAJAVA LEAF OIL",
+          "cas_no": [
+            "91770-12-6 (generic)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "juice": {
+        "cosing_info": {
+          "reference": "f7c0d3c8-eba3-4cd7-81c3-c1bb0ec8da8b",
+          "inci_name": "BETULA ALBA LEAF JUICE",
+          "cas_no": [
+            "84012-15-7 (generic)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "bht": {
+        "cosing_info": {
+          "reference": "6733ccb2-248b-42a4-a116-d3f2ac8c965f",
+          "inci_name": "BHT",
+          "cas_no": [
+            "128-37-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "31404",
+            "sid": "481107738",
+            "cas_no": "128-37-0"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120780152"

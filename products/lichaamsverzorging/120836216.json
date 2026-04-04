@@ -42,7 +42,374 @@
       "Diacetate",
       "Sodium",
       "Hydroxide"
-    ]
+    ],
+    "inci": {
+      "aqua": {
+        "cosing_info": {
+          "reference": "acb2fd0b-1174-4f52-8481-759e0f6a9471",
+          "inci_name": "AQUA",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "pentylene": {
+        "cosing_info": {
+          "reference": "36f04866-782e-409f-9051-5e6605b012a5",
+          "inci_name": "PENTYLENE GLYCOL",
+          "cas_no": [
+            "5343-92-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "93000",
+            "sid": "505856024",
+            "cas_no": "5343-92-0"
+          }
+        ]
+      },
+      "glycol": {
+        "cosing_info": {
+          "reference": "9676e281-f1c1-45e7-8bc5-dde960d1fc3d",
+          "inci_name": "GLYCOL",
+          "cas_no": [
+            "107-21-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "174",
+            "sid": "481107978",
+            "cas_no": "107-21-1"
+          }
+        ]
+      },
+      "c12-15": {
+        "cosing_info": {
+          "reference": "ad0c2006-5a0a-48bd-ab2d-d4ce560a48d4",
+          "inci_name": "C12-15 ALCOHOLS",
+          "cas_no": [
+            "63393-82-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "alkyl": {
+        "cosing_info": {
+          "reference": "06766eaa-53eb-4a7b-9e03-c627de0c732c",
+          "inci_name": "C10 ALKYL ACETATE",
+          "cas_no": [
+            "68478-36-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "benzoate": {
+        "cosing_info": {
+          "reference": "5b65f7cc-6a38-4226-ac3a-f0701f04cd27",
+          "inci_name": "CASTOR OIL BENZOATE",
+          "cas_no": [
+            "225927-34-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "diethylamino": {
+        "cosing_info": {
+          "reference": "150d998e-a72d-4478-96e7-e7e1eadcc7ea",
+          "inci_name": "STARCH DIETHYLAMINOETHYL ETHER",
+          "cas_no": [
+            "9041-94-5"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "hydroxybenzoyl": {
+        "cosing_info": {
+          "reference": "a348f543-552b-4aec-96b1-6ac8a2cf1644",
+          "inci_name": "DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE",
+          "cas_no": [
+            "302776-68-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "10111431",
+            "sid": "500776886",
+            "cas_no": "302776-68-7"
+          }
+        ]
+      },
+      "hexyl": {
+        "cosing_info": {
+          "reference": "e0639f70-efc4-424e-a259-4464aeaea8ea",
+          "inci_name": "HEXYL SALICYLATE HEXYL ETHER",
+          "cas_no": [
+            "111222-71-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "glycerin": {
+        "cosing_info": {
+          "reference": "59eb65ef-7b29-4486-a311-f194224c11e6",
+          "inci_name": "GLYCERIN",
+          "cas_no": [
+            "56-81-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "753",
+            "sid": "481110738",
+            "cas_no": "56-81-5"
+          }
+        ]
+      },
+      "ethylhexyl": {
+        "cosing_info": {
+          "reference": "beb72c34-bce7-480f-a1c6-db5594e43c65",
+          "inci_name": "ETHYLHEXYL METHOXYCINNAMATE",
+          "cas_no": [
+            "5466-77-3",
+            "83834-59-7 (trans-)"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5355130",
+            "sid": "483926029",
+            "cas_no": "5466-77-3"
+          }
+        ]
+      },
+      "triazone": {
+        "cosing_info": {
+          "reference": "29d89d27-6bce-4058-ba2f-52ae1a3031cd",
+          "inci_name": "ETHYLHEXYL TRIAZONE",
+          "cas_no": [
+            "88122-99-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "159201",
+            "sid": "500782584",
+            "cas_no": "88122-99-0"
+          }
+        ]
+      },
+      "propanediol": {
+        "cosing_info": {
+          "reference": "ba1b60db-ec57-4f42-9ef3-3822c0e8c657",
+          "inci_name": "PROPANEDIOL",
+          "cas_no": [
+            "504-63-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "10442",
+            "sid": "516552822",
+            "cas_no": "504-63-2"
+          }
+        ]
+      },
+      "bis-ethylhexyloxyphenol": {
+        "cosing_info": {
+          "reference": "c4eb9ee3-b90b-4e75-8fd1-fb2e3dd34ed1",
+          "inci_name": "BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE",
+          "cas_no": [
+            "187393-00-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "135487856",
+            "sid": "505556958",
+            "cas_no": "187393-00-6"
+          }
+        ]
+      },
+      "methoxyphenyl": {
+        "cosing_info": {
+          "reference": "d875a53b-b75c-4265-9016-ae7790982f2e",
+          "inci_name": "BIS-METHOXYPHENYL HEPTANEDIONE",
+          "cas_no": [
+            "123953-63-9"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "triazine": {
+        "cosing_info": {
+          "reference": "0d53daed-6b86-4e5a-ae90-6b8e3aee787a",
+          "inci_name": "TRIS-BIPHENYL TRIAZINE",
+          "cas_no": [
+            "31274-51-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "11628027",
+            "sid": "505896340",
+            "cas_no": "31274-51-8"
+          }
+        ]
+      },
+      "lecithin": {
+        "cosing_info": {
+          "reference": "14893647-e46e-43be-84ab-32244787ecfa",
+          "inci_name": "LECITHIN",
+          "cas_no": [
+            "8002-43-5",
+            "8030-76-0 (soybean)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "carbomer": {
+        "cosing_info": {
+          "reference": "e3f36da9-bb8f-4de8-a8d0-c3995cd87e7f",
+          "inci_name": "CARBOMER",
+          "cas_no": [
+            "9007-20-9",
+            "9003-01-4",
+            "76050-42-5",
+            "9062-04-8",
+            "9007-16-3",
+            "9007-17-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "91824753",
+            "sid": null,
+            "cas_no": "9062-04-8"
+          }
+        ]
+      },
+      "phenoxyethanol": {
+        "cosing_info": {
+          "reference": "f8f3a6ab-5656-4d9a-a085-729e03a7376d",
+          "inci_name": "PHENOXYETHANOL",
+          "cas_no": [
+            "122-99-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "31236",
+            "sid": "483926132",
+            "cas_no": "122-99-6"
+          }
+        ]
+      },
+      "hydroxyacetophenone": {
+        "cosing_info": {
+          "reference": "85dc6ad4-d153-436d-bd55-d3eaa0d7e6b1",
+          "inci_name": "HYDROXYACETOPHENONE",
+          "cas_no": [
+            "99-93-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "7469",
+            "sid": "505519711",
+            "cas_no": "99-93-4"
+          }
+        ]
+      },
+      "tetrasodium": {
+        "cosing_info": {
+          "reference": "01a027b6-331b-4a9f-a100-21ff6722517d",
+          "inci_name": "TETRASODIUM PYROPHOSPHATE",
+          "cas_no": [
+            "7722-88-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "24403",
+            "sid": "483926325",
+            "cas_no": "7722-88-5"
+          }
+        ]
+      },
+      "glutamate": {
+        "cosing_info": {
+          "reference": "84d305bc-3f2d-4e6e-ac28-eb37a5d3ab9b",
+          "inci_name": "ALANINE GLUTAMATE",
+          "cas_no": [
+            "13187-90-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "128841",
+            "sid": "516561258",
+            "cas_no": "13187-90-1"
+          }
+        ]
+      },
+      "diacetate": {
+        "cosing_info": {
+          "reference": "c1eb096e-99e2-46ae-aa55-2a713a7bdf00",
+          "inci_name": "GLYCERYL LAURATE DIACETATE",
+          "cas_no": [
+            "30899-62-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "169212",
+            "sid": "505659272",
+            "cas_no": "30899-62-8"
+          }
+        ]
+      },
+      "sodium": {
+        "cosing_info": {
+          "reference": "436c3318-3a15-40db-b19b-54900ed3abc1",
+          "inci_name": "SODIUM SIALYLLACTOSE",
+          "cas_no": [
+            "128596-80-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "71308479",
+            "sid": "504500786",
+            "cas_no": "128596-80-5"
+          }
+        ]
+      },
+      "hydroxide": {
+        "cosing_info": {
+          "reference": "46d24c83-1ace-4209-a88d-c3f205d323de",
+          "inci_name": "POTASSIUM HYDROXIDE",
+          "cas_no": [
+            "1310-58-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "14797",
+            "sid": "481108011",
+            "cas_no": "1310-58-3"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120836216"

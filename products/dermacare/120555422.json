@@ -36,7 +36,306 @@
       "61565",
       "Green",
       "6"
-    ]
+    ],
+    "inci": {
+      "aqua": {
+        "cosing_info": {
+          "reference": "acb2fd0b-1174-4f52-8481-759e0f6a9471",
+          "inci_name": "AQUA",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "water": {
+        "cosing_info": {
+          "reference": "f47fb937-5e85-47be-a122-3522901eb942",
+          "inci_name": "WATER",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "isododecane": {
+        "cosing_info": {
+          "reference": "819c7781-692d-43f4-a127-29542bf07cd6",
+          "inci_name": "ISODODECANE",
+          "cas_no": [
+            "31807-55-3",
+            "93685-81-5",
+            "13475-82-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "23459",
+            "sid": "505472035",
+            "cas_no": "31807-55-3"
+          },
+          {
+            "cid": "8182",
+            "sid": "481107115",
+            "cas_no": "93685-81-5"
+          },
+          {
+            "cid": "26058",
+            "sid": "500724287",
+            "cas_no": "13475-82-6"
+          }
+        ]
+      },
+      "isopropyl": {
+        "cosing_info": {
+          "reference": "39b9f1de-dcfd-4862-9d82-661671ab0a80",
+          "inci_name": "ISOPROPYL LAURATE",
+          "cas_no": [
+            "10233-13-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "25068",
+            "sid": "500793234",
+            "cas_no": "10233-13-3"
+          }
+        ]
+      },
+      "palmitate": {
+        "cosing_info": {
+          "reference": "9aee3c4b-4a30-48de-a006-6eadbefabf22",
+          "inci_name": "ISOSTEARYL PALMITATE",
+          "cas_no": [
+            "72576-80-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "11443583",
+            "sid": "505788087",
+            "cas_no": "72576-80-8"
+          }
+        ]
+      },
+      "potassium": {
+        "cosing_info": {
+          "reference": "a7960d89-221b-44b5-8b26-fc243a13308f",
+          "inci_name": "POTASSIUM CAROATE",
+          "cas_no": [
+            "70693-62-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "phosphate": {
+        "cosing_info": {
+          "reference": "e40b9150-a386-4dac-a7a4-afdc5de23f89",
+          "inci_name": "TRISTEARYL PHOSPHATE",
+          "cas_no": [
+            "4889-45-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "74962",
+            "sid": "505896505",
+            "cas_no": "4889-45-6"
+          }
+        ]
+      },
+      "sodium": {
+        "cosing_info": {
+          "reference": "436c3318-3a15-40db-b19b-54900ed3abc1",
+          "inci_name": "SODIUM SIALYLLACTOSE",
+          "cas_no": [
+            "128596-80-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "71308479",
+            "sid": "504500786",
+            "cas_no": "128596-80-5"
+          }
+        ]
+      },
+      "chloride": {
+        "cosing_info": {
+          "reference": "c34b87ef-4a9c-4fea-ab84-b7fa2e76303d",
+          "inci_name": "Hexamethonium chloride; Hexamethylene(bistrimethylammonium)chloride",
+          "cas_no": [
+            "60-25-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "93550",
+            "sid": "500789484",
+            "cas_no": "60-25-3"
+          }
+        ]
+      },
+      "poloxamer": {
+        "cosing_info": {
+          "reference": "e7ee4288-c596-43fc-b07f-e886beb1befc",
+          "inci_name": "POLOXAMER 238",
+          "cas_no": [
+            "9003-11-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "184": {
+        "cosing_info": {
+          "reference": "6f5647c1-52c7-4aa1-9f15-cd38e1bb77b4",
+          "inci_name": "POLOXAMER 184",
+          "cas_no": [
+            "9003-11-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "dipotassium": {
+        "cosing_info": {
+          "reference": "b1b60d17-5713-4eff-9e2e-fefc7024eb08",
+          "inci_name": "DIPOTASSIUM OXALATE",
+          "cas_no": [
+            "583-52-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "11413",
+            "sid": "483928164",
+            "cas_no": "583-52-8"
+          }
+        ]
+      },
+      "hexylene": {
+        "cosing_info": {
+          "reference": "745152e1-c038-4a6c-a93f-b61779b3d5ae",
+          "inci_name": "HEXYLENE GLYCOL DIMETHACRYLATE/GLYCOL DIMETHACRYLATE CROSSPOLYMER",
+          "cas_no": [
+            "117255-16-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "glycol": {
+        "cosing_info": {
+          "reference": "9676e281-f1c1-45e7-8bc5-dde960d1fc3d",
+          "inci_name": "GLYCOL",
+          "cas_no": [
+            "107-21-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "174",
+            "sid": "481107978",
+            "cas_no": "107-21-1"
+          }
+        ]
+      },
+      "polyaminopropyl": {
+        "cosing_info": {
+          "reference": "a8e2a1a5-8291-4041-b7f5-aba8ad897554",
+          "inci_name": "POLYAMINOPROPYL BIGUANIDE",
+          "cas_no": [
+            "32289-58-0 [1]",
+            "27083-27-8 [2]",
+            "28757-47-3 [3]",
+            "133029-32-0 [4]"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "biguanide": {
+        "cosing_info": {
+          "reference": "a8e2a1a5-8291-4041-b7f5-aba8ad897554",
+          "inci_name": "POLYAMINOPROPYL BIGUANIDE",
+          "cas_no": [
+            "32289-58-0 [1]",
+            "27083-27-8 [2]",
+            "28757-47-3 [3]",
+            "133029-32-0 [4]"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "ci": {
+        "cosing_info": {
+          "reference": "cf0d4d37-d7ff-4040-aeca-ad94f40fffbb",
+          "inci_name": "CI 77400",
+          "cas_no": [
+            "7440-50-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "23978",
+            "sid": "481107044",
+            "cas_no": "7440-50-8"
+          }
+        ]
+      },
+      "61565": {
+        "cosing_info": {
+          "reference": "c0939663-a5f6-473a-8589-7619917704f1",
+          "inci_name": "CI 61565",
+          "cas_no": [
+            "128-80-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "31416",
+            "sid": "505412200",
+            "cas_no": "128-80-3"
+          }
+        ]
+      },
+      "green": {
+        "cosing_info": {
+          "reference": "f7ef995c-e22b-4804-8474-219e32d2a1a4",
+          "inci_name": "Malachite green hydrochloride [1]; Malachite green oxalate [2]",
+          "cas_no": [
+            "569-64-2 [1]",
+            "18015-76-4 [2]"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "6": {
+        "cosing_info": {
+          "reference": "c0939663-a5f6-473a-8589-7619917704f1",
+          "inci_name": "CI 61565",
+          "cas_no": [
+            "128-80-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "31416",
+            "sid": "505412200",
+            "cas_no": "128-80-3"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120555422"

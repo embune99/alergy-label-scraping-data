@@ -56,7 +56,523 @@
       "Lecithin",
       "Polyacrylamide",
       "Ethylhexylglycerin."
-    ]
+    ],
+    "inci": {
+      "aqua": {
+        "cosing_info": {
+          "reference": "acb2fd0b-1174-4f52-8481-759e0f6a9471",
+          "inci_name": "AQUA",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "water": {
+        "cosing_info": {
+          "reference": "f47fb937-5e85-47be-a122-3522901eb942",
+          "inci_name": "WATER",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "sulfur": {
+        "cosing_info": {
+          "reference": "33224290-6065-452a-b2e0-9cd159102939",
+          "inci_name": "SULFUR",
+          "cas_no": [
+            "7704-34-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5362487",
+            "sid": "481107614",
+            "cas_no": "7704-34-9"
+          }
+        ]
+      },
+      "niacinamide": {
+        "cosing_info": {
+          "reference": "1d812aa9-1b8a-48cb-988b-d2478184a2f4",
+          "inci_name": "NIACINAMIDE",
+          "cas_no": [
+            "98-92-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "936",
+            "sid": "483925991",
+            "cas_no": "98-92-0"
+          }
+        ]
+      },
+      "zea": {
+        "cosing_info": {
+          "reference": "5b181bc3-e563-413f-8baf-b0f565f51927",
+          "inci_name": "ZEA MAYS KERNEL EXTRACT",
+          "cas_no": [
+            "84696-06-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "mays": {
+        "cosing_info": {
+          "reference": "8a604f92-3735-4923-b03c-b75566bc78b5",
+          "inci_name": "ZEA MAYS STARCH",
+          "cas_no": [
+            "9005-25-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "starch": {
+        "cosing_info": {
+          "reference": "93782f1a-117c-49e6-8eca-9fe44b1ef6fc",
+          "inci_name": "HYDROXYPROPYL STARCH",
+          "cas_no": [
+            "9049-76-7",
+            "68584-86-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "24847857",
+            "sid": "518155301",
+            "cas_no": "9049-76-7"
+          }
+        ]
+      },
+      "corn": {
+        "cosing_info": {
+          "reference": "6d4c2423-2ca3-4ba0-afb7-8b31049dbee5",
+          "inci_name": "OXIDIZED CORN OIL",
+          "cas_no": [
+            "223705-62-2"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "glycolic": {
+        "cosing_info": {
+          "reference": "bc322cf7-c2e3-445c-b092-77b2f8282361",
+          "inci_name": "GLYCOLIC ACID",
+          "cas_no": [
+            "79-14-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "757",
+            "sid": "481107207",
+            "cas_no": "79-14-1"
+          }
+        ]
+      },
+      "acid": {
+        "cosing_info": {
+          "reference": "2ce6a5ff-38b0-47a8-86bf-06e8a480b066",
+          "inci_name": "Perfluoroheptanoic acid; tridecafluoroheptanoic acid",
+          "cas_no": [
+            "375-85-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "67818",
+            "sid": "500815077",
+            "cas_no": "375-85-9"
+          }
+        ]
+      },
+      "stearyl": {
+        "cosing_info": {
+          "reference": "3e4066a6-9c3b-40ea-a5bb-c4ff27bdb307",
+          "inci_name": "STEARYL POLYLACTATE",
+          "cas_no": [
+            "187664-14-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "alcohol": {
+        "cosing_info": {
+          "reference": "ee98826a-bac8-4089-91f6-32d956b26c61",
+          "inci_name": "ALCOHOL",
+          "cas_no": [
+            "64-17-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "702",
+            "sid": "481101440",
+            "cas_no": "64-17-5"
+          }
+        ]
+      },
+      "glyceryl": {
+        "cosing_info": {
+          "reference": "94832999-3351-45b9-8bd2-ecf3e2675296",
+          "inci_name": "GLYCERYL HEPTANOATE",
+          "cas_no": [
+            "26402-24-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "21924355",
+            "sid": "505659259",
+            "cas_no": "26402-24-4"
+          }
+        ]
+      },
+      "stearate": {
+        "cosing_info": {
+          "reference": "cdb1ff74-2d7e-4c4d-90e5-e8b8ba176ae4",
+          "inci_name": "SUCROSE STEARATE",
+          "cas_no": [
+            "25168-73-4",
+            "37318-31-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "66895039",
+            "sid": "500829828",
+            "cas_no": "25168-73-4"
+          },
+          {
+            "cid": "66895039",
+            "sid": "500829828",
+            "cas_no": "37318-31-3"
+          }
+        ]
+      },
+      "sodium": {
+        "cosing_info": {
+          "reference": "436c3318-3a15-40db-b19b-54900ed3abc1",
+          "inci_name": "SODIUM SIALYLLACTOSE",
+          "cas_no": [
+            "128596-80-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "71308479",
+            "sid": "504500786",
+            "cas_no": "128596-80-5"
+          }
+        ]
+      },
+      "hydroxide": {
+        "cosing_info": {
+          "reference": "46d24c83-1ace-4209-a88d-c3f205d323de",
+          "inci_name": "POTASSIUM HYDROXIDE",
+          "cas_no": [
+            "1310-58-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "14797",
+            "sid": "481108011",
+            "cas_no": "1310-58-3"
+          }
+        ]
+      },
+      "argilla": {
+        "cosing_info": {
+          "reference": "7e33f990-4d90-46a2-8764-d53a0dd589d8",
+          "inci_name": "ARGILLA",
+          "cas_no": [
+            "12199-37-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "magnesium": {
+        "cosing_info": {
+          "reference": "3fd37db3-bd9e-4d98-b5fe-570c2db54cda",
+          "inci_name": "MAGNESIUM",
+          "cas_no": [
+            "7439-95-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5462224",
+            "sid": "481107309",
+            "cas_no": "7439-95-4"
+          }
+        ]
+      },
+      "aluminium": {
+        "cosing_info": {
+          "reference": "3d615678-0c95-45fc-ae54-e9cd9a78defa",
+          "inci_name": "Aluminium",
+          "cas_no": [
+            "7429-90-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5359268",
+            "sid": "481106873",
+            "cas_no": "7429-90-5"
+          }
+        ]
+      },
+      "silicate": {
+        "cosing_info": {
+          "reference": "efd18107-2d1c-49ff-88a8-dcb5eb38c489",
+          "inci_name": "SODIUM MAGNESIUM SILICATE",
+          "cas_no": [
+            "101659-01-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "165430229",
+            "sid": null,
+            "cas_no": "101659-01-2"
+          }
+        ]
+      },
+      "peg-100": {
+        "cosing_info": {
+          "reference": "4fda6be3-4373-4066-b5b6-c82d685800ab",
+          "inci_name": "PEG-100",
+          "cas_no": [
+            "25322-68-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "c13-14": {
+        "cosing_info": {
+          "reference": "08fedcf8-618b-4ffc-b89b-3227925ffbdc",
+          "inci_name": "C13-14 ISOPARAFFIN",
+          "cas_no": [
+            "246538-79-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "isoparaffin": {
+        "cosing_info": {
+          "reference": "eb4bb786-aefa-4c07-9ea7-82ab49515cf9",
+          "inci_name": "C15-19 ISOPARAFFIN",
+          "cas_no": [
+            "1437281-01-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "allantoin": {
+        "cosing_info": {
+          "reference": "3c1c52fd-e319-4364-9cd1-64f0793b928e",
+          "inci_name": "ALLANTOIN",
+          "cas_no": [
+            "97-59-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "204",
+            "sid": "481106862",
+            "cas_no": "97-59-6"
+          }
+        ]
+      },
+      "ceteareth-20": {
+        "cosing_info": {
+          "reference": "05480beb-c679-4042-968d-2368618d2cee",
+          "inci_name": "CETEARETH-20",
+          "cas_no": [
+            "68439-49-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "phenoxyethanol": {
+        "cosing_info": {
+          "reference": "f8f3a6ab-5656-4d9a-a085-729e03a7376d",
+          "inci_name": "PHENOXYETHANOL",
+          "cas_no": [
+            "122-99-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "31236",
+            "sid": "483926132",
+            "cas_no": "122-99-6"
+          }
+        ]
+      },
+      "phenylethyl": {
+        "cosing_info": {
+          "reference": "d648afe8-abd3-4de5-b745-b7984a973c90",
+          "inci_name": "PHENYLETHYL RESORCINOL",
+          "cas_no": [
+            "85-27-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "11171903",
+            "sid": "500816475",
+            "cas_no": "85-27-8"
+          }
+        ]
+      },
+      "resorcinol": {
+        "cosing_info": {
+          "reference": "5bbe6c29-3be7-40a1-98d5-b601bb2371c4",
+          "inci_name": "RESORCINOL",
+          "cas_no": [
+            "108-46-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5054",
+            "sid": "481107831",
+            "cas_no": "108-46-3"
+          }
+        ]
+      },
+      "tocopheryl": {
+        "cosing_info": {
+          "reference": "c8695df0-626d-4041-bd19-9ce5a4efa757",
+          "inci_name": "TOCOPHERYL RETINOATE",
+          "cas_no": [
+            "40516-49-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5282180",
+            "sid": "516551734",
+            "cas_no": "40516-49-2"
+          }
+        ]
+      },
+      "acetate": {
+        "cosing_info": {
+          "reference": "2e90250f-29b8-4066-987b-311a1cbc2f14",
+          "inci_name": "OCTYL ACETATE/MONOMETHYL ACETATE",
+          "cas_no": [
+            "68683-25-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "163261",
+            "sid": "500811241",
+            "cas_no": "68683-25-0"
+          }
+        ]
+      },
+      "disodium": {
+        "cosing_info": {
+          "reference": "9a36d68d-cfcc-48b5-a7b1-b5e0286611ea",
+          "inci_name": "DISODIUM PYROPHOSPHATE",
+          "cas_no": [
+            "7758-16-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "24451",
+            "sid": "500778501",
+            "cas_no": "7758-16-9"
+          }
+        ]
+      },
+      "edta": {
+        "cosing_info": {
+          "reference": "64cc9da1-36bb-4875-b859-77375d6ab3f5",
+          "inci_name": "EDTA",
+          "cas_no": [
+            "60-00-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6049",
+            "sid": "481107126",
+            "cas_no": "60-00-4"
+          }
+        ]
+      },
+      "laureth-7": {
+        "cosing_info": {
+          "reference": "f3209eaf-7691-40e2-bfb3-fcd21d66614d",
+          "inci_name": "LAURETH-7",
+          "cas_no": [
+            "3055-97-8",
+            "68439-50-9",
+            "9002-92-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "76459",
+            "sid": "505779343",
+            "cas_no": "3055-97-8"
+          }
+        ]
+      },
+      "hydrogenated": {
+        "cosing_info": {
+          "reference": "eaf6aff1-2d65-4b95-ac0e-66d0ff7d46ef",
+          "inci_name": "HYDROGENATED MICROCRYSTALLINE CERA",
+          "cas_no": [
+            "92045-76-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "lecithin": {
+        "cosing_info": {
+          "reference": "14893647-e46e-43be-84ab-32244787ecfa",
+          "inci_name": "LECITHIN",
+          "cas_no": [
+            "8002-43-5",
+            "8030-76-0 (soybean)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "polyacrylamide": {
+        "cosing_info": {
+          "reference": "8754010c-e6f4-409e-bca1-2233b82509a1",
+          "inci_name": "POLYACRYLAMIDE",
+          "cas_no": [
+            "9003-05-8"
+          ]
+        },
+        "pubchem_info": []
+      }
+    }
   },
   "additional_information": {
     "id": "120555991"

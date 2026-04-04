@@ -36,7 +36,303 @@
       "Tetrasodium",
       "Glutamate",
       "Diacetate"
-    ]
+    ],
+    "inci": {
+      "aqua": {
+        "cosing_info": {
+          "reference": "acb2fd0b-1174-4f52-8481-759e0f6a9471",
+          "inci_name": "AQUA",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "sodium": {
+        "cosing_info": {
+          "reference": "436c3318-3a15-40db-b19b-54900ed3abc1",
+          "inci_name": "SODIUM SIALYLLACTOSE",
+          "cas_no": [
+            "128596-80-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "71308479",
+            "sid": "504500786",
+            "cas_no": "128596-80-5"
+          }
+        ]
+      },
+      "laureth": {
+        "cosing_info": {
+          "reference": "b634f418-d30d-4f94-aa23-420eaf1e71e3",
+          "inci_name": "SODIUM LAURETH-11 CARBOXYLATE",
+          "cas_no": [
+            "33939-64-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "154267",
+            "sid": "505879589",
+            "cas_no": "33939-64-9"
+          }
+        ]
+      },
+      "sulfate": {
+        "cosing_info": {
+          "reference": "e122130b-9fd3-47ab-bf29-63f7f233422f",
+          "inci_name": "SODIUM LAURYL SULFATE",
+          "cas_no": [
+            "151-21-3",
+            "68585-47-7 (generic)",
+            "68955-19-1 (generic)",
+            "73296-89-6",
+            "85586-07-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "3423265",
+            "sid": "505883583",
+            "cas_no": "151-21-3"
+          }
+        ]
+      },
+      "disodium": {
+        "cosing_info": {
+          "reference": "9a36d68d-cfcc-48b5-a7b1-b5e0286611ea",
+          "inci_name": "DISODIUM PYROPHOSPHATE",
+          "cas_no": [
+            "7758-16-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "24451",
+            "sid": "500778501",
+            "cas_no": "7758-16-9"
+          }
+        ]
+      },
+      "cocoamphodiacetate": {
+        "cosing_info": {
+          "reference": "9a4d5c99-8c59-40cc-8d51-49ee5cdabcf8",
+          "inci_name": "DISODIUM COCOAMPHODIACETATE",
+          "cas_no": []
+        },
+        "pubchem_info": []
+      },
+      "glyceryl": {
+        "cosing_info": {
+          "reference": "94832999-3351-45b9-8bd2-ecf3e2675296",
+          "inci_name": "GLYCERYL HEPTANOATE",
+          "cas_no": [
+            "26402-24-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "21924355",
+            "sid": "505659259",
+            "cas_no": "26402-24-4"
+          }
+        ]
+      },
+      "oleate": {
+        "cosing_info": {
+          "reference": "9fa5620b-e1ed-46f2-878a-a6f9fbd850a4",
+          "inci_name": "ETHYL OLEATE",
+          "cas_no": [
+            "111-62-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5363269",
+            "sid": "500782445",
+            "cas_no": "111-62-6"
+          }
+        ]
+      },
+      "chloride": {
+        "cosing_info": {
+          "reference": "c34b87ef-4a9c-4fea-ab84-b7fa2e76303d",
+          "inci_name": "Hexamethonium chloride; Hexamethylene(bistrimethylammonium)chloride",
+          "cas_no": [
+            "60-25-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "93550",
+            "sid": "500789484",
+            "cas_no": "60-25-3"
+          }
+        ]
+      },
+      "coco-glucoside": {
+        "cosing_info": {
+          "reference": "8977b14c-4cd8-40f6-9016-49647d697baf",
+          "inci_name": "COCO-GLUCOSIDE",
+          "cas_no": [
+            "110615-47-9"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "caprylyl": {
+        "cosing_info": {
+          "reference": "a75bfbc3-4ee6-421f-86f5-afbcc5dbb570",
+          "inci_name": "CAPRYLYL LAURATE",
+          "cas_no": [
+            "5303-24-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "79185",
+            "sid": "505569519",
+            "cas_no": "5303-24-2"
+          }
+        ]
+      },
+      "glycol": {
+        "cosing_info": {
+          "reference": "9676e281-f1c1-45e7-8bc5-dde960d1fc3d",
+          "inci_name": "GLYCOL",
+          "cas_no": [
+            "107-21-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "174",
+            "sid": "481107978",
+            "cas_no": "107-21-1"
+          }
+        ]
+      },
+      "lactic": {
+        "cosing_info": {
+          "reference": "7b7b024e-34fa-4f28-883a-0a1bcc52ffb0",
+          "inci_name": "LACTIC YEASTS",
+          "cas_no": [
+            "68876-77-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "acid": {
+        "cosing_info": {
+          "reference": "2ce6a5ff-38b0-47a8-86bf-06e8a480b066",
+          "inci_name": "Perfluoroheptanoic acid; tridecafluoroheptanoic acid",
+          "cas_no": [
+            "375-85-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "67818",
+            "sid": "500815077",
+            "cas_no": "375-85-9"
+          }
+        ]
+      },
+      "dipropylene": {
+        "cosing_info": {
+          "reference": "ab618234-98c2-4c12-9dda-8334ec1ea2cb",
+          "inci_name": "DIPROPYLENE GLYCOL",
+          "cas_no": [
+            "110-98-5",
+            "25265-71-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8087",
+            "sid": "505405034",
+            "cas_no": "110-98-5"
+          },
+          {
+            "cid": "134692469",
+            "sid": "483927616",
+            "cas_no": "25265-71-8"
+          }
+        ]
+      },
+      "caprylate": {
+        "cosing_info": {
+          "reference": "bf49a36b-c36a-4705-b12b-660bc2693c41",
+          "inci_name": "TEA-CAPRYLATE",
+          "cas_no": [
+            "22919-56-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "161405",
+            "sid": "505896582",
+            "cas_no": "22919-56-8"
+          }
+        ]
+      },
+      "tetrasodium": {
+        "cosing_info": {
+          "reference": "01a027b6-331b-4a9f-a100-21ff6722517d",
+          "inci_name": "TETRASODIUM PYROPHOSPHATE",
+          "cas_no": [
+            "7722-88-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "24403",
+            "sid": "483926325",
+            "cas_no": "7722-88-5"
+          }
+        ]
+      },
+      "glutamate": {
+        "cosing_info": {
+          "reference": "84d305bc-3f2d-4e6e-ac28-eb37a5d3ab9b",
+          "inci_name": "ALANINE GLUTAMATE",
+          "cas_no": [
+            "13187-90-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "128841",
+            "sid": "516561258",
+            "cas_no": "13187-90-1"
+          }
+        ]
+      },
+      "diacetate": {
+        "cosing_info": {
+          "reference": "c1eb096e-99e2-46ae-aa55-2a713a7bdf00",
+          "inci_name": "GLYCERYL LAURATE DIACETATE",
+          "cas_no": [
+            "30899-62-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "169212",
+            "sid": "505659272",
+            "cas_no": "30899-62-8"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120210205"

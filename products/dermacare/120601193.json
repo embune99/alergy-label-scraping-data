@@ -45,7 +45,328 @@
       "PINASTER",
       "BARK/BUD",
       "EXTRACT"
-    ]
+    ],
+    "inci": {
+      "aqua": {
+        "cosing_info": {
+          "reference": "acb2fd0b-1174-4f52-8481-759e0f6a9471",
+          "inci_name": "AQUA",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "water": {
+        "cosing_info": {
+          "reference": "f47fb937-5e85-47be-a122-3522901eb942",
+          "inci_name": "WATER",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "ascorbic": {
+        "cosing_info": {
+          "reference": "4566935f-c71f-40e0-9f50-cde43ab151b2",
+          "inci_name": "ASCORBIC ACID",
+          "cas_no": [
+            "50-81-7",
+            "62624-30-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "54670067",
+            "sid": "481107957",
+            "cas_no": "50-81-7"
+          },
+          {
+            "cid": "54676860",
+            "sid": "505578434",
+            "cas_no": "62624-30-0"
+          }
+        ]
+      },
+      "acid": {
+        "cosing_info": {
+          "reference": "2ce6a5ff-38b0-47a8-86bf-06e8a480b066",
+          "inci_name": "Perfluoroheptanoic acid; tridecafluoroheptanoic acid",
+          "cas_no": [
+            "375-85-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "67818",
+            "sid": "500815077",
+            "cas_no": "375-85-9"
+          }
+        ]
+      },
+      "alcohol": {
+        "cosing_info": {
+          "reference": "ee98826a-bac8-4089-91f6-32d956b26c61",
+          "inci_name": "ALCOHOL",
+          "cas_no": [
+            "64-17-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "702",
+            "sid": "481101440",
+            "cas_no": "64-17-5"
+          }
+        ]
+      },
+      "denat.": {
+        "cosing_info": {
+          "reference": "1eb22e6e-941d-4099-b8e6-5533a356ce04",
+          "inci_name": "ALCOHOL DENAT.",
+          "cas_no": [
+            "64-17-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "702",
+            "sid": "481101440",
+            "cas_no": "64-17-5"
+          }
+        ]
+      },
+      "dipropylene": {
+        "cosing_info": {
+          "reference": "ab618234-98c2-4c12-9dda-8334ec1ea2cb",
+          "inci_name": "DIPROPYLENE GLYCOL",
+          "cas_no": [
+            "110-98-5",
+            "25265-71-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8087",
+            "sid": "505405034",
+            "cas_no": "110-98-5"
+          },
+          {
+            "cid": "134692469",
+            "sid": "483927616",
+            "cas_no": "25265-71-8"
+          }
+        ]
+      },
+      "glycol": {
+        "cosing_info": {
+          "reference": "9676e281-f1c1-45e7-8bc5-dde960d1fc3d",
+          "inci_name": "GLYCOL",
+          "cas_no": [
+            "107-21-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "174",
+            "sid": "481107978",
+            "cas_no": "107-21-1"
+          }
+        ]
+      },
+      "glycerin": {
+        "cosing_info": {
+          "reference": "59eb65ef-7b29-4486-a311-f194224c11e6",
+          "inci_name": "GLYCERIN",
+          "cas_no": [
+            "56-81-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "753",
+            "sid": "481110738",
+            "cas_no": "56-81-5"
+          }
+        ]
+      },
+      "laureth-23": {
+        "cosing_info": {
+          "reference": "92f10615-1747-4667-88b6-cdec9efe1c8e",
+          "inci_name": "LAURETH-23",
+          "cas_no": [
+            "9002-92-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "neohesperidin": {
+        "cosing_info": {
+          "reference": "6c0334a6-7dca-4f34-b470-a1711d5dca97",
+          "inci_name": "NEOHESPERIDIN",
+          "cas_no": [
+            "13241-33-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "442439",
+            "sid": "500808675",
+            "cas_no": "13241-33-3"
+          }
+        ]
+      },
+      "dihydrochalcone": {
+        "cosing_info": {
+          "reference": "e2bf2e27-65ca-49b1-93a3-ef89adaf2761",
+          "inci_name": "DIHYDROXYMETHOXY DIHYDROCHALCONE",
+          "cas_no": [
+            "1047973-87-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "sodium": {
+        "cosing_info": {
+          "reference": "436c3318-3a15-40db-b19b-54900ed3abc1",
+          "inci_name": "SODIUM SIALYLLACTOSE",
+          "cas_no": [
+            "128596-80-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "71308479",
+            "sid": "504500786",
+            "cas_no": "128596-80-5"
+          }
+        ]
+      },
+      "hydroxide": {
+        "cosing_info": {
+          "reference": "46d24c83-1ace-4209-a88d-c3f205d323de",
+          "inci_name": "POTASSIUM HYDROXIDE",
+          "cas_no": [
+            "1310-58-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "14797",
+            "sid": "481108011",
+            "cas_no": "1310-58-3"
+          }
+        ]
+      },
+      "tocopherol": {
+        "cosing_info": {
+          "reference": "e353a1e9-9330-4c22-bf1a-f58ac6d356a9",
+          "inci_name": "TOCOPHEROL",
+          "cas_no": [
+            "54-28-4 (gamma)",
+            "16698-35-4(beta)",
+            "10191-41-0(DL)",
+            "119-13-1",
+            "1406-18-4",
+            "1406-66-2",
+            "2074-53-5 (DL)",
+            "59-02-9 (D)",
+            "7616-22-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "92094",
+            "sid": "500775109",
+            "cas_no": "119-13-1"
+          },
+          {
+            "cid": "14985",
+            "sid": "483926503",
+            "cas_no": "1406-18-4"
+          },
+          {
+            "cid": "14986",
+            "sid": "516579069",
+            "cas_no": "1406-66-2"
+          },
+          {
+            "cid": "14986",
+            "sid": "516579069",
+            "cas_no": "7616-22-0"
+          }
+        ]
+      },
+      "hydrolyzed": {
+        "cosing_info": {
+          "reference": "23c3bca9-cbcb-4e62-ae2b-ddd2ae73c62f",
+          "inci_name": "HYDROLYZED EGG SHELL MEMBRANE",
+          "cas_no": [
+            "227025-35-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "hyaluronic": {
+        "cosing_info": {
+          "reference": "3b7ce859-fc1c-46cc-9344-19b27ec0fb3c",
+          "inci_name": "HYALURONIC ACID",
+          "cas_no": [
+            "9004-61-9"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "pinus": {
+        "cosing_info": {
+          "reference": "d2f5dbd2-aa0a-429f-9675-5379b763b899",
+          "inci_name": "PINUS SYLVESTRIS WOOD EXTRACT",
+          "cas_no": [
+            "84012-35-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "pinaster": {
+        "cosing_info": {
+          "reference": "23d878b5-d227-456a-98ff-9a714fd67842",
+          "inci_name": "PINUS PINASTER BARK EXTRACT",
+          "cas_no": [
+            "90082-75-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "extract": {
+        "cosing_info": {
+          "reference": "6ff40204-b73a-486d-bc81-2a5a6f2faeee",
+          "inci_name": "HAEMATOXYLUM CAMPECHIANUM WOOD EXTRACT",
+          "cas_no": [
+            "8005-33-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "442514",
+            "sid": "505779233",
+            "cas_no": "8005-33-2"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120601193"

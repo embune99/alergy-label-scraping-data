@@ -37,7 +37,236 @@
       "Grandis",
       "Peel",
       "Tocopherol."
-    ]
+    ],
+    "inci": {
+      "olus": {
+        "cosing_info": {
+          "reference": "df314e6c-8be2-43b9-9551-e133d58d6958",
+          "inci_name": "OLUS OIL",
+          "cas_no": [
+            "68956-68-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "oil": {
+        "cosing_info": {
+          "reference": "73055330-91dd-4d1e-b860-925fb2ecdbc8",
+          "inci_name": "MENHADEN OIL",
+          "cas_no": [
+            "8002-50-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "santalum": {
+        "cosing_info": {
+          "reference": "5b712c14-9704-47ca-b14e-413d65106037",
+          "inci_name": "SANTALUM ALBUM EXTRACT",
+          "cas_no": [
+            "84787-70-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "13084",
+            "sid": "505386815",
+            "cas_no": "84787-70-2"
+          }
+        ]
+      },
+      "album": {
+        "cosing_info": {
+          "reference": "5b712c14-9704-47ca-b14e-413d65106037",
+          "inci_name": "SANTALUM ALBUM EXTRACT",
+          "cas_no": [
+            "84787-70-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "13084",
+            "sid": "505386815",
+            "cas_no": "84787-70-2"
+          }
+        ]
+      },
+      "bisabolol": {
+        "cosing_info": {
+          "reference": "af49bbe4-6d8f-4da6-9a5e-deb514149ff1",
+          "inci_name": "BISABOLOL",
+          "cas_no": [
+            "515-69-5",
+            "23089-26-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "1549992",
+            "sid": "516563215",
+            "cas_no": "515-69-5"
+          },
+          {
+            "cid": "442343",
+            "sid": "482029414",
+            "cas_no": "23089-26-1"
+          }
+        ]
+      },
+      "prunus": {
+        "cosing_info": {
+          "reference": "66fda891-5114-4a29-81f7-88df1b2ca9b2",
+          "inci_name": "PRUNUS PERSICA FRUIT",
+          "cas_no": [
+            "84012-34-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "amygdalus": {
+        "cosing_info": {
+          "reference": "b7c3dda2-0fbe-432f-82dc-9af978bb3910",
+          "inci_name": "PRUNUS AMYGDALUS SATIVA KERNEL EXTRACT",
+          "cas_no": [
+            "90320-37-9"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "dulcis": {
+        "cosing_info": {
+          "reference": "5f483e31-3135-410e-941f-896551cc389d",
+          "inci_name": "PRUNUS AMYGDALUS DULCIS SEED POWDER",
+          "cas_no": [
+            "90320-37-9 (generic)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "limonene": {
+        "cosing_info": {
+          "reference": "d9a853fb-831a-4f8e-a3f5-d57b976d9c88",
+          "inci_name": "LIMONENE",
+          "cas_no": [
+            "138-86-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "22311",
+            "sid": "518147164",
+            "cas_no": "138-86-3"
+          }
+        ]
+      },
+      "helianthus": {
+        "cosing_info": {
+          "reference": "981b4ff2-0470-4c2b-9a2a-bdebc1e66420",
+          "inci_name": "HELIANTHUS ANNUUS SEED WAX",
+          "cas_no": [
+            "1286686-34-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "annuus": {
+        "cosing_info": {
+          "reference": "2d06b0fb-16aa-4515-bd4c-af0007d51709",
+          "inci_name": "HELIANTHUS ANNUUS SEED",
+          "cas_no": [
+            "84625-38-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "seed": {
+        "cosing_info": {
+          "reference": "981b4ff2-0470-4c2b-9a2a-bdebc1e66420",
+          "inci_name": "HELIANTHUS ANNUUS SEED WAX",
+          "cas_no": [
+            "1286686-34-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "aloe": {
+        "cosing_info": {
+          "reference": "2417ba86-6200-452d-8506-2e62681569b2",
+          "inci_name": "ALOE SPECIES RESIN",
+          "cas_no": [
+            "84837-08-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "ferox": {
+        "cosing_info": {
+          "reference": "dc51ce46-f3cd-4a9f-ad10-e78c9f4787a7",
+          "inci_name": "ALOE FEROX LEAF EXTRACT",
+          "cas_no": [
+            "84649-82-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "leaf": {
+        "cosing_info": {
+          "reference": "8e8792ba-fdf8-439d-864b-3c48468d6204",
+          "inci_name": "PSIDIUM GUAJAVA LEAF OIL",
+          "cas_no": [
+            "91770-12-6 (generic)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "extract": {
+        "cosing_info": {
+          "reference": "6ff40204-b73a-486d-bc81-2a5a6f2faeee",
+          "inci_name": "HAEMATOXYLUM CAMPECHIANUM WOOD EXTRACT",
+          "cas_no": [
+            "8005-33-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "442514",
+            "sid": "505779233",
+            "cas_no": "8005-33-2"
+          }
+        ]
+      },
+      "citrus": {
+        "cosing_info": {
+          "reference": "ecf6ef2d-4da6-4ff8-a1d0-d29422d24e3a",
+          "inci_name": "CITRUS AURANTIUM DULCIS PEEL OIL",
+          "cas_no": [
+            "8008-57-9"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "grandis": {
+        "cosing_info": {
+          "reference": "08310a23-21e5-497b-aa2b-b5fadf6c8303",
+          "inci_name": "CITRUS GRANDIS PEEL",
+          "cas_no": [
+            "90045-43-5",
+            "8016-20-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "peel": {
+        "cosing_info": {
+          "reference": "e863d775-c505-4bbd-a8cf-2f9acc6e6afe",
+          "inci_name": "ZANTHOXYLUM PIPERITUM PEEL WATER",
+          "cas_no": [
+            "97404-53-0 (generic)"
+          ]
+        },
+        "pubchem_info": []
+      }
+    }
   },
   "additional_information": {
     "id": "110457511"

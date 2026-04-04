@@ -57,7 +57,438 @@
       "Benzyl",
       "Benzoate"
     ],
-    "inci": {}
+    "inci": {
+      "aqua": {
+        "cosing_info": {
+          "reference": "acb2fd0b-1174-4f52-8481-759e0f6a9471",
+          "inci_name": "AQUA",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "stearyl": {
+        "cosing_info": {
+          "reference": "3e4066a6-9c3b-40ea-a5bb-c4ff27bdb307",
+          "inci_name": "STEARYL POLYLACTATE",
+          "cas_no": [
+            "187664-14-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "alcohol": {
+        "cosing_info": {
+          "reference": "ee98826a-bac8-4089-91f6-32d956b26c61",
+          "inci_name": "ALCOHOL",
+          "cas_no": [
+            "64-17-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "702",
+            "sid": "481101440",
+            "cas_no": "64-17-5"
+          }
+        ]
+      },
+      "cetyl": {
+        "cosing_info": {
+          "reference": "12f4e538-20a6-4c8f-9402-8dbea9fb85f5",
+          "inci_name": "CETYL METHACRYLATE",
+          "cas_no": [
+            "2495-27-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "17235",
+            "sid": "481108850",
+            "cas_no": "2495-27-4"
+          }
+        ]
+      },
+      "glyceryl": {
+        "cosing_info": {
+          "reference": "94832999-3351-45b9-8bd2-ecf3e2675296",
+          "inci_name": "GLYCERYL HEPTANOATE",
+          "cas_no": [
+            "26402-24-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "21924355",
+            "sid": "505659259",
+            "cas_no": "26402-24-4"
+          }
+        ]
+      },
+      "stearate": {
+        "cosing_info": {
+          "reference": "cdb1ff74-2d7e-4c4d-90e5-e8b8ba176ae4",
+          "inci_name": "SUCROSE STEARATE",
+          "cas_no": [
+            "25168-73-4",
+            "37318-31-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "66895039",
+            "sid": "500829828",
+            "cas_no": "25168-73-4"
+          },
+          {
+            "cid": "66895039",
+            "sid": "500829828",
+            "cas_no": "37318-31-3"
+          }
+        ]
+      },
+      "toluene-2": {
+        "cosing_info": {
+          "reference": "b641f207-4c89-41ae-9211-2254901d10e6",
+          "inci_name": "2-Methyl-m-phenylenediamine (Toluene-2,6-diamine)",
+          "cas_no": [
+            "823-40-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "13205",
+            "sid": "500726542",
+            "cas_no": "823-40-5"
+          }
+        ]
+      },
+      "sulfate": {
+        "cosing_info": {
+          "reference": "e122130b-9fd3-47ab-bf29-63f7f233422f",
+          "inci_name": "SODIUM LAURYL SULFATE",
+          "cas_no": [
+            "151-21-3",
+            "68585-47-7 (generic)",
+            "68955-19-1 (generic)",
+            "73296-89-6",
+            "85586-07-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "3423265",
+            "sid": "505883583",
+            "cas_no": "151-21-3"
+          }
+        ]
+      },
+      "ammonium": {
+        "cosing_info": {
+          "reference": "51026106-bd74-4934-b979-3f6dcb42c1ba",
+          "inci_name": "AMMONIUM GLYCYRRHIZATE",
+          "cas_no": [
+            "53956-04-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "62074",
+            "sid": "500755579",
+            "cas_no": "53956-04-0"
+          }
+        ]
+      },
+      "hydroxide": {
+        "cosing_info": {
+          "reference": "46d24c83-1ace-4209-a88d-c3f205d323de",
+          "inci_name": "POTASSIUM HYDROXIDE",
+          "cas_no": [
+            "1310-58-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "14797",
+            "sid": "481108011",
+            "cas_no": "1310-58-3"
+          }
+        ]
+      },
+      "resorcinol": {
+        "cosing_info": {
+          "reference": "5bbe6c29-3be7-40a1-98d5-b601bb2371c4",
+          "inci_name": "RESORCINOL",
+          "cas_no": [
+            "108-46-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5054",
+            "sid": "481107831",
+            "cas_no": "108-46-3"
+          }
+        ]
+      },
+      "sodium": {
+        "cosing_info": {
+          "reference": "436c3318-3a15-40db-b19b-54900ed3abc1",
+          "inci_name": "SODIUM SIALYLLACTOSE",
+          "cas_no": [
+            "128596-80-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "71308479",
+            "sid": "504500786",
+            "cas_no": "128596-80-5"
+          }
+        ]
+      },
+      "palmitate": {
+        "cosing_info": {
+          "reference": "9aee3c4b-4a30-48de-a006-6eadbefabf22",
+          "inci_name": "ISOSTEARYL PALMITATE",
+          "cas_no": [
+            "72576-80-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "11443583",
+            "sid": "505788087",
+            "cas_no": "72576-80-8"
+          }
+        ]
+      },
+      "sulfite": {
+        "cosing_info": {
+          "reference": "e6ea0208-7091-43cb-b97b-c599e1fa2827",
+          "inci_name": "MEA-SULFITE",
+          "cas_no": [
+            "13427-63-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "16204960",
+            "sid": "500802987",
+            "cas_no": "13427-63-9"
+          }
+        ]
+      },
+      "m-aminophenol": {
+        "cosing_info": {
+          "reference": "637f8a15-1693-4f20-91d8-39cf99beef73",
+          "inci_name": "M-AMINOPHENOL",
+          "cas_no": [
+            "591-27-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "11568",
+            "sid": "500736404",
+            "cas_no": "591-27-5"
+          }
+        ]
+      },
+      "acrylates": {
+        "cosing_info": {
+          "reference": "64f9372d-c5af-4293-97cf-cd705cf052d9",
+          "inci_name": "ACRYLATES/C26-28 OLEFIN COPOLYMER",
+          "cas_no": [
+            "940912-27-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "copolymer": {
+        "cosing_info": {
+          "reference": "fcf102c4-72b2-4018-84a0-e49a1c54ba96",
+          "inci_name": "ACRYLATES/METHOXY PEG-10 MALEATE/STYRENE COPOLYMER",
+          "cas_no": [
+            "68988-26-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "phenethyl": {
+        "cosing_info": {
+          "reference": "23484912-007f-4313-b827-11a4b4efc35a",
+          "inci_name": "DIMETHYL PHENETHYL ACETATE",
+          "cas_no": [
+            "151-05-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "9024",
+            "sid": "505583981",
+            "cas_no": "151-05-3"
+          }
+        ]
+      },
+      "citronellol": {
+        "cosing_info": {
+          "reference": "0dc4ed58-7d3b-4143-a03f-a9d1dccdabc9",
+          "inci_name": "CITRONELLOL",
+          "cas_no": [
+            "106-22-9",
+            "26489-01-0",
+            "7540-51-4",
+            "1117-61-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8842",
+            "sid": "482039864",
+            "cas_no": "106-22-9"
+          },
+          {
+            "cid": "8842",
+            "sid": "482039864",
+            "cas_no": "26489-01-0"
+          },
+          {
+            "cid": "7793",
+            "sid": "505563004",
+            "cas_no": "7540-51-4"
+          },
+          {
+            "cid": "101977",
+            "sid": "483924806",
+            "cas_no": "1117-61-9"
+          }
+        ]
+      },
+      "etidronic": {
+        "cosing_info": {
+          "reference": "bed5db5c-4406-4e4b-964c-9d6fa74ee3c7",
+          "inci_name": "ETIDRONIC ACID",
+          "cas_no": [
+            "2809-21-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "3305",
+            "sid": "481107159",
+            "cas_no": "2809-21-4"
+          }
+        ]
+      },
+      "acid": {
+        "cosing_info": {
+          "reference": "2ce6a5ff-38b0-47a8-86bf-06e8a480b066",
+          "inci_name": "Perfluoroheptanoic acid; tridecafluoroheptanoic acid",
+          "cas_no": [
+            "375-85-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "67818",
+            "sid": "500815077",
+            "cas_no": "375-85-9"
+          }
+        ]
+      },
+      "4-amino-2-hydroxytoluene": {
+        "cosing_info": {
+          "reference": "c16154e9-2843-4815-9292-1bf1fa4bd365",
+          "inci_name": "4-AMINO-2-HYDROXYTOLUENE",
+          "cas_no": [
+            "2835-95-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "17818",
+            "sid": "516559150",
+            "cas_no": "2835-95-2"
+          }
+        ]
+      },
+      "potassium": {
+        "cosing_info": {
+          "reference": "a7960d89-221b-44b5-8b26-fc243a13308f",
+          "inci_name": "POTASSIUM CAROATE",
+          "cas_no": [
+            "70693-62-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "nerol": {
+        "cosing_info": {
+          "reference": "7b881c9e-1a77-4f9a-bbdb-6eb7c902211b",
+          "inci_name": "NEROL OXIDE",
+          "cas_no": [
+            "1786-08-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "61275",
+            "sid": "505828109",
+            "cas_no": "1786-08-9"
+          }
+        ]
+      },
+      "geraniol": {
+        "cosing_info": {
+          "reference": "4937f329-ce46-43be-bb99-3307e3966e02",
+          "inci_name": "GERANIOL",
+          "cas_no": [
+            "106-24-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "637566",
+            "sid": "481107196",
+            "cas_no": "106-24-1"
+          }
+        ]
+      },
+      "benzyl": {
+        "cosing_info": {
+          "reference": "b8bed1f8-a18b-4f12-ada2-664e686fddd7",
+          "inci_name": "BENZYL ACETATE",
+          "cas_no": [
+            "140-11-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8785",
+            "sid": "481106933",
+            "cas_no": "140-11-4"
+          }
+        ]
+      },
+      "benzoate": {
+        "cosing_info": {
+          "reference": "5b65f7cc-6a38-4226-ac3a-f0701f04cd27",
+          "inci_name": "CASTOR OIL BENZOATE",
+          "cas_no": [
+            "225927-34-4"
+          ]
+        },
+        "pubchem_info": []
+      }
+    }
   },
   "additional_information": {
     "id": "120811078"

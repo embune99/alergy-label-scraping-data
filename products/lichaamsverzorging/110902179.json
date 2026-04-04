@@ -82,7 +82,747 @@
       "Dipeptide-3",
       "Norleucine",
       "Hydroxide."
-    ]
+    ],
+    "inci": {
+      "aqua": {
+        "cosing_info": {
+          "reference": "acb2fd0b-1174-4f52-8481-759e0f6a9471",
+          "inci_name": "AQUA",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "isododecane": {
+        "cosing_info": {
+          "reference": "819c7781-692d-43f4-a127-29542bf07cd6",
+          "inci_name": "ISODODECANE",
+          "cas_no": [
+            "31807-55-3",
+            "93685-81-5",
+            "13475-82-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "23459",
+            "sid": "505472035",
+            "cas_no": "31807-55-3"
+          },
+          {
+            "cid": "8182",
+            "sid": "481107115",
+            "cas_no": "93685-81-5"
+          },
+          {
+            "cid": "26058",
+            "sid": "500724287",
+            "cas_no": "13475-82-6"
+          }
+        ]
+      },
+      "glycerin": {
+        "cosing_info": {
+          "reference": "59eb65ef-7b29-4486-a311-f194224c11e6",
+          "inci_name": "GLYCERIN",
+          "cas_no": [
+            "56-81-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "753",
+            "sid": "481110738",
+            "cas_no": "56-81-5"
+          }
+        ]
+      },
+      "hydroxyethyl": {
+        "cosing_info": {
+          "reference": "74a42f45-c720-4dbf-9bc8-a97984b1ebc9",
+          "inci_name": "HYDROXYETHYL METHYLTOLYLAMINE",
+          "cas_no": [
+            "2842-44-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "76094",
+            "sid": "505785201",
+            "cas_no": "2842-44-6"
+          }
+        ]
+      },
+      "acryloyldimethyl": {
+        "cosing_info": {
+          "reference": "edbdfa18-0dbf-4155-8918-2efe9b770fa8",
+          "inci_name": "HYDROXYETHYL ACRYLATE/SODIUM ACRYLOYLDIMETHYL TAURATE COPOLYMER",
+          "cas_no": [
+            "111286-86-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "taurate": {
+        "cosing_info": {
+          "reference": "edbdfa18-0dbf-4155-8918-2efe9b770fa8",
+          "inci_name": "HYDROXYETHYL ACRYLATE/SODIUM ACRYLOYLDIMETHYL TAURATE COPOLYMER",
+          "cas_no": [
+            "111286-86-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "copolymer": {
+        "cosing_info": {
+          "reference": "fcf102c4-72b2-4018-84a0-e49a1c54ba96",
+          "inci_name": "ACRYLATES/METHOXY PEG-10 MALEATE/STYRENE COPOLYMER",
+          "cas_no": [
+            "68988-26-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "aluminium": {
+        "cosing_info": {
+          "reference": "3d615678-0c95-45fc-ae54-e9cd9a78defa",
+          "inci_name": "Aluminium",
+          "cas_no": [
+            "7429-90-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5359268",
+            "sid": "481106873",
+            "cas_no": "7429-90-5"
+          }
+        ]
+      },
+      "starch": {
+        "cosing_info": {
+          "reference": "93782f1a-117c-49e6-8eca-9fe44b1ef6fc",
+          "inci_name": "HYDROXYPROPYL STARCH",
+          "cas_no": [
+            "9049-76-7",
+            "68584-86-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "24847857",
+            "sid": "518155301",
+            "cas_no": "9049-76-7"
+          }
+        ]
+      },
+      "octenylsuccinate": {
+        "cosing_info": {
+          "reference": "de89a787-b93c-4148-99ec-6c85ad3aabc1",
+          "inci_name": "HYDROLYZED SACCHAROMYCES EXTRACT OCTENYLSUCCINATE",
+          "cas_no": [
+            "1204060-83-2"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "simmondsia": {
+        "cosing_info": {
+          "reference": "8cdfa80d-10d3-4239-b373-be3c29a1ad78",
+          "inci_name": "SIMMONDSIA CHINENSIS SEED EXTRACT",
+          "cas_no": [
+            "90045-98-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "chinensis": {
+        "cosing_info": {
+          "reference": "ab70a694-30d7-45dd-9090-08e5e18b5ef5",
+          "inci_name": "SCHISANDRA CHINENSIS FRUIT",
+          "cas_no": [
+            "223748-53-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "seed": {
+        "cosing_info": {
+          "reference": "981b4ff2-0470-4c2b-9a2a-bdebc1e66420",
+          "inci_name": "HELIANTHUS ANNUUS SEED WAX",
+          "cas_no": [
+            "1286686-34-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "oil": {
+        "cosing_info": {
+          "reference": "73055330-91dd-4d1e-b860-925fb2ecdbc8",
+          "inci_name": "MENHADEN OIL",
+          "cas_no": [
+            "8002-50-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "phenoxyethanol": {
+        "cosing_info": {
+          "reference": "f8f3a6ab-5656-4d9a-a085-729e03a7376d",
+          "inci_name": "PHENOXYETHANOL",
+          "cas_no": [
+            "122-99-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "31236",
+            "sid": "483926132",
+            "cas_no": "122-99-6"
+          }
+        ]
+      },
+      "parfum": {
+        "cosing_info": {
+          "reference": "877337a9-4a8b-4d17-bed7-f3a39d335e80",
+          "inci_name": "PARFUM",
+          "cas_no": []
+        },
+        "pubchem_info": []
+      },
+      "peg-40": {
+        "cosing_info": {
+          "reference": "a38e8f6b-4ba5-4a34-861c-b31ca4d1cf8b",
+          "inci_name": "PEG-40",
+          "cas_no": [
+            "25322-68-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "hydrogenated": {
+        "cosing_info": {
+          "reference": "eaf6aff1-2d65-4b95-ac0e-66d0ff7d46ef",
+          "inci_name": "HYDROGENATED MICROCRYSTALLINE CERA",
+          "cas_no": [
+            "92045-76-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "castor": {
+        "cosing_info": {
+          "reference": "1873fd44-7a7e-49d2-9de5-6a02eda6b7ee",
+          "inci_name": "ACETYLATED HYDROGENATED CASTOR GLYCERIDE",
+          "cas_no": [
+            "736150-63-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "lecithin": {
+        "cosing_info": {
+          "reference": "14893647-e46e-43be-84ab-32244787ecfa",
+          "inci_name": "LECITHIN",
+          "cas_no": [
+            "8002-43-5",
+            "8030-76-0 (soybean)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "polysorbate": {
+        "cosing_info": {
+          "reference": "a1aea1e2-2fe9-4a8d-945d-aa5e6e88b201",
+          "inci_name": "POLYSORBATE 80",
+          "cas_no": [
+            "9005-65-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "60": {
+        "cosing_info": {
+          "reference": "dfd571ab-6971-4b59-b2d0-7f585eddbe40",
+          "inci_name": "C40-60 ALCOHOLS",
+          "cas_no": [
+            "222400-19-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "sorbitan": {
+        "cosing_info": {
+          "reference": "681f9632-034c-4b5d-86fe-be30141cd08d",
+          "inci_name": "SORBITAN CAPRYLATE",
+          "cas_no": [
+            "60177-36-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "90474014",
+            "sid": "500827843",
+            "cas_no": "60177-36-8"
+          }
+        ]
+      },
+      "stearate": {
+        "cosing_info": {
+          "reference": "cdb1ff74-2d7e-4c4d-90e5-e8b8ba176ae4",
+          "inci_name": "SUCROSE STEARATE",
+          "cas_no": [
+            "25168-73-4",
+            "37318-31-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "66895039",
+            "sid": "500829828",
+            "cas_no": "25168-73-4"
+          },
+          {
+            "cid": "66895039",
+            "sid": "500829828",
+            "cas_no": "37318-31-3"
+          }
+        ]
+      },
+      "ethylhexylglycerin": {
+        "cosing_info": {
+          "reference": "c4da9c7a-3487-4c25-863c-9ddd013282b5",
+          "inci_name": "ETHYLHEXYLGLYCERIN",
+          "cas_no": [
+            "70445-33-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "9859093",
+            "sid": "483927937",
+            "cas_no": "70445-33-9"
+          }
+        ]
+      },
+      "sodium": {
+        "cosing_info": {
+          "reference": "436c3318-3a15-40db-b19b-54900ed3abc1",
+          "inci_name": "SODIUM SIALYLLACTOSE",
+          "cas_no": [
+            "128596-80-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "71308479",
+            "sid": "504500786",
+            "cas_no": "128596-80-5"
+          }
+        ]
+      },
+      "polyacrylate": {
+        "cosing_info": {
+          "reference": "ded472cd-e026-47e6-980d-e2b64cc12aa5",
+          "inci_name": "GLYCERYL POLYACRYLATE",
+          "cas_no": [
+            "104365-75-5"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "xanthan": {
+        "cosing_info": {
+          "reference": "6f3d38ca-3212-4346-91be-31b5830ee1d9",
+          "inci_name": "XANTHAN GUM",
+          "cas_no": [
+            "11138-66-2"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "gum": {
+        "cosing_info": {
+          "reference": "96f25d11-e486-4ceb-86b9-5a3f7c62c9f8",
+          "inci_name": "WELAN GUM",
+          "cas_no": [
+            "96949-22-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "propylene": {
+        "cosing_info": {
+          "reference": "0e29f9a6-8bea-465c-8d3c-a49db69ea5ec",
+          "inci_name": "PROPYLENE GLYCOL DILAURATE",
+          "cas_no": [
+            "22788-19-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "90838",
+            "sid": "500819956",
+            "cas_no": "22788-19-8"
+          }
+        ]
+      },
+      "glycol": {
+        "cosing_info": {
+          "reference": "9676e281-f1c1-45e7-8bc5-dde960d1fc3d",
+          "inci_name": "GLYCOL",
+          "cas_no": [
+            "107-21-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "174",
+            "sid": "481107978",
+            "cas_no": "107-21-1"
+          }
+        ]
+      },
+      "hexyl": {
+        "cosing_info": {
+          "reference": "e0639f70-efc4-424e-a259-4464aeaea8ea",
+          "inci_name": "HEXYL SALICYLATE HEXYL ETHER",
+          "cas_no": [
+            "111222-71-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "cinnamal": {
+        "cosing_info": {
+          "reference": "def9943c-d755-44df-8a88-921782a72d1a",
+          "inci_name": "CINNAMAL",
+          "cas_no": [
+            "104-55-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "637511",
+            "sid": "500769665",
+            "cas_no": "104-55-2"
+          }
+        ]
+      },
+      "hexamethylindanopyran": {
+        "cosing_info": {
+          "reference": "21a8da0c-d1e0-436c-831e-2d0d6e79bcad",
+          "inci_name": "HEXAMETHYLINDANOPYRAN",
+          "cas_no": [
+            "1222-05-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "91497",
+            "sid": "505629237",
+            "cas_no": "1222-05-5"
+          }
+        ]
+      },
+      "benzyl": {
+        "cosing_info": {
+          "reference": "b8bed1f8-a18b-4f12-ada2-664e686fddd7",
+          "inci_name": "BENZYL ACETATE",
+          "cas_no": [
+            "140-11-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8785",
+            "sid": "481106933",
+            "cas_no": "140-11-4"
+          }
+        ]
+      },
+      "benzoate": {
+        "cosing_info": {
+          "reference": "5b65f7cc-6a38-4226-ac3a-f0701f04cd27",
+          "inci_name": "CASTOR OIL BENZOATE",
+          "cas_no": [
+            "225927-34-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "isostearate": {
+        "cosing_info": {
+          "reference": "dbe3a3a3-2019-45bc-99e9-d360bfe92aed",
+          "inci_name": "RAFFINOSE ISOSTEARATE",
+          "cas_no": [
+            "1032182-34-5"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "linalyl": {
+        "cosing_info": {
+          "reference": "cbc4a314-95f5-4345-98cc-61b2d87bf963",
+          "inci_name": "LINALYL BENZOATE",
+          "cas_no": [
+            "126-64-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "31353",
+            "sid": "505794934",
+            "cas_no": "126-64-7"
+          }
+        ]
+      },
+      "acetate": {
+        "cosing_info": {
+          "reference": "2e90250f-29b8-4066-987b-311a1cbc2f14",
+          "inci_name": "OCTYL ACETATE/MONOMETHYL ACETATE",
+          "cas_no": [
+            "68683-25-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "163261",
+            "sid": "500811241",
+            "cas_no": "68683-25-0"
+          }
+        ]
+      },
+      "alpha-isomethyl": {
+        "cosing_info": {
+          "reference": "bb1bdf74-ac91-4b4f-a06e-4f30fe9e50be",
+          "inci_name": "ALPHA-ISOMETHYL IONONE",
+          "cas_no": [
+            "127-51-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5372174",
+            "sid": "518159587",
+            "cas_no": "127-51-5"
+          }
+        ]
+      },
+      "ionone": {
+        "cosing_info": {
+          "reference": "cfa7fe92-c563-4769-951b-ec77fd9a2e27",
+          "inci_name": "IONONE",
+          "cas_no": [
+            "8013-90-9",
+            "79-77-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "24680",
+            "sid": "518178763",
+            "cas_no": "8013-90-9"
+          },
+          {
+            "cid": "638014",
+            "sid": "481106941",
+            "cas_no": "79-77-6"
+          }
+        ]
+      },
+      "hydroxycitronellal": {
+        "cosing_info": {
+          "reference": "1282d3f9-0f30-4f82-a66f-fda74e446493",
+          "inci_name": "Hydroxycitronellal",
+          "cas_no": [
+            "107-75-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "7888",
+            "sid": "500790572",
+            "cas_no": "107-75-5"
+          }
+        ]
+      },
+      "linalool": {
+        "cosing_info": {
+          "reference": "8f47a2fa-c519-434c-8bb9-8385cf05fea5",
+          "inci_name": "LINALOOL",
+          "cas_no": [
+            "78-70-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6549",
+            "sid": "482028551",
+            "cas_no": "78-70-6"
+          }
+        ]
+      },
+      "fucus": {
+        "cosing_info": {
+          "reference": "99a2c608-f863-4daf-b9dd-169e388aa3f6",
+          "inci_name": "FUCUS SERRATUS EXTRACT",
+          "cas_no": [
+            "94167-02-9"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "vesiculosus": {
+        "cosing_info": {
+          "reference": "038e30de-d9ba-4608-be05-eea86a0b269a",
+          "inci_name": "ASCOPHYLLUM NODOSUM/FUCUS VESICULOSUS EXTRACT",
+          "cas_no": [
+            "84696-13-9,84775-78-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "extract": {
+        "cosing_info": {
+          "reference": "6ff40204-b73a-486d-bc81-2a5a6f2faeee",
+          "inci_name": "HAEMATOXYLUM CAMPECHIANUM WOOD EXTRACT",
+          "cas_no": [
+            "8005-33-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "442514",
+            "sid": "505779233",
+            "cas_no": "8005-33-2"
+          }
+        ]
+      },
+      "citrus": {
+        "cosing_info": {
+          "reference": "ecf6ef2d-4da6-4ff8-a1d0-d29422d24e3a",
+          "inci_name": "CITRUS AURANTIUM DULCIS PEEL OIL",
+          "cas_no": [
+            "8008-57-9"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "aurantium": {
+        "cosing_info": {
+          "reference": "0ee76a08-c272-463e-a11d-7409523e5320",
+          "inci_name": "CITRUS AURANTIUM AMARA PEEL WATER",
+          "cas_no": [
+            "72968-50-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "bergamia": {
+        "cosing_info": {
+          "reference": "9e4a8499-0e70-41ce-8076-86e2cc6d72a8",
+          "inci_name": "CITRUS AURANTIUM BERGAMIA LEAF EXTRACT",
+          "cas_no": [
+            "89957-91-5"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "peel": {
+        "cosing_info": {
+          "reference": "e863d775-c505-4bbd-a8cf-2f9acc6e6afe",
+          "inci_name": "ZANTHOXYLUM PIPERITUM PEEL WATER",
+          "cas_no": [
+            "97404-53-0 (generic)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "vanillin": {
+        "cosing_info": {
+          "reference": "66d59cfe-69b2-46cf-ad54-d553ca4e9884",
+          "inci_name": "VANILLIN",
+          "cas_no": [
+            "121-33-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "1183",
+            "sid": "481107850",
+            "cas_no": "121-33-5"
+          }
+        ]
+      },
+      "citronellol": {
+        "cosing_info": {
+          "reference": "0dc4ed58-7d3b-4143-a03f-a9d1dccdabc9",
+          "inci_name": "CITRONELLOL",
+          "cas_no": [
+            "106-22-9",
+            "26489-01-0",
+            "7540-51-4",
+            "1117-61-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8842",
+            "sid": "482039864",
+            "cas_no": "106-22-9"
+          },
+          {
+            "cid": "8842",
+            "sid": "482039864",
+            "cas_no": "26489-01-0"
+          },
+          {
+            "cid": "7793",
+            "sid": "505563004",
+            "cas_no": "7540-51-4"
+          },
+          {
+            "cid": "101977",
+            "sid": "483924806",
+            "cas_no": "1117-61-9"
+          }
+        ]
+      },
+      "hexanoyl": {
+        "cosing_info": {
+          "reference": "5e89d6ed-17d1-47af-b3b3-6ef4471f9fa6",
+          "inci_name": "PENTASODIUM TETRACARBOXYMETHYL HEXANOYL DIPEPTIDE-12",
+          "cas_no": []
+        },
+        "pubchem_info": []
+      },
+      "dipeptide-3": {
+        "cosing_info": {
+          "reference": "f46f752e-1630-4304-a1e5-1e60b58773f6",
+          "inci_name": "COUMAROYL DIPEPTIDE-3",
+          "cas_no": []
+        },
+        "pubchem_info": []
+      },
+      "norleucine": {
+        "cosing_info": {
+          "reference": "a95caf49-7b4f-4cad-9ea1-db41043cb9be",
+          "inci_name": "HEXANOYL DIPEPTIDE-3 NORLEUCINE ACETATE",
+          "cas_no": [
+            "-"
+          ]
+        },
+        "pubchem_info": []
+      }
+    }
   },
   "additional_information": {
     "id": "110902179"

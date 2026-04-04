@@ -25,7 +25,18 @@
       "COLORANT",
       ":"
     ],
-    "inci": {}
+    "inci": {
+      "gel": {
+        "cosing_info": null,
+        "pubchem_info": [
+          {
+            "cid": "129148",
+            "sid": "505430836",
+            "cas_no": null
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120672709"

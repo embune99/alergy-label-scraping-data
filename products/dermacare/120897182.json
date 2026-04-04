@@ -39,7 +39,293 @@
       "Pantolactone",
       "Benzoate.",
       "(FVN100170.0009)"
-    ]
+    ],
+    "inci": {
+      "ingredients": {
+        "cosing_info": {
+          "reference": "197f866e-c1bc-4272-9cd3-83f70473f2de",
+          "inci_name": "Category 1 material and Category 2 material as defined in Articles 4 and 5 respectively of Regulation (EC) No 1774/2002 of the European Parliament and of the Council (3), and ingredients derived therefrom",
+          "cas_no": []
+        },
+        "pubchem_info": []
+      },
+      "aqua": {
+        "cosing_info": {
+          "reference": "acb2fd0b-1174-4f52-8481-759e0f6a9471",
+          "inci_name": "AQUA",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "triethylhexanoin": {
+        "cosing_info": {
+          "reference": "6876f5ce-073f-4613-bb28-9c8888c1a848",
+          "inci_name": "TRIETHYLHEXANOIN",
+          "cas_no": [
+            "7360-38-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "110973",
+            "sid": "483926449",
+            "cas_no": "7360-38-5"
+          }
+        ]
+      },
+      "squalane": {
+        "cosing_info": {
+          "reference": "4852348f-523d-4917-91a5-f6313c0e9f62",
+          "inci_name": "SQUALANE",
+          "cas_no": [
+            "111-01-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8089",
+            "sid": "505884807",
+            "cas_no": "111-01-3"
+          }
+        ]
+      },
+      "hydrogenated": {
+        "cosing_info": {
+          "reference": "eaf6aff1-2d65-4b95-ac0e-66d0ff7d46ef",
+          "inci_name": "HYDROGENATED MICROCRYSTALLINE CERA",
+          "cas_no": [
+            "92045-76-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "polyisobutene": {
+        "cosing_info": {
+          "reference": "6136ca6f-ee07-4098-b533-473ba30e29e5",
+          "inci_name": "POLYISOBUTENE",
+          "cas_no": [
+            "9003-27-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "c15-19": {
+        "cosing_info": {
+          "reference": "03ae1f19-2595-4e8c-a909-b3eb820501eb",
+          "inci_name": "C15-19 ISOALKANE",
+          "cas_no": [
+            "1437281-01-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "alkane": {
+        "cosing_info": {
+          "reference": "4063a205-a0d7-493e-9c3b-21eb542cd773",
+          "inci_name": "C22-28 ALKANE",
+          "cas_no": [
+            "2173403-48-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "dipropylene": {
+        "cosing_info": {
+          "reference": "ab618234-98c2-4c12-9dda-8334ec1ea2cb",
+          "inci_name": "DIPROPYLENE GLYCOL",
+          "cas_no": [
+            "110-98-5",
+            "25265-71-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8087",
+            "sid": "505405034",
+            "cas_no": "110-98-5"
+          },
+          {
+            "cid": "134692469",
+            "sid": "483927616",
+            "cas_no": "25265-71-8"
+          }
+        ]
+      },
+      "glycol": {
+        "cosing_info": {
+          "reference": "9676e281-f1c1-45e7-8bc5-dde960d1fc3d",
+          "inci_name": "GLYCOL",
+          "cas_no": [
+            "107-21-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "174",
+            "sid": "481107978",
+            "cas_no": "107-21-1"
+          }
+        ]
+      },
+      "polyepsilon-lysine": {
+        "cosing_info": {
+          "reference": "07e17a64-c8ed-4498-ae46-17d1ff1c6614",
+          "inci_name": "POLYEPSILON-LYSINE",
+          "cas_no": [
+            "28211-04-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "58592376",
+            "sid": null,
+            "cas_no": "28211-04-3"
+          }
+        ]
+      },
+      "panthenol": {
+        "cosing_info": {
+          "reference": "02b5654c-8fdf-44f4-a178-8f505b61ef9d",
+          "inci_name": "PANTHENOL",
+          "cas_no": [
+            "81-13-0",
+            "16485-10-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "131204",
+            "sid": "481107077",
+            "cas_no": "81-13-0"
+          },
+          {
+            "cid": "4678",
+            "sid": "483926094",
+            "cas_no": "16485-10-2"
+          }
+        ]
+      },
+      "sodium": {
+        "cosing_info": {
+          "reference": "436c3318-3a15-40db-b19b-54900ed3abc1",
+          "inci_name": "SODIUM SIALYLLACTOSE",
+          "cas_no": [
+            "128596-80-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "71308479",
+            "sid": "504500786",
+            "cas_no": "128596-80-5"
+          }
+        ]
+      },
+      "chloride": {
+        "cosing_info": {
+          "reference": "c34b87ef-4a9c-4fea-ab84-b7fa2e76303d",
+          "inci_name": "Hexamethonium chloride; Hexamethylene(bistrimethylammonium)chloride",
+          "cas_no": [
+            "60-25-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "93550",
+            "sid": "500789484",
+            "cas_no": "60-25-3"
+          }
+        ]
+      },
+      "citric": {
+        "cosing_info": {
+          "reference": "398b79ca-fc64-43b5-bf15-956e6239c1db",
+          "inci_name": "CITRIC ACID",
+          "cas_no": [
+            "77-92-9",
+            "5949-29-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "311",
+            "sid": "481107970",
+            "cas_no": "77-92-9"
+          },
+          {
+            "cid": "22230",
+            "sid": "481107868",
+            "cas_no": "5949-29-1"
+          }
+        ]
+      },
+      "acid": {
+        "cosing_info": {
+          "reference": "2ce6a5ff-38b0-47a8-86bf-06e8a480b066",
+          "inci_name": "Perfluoroheptanoic acid; tridecafluoroheptanoic acid",
+          "cas_no": [
+            "375-85-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "67818",
+            "sid": "500815077",
+            "cas_no": "375-85-9"
+          }
+        ]
+      },
+      "disodium": {
+        "cosing_info": {
+          "reference": "9a36d68d-cfcc-48b5-a7b1-b5e0286611ea",
+          "inci_name": "DISODIUM PYROPHOSPHATE",
+          "cas_no": [
+            "7758-16-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "24451",
+            "sid": "500778501",
+            "cas_no": "7758-16-9"
+          }
+        ]
+      },
+      "edta": {
+        "cosing_info": {
+          "reference": "64cc9da1-36bb-4875-b859-77375d6ab3f5",
+          "inci_name": "EDTA",
+          "cas_no": [
+            "60-00-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6049",
+            "sid": "481107126",
+            "cas_no": "60-00-4"
+          }
+        ]
+      },
+      "pantolactone": {
+        "cosing_info": {
+          "reference": "45d052ee-d751-4953-824a-52d867b395a5",
+          "inci_name": "PANTOLACTONE",
+          "cas_no": [
+            "599-04-2; 79-50-5"
+          ]
+        },
+        "pubchem_info": []
+      }
+    }
   },
   "additional_information": {
     "id": "120897182"

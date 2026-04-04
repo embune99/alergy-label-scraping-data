@@ -63,7 +63,601 @@
       "6",
       "15985)"
     ],
-    "inci": {}
+    "inci": {
+      "alcohol": {
+        "cosing_info": {
+          "reference": "ee98826a-bac8-4089-91f6-32d956b26c61",
+          "inci_name": "ALCOHOL",
+          "cas_no": [
+            "64-17-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "702",
+            "sid": "481101440",
+            "cas_no": "64-17-5"
+          }
+        ]
+      },
+      "fragrance": {
+        "cosing_info": {
+          "reference": "8df6b6bc-f26a-438c-8dc4-130db9e8ce6b",
+          "inci_name": "3,7-Dimethyl-2-octen-1-ol (6,7-Dihydrogeraniol), when used as a fragrance ingredient",
+          "cas_no": [
+            "40607-48-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5365836",
+            "sid": "504562939",
+            "cas_no": "40607-48-5"
+          }
+        ]
+      },
+      "water": {
+        "cosing_info": {
+          "reference": "f47fb937-5e85-47be-a122-3522901eb942",
+          "inci_name": "WATER",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "tetramethyl": {
+        "cosing_info": {
+          "reference": "91fda4ca-4152-4350-b521-64945b0a5a56",
+          "inci_name": "TETRAMETHYL PYRAZOLYLPYRIMIDINE HCL",
+          "cas_no": [
+            "471264-17-2"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "acetyloctahydronaphthalenes": {
+        "cosing_info": {
+          "reference": "7ef988ef-989c-4378-aaeb-c9fc4b0edb1b",
+          "inci_name": "TETRAMETHYL ACETYLOCTAHYDRONAPHTHALENES",
+          "cas_no": [
+            "54464-57-2",
+            "54464-59-4",
+            "68155-66-8",
+            "68155-67-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "108242",
+            "sid": "505787547",
+            "cas_no": "54464-57-2"
+          },
+          {
+            "cid": "108243",
+            "sid": "518145041",
+            "cas_no": "54464-59-4"
+          },
+          {
+            "cid": "109193",
+            "sid": "505416029",
+            "cas_no": "68155-66-8"
+          },
+          {
+            "cid": "109194",
+            "sid": "505416028",
+            "cas_no": "68155-67-9"
+          }
+        ]
+      },
+      "hexamethylindanopyran": {
+        "cosing_info": {
+          "reference": "21a8da0c-d1e0-436c-831e-2d0d6e79bcad",
+          "inci_name": "HEXAMETHYLINDANOPYRAN",
+          "cas_no": [
+            "1222-05-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "91497",
+            "sid": "505629237",
+            "cas_no": "1222-05-5"
+          }
+        ]
+      },
+      "benzyl": {
+        "cosing_info": {
+          "reference": "b8bed1f8-a18b-4f12-ada2-664e686fddd7",
+          "inci_name": "BENZYL ACETATE",
+          "cas_no": [
+            "140-11-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8785",
+            "sid": "481106933",
+            "cas_no": "140-11-4"
+          }
+        ]
+      },
+      "salicylate": {
+        "cosing_info": {
+          "reference": "d9c33ee5-63e3-4708-ba47-82d1215b093f",
+          "inci_name": "SILVER SALICYLATE",
+          "cas_no": [
+            "19025-97-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "54683737",
+            "sid": "505404027",
+            "cas_no": "19025-97-9"
+          }
+        ]
+      },
+      "alpha-isomethyl": {
+        "cosing_info": {
+          "reference": "bb1bdf74-ac91-4b4f-a06e-4f30fe9e50be",
+          "inci_name": "ALPHA-ISOMETHYL IONONE",
+          "cas_no": [
+            "127-51-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5372174",
+            "sid": "518159587",
+            "cas_no": "127-51-5"
+          }
+        ]
+      },
+      "ionone": {
+        "cosing_info": {
+          "reference": "cfa7fe92-c563-4769-951b-ec77fd9a2e27",
+          "inci_name": "IONONE",
+          "cas_no": [
+            "8013-90-9",
+            "79-77-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "24680",
+            "sid": "518178763",
+            "cas_no": "8013-90-9"
+          },
+          {
+            "cid": "638014",
+            "sid": "481106941",
+            "cas_no": "79-77-6"
+          }
+        ]
+      },
+      "linalyl": {
+        "cosing_info": {
+          "reference": "cbc4a314-95f5-4345-98cc-61b2d87bf963",
+          "inci_name": "LINALYL BENZOATE",
+          "cas_no": [
+            "126-64-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "31353",
+            "sid": "505794934",
+            "cas_no": "126-64-7"
+          }
+        ]
+      },
+      "acetate": {
+        "cosing_info": {
+          "reference": "2e90250f-29b8-4066-987b-311a1cbc2f14",
+          "inci_name": "OCTYL ACETATE/MONOMETHYL ACETATE",
+          "cas_no": [
+            "68683-25-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "163261",
+            "sid": "500811241",
+            "cas_no": "68683-25-0"
+          }
+        ]
+      },
+      "dimethyl": {
+        "cosing_info": {
+          "reference": "54e23578-8e11-41c3-9753-addfe37f09a7",
+          "inci_name": "DIMETHYL-4-ISOHEPTENAL DIMETHYL ACETAL",
+          "cas_no": [
+            "67674-46-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "106766",
+            "sid": "505534249",
+            "cas_no": "67674-46-8"
+          }
+        ]
+      },
+      "phenethyl": {
+        "cosing_info": {
+          "reference": "23484912-007f-4313-b827-11a4b4efc35a",
+          "inci_name": "DIMETHYL PHENETHYL ACETATE",
+          "cas_no": [
+            "151-05-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "9024",
+            "sid": "505583981",
+            "cas_no": "151-05-3"
+          }
+        ]
+      },
+      "linalool": {
+        "cosing_info": {
+          "reference": "8f47a2fa-c519-434c-8bb9-8385cf05fea5",
+          "inci_name": "LINALOOL",
+          "cas_no": [
+            "78-70-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6549",
+            "sid": "482028551",
+            "cas_no": "78-70-6"
+          }
+        ]
+      },
+      "diethylhexyl": {
+        "cosing_info": {
+          "reference": "345b0f69-bef8-4816-bda3-2ee523ccb346",
+          "inci_name": "bis(2-Ethylhexyl) phthalate; (Diethylhexyl phthalate)",
+          "cas_no": [
+            "117-81-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8343",
+            "sid": "518174587",
+            "cas_no": "117-81-7"
+          }
+        ]
+      },
+      "syringylidenemalonate": {
+        "cosing_info": {
+          "reference": "cc953e2b-09a4-4c4c-8b5a-48cfc07bea7b",
+          "inci_name": "DIETHYLHEXYL SYRINGYLIDENEMALONATE",
+          "cas_no": [
+            "444811-29-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "10163591",
+            "sid": "500776929",
+            "cas_no": "444811-29-4"
+          }
+        ]
+      },
+      "vanillin": {
+        "cosing_info": {
+          "reference": "66d59cfe-69b2-46cf-ad54-d553ca4e9884",
+          "inci_name": "VANILLIN",
+          "cas_no": [
+            "121-33-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "1183",
+            "sid": "481107850",
+            "cas_no": "121-33-5"
+          }
+        ]
+      },
+      "citronellol": {
+        "cosing_info": {
+          "reference": "0dc4ed58-7d3b-4143-a03f-a9d1dccdabc9",
+          "inci_name": "CITRONELLOL",
+          "cas_no": [
+            "106-22-9",
+            "26489-01-0",
+            "7540-51-4",
+            "1117-61-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8842",
+            "sid": "482039864",
+            "cas_no": "106-22-9"
+          },
+          {
+            "cid": "8842",
+            "sid": "482039864",
+            "cas_no": "26489-01-0"
+          },
+          {
+            "cid": "7793",
+            "sid": "505563004",
+            "cas_no": "7540-51-4"
+          },
+          {
+            "cid": "101977",
+            "sid": "483924806",
+            "cas_no": "1117-61-9"
+          }
+        ]
+      },
+      "hydroxycitronellal": {
+        "cosing_info": {
+          "reference": "1282d3f9-0f30-4f82-a66f-fda74e446493",
+          "inci_name": "Hydroxycitronellal",
+          "cas_no": [
+            "107-75-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "7888",
+            "sid": "500790572",
+            "cas_no": "107-75-5"
+          }
+        ]
+      },
+      "isoeugenyl": {
+        "cosing_info": {
+          "reference": "77079d3e-a487-4339-b17d-639b52675feb",
+          "inci_name": "ISOEUGENYL PHENYLACETATE",
+          "cas_no": [
+            "120-24-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "61047",
+            "sid": "504496269",
+            "cas_no": "120-24-1"
+          }
+        ]
+      },
+      "isoeugenol": {
+        "cosing_info": {
+          "reference": "cd6777a5-cf1e-48a5-9a4e-6579e7245e32",
+          "inci_name": "ISOEUGENOL",
+          "cas_no": [
+            "97-54-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "853433",
+            "sid": "516569602",
+            "cas_no": "97-54-1"
+          }
+        ]
+      },
+      "pogostemon": {
+        "cosing_info": {
+          "reference": "676b7775-baa8-489a-b788-f202c33f9980",
+          "inci_name": "POGOSTEMON CABLIN LEAF EXTRACT",
+          "cas_no": [
+            "84238-39-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "cablin": {
+        "cosing_info": {
+          "reference": "ae5d9c66-d4d7-4c1e-b789-a11445a6275f",
+          "inci_name": "POGOSTEMON CABLIN FLOWER EXTRACT",
+          "cas_no": [
+            "84238-39-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "oil": {
+        "cosing_info": {
+          "reference": "73055330-91dd-4d1e-b860-925fb2ecdbc8",
+          "inci_name": "MENHADEN OIL",
+          "cas_no": [
+            "8002-50-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "rose": {
+        "cosing_info": {
+          "reference": "cb9b7073-691d-4aae-83ff-db2949a96019",
+          "inci_name": "ROSE EXTRACT",
+          "cas_no": [
+            "84696-47-9"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "ketones": {
+        "cosing_info": {
+          "reference": "f720720b-35ec-4f12-a53c-9412df70c02a",
+          "inci_name": "C14 KETONES",
+          "cas_no": [
+            "68458-86-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "geraniol": {
+        "cosing_info": {
+          "reference": "4937f329-ce46-43be-bb99-3307e3966e02",
+          "inci_name": "GERANIOL",
+          "cas_no": [
+            "106-24-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "637566",
+            "sid": "481107196",
+            "cas_no": "106-24-1"
+          }
+        ]
+      },
+      "triglyceride": {
+        "cosing_info": {
+          "reference": "7a837030-45f2-4113-b7a5-f51fd0594bd1",
+          "inci_name": "C18-36 ACID TRIGLYCERIDE",
+          "cas_no": [
+            "91052-08-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "pinene": {
+        "cosing_info": {
+          "reference": "4f954592-7925-439a-b6bd-4e845d4a6c7c",
+          "inci_name": "PINENE",
+          "cas_no": [
+            "80-56-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6654",
+            "sid": "481106869",
+            "cas_no": "80-56-8"
+          }
+        ]
+      },
+      "flower": {
+        "cosing_info": {
+          "reference": "c1d12598-6b78-467a-9a80-920b391e0209",
+          "inci_name": "Tagetes minuta flower extract; Tagetes minuta flower oil",
+          "cas_no": [
+            "91770-75-1; 91770-75-1",
+            "8016-84-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "geranyl": {
+        "cosing_info": {
+          "reference": "aae4650c-b8ee-4e04-ba01-a13aa5ae35c9",
+          "inci_name": "GERANYL NONANOATE",
+          "cas_no": [
+            "68039-29-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6437207",
+            "sid": "505850504",
+            "cas_no": "68039-29-2"
+          }
+        ]
+      },
+      "limonene": {
+        "cosing_info": {
+          "reference": "d9a853fb-831a-4f8e-a3f5-d57b976d9c88",
+          "inci_name": "LIMONENE",
+          "cas_no": [
+            "138-86-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "22311",
+            "sid": "518147164",
+            "cas_no": "138-86-3"
+          }
+        ]
+      },
+      "beta-caryophyllene": {
+        "cosing_info": {
+          "reference": "07843aed-2428-4a06-be80-2e72b1528d10",
+          "inci_name": "BETA-CARYOPHYLLENE",
+          "cas_no": [
+            "87-44-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5281515",
+            "sid": "481107968",
+            "cas_no": "87-44-5"
+          }
+        ]
+      },
+      "red": {
+        "cosing_info": {
+          "reference": "7828255e-4673-4c53-aaaf-6704286652f8",
+          "inci_name": "Beetroot red",
+          "cas_no": [
+            "7659-95-2; 89957-88-0; 89957-89-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "40": {
+        "cosing_info": {
+          "reference": "f6a6fd69-aa08-46a9-a6c2-5c9fbc6ffe39",
+          "inci_name": "C20-40 ALKETH-40",
+          "cas_no": [
+            "97953-22-5 (generic)",
+            "251553-55-6 (generic)",
+            "246538-83-0 (generic)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "yellow": {
+        "cosing_info": {
+          "reference": "b5df6a00-e5be-4c05-bb4d-ea984509b741",
+          "inci_name": "Iron Oxide Yellow",
+          "cas_no": [
+            "51274-00-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "23320441",
+            "sid": "518171916",
+            "cas_no": "51274-00-1"
+          }
+        ]
+      },
+      "6": {
+        "cosing_info": {
+          "reference": "c0939663-a5f6-473a-8589-7619917704f1",
+          "inci_name": "CI 61565",
+          "cas_no": [
+            "128-80-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "31416",
+            "sid": "505412200",
+            "cas_no": "128-80-3"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120206610"

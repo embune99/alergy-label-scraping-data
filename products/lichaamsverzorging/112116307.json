@@ -21,7 +21,35 @@
       "3",
       "%",
       "zinkoxide."
-    ]
+    ],
+    "inci": {
+      "15": {
+        "cosing_info": {
+          "reference": "23914952-9a3b-419d-9905-209e9c73af10",
+          "inci_name": "PEG/PPG-15/15 ACETATE DIMETHICONE",
+          "cas_no": [
+            "68037-64-9"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "3": {
+        "cosing_info": {
+          "reference": "469910f1-3789-42f9-b576-3e66ccb51b74",
+          "inci_name": "PEG-3 2,2'-DI-P-PHENYLENEDIAMINE",
+          "cas_no": [
+            "144644-13-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "22617270",
+            "sid": "504520187",
+            "cas_no": "144644-13-3"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "112116307"

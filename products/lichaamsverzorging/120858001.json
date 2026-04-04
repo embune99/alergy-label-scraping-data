@@ -27,7 +27,101 @@
       "Oil",
       "Seed",
       ""
-    ]
+    ],
+    "inci": {
+      "lactic": {
+        "cosing_info": {
+          "reference": "7b7b024e-34fa-4f28-883a-0a1bcc52ffb0",
+          "inci_name": "LACTIC YEASTS",
+          "cas_no": [
+            "68876-77-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "acid": {
+        "cosing_info": {
+          "reference": "2ce6a5ff-38b0-47a8-86bf-06e8a480b066",
+          "inci_name": "Perfluoroheptanoic acid; tridecafluoroheptanoic acid",
+          "cas_no": [
+            "375-85-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "67818",
+            "sid": "500815077",
+            "cas_no": "375-85-9"
+          }
+        ]
+      },
+      "malic": {
+        "cosing_info": {
+          "reference": "14cae807-c8f3-44df-864a-a5ab96c8a602",
+          "inci_name": "MALIC ACID",
+          "cas_no": [
+            "97-67-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "222656",
+            "sid": "505792546",
+            "cas_no": "97-67-6"
+          }
+        ]
+      },
+      "solanum": {
+        "cosing_info": {
+          "reference": "0d736d6f-edc3-4c21-a046-06e8d994d5c2",
+          "inci_name": "SOLANUM XANTHOCARPUM ROOT EXTRACT",
+          "cas_no": [
+            "93165-80-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "lycopersicum": {
+        "cosing_info": {
+          "reference": "eeeb36fc-abff-4b71-b3ac-d7b2530e5817",
+          "inci_name": "SOLANUM LYCOPERSICUM FRUIT",
+          "cas_no": [
+            "90131-63-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "fruit": {
+        "cosing_info": {
+          "reference": "bcb3c9aa-e856-4293-bf15-d8d80f6a1117",
+          "inci_name": "COCOS NUCIFERA FRUIT/FRUIT JUICE EXTRACT",
+          "cas_no": [
+            "8001-31-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "oil": {
+        "cosing_info": {
+          "reference": "73055330-91dd-4d1e-b860-925fb2ecdbc8",
+          "inci_name": "MENHADEN OIL",
+          "cas_no": [
+            "8002-50-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "seed": {
+        "cosing_info": {
+          "reference": "981b4ff2-0470-4c2b-9a2a-bdebc1e66420",
+          "inci_name": "HELIANTHUS ANNUUS SEED WAX",
+          "cas_no": [
+            "1286686-34-7"
+          ]
+        },
+        "pubchem_info": []
+      }
+    }
   },
   "additional_information": {
     "id": "120858001"

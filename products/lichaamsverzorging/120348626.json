@@ -23,7 +23,42 @@
       "alkali",
       "en",
       "thioglycolaat"
-    ]
+    ],
+    "inci": {
+      "alkali": {
+        "cosing_info": {
+          "reference": "05ad9304-93b5-4b03-8e34-156d1112bd36",
+          "inci_name": "Alkali pentacyanonitrosylferrate (2-)",
+          "cas_no": [
+            "14402-89-2",
+            "13755-38-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6604165",
+            "sid": "483926318",
+            "cas_no": "14402-89-2"
+          }
+        ]
+      },
+      "en": {
+        "cosing_info": {
+          "reference": "7ef990b2-adac-41c1-b07c-d1d14c0bf4ba",
+          "inci_name": "2-PROPANOL/BORON TRIFLUORIDE/ETHYLIDENEBICYCLOHEPTENE",
+          "cas_no": [
+            "90530-04-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "55250280",
+            "sid": null,
+            "cas_no": "90530-04-4"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120348626"

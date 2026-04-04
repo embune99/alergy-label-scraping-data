@@ -22,7 +22,19 @@
       "(2%)",
       "glycerine",
       "water."
-    ]
+    ],
+    "inci": {
+      "glycerine": {
+        "cosing_info": null,
+        "pubchem_info": [
+          {
+            "cid": "753",
+            "sid": "481110738",
+            "cas_no": null
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120093871"

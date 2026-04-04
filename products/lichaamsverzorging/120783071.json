@@ -36,7 +36,234 @@
       "Annuus",
       "Citric",
       "Acid."
-    ]
+    ],
+    "inci": {
+      "canola": {
+        "cosing_info": {
+          "reference": "007d1908-6f81-487b-87de-f514338e9dab",
+          "inci_name": "HYDROGENATED CANOLA OIL",
+          "cas_no": [
+            "226993-69-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "oil": {
+        "cosing_info": {
+          "reference": "73055330-91dd-4d1e-b860-925fb2ecdbc8",
+          "inci_name": "MENHADEN OIL",
+          "cas_no": [
+            "8002-50-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "peg-40": {
+        "cosing_info": {
+          "reference": "a38e8f6b-4ba5-4a34-861c-b31ca4d1cf8b",
+          "inci_name": "PEG-40",
+          "cas_no": [
+            "25322-68-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "sorbitan": {
+        "cosing_info": {
+          "reference": "681f9632-034c-4b5d-86fe-be30141cd08d",
+          "inci_name": "SORBITAN CAPRYLATE",
+          "cas_no": [
+            "60177-36-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "90474014",
+            "sid": "500827843",
+            "cas_no": "60177-36-8"
+          }
+        ]
+      },
+      "peroleate": {
+        "cosing_info": {
+          "reference": "03ccba63-c7b3-4f80-97a2-efa78b127c68",
+          "inci_name": "PEG-40 SORBITAN PEROLEATE",
+          "cas_no": [
+            "-"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "prunus": {
+        "cosing_info": {
+          "reference": "66fda891-5114-4a29-81f7-88df1b2ca9b2",
+          "inci_name": "PRUNUS PERSICA FRUIT",
+          "cas_no": [
+            "84012-34-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "amygdalus": {
+        "cosing_info": {
+          "reference": "b7c3dda2-0fbe-432f-82dc-9af978bb3910",
+          "inci_name": "PRUNUS AMYGDALUS SATIVA KERNEL EXTRACT",
+          "cas_no": [
+            "90320-37-9"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "dulcis": {
+        "cosing_info": {
+          "reference": "5f483e31-3135-410e-941f-896551cc389d",
+          "inci_name": "PRUNUS AMYGDALUS DULCIS SEED POWDER",
+          "cas_no": [
+            "90320-37-9 (generic)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "persea": {
+        "cosing_info": {
+          "reference": "6f736df5-3210-433c-b7ea-2eaa4a83e039",
+          "inci_name": "PERSEA GRATISSIMA SEED",
+          "cas_no": [
+            "8024-32-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "gratissima": {
+        "cosing_info": {
+          "reference": "6f736df5-3210-433c-b7ea-2eaa4a83e039",
+          "inci_name": "PERSEA GRATISSIMA SEED",
+          "cas_no": [
+            "8024-32-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "parfum": {
+        "cosing_info": {
+          "reference": "877337a9-4a8b-4d17-bed7-f3a39d335e80",
+          "inci_name": "PARFUM",
+          "cas_no": []
+        },
+        "pubchem_info": []
+      },
+      "gossypium": {
+        "cosing_info": {
+          "reference": "69c80984-4262-42c8-99e5-a3357752aea1",
+          "inci_name": "GOSSYPIUM HIRSUTUM EXTRACT",
+          "cas_no": [
+            "8001-29-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "herbaceum": {
+        "cosing_info": {
+          "reference": "59f9a984-a56c-4ee0-9561-b915a301f7fb",
+          "inci_name": "GOSSYPIUM HERBACEUM EXTRACT",
+          "cas_no": [
+            "223749-08-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "seed": {
+        "cosing_info": {
+          "reference": "981b4ff2-0470-4c2b-9a2a-bdebc1e66420",
+          "inci_name": "HELIANTHUS ANNUUS SEED WAX",
+          "cas_no": [
+            "1286686-34-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "tocopherol": {
+        "cosing_info": {
+          "reference": "e353a1e9-9330-4c22-bf1a-f58ac6d356a9",
+          "inci_name": "TOCOPHEROL",
+          "cas_no": [
+            "54-28-4 (gamma)",
+            "16698-35-4(beta)",
+            "10191-41-0(DL)",
+            "119-13-1",
+            "1406-18-4",
+            "1406-66-2",
+            "2074-53-5 (DL)",
+            "59-02-9 (D)",
+            "7616-22-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "92094",
+            "sid": "500775109",
+            "cas_no": "119-13-1"
+          },
+          {
+            "cid": "14985",
+            "sid": "483926503",
+            "cas_no": "1406-18-4"
+          },
+          {
+            "cid": "14986",
+            "sid": "516579069",
+            "cas_no": "1406-66-2"
+          },
+          {
+            "cid": "14986",
+            "sid": "516579069",
+            "cas_no": "7616-22-0"
+          }
+        ]
+      },
+      "helianthus": {
+        "cosing_info": {
+          "reference": "981b4ff2-0470-4c2b-9a2a-bdebc1e66420",
+          "inci_name": "HELIANTHUS ANNUUS SEED WAX",
+          "cas_no": [
+            "1286686-34-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "annuus": {
+        "cosing_info": {
+          "reference": "2d06b0fb-16aa-4515-bd4c-af0007d51709",
+          "inci_name": "HELIANTHUS ANNUUS SEED",
+          "cas_no": [
+            "84625-38-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "citric": {
+        "cosing_info": {
+          "reference": "398b79ca-fc64-43b5-bf15-956e6239c1db",
+          "inci_name": "CITRIC ACID",
+          "cas_no": [
+            "77-92-9",
+            "5949-29-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "311",
+            "sid": "481107970",
+            "cas_no": "77-92-9"
+          },
+          {
+            "cid": "22230",
+            "sid": "481107868",
+            "cas_no": "5949-29-1"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120783071"

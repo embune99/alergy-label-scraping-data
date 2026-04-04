@@ -18,7 +18,19 @@
     "ingredients": [
       "NOT",
       "APPLICABLE."
-    ]
+    ],
+    "inci": {
+      "not": {
+        "cosing_info": null,
+        "pubchem_info": [
+          {
+            "cid": "44475973",
+            "sid": null,
+            "cas_no": null
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "110930209"

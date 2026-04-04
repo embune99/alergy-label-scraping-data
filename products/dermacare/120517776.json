@@ -39,7 +39,330 @@
       "Tetrasodium",
       "Glutamate",
       "Diacetate"
-    ]
+    ],
+    "inci": {
+      "aqua": {
+        "cosing_info": {
+          "reference": "acb2fd0b-1174-4f52-8481-759e0f6a9471",
+          "inci_name": "AQUA",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "decyl": {
+        "cosing_info": {
+          "reference": "05f0740b-d4d9-4634-9f91-795630f99b46",
+          "inci_name": "DECYL GLUCOSIDE",
+          "cas_no": [
+            "54549-25-6; 58846-77-8; 141464-42-8; 68515-73-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "glucoside": {
+        "cosing_info": {
+          "reference": "df773f30-29f1-4b31-ae90-992d0dc7b7f6",
+          "inci_name": "HEPTYL GLUCOSIDE",
+          "cas_no": [
+            "100231-64-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "113557",
+            "sid": "505779466",
+            "cas_no": "100231-64-9"
+          }
+        ]
+      },
+      "sodium": {
+        "cosing_info": {
+          "reference": "436c3318-3a15-40db-b19b-54900ed3abc1",
+          "inci_name": "SODIUM SIALYLLACTOSE",
+          "cas_no": [
+            "128596-80-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "71308479",
+            "sid": "504500786",
+            "cas_no": "128596-80-5"
+          }
+        ]
+      },
+      "lauroyl": {
+        "cosing_info": {
+          "reference": "8b42cee8-a4cd-4e59-9f2a-f9919a52cf20",
+          "inci_name": "LAUROYL ARGININE",
+          "cas_no": [
+            "42492-22-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6451888",
+            "sid": "500795938",
+            "cas_no": "42492-22-8"
+          }
+        ]
+      },
+      "lactylate": {
+        "cosing_info": {
+          "reference": "6f0e4872-ab1b-4f1e-a52e-d72e3aab3633",
+          "inci_name": "SODIUM CAPROYL/LAUROYL LACTYLATE",
+          "cas_no": [
+            "13557-74-9",
+            "13557-75-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "23692651",
+            "sid": null,
+            "cas_no": "13557-74-9"
+          },
+          {
+            "cid": "23674328",
+            "sid": "505883570",
+            "cas_no": "13557-75-0"
+          }
+        ]
+      },
+      "coco-sulfate": {
+        "cosing_info": {
+          "reference": "1dfa973c-9e3e-4820-9d0a-487fcc0d56a6",
+          "inci_name": "SODIUM COCO-SULFATE",
+          "cas_no": [
+            "97375-27-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "urea": {
+        "cosing_info": {
+          "reference": "e6f1f77c-6287-4c12-862c-06c1fd5db49c",
+          "inci_name": "UREA",
+          "cas_no": [
+            "57-13-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "1176",
+            "sid": "481108035",
+            "cas_no": "57-13-6"
+          }
+        ]
+      },
+      "coco-glucoside": {
+        "cosing_info": {
+          "reference": "8977b14c-4cd8-40f6-9016-49647d697baf",
+          "inci_name": "COCO-GLUCOSIDE",
+          "cas_no": [
+            "110615-47-9"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "glycerin": {
+        "cosing_info": {
+          "reference": "59eb65ef-7b29-4486-a311-f194224c11e6",
+          "inci_name": "GLYCERIN",
+          "cas_no": [
+            "56-81-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "753",
+            "sid": "481110738",
+            "cas_no": "56-81-5"
+          }
+        ]
+      },
+      "lactic": {
+        "cosing_info": {
+          "reference": "7b7b024e-34fa-4f28-883a-0a1bcc52ffb0",
+          "inci_name": "LACTIC YEASTS",
+          "cas_no": [
+            "68876-77-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "acid": {
+        "cosing_info": {
+          "reference": "2ce6a5ff-38b0-47a8-86bf-06e8a480b066",
+          "inci_name": "Perfluoroheptanoic acid; tridecafluoroheptanoic acid",
+          "cas_no": [
+            "375-85-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "67818",
+            "sid": "500815077",
+            "cas_no": "375-85-9"
+          }
+        ]
+      },
+      "benzoate": {
+        "cosing_info": {
+          "reference": "5b65f7cc-6a38-4226-ac3a-f0701f04cd27",
+          "inci_name": "CASTOR OIL BENZOATE",
+          "cas_no": [
+            "225927-34-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "guar": {
+        "cosing_info": {
+          "reference": "327808e5-7f6b-45ac-82da-318a0d9d79be",
+          "inci_name": "HYDROXYPROPYL GUAR",
+          "cas_no": [
+            "68442-94-4",
+            "39421-75-5"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "hydroxypropyltrimonium": {
+        "cosing_info": {
+          "reference": "b7330f0e-7253-491d-95cb-ff8816928c90",
+          "inci_name": "STEARDIMONIUM HYDROXYPROPYLTRIMONIUM CHLORIDE",
+          "cas_no": [
+            "197862-16-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "chloride": {
+        "cosing_info": {
+          "reference": "c34b87ef-4a9c-4fea-ab84-b7fa2e76303d",
+          "inci_name": "Hexamethonium chloride; Hexamethylene(bistrimethylammonium)chloride",
+          "cas_no": [
+            "60-25-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "93550",
+            "sid": "500789484",
+            "cas_no": "60-25-3"
+          }
+        ]
+      },
+      "potassium": {
+        "cosing_info": {
+          "reference": "a7960d89-221b-44b5-8b26-fc243a13308f",
+          "inci_name": "POTASSIUM CAROATE",
+          "cas_no": [
+            "70693-62-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "sorbate": {
+        "cosing_info": {
+          "reference": "134cca64-0dd3-4ab3-91d1-69126771188f",
+          "inci_name": "POTASSIUM SORBATE",
+          "cas_no": [
+            "24634-61-5",
+            "590-00-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "23676745",
+            "sid": "481107499",
+            "cas_no": "24634-61-5"
+          },
+          {
+            "cid": "23676745",
+            "sid": "481107499",
+            "cas_no": "590-00-1"
+          }
+        ]
+      },
+      "xanthan": {
+        "cosing_info": {
+          "reference": "6f3d38ca-3212-4346-91be-31b5830ee1d9",
+          "inci_name": "XANTHAN GUM",
+          "cas_no": [
+            "11138-66-2"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "gum": {
+        "cosing_info": {
+          "reference": "96f25d11-e486-4ceb-86b9-5a3f7c62c9f8",
+          "inci_name": "WELAN GUM",
+          "cas_no": [
+            "96949-22-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "tetrasodium": {
+        "cosing_info": {
+          "reference": "01a027b6-331b-4a9f-a100-21ff6722517d",
+          "inci_name": "TETRASODIUM PYROPHOSPHATE",
+          "cas_no": [
+            "7722-88-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "24403",
+            "sid": "483926325",
+            "cas_no": "7722-88-5"
+          }
+        ]
+      },
+      "glutamate": {
+        "cosing_info": {
+          "reference": "84d305bc-3f2d-4e6e-ac28-eb37a5d3ab9b",
+          "inci_name": "ALANINE GLUTAMATE",
+          "cas_no": [
+            "13187-90-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "128841",
+            "sid": "516561258",
+            "cas_no": "13187-90-1"
+          }
+        ]
+      },
+      "diacetate": {
+        "cosing_info": {
+          "reference": "c1eb096e-99e2-46ae-aa55-2a713a7bdf00",
+          "inci_name": "GLYCERYL LAURATE DIACETATE",
+          "cas_no": [
+            "30899-62-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "169212",
+            "sid": "505659272",
+            "cas_no": "30899-62-8"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120517776"

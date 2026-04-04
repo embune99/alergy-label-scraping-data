@@ -22,7 +22,29 @@
       "clotrimazol",
       "10",
       "mg."
-    ]
+    ],
+    "inci": {
+      "clotrimazol": {
+        "cosing_info": null,
+        "pubchem_info": [
+          {
+            "cid": "2812",
+            "sid": "481107040",
+            "cas_no": null
+          }
+        ]
+      },
+      "10": {
+        "cosing_info": {
+          "reference": "70598be6-1bd4-478a-a565-c0fe0c92432c",
+          "inci_name": "NYLON-10/10",
+          "cas_no": [
+            "28774-87-0"
+          ]
+        },
+        "pubchem_info": []
+      }
+    }
   },
   "additional_information": {
     "id": "111239111"

@@ -46,7 +46,75 @@
       "lactose",
       "(vulmiddel)",
       "."
-    ]
+    ],
+    "inci": {
+      "clotrimazol": {
+        "cosing_info": null,
+        "pubchem_info": [
+          {
+            "cid": "2812",
+            "sid": "481107040",
+            "cas_no": null
+          }
+        ]
+      },
+      "500": {
+        "cosing_info": {
+          "reference": "c47faa36-90b3-40f4-8530-7060e87fbf5b",
+          "inci_name": "PEG-500",
+          "cas_no": [
+            "25322-68-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "is": {
+        "cosing_info": {
+          "reference": "0dc38227-e848-48d1-9032-a8063a29be88",
+          "inci_name": "Petrolatum, except if the full refining history is known and it can be shown that the substance from which it is produced is not a carcinogen",
+          "cas_no": [
+            "8009-03-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "een": {
+        "cosing_info": null,
+        "pubchem_info": [
+          {
+            "cid": "137332080",
+            "sid": "505664143",
+            "cas_no": null
+          }
+        ]
+      },
+      "cellulose": {
+        "cosing_info": {
+          "reference": "b482f78a-cfe8-4e22-a602-d4f420b37d60",
+          "inci_name": "CELLULOSE",
+          "cas_no": [
+            "9004-34-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "lactose": {
+        "cosing_info": {
+          "reference": "67543001-fc35-48ea-aacb-7396f550c9d9",
+          "inci_name": "LACTOSE",
+          "cas_no": [
+            "63-42-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "440995",
+            "sid": "516551381",
+            "cas_no": "63-42-3"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "112099156"

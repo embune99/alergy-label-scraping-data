@@ -36,7 +36,137 @@
       "tromethamine",
       "EndobiomaTM",
       "calciumchloride."
-    ]
+    ],
+    "inci": {
+      "aqua": {
+        "cosing_info": {
+          "reference": "acb2fd0b-1174-4f52-8481-759e0f6a9471",
+          "inci_name": "AQUA",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "glycerine": {
+        "cosing_info": null,
+        "pubchem_info": [
+          {
+            "cid": "753",
+            "sid": "481110738",
+            "cas_no": null
+          }
+        ]
+      },
+      "album": {
+        "cosing_info": {
+          "reference": "5b712c14-9704-47ca-b14e-413d65106037",
+          "inci_name": "SANTALUM ALBUM EXTRACT",
+          "cas_no": [
+            "84787-70-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "13084",
+            "sid": "505386815",
+            "cas_no": "84787-70-2"
+          }
+        ]
+      },
+      "cera": {
+        "cosing_info": {
+          "reference": "b8a72ee6-e535-4723-b9a2-ec5ac8ffeded",
+          "inci_name": "MUSTELA CERA",
+          "cas_no": [
+            "8023-74-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "paraffinum": {
+        "cosing_info": {
+          "reference": "8f9be648-8ecc-49a6-bad7-2c9ca8ac823b",
+          "inci_name": "PARAFFINUM LIQUIDUM",
+          "cas_no": [
+            "8012-95-1",
+            "8042-47-5"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "liquidum": {
+        "cosing_info": {
+          "reference": "8f9be648-8ecc-49a6-bad7-2c9ca8ac823b",
+          "inci_name": "PARAFFINUM LIQUIDUM",
+          "cas_no": [
+            "8012-95-1",
+            "8042-47-5"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "arginine": {
+        "cosing_info": {
+          "reference": "b412beaf-185a-4c1b-ac31-fe23b90cea71",
+          "inci_name": "ARGININE",
+          "cas_no": [
+            "74-79-3",
+            "7200-25-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6322",
+            "sid": "505555665",
+            "cas_no": "74-79-3"
+          },
+          {
+            "cid": "232",
+            "sid": "505585650",
+            "cas_no": "7200-25-1"
+          }
+        ]
+      },
+      "hcl": {
+        "cosing_info": {
+          "reference": "c6d92d61-bdff-470a-89a0-50d19e1a6742",
+          "inci_name": "TYRAMINE HCL",
+          "cas_no": [
+            "60-19-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "66449",
+            "sid": "500836104",
+            "cas_no": "60-19-5"
+          }
+        ]
+      },
+      "tromethamine": {
+        "cosing_info": {
+          "reference": "a9ce74db-dc8f-4485-b8ae-06d83ff401e9",
+          "inci_name": "TROMETHAMINE",
+          "cas_no": [
+            "77-86-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6503",
+            "sid": "481107847",
+            "cas_no": "77-86-1"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120597673"

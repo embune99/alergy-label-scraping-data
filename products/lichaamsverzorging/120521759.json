@@ -78,7 +78,735 @@
       "Citral",
       "Citric",
       "Acid."
-    ]
+    ],
+    "inci": {
+      "glycine": {
+        "cosing_info": {
+          "reference": "86a48168-97e5-4cc3-aff4-bd4f9e2a69cc",
+          "inci_name": "GLYCINE",
+          "cas_no": [
+            "56-40-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "750",
+            "sid": "481107780",
+            "cas_no": "56-40-6"
+          }
+        ]
+      },
+      "soja": {
+        "cosing_info": {
+          "reference": "97405f60-c38c-40ec-8d2b-e606654d370c",
+          "inci_name": "GLYCINE SOJA EXTRACT",
+          "cas_no": [
+            "84776-91-0",
+            "8001-22-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "oil": {
+        "cosing_info": {
+          "reference": "73055330-91dd-4d1e-b860-925fb2ecdbc8",
+          "inci_name": "MENHADEN OIL",
+          "cas_no": [
+            "8002-50-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "persea": {
+        "cosing_info": {
+          "reference": "6f736df5-3210-433c-b7ea-2eaa4a83e039",
+          "inci_name": "PERSEA GRATISSIMA SEED",
+          "cas_no": [
+            "8024-32-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "gratissima": {
+        "cosing_info": {
+          "reference": "6f736df5-3210-433c-b7ea-2eaa4a83e039",
+          "inci_name": "PERSEA GRATISSIMA SEED",
+          "cas_no": [
+            "8024-32-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "vitis": {
+        "cosing_info": {
+          "reference": "58be81f9-c6ef-4483-8b6e-49695c9a7ffd",
+          "inci_name": "VITIS VINIFERA LEAF WAX",
+          "cas_no": [
+            "85594-37-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "3931",
+            "sid": "500750973",
+            "cas_no": "85594-37-2"
+          }
+        ]
+      },
+      "vinifera": {
+        "cosing_info": {
+          "reference": "58be81f9-c6ef-4483-8b6e-49695c9a7ffd",
+          "inci_name": "VITIS VINIFERA LEAF WAX",
+          "cas_no": [
+            "85594-37-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "3931",
+            "sid": "500750973",
+            "cas_no": "85594-37-2"
+          }
+        ]
+      },
+      "seed": {
+        "cosing_info": {
+          "reference": "981b4ff2-0470-4c2b-9a2a-bdebc1e66420",
+          "inci_name": "HELIANTHUS ANNUUS SEED WAX",
+          "cas_no": [
+            "1286686-34-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "macadamia": {
+        "cosing_info": {
+          "reference": "b727a48d-36bf-4dee-a684-046a56d6afdb",
+          "inci_name": "MACADAMIA INTEGRIFOLIA/TETRAPHYLLA SEED OIL",
+          "cas_no": [
+            "438545-25-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "ternifolia": {
+        "cosing_info": {
+          "reference": "3653a600-9dff-45bb-9421-248a214cacde",
+          "inci_name": "MACADAMIA TERNIFOLIA SEED EXTRACT",
+          "cas_no": [
+            "129811-19-4",
+            "128497-20-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "oenothera": {
+        "cosing_info": {
+          "reference": "30bfa389-e683-43bf-aa3b-10592983f2ae",
+          "inci_name": "OENOTHERA BIENNIS EXTRACT",
+          "cas_no": [
+            "90028-66-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "biennis": {
+        "cosing_info": {
+          "reference": "30bfa389-e683-43bf-aa3b-10592983f2ae",
+          "inci_name": "OENOTHERA BIENNIS EXTRACT",
+          "cas_no": [
+            "90028-66-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "prunus": {
+        "cosing_info": {
+          "reference": "66fda891-5114-4a29-81f7-88df1b2ca9b2",
+          "inci_name": "PRUNUS PERSICA FRUIT",
+          "cas_no": [
+            "84012-34-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "amygdalus": {
+        "cosing_info": {
+          "reference": "b7c3dda2-0fbe-432f-82dc-9af978bb3910",
+          "inci_name": "PRUNUS AMYGDALUS SATIVA KERNEL EXTRACT",
+          "cas_no": [
+            "90320-37-9"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "dulcis": {
+        "cosing_info": {
+          "reference": "5f483e31-3135-410e-941f-896551cc389d",
+          "inci_name": "PRUNUS AMYGDALUS DULCIS SEED POWDER",
+          "cas_no": [
+            "90320-37-9 (generic)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "argania": {
+        "cosing_info": {
+          "reference": "ad3f2659-f22d-427a-a434-2c4503a86d83",
+          "inci_name": "ARGANIA SPINOSA KERNEL EXTRACT",
+          "cas_no": [
+            "223747-87-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "spinosa": {
+        "cosing_info": {
+          "reference": "d70865e3-ae57-4061-a461-ce1365f67814",
+          "inci_name": "CAPPARIS SPINOSA BUD EXTRACT",
+          "cas_no": [
+            "89958-23-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "kernel": {
+        "cosing_info": {
+          "reference": "ad86ddd5-9e64-4694-9380-d50e4f8b2945",
+          "inci_name": "ORYZA SATIVA KERNEL",
+          "cas_no": [
+            "68553-81-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "camellia": {
+        "cosing_info": {
+          "reference": "afc408f1-73ee-423c-96dd-c91beb4ba19b",
+          "inci_name": "CAMELLIA JAPONICA FLOWER EXTRACT",
+          "cas_no": [
+            "223748-13-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "oleifera": {
+        "cosing_info": {
+          "reference": "2ebda2a6-0c3c-4b1e-8da1-ab5b3a60a864",
+          "inci_name": "MORINGA OLEIFERA SEED EXTRACT",
+          "cas_no": [
+            "93165-54-9"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "simmondsia": {
+        "cosing_info": {
+          "reference": "8cdfa80d-10d3-4239-b373-be3c29a1ad78",
+          "inci_name": "SIMMONDSIA CHINENSIS SEED EXTRACT",
+          "cas_no": [
+            "90045-98-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "chinensis": {
+        "cosing_info": {
+          "reference": "ab70a694-30d7-45dd-9090-08e5e18b5ef5",
+          "inci_name": "SCHISANDRA CHINENSIS FRUIT",
+          "cas_no": [
+            "223748-53-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "tocopherol": {
+        "cosing_info": {
+          "reference": "e353a1e9-9330-4c22-bf1a-f58ac6d356a9",
+          "inci_name": "TOCOPHEROL",
+          "cas_no": [
+            "54-28-4 (gamma)",
+            "16698-35-4(beta)",
+            "10191-41-0(DL)",
+            "119-13-1",
+            "1406-18-4",
+            "1406-66-2",
+            "2074-53-5 (DL)",
+            "59-02-9 (D)",
+            "7616-22-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "92094",
+            "sid": "500775109",
+            "cas_no": "119-13-1"
+          },
+          {
+            "cid": "14985",
+            "sid": "483926503",
+            "cas_no": "1406-18-4"
+          },
+          {
+            "cid": "14986",
+            "sid": "516579069",
+            "cas_no": "1406-66-2"
+          },
+          {
+            "cid": "14986",
+            "sid": "516579069",
+            "cas_no": "7616-22-0"
+          }
+        ]
+      },
+      "tetramethyl": {
+        "cosing_info": {
+          "reference": "91fda4ca-4152-4350-b521-64945b0a5a56",
+          "inci_name": "TETRAMETHYL PYRAZOLYLPYRIMIDINE HCL",
+          "cas_no": [
+            "471264-17-2"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "acetyloctahydronaphthalenes": {
+        "cosing_info": {
+          "reference": "7ef988ef-989c-4378-aaeb-c9fc4b0edb1b",
+          "inci_name": "TETRAMETHYL ACETYLOCTAHYDRONAPHTHALENES",
+          "cas_no": [
+            "54464-57-2",
+            "54464-59-4",
+            "68155-66-8",
+            "68155-67-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "108242",
+            "sid": "505787547",
+            "cas_no": "54464-57-2"
+          },
+          {
+            "cid": "108243",
+            "sid": "518145041",
+            "cas_no": "54464-59-4"
+          },
+          {
+            "cid": "109193",
+            "sid": "505416029",
+            "cas_no": "68155-66-8"
+          },
+          {
+            "cid": "109194",
+            "sid": "505416028",
+            "cas_no": "68155-67-9"
+          }
+        ]
+      },
+      "hexamethylindanopyran": {
+        "cosing_info": {
+          "reference": "21a8da0c-d1e0-436c-831e-2d0d6e79bcad",
+          "inci_name": "HEXAMETHYLINDANOPYRAN",
+          "cas_no": [
+            "1222-05-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "91497",
+            "sid": "505629237",
+            "cas_no": "1222-05-5"
+          }
+        ]
+      },
+      "limonene": {
+        "cosing_info": {
+          "reference": "d9a853fb-831a-4f8e-a3f5-d57b976d9c88",
+          "inci_name": "LIMONENE",
+          "cas_no": [
+            "138-86-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "22311",
+            "sid": "518147164",
+            "cas_no": "138-86-3"
+          }
+        ]
+      },
+      "mentha": {
+        "cosing_info": {
+          "reference": "080f1da2-b4b7-47a1-923f-951bb1d65aec",
+          "inci_name": "MENTHA PIPERITA STEM EXTRACT",
+          "cas_no": [
+            "84082-70-2"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "piperita": {
+        "cosing_info": {
+          "reference": "080f1da2-b4b7-47a1-923f-951bb1d65aec",
+          "inci_name": "MENTHA PIPERITA STEM EXTRACT",
+          "cas_no": [
+            "84082-70-2"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "linalool": {
+        "cosing_info": {
+          "reference": "8f47a2fa-c519-434c-8bb9-8385cf05fea5",
+          "inci_name": "LINALOOL",
+          "cas_no": [
+            "78-70-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6549",
+            "sid": "482028551",
+            "cas_no": "78-70-6"
+          }
+        ]
+      },
+      "parfum": {
+        "cosing_info": {
+          "reference": "877337a9-4a8b-4d17-bed7-f3a39d335e80",
+          "inci_name": "PARFUM",
+          "cas_no": []
+        },
+        "pubchem_info": []
+      },
+      "coumarin": {
+        "cosing_info": {
+          "reference": "5ea4136c-9b7f-446c-875c-1b04d887a52e",
+          "inci_name": "COUMARIN",
+          "cas_no": [
+            "91-64-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "323",
+            "sid": "481107046",
+            "cas_no": "91-64-5"
+          }
+        ]
+      },
+      "pogostemon": {
+        "cosing_info": {
+          "reference": "676b7775-baa8-489a-b788-f202c33f9980",
+          "inci_name": "POGOSTEMON CABLIN LEAF EXTRACT",
+          "cas_no": [
+            "84238-39-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "cablin": {
+        "cosing_info": {
+          "reference": "ae5d9c66-d4d7-4c1e-b789-a11445a6275f",
+          "inci_name": "POGOSTEMON CABLIN FLOWER EXTRACT",
+          "cas_no": [
+            "84238-39-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "menthol": {
+        "cosing_info": {
+          "reference": "80ef1543-35c4-43f0-89bd-2ea8372185cb",
+          "inci_name": "MENTHOL",
+          "cas_no": [
+            "1490-04-6",
+            "2216-51-5",
+            "89-78-1",
+            "15356-70-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "1254",
+            "sid": "481107802",
+            "cas_no": "1490-04-6"
+          },
+          {
+            "cid": "16666",
+            "sid": "518140464",
+            "cas_no": "2216-51-5"
+          },
+          {
+            "cid": "1254",
+            "sid": "481107802",
+            "cas_no": "89-78-1"
+          },
+          {
+            "cid": "1254",
+            "sid": "481107802",
+            "cas_no": "15356-70-4"
+          }
+        ]
+      },
+      "citrus": {
+        "cosing_info": {
+          "reference": "ecf6ef2d-4da6-4ff8-a1d0-d29422d24e3a",
+          "inci_name": "CITRUS AURANTIUM DULCIS PEEL OIL",
+          "cas_no": [
+            "8008-57-9"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "aurantium": {
+        "cosing_info": {
+          "reference": "0ee76a08-c272-463e-a11d-7409523e5320",
+          "inci_name": "CITRUS AURANTIUM AMARA PEEL WATER",
+          "cas_no": [
+            "72968-50-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "bergamia": {
+        "cosing_info": {
+          "reference": "9e4a8499-0e70-41ce-8076-86e2cc6d72a8",
+          "inci_name": "CITRUS AURANTIUM BERGAMIA LEAF EXTRACT",
+          "cas_no": [
+            "89957-91-5"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "peel": {
+        "cosing_info": {
+          "reference": "e863d775-c505-4bbd-a8cf-2f9acc6e6afe",
+          "inci_name": "ZANTHOXYLUM PIPERITUM PEEL WATER",
+          "cas_no": [
+            "97404-53-0 (generic)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "linalyl": {
+        "cosing_info": {
+          "reference": "cbc4a314-95f5-4345-98cc-61b2d87bf963",
+          "inci_name": "LINALYL BENZOATE",
+          "cas_no": [
+            "126-64-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "31353",
+            "sid": "505794934",
+            "cas_no": "126-64-7"
+          }
+        ]
+      },
+      "acetate": {
+        "cosing_info": {
+          "reference": "2e90250f-29b8-4066-987b-311a1cbc2f14",
+          "inci_name": "OCTYL ACETATE/MONOMETHYL ACETATE",
+          "cas_no": [
+            "68683-25-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "163261",
+            "sid": "500811241",
+            "cas_no": "68683-25-0"
+          }
+        ]
+      },
+      "acetyl": {
+        "cosing_info": {
+          "reference": "019c96e4-5f28-49a7-bcb6-1dd39634d5ab",
+          "inci_name": "ACETYLATED LANOLIN",
+          "cas_no": [
+            "61788-48-5"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "cedrene": {
+        "cosing_info": {
+          "reference": "d3bade7d-bd5b-4da9-9b4d-8ecb8b5c1c2a",
+          "inci_name": "CEDRENE",
+          "cas_no": [
+            "11028-42-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "521207",
+            "sid": "516564089",
+            "cas_no": "11028-42-5"
+          }
+        ]
+      },
+      "pinene": {
+        "cosing_info": {
+          "reference": "4f954592-7925-439a-b6bd-4e845d4a6c7c",
+          "inci_name": "PINENE",
+          "cas_no": [
+            "80-56-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6654",
+            "sid": "481106869",
+            "cas_no": "80-56-8"
+          }
+        ]
+      },
+      "anethole": {
+        "cosing_info": {
+          "reference": "698db755-df8b-43f5-a772-cd950f190bfc",
+          "inci_name": "ANETHOLE",
+          "cas_no": [
+            "104-46-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "637563",
+            "sid": "505553790",
+            "cas_no": "104-46-1"
+          }
+        ]
+      },
+      "beta-caryophyllene": {
+        "cosing_info": {
+          "reference": "07843aed-2428-4a06-be80-2e72b1528d10",
+          "inci_name": "BETA-CARYOPHYLLENE",
+          "cas_no": [
+            "87-44-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5281515",
+            "sid": "481107968",
+            "cas_no": "87-44-5"
+          }
+        ]
+      },
+      "lavandula": {
+        "cosing_info": {
+          "reference": "b0514910-40cb-4acf-8b27-74ff7082cefb",
+          "inci_name": "LAVANDULA HYBRIDA EXTRACT",
+          "cas_no": [
+            "91722-69-9"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "extract": {
+        "cosing_info": {
+          "reference": "6ff40204-b73a-486d-bc81-2a5a6f2faeee",
+          "inci_name": "HAEMATOXYLUM CAMPECHIANUM WOOD EXTRACT",
+          "cas_no": [
+            "8005-33-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "442514",
+            "sid": "505779233",
+            "cas_no": "8005-33-2"
+          }
+        ]
+      },
+      "vanillin": {
+        "cosing_info": {
+          "reference": "66d59cfe-69b2-46cf-ad54-d553ca4e9884",
+          "inci_name": "VANILLIN",
+          "cas_no": [
+            "121-33-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "1183",
+            "sid": "481107850",
+            "cas_no": "121-33-5"
+          }
+        ]
+      },
+      "pelargonium": {
+        "cosing_info": {
+          "reference": "7a3f620b-f95e-4dbb-9a2b-42f54e45747a",
+          "inci_name": "PELARGONIUM GRAVEOLENS FLOWER EXTRACT",
+          "cas_no": [
+            "90082-51-2"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "graveolens": {
+        "cosing_info": {
+          "reference": "d260f730-887d-484d-8612-dbc782b84d27",
+          "inci_name": "PEUCEDANUM GRAVEOLENS EXTRACT",
+          "cas_no": [
+            "90028-03-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "flower": {
+        "cosing_info": {
+          "reference": "c1d12598-6b78-467a-9a80-920b391e0209",
+          "inci_name": "Tagetes minuta flower extract; Tagetes minuta flower oil",
+          "cas_no": [
+            "91770-75-1; 91770-75-1",
+            "8016-84-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "citral": {
+        "cosing_info": {
+          "reference": "c41dea05-5e24-4081-be53-3e926964bbf7",
+          "inci_name": "CITRAL",
+          "cas_no": [
+            "5392-40-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "638011",
+            "sid": "481107032",
+            "cas_no": "5392-40-5"
+          }
+        ]
+      },
+      "citric": {
+        "cosing_info": {
+          "reference": "398b79ca-fc64-43b5-bf15-956e6239c1db",
+          "inci_name": "CITRIC ACID",
+          "cas_no": [
+            "77-92-9",
+            "5949-29-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "311",
+            "sid": "481107970",
+            "cas_no": "77-92-9"
+          },
+          {
+            "cid": "22230",
+            "sid": "481107868",
+            "cas_no": "5949-29-1"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120521759"

@@ -24,7 +24,49 @@
       "(contains",
       "magnesium",
       "chloride)."
-    ]
+    ],
+    "inci": {
+      "maris": {
+        "cosing_info": {
+          "reference": "0b4c2136-74c5-4a55-92bc-fc43cf33a7a3",
+          "inci_name": "MARIS LIMUS EXTRACT",
+          "cas_no": []
+        },
+        "pubchem_info": []
+      },
+      "sal": {
+        "cosing_info": {
+          "reference": "d92c1561-d195-4322-bfa7-07f220437e21",
+          "inci_name": "SEA SALT",
+          "cas_no": [
+            "7647-14-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5234",
+            "sid": "481108026",
+            "cas_no": "7647-14-5"
+          }
+        ]
+      },
+      "magnesium": {
+        "cosing_info": {
+          "reference": "3fd37db3-bd9e-4d98-b5fe-570c2db54cda",
+          "inci_name": "MAGNESIUM",
+          "cas_no": [
+            "7439-95-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5462224",
+            "sid": "481107309",
+            "cas_no": "7439-95-4"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120804564"

@@ -42,7 +42,297 @@
       "74160",
       "73915",
       "73900."
-    ]
+    ],
+    "inci": {
+      "styrene/butadiene": {
+        "cosing_info": null,
+        "pubchem_info": [
+          {
+            "cid": "62697",
+            "sid": "505558415",
+            "cas_no": null
+          }
+        ]
+      },
+      "copolymer": {
+        "cosing_info": {
+          "reference": "fcf102c4-72b2-4018-84a0-e49a1c54ba96",
+          "inci_name": "ACRYLATES/METHOXY PEG-10 MALEATE/STYRENE COPOLYMER",
+          "cas_no": [
+            "68988-26-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "peg-160m": {
+        "cosing_info": {
+          "reference": "b9858487-08ec-4e32-8203-51777c15a198",
+          "inci_name": "PEG-160M",
+          "cas_no": [
+            "25322-68-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "peg-9m": {
+        "cosing_info": {
+          "reference": "2f4c356b-52ba-43b7-8b65-d7b20c534c72",
+          "inci_name": "PEG-9M",
+          "cas_no": [
+            "25322-68-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "aloe": {
+        "cosing_info": {
+          "reference": "2417ba86-6200-452d-8506-2e62681569b2",
+          "inci_name": "ALOE SPECIES RESIN",
+          "cas_no": [
+            "84837-08-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "barbadensis": {
+        "cosing_info": {
+          "reference": "9c6d5b9b-517c-4f2f-89fd-d874e4af781c",
+          "inci_name": "ALOE BARBADENSIS EXTRACT",
+          "cas_no": [
+            "85507-69-3",
+            "94349-62-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5712222",
+            "sid": "505550691",
+            "cas_no": "85507-69-3"
+          }
+        ]
+      },
+      "leaf": {
+        "cosing_info": {
+          "reference": "8e8792ba-fdf8-439d-864b-3c48468d6204",
+          "inci_name": "PSIDIUM GUAJAVA LEAF OIL",
+          "cas_no": [
+            "91770-12-6 (generic)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "powder": {
+        "cosing_info": {
+          "reference": "00aa870f-31a9-4a22-8238-74c5e5965f14",
+          "inci_name": "SILK POWDER",
+          "cas_no": [
+            "9009-99-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "argania": {
+        "cosing_info": {
+          "reference": "ad3f2659-f22d-427a-a434-2c4503a86d83",
+          "inci_name": "ARGANIA SPINOSA KERNEL EXTRACT",
+          "cas_no": [
+            "223747-87-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "spinosa": {
+        "cosing_info": {
+          "reference": "d70865e3-ae57-4061-a461-ce1365f67814",
+          "inci_name": "CAPPARIS SPINOSA BUD EXTRACT",
+          "cas_no": [
+            "89958-23-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "kernel": {
+        "cosing_info": {
+          "reference": "ad86ddd5-9e64-4694-9380-d50e4f8b2945",
+          "inci_name": "ORYZA SATIVA KERNEL",
+          "cas_no": [
+            "68553-81-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "oil": {
+        "cosing_info": {
+          "reference": "73055330-91dd-4d1e-b860-925fb2ecdbc8",
+          "inci_name": "MENHADEN OIL",
+          "cas_no": [
+            "8002-50-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "tocopheryl": {
+        "cosing_info": {
+          "reference": "c8695df0-626d-4041-bd19-9ce5a4efa757",
+          "inci_name": "TOCOPHERYL RETINOATE",
+          "cas_no": [
+            "40516-49-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5282180",
+            "sid": "516551734",
+            "cas_no": "40516-49-2"
+          }
+        ]
+      },
+      "acetate": {
+        "cosing_info": {
+          "reference": "2e90250f-29b8-4066-987b-311a1cbc2f14",
+          "inci_name": "OCTYL ACETATE/MONOMETHYL ACETATE",
+          "cas_no": [
+            "68683-25-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "163261",
+            "sid": "500811241",
+            "cas_no": "68683-25-0"
+          }
+        ]
+      },
+      "ethylene": {
+        "cosing_info": {
+          "reference": "5260cc06-fb24-4ac6-8cb5-63920b0e4f74",
+          "inci_name": "ETHYLENE CARBONATE",
+          "cas_no": [
+            "96-49-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "7303",
+            "sid": "500782545",
+            "cas_no": "96-49-1"
+          }
+        ]
+      },
+      "distearamide": {
+        "cosing_info": {
+          "reference": "a228dd0b-9a50-4ff1-b27e-1319c753d696",
+          "inci_name": "ETHYLENE DISTEARAMIDE",
+          "cas_no": [
+            "110-30-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8044",
+            "sid": "500804445",
+            "cas_no": "110-30-5"
+          }
+        ]
+      },
+      "glycol": {
+        "cosing_info": {
+          "reference": "9676e281-f1c1-45e7-8bc5-dde960d1fc3d",
+          "inci_name": "GLYCOL",
+          "cas_no": [
+            "107-21-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "174",
+            "sid": "481107978",
+            "cas_no": "107-21-1"
+          }
+        ]
+      },
+      "montanate": {
+        "cosing_info": {
+          "reference": "29a2810e-f4b7-40ed-beea-e12985b369f5",
+          "inci_name": "GLYCERYL MONTANATE",
+          "cas_no": [
+            "68476-38-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "ci": {
+        "cosing_info": {
+          "reference": "cf0d4d37-d7ff-4040-aeca-ad94f40fffbb",
+          "inci_name": "CI 77400",
+          "cas_no": [
+            "7440-50-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "23978",
+            "sid": "481107044",
+            "cas_no": "7440-50-8"
+          }
+        ]
+      },
+      "77007": {
+        "cosing_info": {
+          "reference": "5c9fb4b4-773d-4f7d-87a1-9d352ce4be3b",
+          "inci_name": "CI 77007",
+          "cas_no": [
+            "12769-96-9",
+            "1302-83-6",
+            "57455-37-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "91667813",
+            "sid": "505572818",
+            "cas_no": "12769-96-9"
+          },
+          {
+            "cid": "71587188",
+            "sid": "516563708",
+            "cas_no": "57455-37-5"
+          }
+        ]
+      },
+      "74160": {
+        "cosing_info": {
+          "reference": "86f605d4-6db0-400e-9dcc-cd67da7d1582",
+          "inci_name": "CI 74160",
+          "cas_no": [
+            "147-14-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6531516",
+            "sid": "505568218",
+            "cas_no": "147-14-8"
+          }
+        ]
+      },
+      "73915": {
+        "cosing_info": {
+          "reference": "27a167db-f9f3-45ec-95f2-b0953837980e",
+          "inci_name": "CI 73915",
+          "cas_no": [
+            "980-26-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "70423",
+            "sid": "505523318",
+            "cas_no": "980-26-7"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120165723"

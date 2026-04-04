@@ -1,0 +1,132 @@
+{
+  "apiVersion": "2.146",
+  "reference": "a8e2a1a5-8291-4041-b7f5-aba8ad897554",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 9.534882,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "POLYAMINOPROPYL BIGUANIDE"
+    ],
+    "otherRestrictions": [
+      "ban substances that deplete the ozone layer"
+    ],
+    "note": [],
+    "refNo": [],
+    "sccsOpinionUrls": [
+      "http://ec.europa.eu/health/scientific_committees/consumer_safety/docs/sccs_o_157.pdf",
+      "https://ec.europa.eu/health/sites/health/files/scientific_committees/consumer_safety/docs/sccs_o_204.pdf"
+    ],
+    "innName": [],
+    "other": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "chemicalName": [
+      "Poly(hexamethylenebiguanide) hydrochloride [1];poly(iminoimidocarbonyl)iminohexamethylene hydrochloride [2];Poly(iminocarbonimidoyliminocarbonimidoylimino-1,6-hexanediyl) [3];- [4]"
+    ],
+    "sccsOpinion": [
+      "Opinion on the safety of poly(hexamethylene) biguanide hydrochloride (PHMB). (Revision of 16 December 2014) - CAS number have been added. Corrigendum (02/02/2016) test concentrations (last paragraph) on page 25 have been corrected",
+      "OPINION ON Polyaminopropyl Biguanide (PHMB) - Submission III"
+    ],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "Polyaminopropyl Biguanide is the organic compound that conforms to the formula:"
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "F854D6C32DD2FC1A283CE7C03FB737B8"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [
+      "608-723-9 [1]/608-042-7 [2]/923-111-4 [3]/- [4]"
+    ],
+    "maximumConcentration": [],
+    "identifiedIngredient": [
+      "28155"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "inciName": [
+      "POLYAMINOPROPYL BIGUANIDE"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "32289-58-0 [1]/27083-27-8 [2]/28757-47-3 [3]/ 133029-32-0 [4]"
+    ],
+    "substanceId": [
+      "36692"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "annexNo": [],
+    "productTypeBodyParts": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "PRESERVATIVE"
+    ],
+    "esDA_IngestDate": [
+      "2023-05-22T14:26:31.419+0200"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "corporate-search-version": [
+      "102"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-05-22T14:26:31.376+0200"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "datasource": [
+      "GROWTH_COSING"
+    ],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "a8e2a1a5-8291-4041-b7f5-aba8ad897554. Available at: urn:test",
+  "score": 9.534882
+}

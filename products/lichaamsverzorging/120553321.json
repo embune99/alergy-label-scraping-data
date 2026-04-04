@@ -19,7 +19,25 @@
       "Ingrediënten",
       "Magnesium",
       "sulfate."
-    ]
+    ],
+    "inci": {
+      "magnesium": {
+        "cosing_info": {
+          "reference": "3fd37db3-bd9e-4d98-b5fe-570c2db54cda",
+          "inci_name": "MAGNESIUM",
+          "cas_no": [
+            "7439-95-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5462224",
+            "sid": "481107309",
+            "cas_no": "7439-95-4"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120553321"

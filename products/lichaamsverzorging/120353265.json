@@ -21,7 +21,34 @@
       "Aluminium",
       "Potassium"
     ],
-    "inci": {}
+    "inci": {
+      "aluminium": {
+        "cosing_info": {
+          "reference": "3d615678-0c95-45fc-ae54-e9cd9a78defa",
+          "inci_name": "Aluminium",
+          "cas_no": [
+            "7429-90-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5359268",
+            "sid": "481106873",
+            "cas_no": "7429-90-5"
+          }
+        ]
+      },
+      "potassium": {
+        "cosing_info": {
+          "reference": "a7960d89-221b-44b5-8b26-fc243a13308f",
+          "inci_name": "POTASSIUM CAROATE",
+          "cas_no": [
+            "70693-62-8"
+          ]
+        },
+        "pubchem_info": []
+      }
+    }
   },
   "additional_information": {
     "id": "120353265"

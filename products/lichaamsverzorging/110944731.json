@@ -43,7 +43,125 @@
       "BHA",
       "en",
       "citroenzuur."
-    ]
+    ],
+    "inci": {
+      "andere": {
+        "cosing_info": null,
+        "pubchem_info": [
+          {
+            "cid": "84976",
+            "sid": "500765277",
+            "cas_no": null
+          }
+        ]
+      },
+      "water": {
+        "cosing_info": {
+          "reference": "f47fb937-5e85-47be-a122-3522901eb942",
+          "inci_name": "WATER",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "paraffinum": {
+        "cosing_info": {
+          "reference": "8f9be648-8ecc-49a6-bad7-2c9ca8ac823b",
+          "inci_name": "PARAFFINUM LIQUIDUM",
+          "cas_no": [
+            "8012-95-1",
+            "8042-47-5"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "liquidum": {
+        "cosing_info": {
+          "reference": "8f9be648-8ecc-49a6-bad7-2c9ca8ac823b",
+          "inci_name": "PARAFFINUM LIQUIDUM",
+          "cas_no": [
+            "8012-95-1",
+            "8042-47-5"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "sorbitan": {
+        "cosing_info": {
+          "reference": "681f9632-034c-4b5d-86fe-be30141cd08d",
+          "inci_name": "SORBITAN CAPRYLATE",
+          "cas_no": [
+            "60177-36-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "90474014",
+            "sid": "500827843",
+            "cas_no": "60177-36-8"
+          }
+        ]
+      },
+      "was": {
+        "cosing_info": null,
+        "pubchem_info": [
+          {
+            "cid": "156612909",
+            "sid": null,
+            "cas_no": null
+          }
+        ]
+      },
+      "benzylalcohol": {
+        "cosing_info": null,
+        "pubchem_info": [
+          {
+            "cid": "244",
+            "sid": "481107731",
+            "cas_no": null
+          }
+        ]
+      },
+      "bha": {
+        "cosing_info": {
+          "reference": "03166186-9312-4f20-94ca-59bb276a185f",
+          "inci_name": "BHA",
+          "cas_no": [
+            "25013-16-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8456",
+            "sid": "505567548",
+            "cas_no": "25013-16-5"
+          }
+        ]
+      },
+      "en": {
+        "cosing_info": {
+          "reference": "7ef990b2-adac-41c1-b07c-d1d14c0bf4ba",
+          "inci_name": "2-PROPANOL/BORON TRIFLUORIDE/ETHYLIDENEBICYCLOHEPTENE",
+          "cas_no": [
+            "90530-04-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "55250280",
+            "sid": null,
+            "cas_no": "90530-04-4"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "110944731"

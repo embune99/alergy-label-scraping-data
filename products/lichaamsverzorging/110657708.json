@@ -41,7 +41,300 @@
       "Benzoate",
       "Xanthan",
       "Gum."
-    ]
+    ],
+    "inci": {
+      "aqua": {
+        "cosing_info": {
+          "reference": "acb2fd0b-1174-4f52-8481-759e0f6a9471",
+          "inci_name": "AQUA",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "olive": {
+        "cosing_info": {
+          "reference": "b4bfc782-2d83-4764-80b7-756650412cf8",
+          "inci_name": "OLIVE ACID",
+          "cas_no": [
+            "92044-96-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "133082064",
+            "sid": "505852660",
+            "cas_no": "92044-96-7"
+          }
+        ]
+      },
+      "oil": {
+        "cosing_info": {
+          "reference": "73055330-91dd-4d1e-b860-925fb2ecdbc8",
+          "inci_name": "MENHADEN OIL",
+          "cas_no": [
+            "8002-50-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "peg-7": {
+        "cosing_info": {
+          "reference": "ae9e43e9-4d7e-445d-8cd3-a35484150d86",
+          "inci_name": "PEG-7",
+          "cas_no": [
+            "25322-68-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "esters": {
+        "cosing_info": {
+          "reference": "c58db643-e540-400f-b05c-f629a1eeda02",
+          "inci_name": "LINSEED OIL ASCORBATE ESTERS",
+          "cas_no": [
+            "8001-26-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "cocamidopropyl": {
+        "cosing_info": {
+          "reference": "dbd8d0cb-fa8f-41cc-b426-41c912015faf",
+          "inci_name": "COCAMIDOPROPYL BETAINE",
+          "cas_no": [
+            "97862-59-4 (generic)",
+            "61789-40-0",
+            "70851-07-9",
+            "83138-08-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "betaine": {
+        "cosing_info": {
+          "reference": "73ba24e6-ffb8-4a09-a6ee-99704524b504",
+          "inci_name": "BETAINE",
+          "cas_no": [
+            "107-43-7",
+            "590-47-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "247",
+            "sid": "481106944",
+            "cas_no": "107-43-7"
+          },
+          {
+            "cid": "83815",
+            "sid": null,
+            "cas_no": "590-47-6"
+          }
+        ]
+      },
+      "peg-4": {
+        "cosing_info": {
+          "reference": "570b4fc7-3db9-455e-9338-d2e88ed9621e",
+          "inci_name": "PEG-4",
+          "cas_no": [
+            "25322-68-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "olivate": {
+        "cosing_info": {
+          "reference": "f7152d03-d61b-45c9-b3dc-41d21b592cce",
+          "inci_name": "SODIUM OLIVATE",
+          "cas_no": [
+            "61789-88-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "sodium": {
+        "cosing_info": {
+          "reference": "436c3318-3a15-40db-b19b-54900ed3abc1",
+          "inci_name": "SODIUM SIALYLLACTOSE",
+          "cas_no": [
+            "128596-80-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "71308479",
+            "sid": "504500786",
+            "cas_no": "128596-80-5"
+          }
+        ]
+      },
+      "chloride": {
+        "cosing_info": {
+          "reference": "c34b87ef-4a9c-4fea-ab84-b7fa2e76303d",
+          "inci_name": "Hexamethonium chloride; Hexamethylene(bistrimethylammonium)chloride",
+          "cas_no": [
+            "60-25-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "93550",
+            "sid": "500789484",
+            "cas_no": "60-25-3"
+          }
+        ]
+      },
+      "lactic": {
+        "cosing_info": {
+          "reference": "7b7b024e-34fa-4f28-883a-0a1bcc52ffb0",
+          "inci_name": "LACTIC YEASTS",
+          "cas_no": [
+            "68876-77-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "acid": {
+        "cosing_info": {
+          "reference": "2ce6a5ff-38b0-47a8-86bf-06e8a480b066",
+          "inci_name": "Perfluoroheptanoic acid; tridecafluoroheptanoic acid",
+          "cas_no": [
+            "375-85-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "67818",
+            "sid": "500815077",
+            "cas_no": "375-85-9"
+          }
+        ]
+      },
+      "inulin": {
+        "cosing_info": {
+          "reference": "cebf3da5-1bb2-4644-a085-717d5f5bb626",
+          "inci_name": "INULIN",
+          "cas_no": [
+            "9005-80-5"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "alpha-glucan": {
+        "cosing_info": {
+          "reference": "00c67985-853e-4b4c-98e3-a5e66d530638",
+          "inci_name": "ALPHA-GLUCAN",
+          "cas_no": []
+        },
+        "pubchem_info": []
+      },
+      "oligosaccharide": {
+        "cosing_info": {
+          "reference": "b7c1baa5-6468-4d1a-bd0e-17fb317e0a5f",
+          "inci_name": "RESVERATROL DIMETHYL ETHER OLIGOSACCHARIDES",
+          "cas_no": []
+        },
+        "pubchem_info": []
+      },
+      "glycerin": {
+        "cosing_info": {
+          "reference": "59eb65ef-7b29-4486-a311-f194224c11e6",
+          "inci_name": "GLYCERIN",
+          "cas_no": [
+            "56-81-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "753",
+            "sid": "481110738",
+            "cas_no": "56-81-5"
+          }
+        ]
+      },
+      "1": {
+        "cosing_info": {
+          "reference": "533536b7-35d6-45c8-b0d5-af243ac0b4cc",
+          "inci_name": "CI 20170",
+          "cas_no": [
+            "1320-07-6",
+            "6371-84-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "23675104",
+            "sid": "505577183",
+            "cas_no": "1320-07-6"
+          },
+          {
+            "cid": "23668750",
+            "sid": "505560141",
+            "cas_no": "6371-84-2"
+          }
+        ]
+      },
+      "caprylyl": {
+        "cosing_info": {
+          "reference": "a75bfbc3-4ee6-421f-86f5-afbcc5dbb570",
+          "inci_name": "CAPRYLYL LAURATE",
+          "cas_no": [
+            "5303-24-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "79185",
+            "sid": "505569519",
+            "cas_no": "5303-24-2"
+          }
+        ]
+      },
+      "glycol": {
+        "cosing_info": {
+          "reference": "9676e281-f1c1-45e7-8bc5-dde960d1fc3d",
+          "inci_name": "GLYCOL",
+          "cas_no": [
+            "107-21-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "174",
+            "sid": "481107978",
+            "cas_no": "107-21-1"
+          }
+        ]
+      },
+      "benzoate": {
+        "cosing_info": {
+          "reference": "5b65f7cc-6a38-4226-ac3a-f0701f04cd27",
+          "inci_name": "CASTOR OIL BENZOATE",
+          "cas_no": [
+            "225927-34-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "xanthan": {
+        "cosing_info": {
+          "reference": "6f3d38ca-3212-4346-91be-31b5830ee1d9",
+          "inci_name": "XANTHAN GUM",
+          "cas_no": [
+            "11138-66-2"
+          ]
+        },
+        "pubchem_info": []
+      }
+    }
   },
   "additional_information": {
     "id": "110657708"

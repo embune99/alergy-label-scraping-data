@@ -44,7 +44,425 @@
       "15850",
       "45410",
       "17200."
-    ]
+    ],
+    "inci": {
+      "sodium": {
+        "cosing_info": {
+          "reference": "436c3318-3a15-40db-b19b-54900ed3abc1",
+          "inci_name": "SODIUM SIALYLLACTOSE",
+          "cas_no": [
+            "128596-80-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "71308479",
+            "sid": "504500786",
+            "cas_no": "128596-80-5"
+          }
+        ]
+      },
+      "bicarbonate": {
+        "cosing_info": {
+          "reference": "4c65cdec-297b-47d9-913c-6698dd590607",
+          "inci_name": "AMINOGUANIDINE BICARBONATE",
+          "cas_no": [
+            "2582-30-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "164944",
+            "sid": "505553277",
+            "cas_no": "2582-30-1"
+          }
+        ]
+      },
+      "citric": {
+        "cosing_info": {
+          "reference": "398b79ca-fc64-43b5-bf15-956e6239c1db",
+          "inci_name": "CITRIC ACID",
+          "cas_no": [
+            "77-92-9",
+            "5949-29-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "311",
+            "sid": "481107970",
+            "cas_no": "77-92-9"
+          },
+          {
+            "cid": "22230",
+            "sid": "481107868",
+            "cas_no": "5949-29-1"
+          }
+        ]
+      },
+      "acid": {
+        "cosing_info": {
+          "reference": "2ce6a5ff-38b0-47a8-86bf-06e8a480b066",
+          "inci_name": "Perfluoroheptanoic acid; tridecafluoroheptanoic acid",
+          "cas_no": [
+            "375-85-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "67818",
+            "sid": "500815077",
+            "cas_no": "375-85-9"
+          }
+        ]
+      },
+      "peg-8": {
+        "cosing_info": {
+          "reference": "4da2e55d-2dfa-4b6f-a8b0-e83421cf6643",
+          "inci_name": "PEG-8",
+          "cas_no": [
+            "5117-19-1",
+            "25322-68-3 (generic)"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "78798",
+            "sid": "518185115",
+            "cas_no": "5117-19-1"
+          }
+        ]
+      },
+      "aqua": {
+        "cosing_info": {
+          "reference": "acb2fd0b-1174-4f52-8481-759e0f6a9471",
+          "inci_name": "AQUA",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "parfum": {
+        "cosing_info": {
+          "reference": "877337a9-4a8b-4d17-bed7-f3a39d335e80",
+          "inci_name": "PARFUM",
+          "cas_no": []
+        },
+        "pubchem_info": []
+      },
+      "mipa-laureth": {
+        "cosing_info": {
+          "reference": "5de5a6ef-aad0-4355-95e4-90f479054192",
+          "inci_name": "MIPA-LAURETH SULFATE",
+          "cas_no": [
+            "83016-76-6",
+            "1187742-72-8 (generic)"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "170851910",
+            "sid": null,
+            "cas_no": "83016-76-6"
+          }
+        ]
+      },
+      "sulfate": {
+        "cosing_info": {
+          "reference": "e122130b-9fd3-47ab-bf29-63f7f233422f",
+          "inci_name": "SODIUM LAURYL SULFATE",
+          "cas_no": [
+            "151-21-3",
+            "68585-47-7 (generic)",
+            "68955-19-1 (generic)",
+            "73296-89-6",
+            "85586-07-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "3423265",
+            "sid": "505883583",
+            "cas_no": "151-21-3"
+          }
+        ]
+      },
+      "propylene": {
+        "cosing_info": {
+          "reference": "0e29f9a6-8bea-465c-8d3c-a49db69ea5ec",
+          "inci_name": "PROPYLENE GLYCOL DILAURATE",
+          "cas_no": [
+            "22788-19-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "90838",
+            "sid": "500819956",
+            "cas_no": "22788-19-8"
+          }
+        ]
+      },
+      "glycol": {
+        "cosing_info": {
+          "reference": "9676e281-f1c1-45e7-8bc5-dde960d1fc3d",
+          "inci_name": "GLYCOL",
+          "cas_no": [
+            "107-21-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "174",
+            "sid": "481107978",
+            "cas_no": "107-21-1"
+          }
+        ]
+      },
+      "benzyl": {
+        "cosing_info": {
+          "reference": "b8bed1f8-a18b-4f12-ada2-664e686fddd7",
+          "inci_name": "BENZYL ACETATE",
+          "cas_no": [
+            "140-11-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8785",
+            "sid": "481106933",
+            "cas_no": "140-11-4"
+          }
+        ]
+      },
+      "benzoate": {
+        "cosing_info": {
+          "reference": "5b65f7cc-6a38-4226-ac3a-f0701f04cd27",
+          "inci_name": "CASTOR OIL BENZOATE",
+          "cas_no": [
+            "225927-34-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "alcohol": {
+        "cosing_info": {
+          "reference": "ee98826a-bac8-4089-91f6-32d956b26c61",
+          "inci_name": "ALCOHOL",
+          "cas_no": [
+            "64-17-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "702",
+            "sid": "481101440",
+            "cas_no": "64-17-5"
+          }
+        ]
+      },
+      "aluminum": {
+        "cosing_info": {
+          "reference": "f8fd658c-b90a-4232-adf0-4e693bea3cfb",
+          "inci_name": "ALUMINUM",
+          "cas_no": [
+            "7429-90-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5359268",
+            "sid": "481106873",
+            "cas_no": "7429-90-5"
+          }
+        ]
+      },
+      "hydroxide": {
+        "cosing_info": {
+          "reference": "46d24c83-1ace-4209-a88d-c3f205d323de",
+          "inci_name": "POTASSIUM HYDROXIDE",
+          "cas_no": [
+            "1310-58-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "14797",
+            "sid": "481108011",
+            "cas_no": "1310-58-3"
+          }
+        ]
+      },
+      "chloride": {
+        "cosing_info": {
+          "reference": "c34b87ef-4a9c-4fea-ab84-b7fa2e76303d",
+          "inci_name": "Hexamethonium chloride; Hexamethylene(bistrimethylammonium)chloride",
+          "cas_no": [
+            "60-25-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "93550",
+            "sid": "500789484",
+            "cas_no": "60-25-3"
+          }
+        ]
+      },
+      "colophonium": {
+        "cosing_info": {
+          "reference": "63a9d934-15b2-43af-8612-d1ab75d09027",
+          "inci_name": "COLOPHONIUM",
+          "cas_no": [
+            "8050-09-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "calcium": {
+        "cosing_info": {
+          "reference": "cc180388-386f-4acb-a5f0-f53acf4d1553",
+          "inci_name": "CALCIUM",
+          "cas_no": [
+            "7440-70-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5460341",
+            "sid": "481106970",
+            "cas_no": "7440-70-2"
+          }
+        ]
+      },
+      "sulphate": {
+        "cosing_info": {
+          "reference": "04e84948-d928-4fc8-b755-207788a279ab",
+          "inci_name": "Cobalt sulphate",
+          "cas_no": [
+            "10124-43-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "24965",
+            "sid": "500770637",
+            "cas_no": "10124-43-3"
+          }
+        ]
+      },
+      "ci": {
+        "cosing_info": {
+          "reference": "cf0d4d37-d7ff-4040-aeca-ad94f40fffbb",
+          "inci_name": "CI 77400",
+          "cas_no": [
+            "7440-50-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "23978",
+            "sid": "481107044",
+            "cas_no": "7440-50-8"
+          }
+        ]
+      },
+      "42090": {
+        "cosing_info": {
+          "reference": "75017119-6f2c-4d40-bb78-69e976eb8d65",
+          "inci_name": "CI 42090",
+          "cas_no": [
+            "2650-18-2",
+            "37307-56-5",
+            "3844-45-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "17559",
+            "sid": "505567758",
+            "cas_no": "2650-18-2"
+          },
+          {
+            "cid": "19700",
+            "sid": "505565963",
+            "cas_no": "3844-45-9"
+          }
+        ]
+      },
+      "19140": {
+        "cosing_info": {
+          "reference": "1222fb36-2e72-4fc6-861d-dfc05d712655",
+          "inci_name": "CI 19140",
+          "cas_no": [
+            "1934-21-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "164825",
+            "sid": null,
+            "cas_no": "1934-21-0"
+          }
+        ]
+      },
+      "14700": {
+        "cosing_info": {
+          "reference": "94bf302d-3815-4b1e-8cd5-81fc53f72f54",
+          "inci_name": "CI 14700",
+          "cas_no": [
+            "4548-53-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "62542",
+            "sid": "504499362",
+            "cas_no": "4548-53-2"
+          }
+        ]
+      },
+      "15850": {
+        "cosing_info": {
+          "reference": "9ff64b91-95d7-406c-b69b-f94150630159",
+          "inci_name": "CI 15850",
+          "cas_no": [
+            "5858-81-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "135487652",
+            "sid": "505577179",
+            "cas_no": "5858-81-1"
+          }
+        ]
+      },
+      "45410": {
+        "cosing_info": {
+          "reference": "ecefe525-3806-4a60-8b3f-3de3a7b2339e",
+          "inci_name": "CI 45410",
+          "cas_no": [
+            "18472-87-2",
+            "13473-26-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "83511",
+            "sid": "505577187",
+            "cas_no": "13473-26-2"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120825509"

@@ -41,7 +41,292 @@
       "alkali",
       "en",
       "thioglycolaat."
-    ]
+    ],
+    "inci": {
+      "aqua": {
+        "cosing_info": {
+          "reference": "acb2fd0b-1174-4f52-8481-759e0f6a9471",
+          "inci_name": "AQUA",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "cetearyl": {
+        "cosing_info": {
+          "reference": "a28ea7b2-c106-47ae-8057-220259726e12",
+          "inci_name": "CETEARYL DIMETHICONE CROSSPOLYMER",
+          "cas_no": [
+            "756876-51-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "alcohol": {
+        "cosing_info": {
+          "reference": "ee98826a-bac8-4089-91f6-32d956b26c61",
+          "inci_name": "ALCOHOL",
+          "cas_no": [
+            "64-17-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "702",
+            "sid": "481101440",
+            "cas_no": "64-17-5"
+          }
+        ]
+      },
+      "paraffinum": {
+        "cosing_info": {
+          "reference": "8f9be648-8ecc-49a6-bad7-2c9ca8ac823b",
+          "inci_name": "PARAFFINUM LIQUIDUM",
+          "cas_no": [
+            "8012-95-1",
+            "8042-47-5"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "liquidum": {
+        "cosing_info": {
+          "reference": "8f9be648-8ecc-49a6-bad7-2c9ca8ac823b",
+          "inci_name": "PARAFFINUM LIQUIDUM",
+          "cas_no": [
+            "8012-95-1",
+            "8042-47-5"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "potassium": {
+        "cosing_info": {
+          "reference": "a7960d89-221b-44b5-8b26-fc243a13308f",
+          "inci_name": "POTASSIUM CAROATE",
+          "cas_no": [
+            "70693-62-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "thioglycolate": {
+        "cosing_info": {
+          "reference": "4c106851-1ef0-467a-8c05-540717e3054a",
+          "inci_name": "AMMONIUM THIOGLYCOLATE",
+          "cas_no": [
+            "5421-46-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "21534",
+            "sid": "500755629",
+            "cas_no": "5421-46-5"
+          }
+        ]
+      },
+      "calcium": {
+        "cosing_info": {
+          "reference": "cc180388-386f-4acb-a5f0-f53acf4d1553",
+          "inci_name": "CALCIUM",
+          "cas_no": [
+            "7440-70-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5460341",
+            "sid": "481106970",
+            "cas_no": "7440-70-2"
+          }
+        ]
+      },
+      "hydroxide": {
+        "cosing_info": {
+          "reference": "46d24c83-1ace-4209-a88d-c3f205d323de",
+          "inci_name": "POTASSIUM HYDROXIDE",
+          "cas_no": [
+            "1310-58-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "14797",
+            "sid": "481108011",
+            "cas_no": "1310-58-3"
+          }
+        ]
+      },
+      "ceteareth-20": {
+        "cosing_info": {
+          "reference": "05480beb-c679-4042-968d-2368618d2cee",
+          "inci_name": "CETEARETH-20",
+          "cas_no": [
+            "68439-49-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "talc": {
+        "cosing_info": {
+          "reference": "61eb11c5-cc4a-4ee7-b932-d2ca37b57cb4",
+          "inci_name": "TALC",
+          "cas_no": [
+            "14807-96-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "165411828",
+            "sid": "516578436",
+            "cas_no": "14807-96-6"
+          }
+        ]
+      },
+      "glycerin": {
+        "cosing_info": {
+          "reference": "59eb65ef-7b29-4486-a311-f194224c11e6",
+          "inci_name": "GLYCERIN",
+          "cas_no": [
+            "56-81-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "753",
+            "sid": "481110738",
+            "cas_no": "56-81-5"
+          }
+        ]
+      },
+      "parfum": {
+        "cosing_info": {
+          "reference": "877337a9-4a8b-4d17-bed7-f3a39d335e80",
+          "inci_name": "PARFUM",
+          "cas_no": []
+        },
+        "pubchem_info": []
+      },
+      "polyethylene": {
+        "cosing_info": {
+          "reference": "64480f0f-285a-4ca9-ab51-681358690a68",
+          "inci_name": "POLYETHYLENE",
+          "cas_no": [
+            "9002-88-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "sodium": {
+        "cosing_info": {
+          "reference": "436c3318-3a15-40db-b19b-54900ed3abc1",
+          "inci_name": "SODIUM SIALYLLACTOSE",
+          "cas_no": [
+            "128596-80-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "71308479",
+            "sid": "504500786",
+            "cas_no": "128596-80-5"
+          }
+        ]
+      },
+      "gluconate": {
+        "cosing_info": {
+          "reference": "50121dbf-1fe1-42f1-b9f8-fbed2a24b954",
+          "inci_name": "CALCIUM GLUCONATE",
+          "cas_no": [
+            "299-28-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "9290",
+            "sid": "481106975",
+            "cas_no": "299-28-5"
+          }
+        ]
+      },
+      "panax": {
+        "cosing_info": {
+          "reference": "fbc33587-24d6-498d-8e8c-0b354360c96a",
+          "inci_name": "PANAX NOTOGINSENG EXTRACT",
+          "cas_no": [
+            "94279-78-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "ginseng": {
+        "cosing_info": {
+          "reference": "cb7c7cce-d5d8-4235-9dc4-731bb8044764",
+          "inci_name": "PANAX GINSENG BERRY EXTRACT",
+          "cas_no": [
+            "84650-12-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "root": {
+        "cosing_info": {
+          "reference": "8154326a-1152-44a5-8dd4-c52126da80be",
+          "inci_name": "ZINGIBER OFFICINALE ROOT JUICE",
+          "cas_no": [
+            "84696-15-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6850776",
+            "sid": null,
+            "cas_no": "84696-15-1"
+          }
+        ]
+      },
+      "alkali": {
+        "cosing_info": {
+          "reference": "05ad9304-93b5-4b03-8e34-156d1112bd36",
+          "inci_name": "Alkali pentacyanonitrosylferrate (2-)",
+          "cas_no": [
+            "14402-89-2",
+            "13755-38-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6604165",
+            "sid": "483926318",
+            "cas_no": "14402-89-2"
+          }
+        ]
+      },
+      "en": {
+        "cosing_info": {
+          "reference": "7ef990b2-adac-41c1-b07c-d1d14c0bf4ba",
+          "inci_name": "2-PROPANOL/BORON TRIFLUORIDE/ETHYLIDENEBICYCLOHEPTENE",
+          "cas_no": [
+            "90530-04-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "55250280",
+            "sid": null,
+            "cas_no": "90530-04-4"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120348618"

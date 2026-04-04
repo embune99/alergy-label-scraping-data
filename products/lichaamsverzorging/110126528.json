@@ -47,7 +47,348 @@
       "OLEIC",
       "ACID",
       "BHT."
-    ]
+    ],
+    "inci": {
+      "glyceryl": {
+        "cosing_info": {
+          "reference": "94832999-3351-45b9-8bd2-ecf3e2675296",
+          "inci_name": "GLYCERYL HEPTANOATE",
+          "cas_no": [
+            "26402-24-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "21924355",
+            "sid": "505659259",
+            "cas_no": "26402-24-4"
+          }
+        ]
+      },
+      "rosinate": {
+        "cosing_info": {
+          "reference": "f3f68f2e-ad8c-479d-86d3-55f2e263644c",
+          "inci_name": "PENTAERYTHRITYL ROSINATES",
+          "cas_no": [
+            "8050-26-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "elaeis": {
+        "cosing_info": {
+          "reference": "d8adb3dc-c265-48e4-a22c-20f4c6ae8b82",
+          "inci_name": "ELAEIS OLEIFERA FRUIT OIL",
+          "cas_no": [
+            "8002-75-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "guineensis": {
+        "cosing_info": {
+          "reference": "e4501a4b-8863-4b36-9bfb-e91a3d0cc971",
+          "inci_name": "ELAEIS GUINEENSIS EXTRACT",
+          "cas_no": [
+            "8023-79-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "oil": {
+        "cosing_info": {
+          "reference": "73055330-91dd-4d1e-b860-925fb2ecdbc8",
+          "inci_name": "MENHADEN OIL",
+          "cas_no": [
+            "8002-50-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "cera": {
+        "cosing_info": {
+          "reference": "b8a72ee6-e535-4723-b9a2-ec5ac8ffeded",
+          "inci_name": "MUSTELA CERA",
+          "cas_no": [
+            "8023-74-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "alba": {
+        "cosing_info": {
+          "reference": "eaf35829-907f-4689-9985-3ea288a4e2ab",
+          "inci_name": "BETULA ALBA LEAF POWDER",
+          "cas_no": [
+            "84012-15-7 (generic)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "parfum": {
+        "cosing_info": {
+          "reference": "877337a9-4a8b-4d17-bed7-f3a39d335e80",
+          "inci_name": "PARFUM",
+          "cas_no": []
+        },
+        "pubchem_info": []
+      },
+      "c.i.": {
+        "cosing_info": {
+          "reference": "7bda713b-30a8-4a78-af9c-0d2e72590ce1",
+          "inci_name": "Nickel barium titanium primrose priderite; C.I. Pigment Yellow 157; C.I. 77900",
+          "cas_no": [
+            "68610-24-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "225469",
+            "sid": "504604755",
+            "cas_no": "68610-24-2"
+          }
+        ]
+      },
+      "61565": {
+        "cosing_info": {
+          "reference": "c0939663-a5f6-473a-8589-7619917704f1",
+          "inci_name": "CI 61565",
+          "cas_no": [
+            "128-80-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "31416",
+            "sid": "505412200",
+            "cas_no": "128-80-3"
+          }
+        ]
+      },
+      "glycine": {
+        "cosing_info": {
+          "reference": "86a48168-97e5-4cc3-aff4-bd4f9e2a69cc",
+          "inci_name": "GLYCINE",
+          "cas_no": [
+            "56-40-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "750",
+            "sid": "481107780",
+            "cas_no": "56-40-6"
+          }
+        ]
+      },
+      "soja": {
+        "cosing_info": {
+          "reference": "97405f60-c38c-40ec-8d2b-e606654d370c",
+          "inci_name": "GLYCINE SOJA EXTRACT",
+          "cas_no": [
+            "84776-91-0",
+            "8001-22-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "helianthus": {
+        "cosing_info": {
+          "reference": "981b4ff2-0470-4c2b-9a2a-bdebc1e66420",
+          "inci_name": "HELIANTHUS ANNUUS SEED WAX",
+          "cas_no": [
+            "1286686-34-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "annuus": {
+        "cosing_info": {
+          "reference": "2d06b0fb-16aa-4515-bd4c-af0007d51709",
+          "inci_name": "HELIANTHUS ANNUUS SEED",
+          "cas_no": [
+            "84625-38-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "seed": {
+        "cosing_info": {
+          "reference": "981b4ff2-0470-4c2b-9a2a-bdebc1e66420",
+          "inci_name": "HELIANTHUS ANNUUS SEED WAX",
+          "cas_no": [
+            "1286686-34-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "brassica": {
+        "cosing_info": {
+          "reference": "753fb835-7881-4d97-a687-d4b588f37cfa",
+          "inci_name": "BRASSICA NAPUS STEM EXTRACT",
+          "cas_no": [
+            "89958-03-2 (generic)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "campestris": {
+        "cosing_info": {
+          "reference": "205b76c2-374d-4963-ab9d-87ce61a02531",
+          "inci_name": "PSALLIOTA CAMPESTRIS EXTRACT",
+          "cas_no": [
+            "84929-56-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "oleifera": {
+        "cosing_info": {
+          "reference": "2ebda2a6-0c3c-4b1e-8da1-ab5b3a60a864",
+          "inci_name": "MORINGA OLEIFERA SEED EXTRACT",
+          "cas_no": [
+            "93165-54-9"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "menthol": {
+        "cosing_info": {
+          "reference": "80ef1543-35c4-43f0-89bd-2ea8372185cb",
+          "inci_name": "MENTHOL",
+          "cas_no": [
+            "1490-04-6",
+            "2216-51-5",
+            "89-78-1",
+            "15356-70-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "1254",
+            "sid": "481107802",
+            "cas_no": "1490-04-6"
+          },
+          {
+            "cid": "16666",
+            "sid": "518140464",
+            "cas_no": "2216-51-5"
+          },
+          {
+            "cid": "1254",
+            "sid": "481107802",
+            "cas_no": "89-78-1"
+          },
+          {
+            "cid": "1254",
+            "sid": "481107802",
+            "cas_no": "15356-70-4"
+          }
+        ]
+      },
+      "luffa": {
+        "cosing_info": {
+          "reference": "d91adf22-3780-4c4d-803d-5fc1d978181b",
+          "inci_name": "LUFFA OPERCULATA EXTRACT",
+          "cas_no": [
+            "90063-68-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "cylindrica": {
+        "cosing_info": {
+          "reference": "0122c861-486f-4267-a062-fe0757a9558d",
+          "inci_name": "LUFFA CYLINDRICA FRUIT WATER",
+          "cas_no": [
+            "1242417-48-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "oleoyl": {
+        "cosing_info": {
+          "reference": "80aaf0c7-ff69-4c43-90e1-b23982b066f1",
+          "inci_name": "SODIUM OLEOYL SARCOSINATE",
+          "cas_no": [
+            "14351-62-3",
+            "3624-77-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "23665642",
+            "sid": "500827446",
+            "cas_no": "14351-62-3"
+          },
+          {
+            "cid": "23675452",
+            "sid": "505659593",
+            "cas_no": "3624-77-9"
+          }
+        ]
+      },
+      "tyrosine": {
+        "cosing_info": {
+          "reference": "48467d86-9bb8-42ba-a65d-1bae3383b4dd",
+          "inci_name": "TYROSINE",
+          "cas_no": [
+            "556-02-5",
+            "556-03-6",
+            "60-18-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "71098",
+            "sid": "505580847",
+            "cas_no": "556-02-5"
+          },
+          {
+            "cid": "1153",
+            "sid": "505585714",
+            "cas_no": "556-03-6"
+          },
+          {
+            "cid": "6057",
+            "sid": "505896742",
+            "cas_no": "60-18-4"
+          }
+        ]
+      },
+      "oleic": {
+        "cosing_info": {
+          "reference": "0f460f76-96c5-46c9-a125-d96c9e963a35",
+          "inci_name": "OLEIC ACID",
+          "cas_no": [
+            "112-80-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "445639",
+            "sid": "481107815",
+            "cas_no": "112-80-1"
+          }
+        ]
+      },
+      "acid": {
+        "cosing_info": {
+          "reference": "2ce6a5ff-38b0-47a8-86bf-06e8a480b066",
+          "inci_name": "Perfluoroheptanoic acid; tridecafluoroheptanoic acid",
+          "cas_no": [
+            "375-85-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "67818",
+            "sid": "500815077",
+            "cas_no": "375-85-9"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "110126528"

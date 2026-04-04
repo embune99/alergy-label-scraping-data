@@ -34,7 +34,241 @@
       "Peg-4",
       "Dilaurate",
       "Laurate"
-    ]
+    ],
+    "inci": {
+      "aqua": {
+        "cosing_info": {
+          "reference": "acb2fd0b-1174-4f52-8481-759e0f6a9471",
+          "inci_name": "AQUA",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "water": {
+        "cosing_info": {
+          "reference": "f47fb937-5e85-47be-a122-3522901eb942",
+          "inci_name": "WATER",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "aluminum": {
+        "cosing_info": {
+          "reference": "f8fd658c-b90a-4232-adf0-4e693bea3cfb",
+          "inci_name": "ALUMINUM",
+          "cas_no": [
+            "7429-90-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5359268",
+            "sid": "481106873",
+            "cas_no": "7429-90-5"
+          }
+        ]
+      },
+      "chlorohydrate": {
+        "cosing_info": {
+          "reference": "4b9fdb65-0611-408f-8f2d-c8558686b5d1",
+          "inci_name": "ZIRCONIUM CHLOROHYDRATE",
+          "cas_no": [
+            "18428-88-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "10176254",
+            "sid": "505901140",
+            "cas_no": "18428-88-1"
+          }
+        ]
+      },
+      "sesquichlorohydrate": {
+        "cosing_info": {
+          "reference": "4ca2d428-9af2-460d-853d-d42228317c35",
+          "inci_name": "ALUMINUM SESQUICHLOROHYDRATE",
+          "cas_no": [
+            "11089-92-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "16204946",
+            "sid": "505892608",
+            "cas_no": "11089-92-2"
+          }
+        ]
+      },
+      "ppg-15": {
+        "cosing_info": {
+          "reference": "fdd4f3f6-8b77-4a52-b253-3a2cec39ef13",
+          "inci_name": "PPG-15",
+          "cas_no": [
+            "25322-69-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "stearyl": {
+        "cosing_info": {
+          "reference": "3e4066a6-9c3b-40ea-a5bb-c4ff27bdb307",
+          "inci_name": "STEARYL POLYLACTATE",
+          "cas_no": [
+            "187664-14-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "ether": {
+        "cosing_info": {
+          "reference": "1a33884e-9c41-4ce7-9725-136604d07dd0",
+          "inci_name": "DISTEARYL ETHER",
+          "cas_no": [
+            "6297-03-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "80526",
+            "sid": "505585378",
+            "cas_no": "6297-03-6"
+          }
+        ]
+      },
+      "cetearyl": {
+        "cosing_info": {
+          "reference": "a28ea7b2-c106-47ae-8057-220259726e12",
+          "inci_name": "CETEARYL DIMETHICONE CROSSPOLYMER",
+          "cas_no": [
+            "756876-51-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "alcohol": {
+        "cosing_info": {
+          "reference": "ee98826a-bac8-4089-91f6-32d956b26c61",
+          "inci_name": "ALCOHOL",
+          "cas_no": [
+            "64-17-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "702",
+            "sid": "481101440",
+            "cas_no": "64-17-5"
+          }
+        ]
+      },
+      "ceteareth-33": {
+        "cosing_info": {
+          "reference": "b7a46fdc-85f2-4a70-b2d3-a8f848b80b7d",
+          "inci_name": "CETEARETH-33",
+          "cas_no": [
+            "68439-49-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "dimethicone": {
+        "cosing_info": {
+          "reference": "b947645c-f865-48ca-826d-35ae47722838",
+          "inci_name": "DIMETHICONE",
+          "cas_no": [
+            "63148-62-9",
+            "9006-65-9",
+            "9016-00-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "iodopropynyl": {
+        "cosing_info": {
+          "reference": "86e5e14d-aadd-4d03-b0b4-e8889c6a078a",
+          "inci_name": "IODOPROPYNYL BUTYLCARBAMATE",
+          "cas_no": [
+            "55406-53-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "62097",
+            "sid": "505498408",
+            "cas_no": "55406-53-6"
+          }
+        ]
+      },
+      "butylcarbamate": {
+        "cosing_info": {
+          "reference": "0773c32c-65d4-4d97-8522-f50def869140",
+          "inci_name": "TRIMETHYLCYCLOHEXYL BUTYLCARBAMATE",
+          "cas_no": [
+            "1228376-60-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "peg-4": {
+        "cosing_info": {
+          "reference": "570b4fc7-3db9-455e-9338-d2e88ed9621e",
+          "inci_name": "PEG-4",
+          "cas_no": [
+            "25322-68-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "dilaurate": {
+        "cosing_info": {
+          "reference": "0e29f9a6-8bea-465c-8d3c-a49db69ea5ec",
+          "inci_name": "PROPYLENE GLYCOL DILAURATE",
+          "cas_no": [
+            "22788-19-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "90838",
+            "sid": "500819956",
+            "cas_no": "22788-19-8"
+          }
+        ]
+      },
+      "laurate": {
+        "cosing_info": {
+          "reference": "b4d41dd9-4164-4ee3-b9c9-47d7af576c0d",
+          "inci_name": "SORBITAN LAURATE",
+          "cas_no": [
+            "1338-39-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "11046239",
+            "sid": "505884199",
+            "cas_no": "1338-39-2"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120560133"

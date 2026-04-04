@@ -30,7 +30,61 @@
       "pH",
       "3",
       "8"
-    ]
+    ],
+    "inci": {
+      "water": {
+        "cosing_info": {
+          "reference": "f47fb937-5e85-47be-a122-3522901eb942",
+          "inci_name": "WATER",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "ph": {
+        "cosing_info": {
+          "reference": "cf640b2a-5a56-439c-b1ca-fca762d5a82c",
+          "inci_name": "CYCLOPHENYLMETHICONE",
+          "cas_no": [
+            "68037-54-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "3": {
+        "cosing_info": {
+          "reference": "469910f1-3789-42f9-b576-3e66ccb51b74",
+          "inci_name": "PEG-3 2,2'-DI-P-PHENYLENEDIAMINE",
+          "cas_no": [
+            "144644-13-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "22617270",
+            "sid": "504520187",
+            "cas_no": "144644-13-3"
+          }
+        ]
+      },
+      "8": {
+        "cosing_info": {
+          "reference": "0186fee5-66b8-4deb-afb2-266e6227222a",
+          "inci_name": "SODIUM PEG-8 PHOSPHATE",
+          "cas_no": [
+            "9088-10-2"
+          ]
+        },
+        "pubchem_info": []
+      }
+    }
   },
   "additional_information": {
     "id": "120271999"

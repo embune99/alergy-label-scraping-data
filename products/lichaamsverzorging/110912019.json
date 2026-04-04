@@ -19,7 +19,25 @@
       "Ingrediënten",
       "Talc",
       "Menthol."
-    ]
+    ],
+    "inci": {
+      "talc": {
+        "cosing_info": {
+          "reference": "61eb11c5-cc4a-4ee7-b932-d2ca37b57cb4",
+          "inci_name": "TALC",
+          "cas_no": [
+            "14807-96-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "165411828",
+            "sid": "516578436",
+            "cas_no": "14807-96-6"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "110912019"

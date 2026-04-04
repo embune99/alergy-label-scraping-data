@@ -49,7 +49,274 @@
       "Hydrolysed",
       "Keratin",
       "BHT."
-    ]
+    ],
+    "inci": {
+      "aqua": {
+        "cosing_info": {
+          "reference": "acb2fd0b-1174-4f52-8481-759e0f6a9471",
+          "inci_name": "AQUA",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "urea": {
+        "cosing_info": {
+          "reference": "e6f1f77c-6287-4c12-862c-06c1fd5db49c",
+          "inci_name": "UREA",
+          "cas_no": [
+            "57-13-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "1176",
+            "sid": "481108035",
+            "cas_no": "57-13-6"
+          }
+        ]
+      },
+      "decyl": {
+        "cosing_info": {
+          "reference": "05f0740b-d4d9-4634-9f91-795630f99b46",
+          "inci_name": "DECYL GLUCOSIDE",
+          "cas_no": [
+            "54549-25-6; 58846-77-8; 141464-42-8; 68515-73-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "oleate": {
+        "cosing_info": {
+          "reference": "9fa5620b-e1ed-46f2-878a-a6f9fbd850a4",
+          "inci_name": "ETHYL OLEATE",
+          "cas_no": [
+            "111-62-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5363269",
+            "sid": "500782445",
+            "cas_no": "111-62-6"
+          }
+        ]
+      },
+      "dimethicone": {
+        "cosing_info": {
+          "reference": "b947645c-f865-48ca-826d-35ae47722838",
+          "inci_name": "DIMETHICONE",
+          "cas_no": [
+            "63148-62-9",
+            "9006-65-9",
+            "9016-00-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "petrolatum": {
+        "cosing_info": {
+          "reference": "708f3232-a2e3-4c9e-a418-e0c0e18b7476",
+          "inci_name": "PETROLATUM",
+          "cas_no": [
+            "8009-03-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "lanolin": {
+        "cosing_info": {
+          "reference": "c2f52be5-6ded-4c53-b7d0-45c062bab272",
+          "inci_name": "LANOLIN",
+          "cas_no": [
+            "8006-54-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "synthetic": {
+        "cosing_info": {
+          "reference": "20f64dc3-0ebd-42b6-99c7-14e0ac9d766a",
+          "inci_name": "SYNTHETIC WAX",
+          "cas_no": [
+            "8002-74-2; 68527-08-2"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "wax": {
+        "cosing_info": {
+          "reference": "58be81f9-c6ef-4483-8b6e-49695c9a7ffd",
+          "inci_name": "VITIS VINIFERA LEAF WAX",
+          "cas_no": [
+            "85594-37-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "3931",
+            "sid": "500750973",
+            "cas_no": "85594-37-2"
+          }
+        ]
+      },
+      "phenoxyethanol": {
+        "cosing_info": {
+          "reference": "f8f3a6ab-5656-4d9a-a085-729e03a7376d",
+          "inci_name": "PHENOXYETHANOL",
+          "cas_no": [
+            "122-99-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "31236",
+            "sid": "483926132",
+            "cas_no": "122-99-6"
+          }
+        ]
+      },
+      "panthenol": {
+        "cosing_info": {
+          "reference": "02b5654c-8fdf-44f4-a178-8f505b61ef9d",
+          "inci_name": "PANTHENOL",
+          "cas_no": [
+            "81-13-0",
+            "16485-10-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "131204",
+            "sid": "481107077",
+            "cas_no": "81-13-0"
+          },
+          {
+            "cid": "4678",
+            "sid": "483926094",
+            "cas_no": "16485-10-2"
+          }
+        ]
+      },
+      "carbomer": {
+        "cosing_info": {
+          "reference": "e3f36da9-bb8f-4de8-a8d0-c3995cd87e7f",
+          "inci_name": "CARBOMER",
+          "cas_no": [
+            "9007-20-9",
+            "9003-01-4",
+            "76050-42-5",
+            "9062-04-8",
+            "9007-16-3",
+            "9007-17-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "91824753",
+            "sid": null,
+            "cas_no": "9062-04-8"
+          }
+        ]
+      },
+      "chlorphenesin": {
+        "cosing_info": {
+          "reference": "91042bf4-33f9-405a-ba1f-339ad6c1ce1a",
+          "inci_name": "CHLORPHENESIN",
+          "cas_no": [
+            "104-29-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "7697",
+            "sid": "483927317",
+            "cas_no": "104-29-0"
+          }
+        ]
+      },
+      "methylparaben": {
+        "cosing_info": {
+          "reference": "62bb4ff0-9d89-4621-a0b1-8dd6974cbc31",
+          "inci_name": "METHYLPARABEN",
+          "cas_no": [
+            "99-76-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "7456",
+            "sid": "481107807",
+            "cas_no": "99-76-3"
+          }
+        ]
+      },
+      "ethylparaben": {
+        "cosing_info": {
+          "reference": "0724a2ef-9040-438d-ace4-24d84aa5f41b",
+          "inci_name": "ETHYLPARABEN",
+          "cas_no": [
+            "120-47-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8434",
+            "sid": "516567229",
+            "cas_no": "120-47-8"
+          }
+        ]
+      },
+      "butylparaben": {
+        "cosing_info": {
+          "reference": "178c2336-8c2c-4026-8064-a6f883211c92",
+          "inci_name": "BUTYLPARABEN",
+          "cas_no": [
+            "94-26-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "7184",
+            "sid": "500765754",
+            "cas_no": "94-26-8"
+          }
+        ]
+      },
+      "propylparaben": {
+        "cosing_info": {
+          "reference": "073e8050-ad3a-46c8-bfda-6ef3f1fb73b6",
+          "inci_name": "PROPYLPARABEN",
+          "cas_no": [
+            "94-13-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "7175",
+            "sid": "481107517",
+            "cas_no": "94-13-3"
+          }
+        ]
+      },
+      "keratin": {
+        "cosing_info": {
+          "reference": "78450b3f-8951-4ca8-83a1-df48605cd79e",
+          "inci_name": "KERATIN",
+          "cas_no": [
+            "68238-35-7"
+          ]
+        },
+        "pubchem_info": []
+      }
+    }
   },
   "additional_information": {
     "id": "111038618"

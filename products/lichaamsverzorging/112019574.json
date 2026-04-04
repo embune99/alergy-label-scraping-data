@@ -34,7 +34,197 @@
       "Propylene",
       "Carbonate",
       "Dimethiconol"
-    ]
+    ],
+    "inci": {
+      "isobutane": {
+        "cosing_info": {
+          "reference": "07451cc7-8cb8-4a8c-bad0-9546afc0007e",
+          "inci_name": "ISOBUTANE",
+          "cas_no": [
+            "75-28-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6360",
+            "sid": "481107251",
+            "cas_no": "75-28-5"
+          }
+        ]
+      },
+      "butane": {
+        "cosing_info": {
+          "reference": "a3948035-8d7e-42b1-9fbd-8135fa9678d9",
+          "inci_name": "BUTANE",
+          "cas_no": [
+            "106-97-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "7843",
+            "sid": "481107962",
+            "cas_no": "106-97-8"
+          }
+        ]
+      },
+      "propane": {
+        "cosing_info": {
+          "reference": "e1e9357e-8ff9-4507-a248-5ba6c6014644",
+          "inci_name": "PROPANE",
+          "cas_no": [
+            "74-98-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6334",
+            "sid": "481107828",
+            "cas_no": "74-98-6"
+          }
+        ]
+      },
+      "cyclomethicone": {
+        "cosing_info": {
+          "reference": "9232a703-f30c-4256-846f-c71157f01dd6",
+          "inci_name": "CYCLOMETHICONE",
+          "cas_no": [
+            "69430-24-6",
+            "556-67-2",
+            "541-02-6",
+            "540-97-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "11169",
+            "sid": "500811188",
+            "cas_no": "556-67-2"
+          },
+          {
+            "cid": "10913",
+            "sid": "483925200",
+            "cas_no": "541-02-6"
+          },
+          {
+            "cid": "10911",
+            "sid": "505585829",
+            "cas_no": "540-97-6"
+          }
+        ]
+      },
+      "dimethicone": {
+        "cosing_info": {
+          "reference": "b947645c-f865-48ca-826d-35ae47722838",
+          "inci_name": "DIMETHICONE",
+          "cas_no": [
+            "63148-62-9",
+            "9006-65-9",
+            "9016-00-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "parfum": {
+        "cosing_info": {
+          "reference": "877337a9-4a8b-4d17-bed7-f3a39d335e80",
+          "inci_name": "PARFUM",
+          "cas_no": []
+        },
+        "pubchem_info": []
+      },
+      "disteardimonium": {
+        "cosing_info": {
+          "reference": "88e242ce-999f-4c6f-b7a5-a49d7cbd1bdb",
+          "inci_name": "DISTEARDIMONIUM HECTORITE",
+          "cas_no": [
+            "97280-96-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "hectorite": {
+        "cosing_info": {
+          "reference": "e685b9ed-b7dd-4889-a7ae-69814b1ab389",
+          "inci_name": "HECTORITE",
+          "cas_no": [
+            "12173-47-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "72941499",
+            "sid": "500788842",
+            "cas_no": "12173-47-6"
+          }
+        ]
+      },
+      "ethylhexylglycerin": {
+        "cosing_info": {
+          "reference": "c4da9c7a-3487-4c25-863c-9ddd013282b5",
+          "inci_name": "ETHYLHEXYLGLYCERIN",
+          "cas_no": [
+            "70445-33-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "9859093",
+            "sid": "483927937",
+            "cas_no": "70445-33-9"
+          }
+        ]
+      },
+      "propylene": {
+        "cosing_info": {
+          "reference": "0e29f9a6-8bea-465c-8d3c-a49db69ea5ec",
+          "inci_name": "PROPYLENE GLYCOL DILAURATE",
+          "cas_no": [
+            "22788-19-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "90838",
+            "sid": "500819956",
+            "cas_no": "22788-19-8"
+          }
+        ]
+      },
+      "carbonate": {
+        "cosing_info": {
+          "reference": "af176ba2-24b2-49fa-a06b-3c31672cbd82",
+          "inci_name": "DIPROPYLHEPTYL CARBONATE",
+          "cas_no": [
+            "1238449-42-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "87573553",
+            "sid": "505565158",
+            "cas_no": "1238449-42-7"
+          }
+        ]
+      },
+      "dimethiconol": {
+        "cosing_info": {
+          "reference": "d2dcedbb-74b8-4c0a-a9bb-e8246f14aa14",
+          "inci_name": "DIMETHICONOL",
+          "cas_no": [
+            "31692-79-2",
+            "70131-67-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "14014",
+            "sid": "500777796",
+            "cas_no": "31692-79-2"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "112019574"

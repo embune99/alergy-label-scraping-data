@@ -31,7 +31,163 @@
       "Bisabolol",
       "Fructose",
       "Silica"
-    ]
+    ],
+    "inci": {
+      "aqua": {
+        "cosing_info": {
+          "reference": "acb2fd0b-1174-4f52-8481-759e0f6a9471",
+          "inci_name": "AQUA",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "alcohol": {
+        "cosing_info": {
+          "reference": "ee98826a-bac8-4089-91f6-32d956b26c61",
+          "inci_name": "ALCOHOL",
+          "cas_no": [
+            "64-17-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "702",
+            "sid": "481101440",
+            "cas_no": "64-17-5"
+          }
+        ]
+      },
+      "hydroxypropylcellulose": {
+        "cosing_info": {
+          "reference": "0e1a6498-0f23-4a19-91af-63b18c82f751",
+          "inci_name": "HYDROXYPROPYLCELLULOSE",
+          "cas_no": [
+            "9004-64-2"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "picrasma": {
+        "cosing_info": {
+          "reference": "0f23998f-d727-4cca-b232-d738f2c5a783",
+          "inci_name": "PICRASMA QUASSIOIDES FRUIT EXTRACT",
+          "cas_no": [
+            "94167-08-5"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "excelsa": {
+        "cosing_info": {
+          "reference": "19634500-d80a-4121-b27f-b7522215546c",
+          "inci_name": "BERTHOLLETIA EXCELSA SEED EXTRACT",
+          "cas_no": [
+            "160965-04-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "wood": {
+        "cosing_info": {
+          "reference": "e46a1efd-2fe6-4d89-9228-8884862f1b6c",
+          "inci_name": "DYSOXYLUM FRASERIANUM WOOD OIL",
+          "cas_no": [
+            "2455482-62-7 (generic)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "extract": {
+        "cosing_info": {
+          "reference": "6ff40204-b73a-486d-bc81-2a5a6f2faeee",
+          "inci_name": "HAEMATOXYLUM CAMPECHIANUM WOOD EXTRACT",
+          "cas_no": [
+            "8005-33-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "442514",
+            "sid": "505779233",
+            "cas_no": "8005-33-2"
+          }
+        ]
+      },
+      "bisabolol": {
+        "cosing_info": {
+          "reference": "af49bbe4-6d8f-4da6-9a5e-deb514149ff1",
+          "inci_name": "BISABOLOL",
+          "cas_no": [
+            "515-69-5",
+            "23089-26-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "1549992",
+            "sid": "516563215",
+            "cas_no": "515-69-5"
+          },
+          {
+            "cid": "442343",
+            "sid": "482029414",
+            "cas_no": "23089-26-1"
+          }
+        ]
+      },
+      "fructose": {
+        "cosing_info": {
+          "reference": "2e8cc342-5dee-4a9c-a838-022a7d7294ef",
+          "inci_name": "FRUCTOSE",
+          "cas_no": [
+            "57-48-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "2723872",
+            "sid": "482095591",
+            "cas_no": "57-48-7"
+          }
+        ]
+      },
+      "silica": {
+        "cosing_info": {
+          "reference": "e9fab588-fd7f-4caa-966b-2afcba56c07d",
+          "inci_name": "SILICA",
+          "cas_no": [
+            "7631-86-9",
+            "112945-52-5",
+            "60676-86-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "24261",
+            "sid": "481108020",
+            "cas_no": "7631-86-9"
+          },
+          {
+            "cid": "24261",
+            "sid": "481108020",
+            "cas_no": "112945-52-5"
+          },
+          {
+            "cid": "24261",
+            "sid": "481108020",
+            "cas_no": "60676-86-0"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120876314"

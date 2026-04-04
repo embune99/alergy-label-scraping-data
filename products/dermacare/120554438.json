@@ -44,7 +44,124 @@
       "BENZOATE.",
       "(AQUA)"
     ],
-    "inci": {}
+    "inci": {
+      "thermal": {
+        "cosing_info": {
+          "reference": "edc7a3ff-a681-4d89-ad63-5f24e862032b",
+          "inci_name": "Residues (petroleum), thermal cracked",
+          "cas_no": [
+            "64741-80-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "water": {
+        "cosing_info": {
+          "reference": "f47fb937-5e85-47be-a122-3522901eb942",
+          "inci_name": "WATER",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "pentylene": {
+        "cosing_info": {
+          "reference": "36f04866-782e-409f-9051-5e6605b012a5",
+          "inci_name": "PENTYLENE GLYCOL",
+          "cas_no": [
+            "5343-92-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "93000",
+            "sid": "505856024",
+            "cas_no": "5343-92-0"
+          }
+        ]
+      },
+      "citric": {
+        "cosing_info": {
+          "reference": "398b79ca-fc64-43b5-bf15-956e6239c1db",
+          "inci_name": "CITRIC ACID",
+          "cas_no": [
+            "77-92-9",
+            "5949-29-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "311",
+            "sid": "481107970",
+            "cas_no": "77-92-9"
+          },
+          {
+            "cid": "22230",
+            "sid": "481107868",
+            "cas_no": "5949-29-1"
+          }
+        ]
+      },
+      "fragrance": {
+        "cosing_info": {
+          "reference": "8df6b6bc-f26a-438c-8dc4-130db9e8ce6b",
+          "inci_name": "3,7-Dimethyl-2-octen-1-ol (6,7-Dihydrogeraniol), when used as a fragrance ingredient",
+          "cas_no": [
+            "40607-48-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5365836",
+            "sid": "504562939",
+            "cas_no": "40607-48-5"
+          }
+        ]
+      },
+      "polyglyceryl-4": {
+        "cosing_info": {
+          "reference": "f5d76b9a-c5a5-4d79-8ea6-16c6524f123b",
+          "inci_name": "POLYGLYCERYL-4 PELARGONATE",
+          "cas_no": [
+            "104981-82-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "polyglyceryl-6": {
+        "cosing_info": {
+          "reference": "ce1bab83-679c-4ee8-aea6-ecbdd4aaf393",
+          "inci_name": "POLYGLYCERYL-6 SESQUICAPRYLATE",
+          "cas_no": [
+            "108777-93-1,946492-22-4,946492-23-5"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "sodium": {
+        "cosing_info": {
+          "reference": "436c3318-3a15-40db-b19b-54900ed3abc1",
+          "inci_name": "SODIUM SIALYLLACTOSE",
+          "cas_no": [
+            "128596-80-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "71308479",
+            "sid": "504500786",
+            "cas_no": "128596-80-5"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120554438"

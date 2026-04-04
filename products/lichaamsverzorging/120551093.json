@@ -30,7 +30,60 @@
       "mineral",
       "salt)."
     ],
-    "inci": {}
+    "inci": {
+      "potassium": {
+        "cosing_info": {
+          "reference": "a7960d89-221b-44b5-8b26-fc243a13308f",
+          "inci_name": "POTASSIUM CAROATE",
+          "cas_no": [
+            "70693-62-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "alum": {
+        "cosing_info": {
+          "reference": "db3e8c4a-a78f-4452-a500-611adcea2f53",
+          "inci_name": "AMMONIUM ALUM",
+          "cas_no": [
+            "7784-25-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "3032540",
+            "sid": "500755061",
+            "cas_no": "7784-25-0"
+          }
+        ]
+      },
+      "natural": {
+        "cosing_info": {
+          "reference": "979dfd58-6cd1-4356-9cd5-11596f1c0e5d",
+          "inci_name": "NATURAL RED 26",
+          "cas_no": [
+            "36338-96-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "135565560",
+            "sid": "505570467",
+            "cas_no": "36338-96-2"
+          }
+        ]
+      },
+      "mineral": {
+        "cosing_info": {
+          "reference": "a4b7ecce-a9ed-4471-bc90-37bae79ef639",
+          "inci_name": "MINERAL SPIRITS",
+          "cas_no": [
+            "8032-32-4"
+          ]
+        },
+        "pubchem_info": []
+      }
+    }
   },
   "additional_information": {
     "id": "120551093"

@@ -39,7 +39,75 @@
       "(E435)",
       "sorbitanstearaat",
       "."
-    ]
+    ],
+    "inci": {
+      "clotrimazol": {
+        "cosing_info": null,
+        "pubchem_info": [
+          {
+            "cid": "2812",
+            "sid": "481107040",
+            "cas_no": null
+          }
+        ]
+      },
+      "100": {
+        "cosing_info": {
+          "reference": "ec6c5f2a-9a37-4052-acc1-d4b49ef9d530",
+          "inci_name": "STEARETH-100/PEG-136/HDI COPOLYMER",
+          "cas_no": [
+            "103777-69-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "benzylalcohol": {
+        "cosing_info": null,
+        "pubchem_info": [
+          {
+            "cid": "244",
+            "sid": "481107731",
+            "cas_no": null
+          }
+        ]
+      },
+      "kan": {
+        "cosing_info": null,
+        "pubchem_info": [
+          {
+            "cid": "6032",
+            "sid": "481107270",
+            "cas_no": null
+          }
+        ]
+      },
+      "water": {
+        "cosing_info": {
+          "reference": "f47fb937-5e85-47be-a122-3522901eb942",
+          "inci_name": "WATER",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "60": {
+        "cosing_info": {
+          "reference": "dfd571ab-6971-4b59-b2d0-7f585eddbe40",
+          "inci_name": "C40-60 ALCOHOLS",
+          "cas_no": [
+            "222400-19-3"
+          ]
+        },
+        "pubchem_info": []
+      }
+    }
   },
   "additional_information": {
     "id": "120439641"

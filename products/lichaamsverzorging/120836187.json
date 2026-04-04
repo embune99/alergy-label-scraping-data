@@ -26,7 +26,19 @@
       "Ingrediënten",
       "Lubrastrip",
       "PEG-115M"
-    ]
+    ],
+    "inci": {
+      "peg-115m": {
+        "cosing_info": {
+          "reference": "2f28e420-7b55-4baa-ba1e-bc1e3ab88781",
+          "inci_name": "PEG-115M",
+          "cas_no": [
+            "25322-68-3"
+          ]
+        },
+        "pubchem_info": []
+      }
+    }
   },
   "additional_information": {
     "id": "120836187"

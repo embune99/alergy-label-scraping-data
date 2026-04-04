@@ -30,7 +30,80 @@
       "En",
       "Lha"
     ],
-    "inci": {}
+    "inci": {
+      "pro-xylane": {
+        "cosing_info": null,
+        "pubchem_info": [
+          {
+            "cid": "16666733",
+            "sid": "505785289",
+            "cas_no": null
+          }
+        ]
+      },
+      "ceramide": {
+        "cosing_info": {
+          "reference": "a0fb4ff0-d632-4731-9319-f9352fa60776",
+          "inci_name": "CERAMIDE AS",
+          "cas_no": [
+            "100403-19-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "74945544",
+            "sid": "500767877",
+            "cas_no": "100403-19-8"
+          }
+        ]
+      },
+      "pro": {
+        "cosing_info": null,
+        "pubchem_info": [
+          {
+            "cid": "145742",
+            "sid": "481107826",
+            "cas_no": null
+          }
+        ]
+      },
+      "et": {
+        "cosing_info": {
+          "reference": "f56eab48-fd59-495e-bc79-608838571047",
+          "inci_name": "TRIETHONIUM HYDROLYZED COLLAGEN ETHOSULFATE",
+          "cas_no": [
+            "111174-64-2"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "en": {
+        "cosing_info": {
+          "reference": "7ef990b2-adac-41c1-b07c-d1d14c0bf4ba",
+          "inci_name": "2-PROPANOL/BORON TRIFLUORIDE/ETHYLIDENEBICYCLOHEPTENE",
+          "cas_no": [
+            "90530-04-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "55250280",
+            "sid": null,
+            "cas_no": "90530-04-4"
+          }
+        ]
+      },
+      "lha": {
+        "cosing_info": null,
+        "pubchem_info": [
+          {
+            "cid": "16736279",
+            "sid": null,
+            "cas_no": null
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "111251048"

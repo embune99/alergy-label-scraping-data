@@ -39,7 +39,280 @@
       "Gallica",
       "Extract",
       "Flower"
-    ]
+    ],
+    "inci": {
+      "aqua": {
+        "cosing_info": {
+          "reference": "acb2fd0b-1174-4f52-8481-759e0f6a9471",
+          "inci_name": "AQUA",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "water": {
+        "cosing_info": {
+          "reference": "f47fb937-5e85-47be-a122-3522901eb942",
+          "inci_name": "WATER",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "aluminum": {
+        "cosing_info": {
+          "reference": "f8fd658c-b90a-4232-adf0-4e693bea3cfb",
+          "inci_name": "ALUMINUM",
+          "cas_no": [
+            "7429-90-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5359268",
+            "sid": "481106873",
+            "cas_no": "7429-90-5"
+          }
+        ]
+      },
+      "chlorohydrate": {
+        "cosing_info": {
+          "reference": "4b9fdb65-0611-408f-8f2d-c8558686b5d1",
+          "inci_name": "ZIRCONIUM CHLOROHYDRATE",
+          "cas_no": [
+            "18428-88-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "10176254",
+            "sid": "505901140",
+            "cas_no": "18428-88-1"
+          }
+        ]
+      },
+      "dimethicone": {
+        "cosing_info": {
+          "reference": "b947645c-f865-48ca-826d-35ae47722838",
+          "inci_name": "DIMETHICONE",
+          "cas_no": [
+            "63148-62-9",
+            "9006-65-9",
+            "9016-00-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "sesquichlorohydrate": {
+        "cosing_info": {
+          "reference": "4ca2d428-9af2-460d-853d-d42228317c35",
+          "inci_name": "ALUMINUM SESQUICHLOROHYDRATE",
+          "cas_no": [
+            "11089-92-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "16204946",
+            "sid": "505892608",
+            "cas_no": "11089-92-2"
+          }
+        ]
+      },
+      "c14-22": {
+        "cosing_info": {
+          "reference": "6be07d26-1b8f-434b-ac39-d5f800bb4760",
+          "inci_name": "C14-22 ALKANE",
+          "cas_no": [
+            "-"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "alcohols": {
+        "cosing_info": {
+          "reference": "b0187ab4-751c-4593-8ca7-4630fd5ed788",
+          "inci_name": "C12-16 ALCOHOLS",
+          "cas_no": [
+            "68855-56-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "copolymer": {
+        "cosing_info": {
+          "reference": "fcf102c4-72b2-4018-84a0-e49a1c54ba96",
+          "inci_name": "ACRYLATES/METHOXY PEG-10 MALEATE/STYRENE COPOLYMER",
+          "cas_no": [
+            "68988-26-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "parfum": {
+        "cosing_info": {
+          "reference": "877337a9-4a8b-4d17-bed7-f3a39d335e80",
+          "inci_name": "PARFUM",
+          "cas_no": []
+        },
+        "pubchem_info": []
+      },
+      "fragrance": {
+        "cosing_info": {
+          "reference": "8df6b6bc-f26a-438c-8dc4-130db9e8ce6b",
+          "inci_name": "3,7-Dimethyl-2-octen-1-ol (6,7-Dihydrogeraniol), when used as a fragrance ingredient",
+          "cas_no": [
+            "40607-48-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5365836",
+            "sid": "504562939",
+            "cas_no": "40607-48-5"
+          }
+        ]
+      },
+      "perlite": {
+        "cosing_info": {
+          "reference": "178937bc-fdfb-408d-b3f1-7b225278766b",
+          "inci_name": "PERLITE",
+          "cas_no": [
+            "130885-09-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "121596494",
+            "sid": "516574772",
+            "cas_no": "130885-09-5"
+          }
+        ]
+      },
+      "c12-20": {
+        "cosing_info": {
+          "reference": "e97d2aed-02e3-43c9-8fc5-383501c66c45",
+          "inci_name": "C12-20 ISOALKANE (FORMERLY C12-20 ISOPARAFFIN)",
+          "cas_no": [
+            "64742-46-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "alkyl": {
+        "cosing_info": {
+          "reference": "06766eaa-53eb-4a7b-9e03-c627de0c732c",
+          "inci_name": "C10 ALKYL ACETATE",
+          "cas_no": [
+            "68478-36-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "glucoside": {
+        "cosing_info": {
+          "reference": "df773f30-29f1-4b31-ae90-992d0dc7b7f6",
+          "inci_name": "HEPTYL GLUCOSIDE",
+          "cas_no": [
+            "100231-64-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "113557",
+            "sid": "505779466",
+            "cas_no": "100231-64-9"
+          }
+        ]
+      },
+      "iodopropynyl": {
+        "cosing_info": {
+          "reference": "86e5e14d-aadd-4d03-b0b4-e8889c6a078a",
+          "inci_name": "IODOPROPYNYL BUTYLCARBAMATE",
+          "cas_no": [
+            "55406-53-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "62097",
+            "sid": "505498408",
+            "cas_no": "55406-53-6"
+          }
+        ]
+      },
+      "butylcarbamate": {
+        "cosing_info": {
+          "reference": "0773c32c-65d4-4d97-8522-f50def869140",
+          "inci_name": "TRIMETHYLCYCLOHEXYL BUTYLCARBAMATE",
+          "cas_no": [
+            "1228376-60-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "rosa": {
+        "cosing_info": {
+          "reference": "ccb48ee8-c3cd-464d-854a-65094824b3ed",
+          "inci_name": "ROSA DAMASCENA FLOWER WAX",
+          "cas_no": [
+            "90106-38-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "gallica": {
+        "cosing_info": {
+          "reference": "0b551aae-6ab0-4fef-bc6c-57f3b3b95459",
+          "inci_name": "ROSA GALLICA FLOWER EXTRACT",
+          "cas_no": [
+            "84604-13-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "extract": {
+        "cosing_info": {
+          "reference": "6ff40204-b73a-486d-bc81-2a5a6f2faeee",
+          "inci_name": "HAEMATOXYLUM CAMPECHIANUM WOOD EXTRACT",
+          "cas_no": [
+            "8005-33-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "442514",
+            "sid": "505779233",
+            "cas_no": "8005-33-2"
+          }
+        ]
+      },
+      "flower": {
+        "cosing_info": {
+          "reference": "c1d12598-6b78-467a-9a80-920b391e0209",
+          "inci_name": "Tagetes minuta flower extract; Tagetes minuta flower oil",
+          "cas_no": [
+            "91770-75-1; 91770-75-1",
+            "8016-84-0"
+          ]
+        },
+        "pubchem_info": []
+      }
+    }
   },
   "additional_information": {
     "id": "120560096"

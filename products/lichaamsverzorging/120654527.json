@@ -34,7 +34,193 @@
       "Laurus",
       "nobilis",
       "Tocopherol."
-    ]
+    ],
+    "inci": {
+      "olea": {
+        "cosing_info": {
+          "reference": "a2ce5b5d-ab45-4175-a58c-4f331da2cea3",
+          "inci_name": "OLEA EUROPAEA SEED",
+          "cas_no": [
+            "8001-25-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "europaea": {
+        "cosing_info": {
+          "reference": "266fbf33-97aa-4aee-a6c1-0fc50147c427",
+          "inci_name": "SANICULA EUROPAEA EXTRACT",
+          "cas_no": [
+            "90106-53-9"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "fruit": {
+        "cosing_info": {
+          "reference": "bcb3c9aa-e856-4293-bf15-d8d80f6a1117",
+          "inci_name": "COCOS NUCIFERA FRUIT/FRUIT JUICE EXTRACT",
+          "cas_no": [
+            "8001-31-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "oil": {
+        "cosing_info": {
+          "reference": "73055330-91dd-4d1e-b860-925fb2ecdbc8",
+          "inci_name": "MENHADEN OIL",
+          "cas_no": [
+            "8002-50-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "glycine": {
+        "cosing_info": {
+          "reference": "86a48168-97e5-4cc3-aff4-bd4f9e2a69cc",
+          "inci_name": "GLYCINE",
+          "cas_no": [
+            "56-40-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "750",
+            "sid": "481107780",
+            "cas_no": "56-40-6"
+          }
+        ]
+      },
+      "soya": {
+        "cosing_info": {
+          "reference": "eedeccc8-c4e1-407f-90ec-3a16de24d9c8",
+          "inci_name": "SOYAMINE",
+          "cas_no": [
+            "61790-18-9"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "elaeis": {
+        "cosing_info": {
+          "reference": "d8adb3dc-c265-48e4-a22c-20f4c6ae8b82",
+          "inci_name": "ELAEIS OLEIFERA FRUIT OIL",
+          "cas_no": [
+            "8002-75-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "guineensis": {
+        "cosing_info": {
+          "reference": "e4501a4b-8863-4b36-9bfb-e91a3d0cc971",
+          "inci_name": "ELAEIS GUINEENSIS EXTRACT",
+          "cas_no": [
+            "8023-79-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "aqua": {
+        "cosing_info": {
+          "reference": "acb2fd0b-1174-4f52-8481-759e0f6a9471",
+          "inci_name": "AQUA",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "sodium": {
+        "cosing_info": {
+          "reference": "436c3318-3a15-40db-b19b-54900ed3abc1",
+          "inci_name": "SODIUM SIALYLLACTOSE",
+          "cas_no": [
+            "128596-80-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "71308479",
+            "sid": "504500786",
+            "cas_no": "128596-80-5"
+          }
+        ]
+      },
+      "hydroxide": {
+        "cosing_info": {
+          "reference": "46d24c83-1ace-4209-a88d-c3f205d323de",
+          "inci_name": "POTASSIUM HYDROXIDE",
+          "cas_no": [
+            "1310-58-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "14797",
+            "sid": "481108011",
+            "cas_no": "1310-58-3"
+          }
+        ]
+      },
+      "triticum": {
+        "cosing_info": {
+          "reference": "3b6df4c2-429e-49d6-9392-90780d909f0b",
+          "inci_name": "TRITICUM VULGARE SEED EXTRACT",
+          "cas_no": [
+            "84012-44-2"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "vulgare": {
+        "cosing_info": {
+          "reference": "6b9c494c-ee2b-43ae-9a21-7a547bc58f49",
+          "inci_name": "FOENICULUM VULGARE VULGARE FRUIT EXTRACT",
+          "cas_no": [
+            "92623-75-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "flour": {
+        "cosing_info": {
+          "reference": "5439aec9-9d42-42c1-a126-29507881050b",
+          "inci_name": "TRITICUM VULGARE KERNEL FLOUR",
+          "cas_no": [
+            "130498-22-5"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "laurus": {
+        "cosing_info": {
+          "reference": "20fcd281-82a2-42b9-9648-8e5af41a8af7",
+          "inci_name": "LAURUS NOBILIS BRANCH EXTRACT",
+          "cas_no": [
+            "84603-73-6 (generic)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "nobilis": {
+        "cosing_info": {
+          "reference": "20fcd281-82a2-42b9-9648-8e5af41a8af7",
+          "inci_name": "LAURUS NOBILIS BRANCH EXTRACT",
+          "cas_no": [
+            "84603-73-6 (generic)"
+          ]
+        },
+        "pubchem_info": []
+      }
+    }
   },
   "additional_information": {
     "id": "120654527"

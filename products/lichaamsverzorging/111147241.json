@@ -33,7 +33,133 @@
       "hydroxyethylcellulose",
       "(0",
       "7)."
-    ]
+    ],
+    "inci": {
+      "aqua": {
+        "cosing_info": {
+          "reference": "acb2fd0b-1174-4f52-8481-759e0f6a9471",
+          "inci_name": "AQUA",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "rye": {
+        "cosing_info": {
+          "reference": "93728090-a8c8-4f27-beba-fb80bb3d0771",
+          "inci_name": "LACTOBACILLUS/RYE FLOUR FERMENT",
+          "cas_no": [
+            "-"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "ferment": {
+        "cosing_info": {
+          "reference": "e5cb6704-f7bc-4ec2-a02b-5a8b9672ab3e",
+          "inci_name": "BIFIDA FERMENT LYSATE",
+          "cas_no": [
+            "96507-89-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "filtrate": {
+        "cosing_info": {
+          "reference": "5b422328-602b-4f18-a577-6498dccd1fa2",
+          "inci_name": "PEDIOCOCCUS EXTRACT FILTRATE",
+          "cas_no": []
+        },
+        "pubchem_info": []
+      },
+      "pentylene": {
+        "cosing_info": {
+          "reference": "36f04866-782e-409f-9051-5e6605b012a5",
+          "inci_name": "PENTYLENE GLYCOL",
+          "cas_no": [
+            "5343-92-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "93000",
+            "sid": "505856024",
+            "cas_no": "5343-92-0"
+          }
+        ]
+      },
+      "glycol": {
+        "cosing_info": {
+          "reference": "9676e281-f1c1-45e7-8bc5-dde960d1fc3d",
+          "inci_name": "GLYCOL",
+          "cas_no": [
+            "107-21-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "174",
+            "sid": "481107978",
+            "cas_no": "107-21-1"
+          }
+        ]
+      },
+      "dimethyl": {
+        "cosing_info": {
+          "reference": "54e23578-8e11-41c3-9753-addfe37f09a7",
+          "inci_name": "DIMETHYL-4-ISOHEPTENAL DIMETHYL ACETAL",
+          "cas_no": [
+            "67674-46-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "106766",
+            "sid": "505534249",
+            "cas_no": "67674-46-8"
+          }
+        ]
+      },
+      "isosorbide": {
+        "cosing_info": {
+          "reference": "e34d5fb7-ece0-47ae-9723-2b011380609e",
+          "inci_name": "ISOSORBIDE",
+          "cas_no": [
+            "652-67-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "12597",
+            "sid": "483925706",
+            "cas_no": "652-67-5"
+          }
+        ]
+      },
+      "hydroxyethylcellulose": {
+        "cosing_info": {
+          "reference": "4df6d7e7-1646-4b70-afe9-cd92c032add6",
+          "inci_name": "HYDROXYETHYLCELLULOSE",
+          "cas_no": [
+            "9004-62-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "4327536",
+            "sid": "505785210",
+            "cas_no": "9004-62-0"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "111147241"

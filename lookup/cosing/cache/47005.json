@@ -1,0 +1,135 @@
+{
+  "apiVersion": "2.146",
+  "reference": "acd67006-e1ab-45de-a547-bfcc8ad9c6cb",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 14.442768,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "CI 47005"
+    ],
+    "otherRestrictions": [
+      "ban substances that deplete the ozone layer"
+    ],
+    "note": [],
+    "refNo": [],
+    "sccsOpinionUrls": [
+      "http://ec.europa.eu/health/ph_risk/committees/sccp/documents/out276_en.pdf"
+    ],
+    "innName": [],
+    "other": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "chemicalName": [
+      "1H-Indene-1,3(2H)-dione, 2-(2-quinolinyl)-, sulfonated, sodium salts; D & C Yellow no. 10"
+    ],
+    "sccsOpinion": [
+      "Opinion on Acid Yellow 3"
+    ],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "CI 47005 is a mixture of the sodium salts of the mono- and disulfonic acids of 2-(2-quinolyl)-1H-indene-1,3(2H)-dione. It is principally disulfonated, similar to Ki203 and Acid Yellow 3, whereas Yellow 10 is principally monosulfonated. It conforms to the formula:"
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "9EFE02788100604C36F86A702E498CF0"
+    ],
+    "cosmeticRestriction": [
+      "IV/82"
+    ],
+    "ecNo": [
+      "- / 305-632-3 / 305-897-5"
+    ],
+    "maximumConcentration": [],
+    "identifiedIngredient": [
+      "30488",
+      "100319"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "inciName": [
+      "CI 47005"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "8004-92-0 / 94891-32-4 / 95193-83-2 / 68814-04-0"
+    ],
+    "substanceId": [
+      "32776"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "annexNo": [],
+    "productTypeBodyParts": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "COLORANT"
+    ],
+    "esDA_IngestDate": [
+      "2023-05-22T14:37:23.159+0200"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "corporate-search-version": [
+      "102"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-05-22T14:37:23.118+0200"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "datasource": [
+      "GROWTH_COSING"
+    ],
+    "wordingOfConditions": [],
+    "inciUsaName": [
+      "Acid Yellow 3"
+    ],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "acd67006-e1ab-45de-a547-bfcc8ad9c6cb. Available at: urn:test",
+  "score": 14.442768
+}

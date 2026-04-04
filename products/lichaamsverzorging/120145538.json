@@ -39,7 +39,49 @@
       "achterkant",
       "30%",
       "bioplastic"
-    ]
+    ],
+    "inci": {
+      "de": {
+        "cosing_info": {
+          "reference": "88340284-e54c-44f6-a5a5-b8d7018b78c5",
+          "inci_name": "SODIUM CYCLODEXTRIN BUTYLSULFONATE",
+          "cas_no": [
+            "182410-00-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "soil": {
+        "cosing_info": {
+          "reference": "573bde1a-f3d9-47b1-b25c-f867e4138f6e",
+          "inci_name": "SOIL MINERALS",
+          "cas_no": [
+            "-"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "met": {
+        "cosing_info": null,
+        "pubchem_info": [
+          {
+            "cid": "6137",
+            "sid": "481107804",
+            "cas_no": null
+          }
+        ]
+      },
+      "een": {
+        "cosing_info": null,
+        "pubchem_info": [
+          {
+            "cid": "137332080",
+            "sid": "505664143",
+            "cas_no": null
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120145538"

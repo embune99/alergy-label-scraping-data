@@ -54,7 +54,319 @@
       "(bevat",
       "geen",
       "parabenen)"
-    ]
+    ],
+    "inci": {
+      "composition": {
+        "cosing_info": {
+          "reference": "cc82ad77-e8e1-4cf2-9390-6147041405ff",
+          "inci_name": "Glass microfibres of representative composition",
+          "cas_no": []
+        },
+        "pubchem_info": []
+      },
+      "met": {
+        "cosing_info": null,
+        "pubchem_info": [
+          {
+            "cid": "6137",
+            "sid": "481107804",
+            "cas_no": null
+          }
+        ]
+      },
+      "glycerol": {
+        "cosing_info": {
+          "reference": "8c292472-e559-46d5-854b-675bd448f285",
+          "inci_name": "GLYCEROL FORMAL",
+          "cas_no": [
+            "4740-78-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "78475",
+            "sid": "500716181",
+            "cas_no": "4740-78-7"
+          }
+        ]
+      },
+      "en": {
+        "cosing_info": {
+          "reference": "7ef990b2-adac-41c1-b07c-d1d14c0bf4ba",
+          "inci_name": "2-PROPANOL/BORON TRIFLUORIDE/ETHYLIDENEBICYCLOHEPTENE",
+          "cas_no": [
+            "90530-04-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "55250280",
+            "sid": null,
+            "cas_no": "90530-04-4"
+          }
+        ]
+      },
+      "ethyl": {
+        "cosing_info": {
+          "reference": "9fa5620b-e1ed-46f2-878a-a6f9fbd850a4",
+          "inci_name": "ETHYL OLEATE",
+          "cas_no": [
+            "111-62-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5363269",
+            "sid": "500782445",
+            "cas_no": "111-62-6"
+          }
+        ]
+      },
+      "lactate": {
+        "cosing_info": {
+          "reference": "b2ccf3ab-6ff2-4482-80e7-07981b2d92da",
+          "inci_name": "LACTATE DEHYDROGENASE",
+          "cas_no": [
+            "9001-60-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "857560",
+            "sid": null,
+            "cas_no": "9001-60-9"
+          }
+        ]
+      },
+      "water": {
+        "cosing_info": {
+          "reference": "f47fb937-5e85-47be-a122-3522901eb942",
+          "inci_name": "WATER",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "decylene": {
+        "cosing_info": {
+          "reference": "277484ba-070a-40ba-b9f4-7c7b496c9f65",
+          "inci_name": "DECYLENE GLYCOL",
+          "cas_no": [
+            "1119-86-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "79141",
+            "sid": "500715188",
+            "cas_no": "1119-86-4"
+          }
+        ]
+      },
+      "glycol": {
+        "cosing_info": {
+          "reference": "9676e281-f1c1-45e7-8bc5-dde960d1fc3d",
+          "inci_name": "GLYCOL",
+          "cas_no": [
+            "107-21-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "174",
+            "sid": "481107978",
+            "cas_no": "107-21-1"
+          }
+        ]
+      },
+      "dimethyl": {
+        "cosing_info": {
+          "reference": "54e23578-8e11-41c3-9753-addfe37f09a7",
+          "inci_name": "DIMETHYL-4-ISOHEPTENAL DIMETHYL ACETAL",
+          "cas_no": [
+            "67674-46-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "106766",
+            "sid": "505534249",
+            "cas_no": "67674-46-8"
+          }
+        ]
+      },
+      "isosorbide": {
+        "cosing_info": {
+          "reference": "e34d5fb7-ece0-47ae-9723-2b011380609e",
+          "inci_name": "ISOSORBIDE",
+          "cas_no": [
+            "652-67-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "12597",
+            "sid": "483925706",
+            "cas_no": "652-67-5"
+          }
+        ]
+      },
+      "ppg-15": {
+        "cosing_info": {
+          "reference": "fdd4f3f6-8b77-4a52-b253-3a2cec39ef13",
+          "inci_name": "PPG-15",
+          "cas_no": [
+            "25322-69-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "stearyl": {
+        "cosing_info": {
+          "reference": "3e4066a6-9c3b-40ea-a5bb-c4ff27bdb307",
+          "inci_name": "STEARYL POLYLACTATE",
+          "cas_no": [
+            "187664-14-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "ether": {
+        "cosing_info": {
+          "reference": "1a33884e-9c41-4ce7-9725-136604d07dd0",
+          "inci_name": "DISTEARYL ETHER",
+          "cas_no": [
+            "6297-03-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "80526",
+            "sid": "505585378",
+            "cas_no": "6297-03-6"
+          }
+        ]
+      },
+      "acetic": {
+        "cosing_info": {
+          "reference": "3c6317fc-58eb-45b4-b3d8-d5785ecddf56",
+          "inci_name": "ACETIC ACID",
+          "cas_no": [
+            "64-19-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "176",
+            "sid": "481101418",
+            "cas_no": "64-19-7"
+          }
+        ]
+      },
+      "acid": {
+        "cosing_info": {
+          "reference": "2ce6a5ff-38b0-47a8-86bf-06e8a480b066",
+          "inci_name": "Perfluoroheptanoic acid; tridecafluoroheptanoic acid",
+          "cas_no": [
+            "375-85-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "67818",
+            "sid": "500815077",
+            "cas_no": "375-85-9"
+          }
+        ]
+      },
+      "and": {
+        "cosing_info": {
+          "reference": "46d2e23c-1458-4655-9758-6a52b47500a3",
+          "inci_name": "Secondary alkyl- and alkanolamines and their salts",
+          "cas_no": [
+            "111-42-2",
+            "110-97-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8113",
+            "sid": "481107085",
+            "cas_no": "111-42-2"
+          },
+          {
+            "cid": "8086",
+            "sid": "505583577",
+            "cas_no": "110-97-4"
+          }
+        ]
+      },
+      "lanolin": {
+        "cosing_info": {
+          "reference": "c2f52be5-6ded-4c53-b7d0-45c062bab272",
+          "inci_name": "LANOLIN",
+          "cas_no": [
+            "8006-54-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "ammonium": {
+        "cosing_info": {
+          "reference": "51026106-bd74-4934-b979-3f6dcb42c1ba",
+          "inci_name": "AMMONIUM GLYCYRRHIZATE",
+          "cas_no": [
+            "53956-04-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "62074",
+            "sid": "500755579",
+            "cas_no": "53956-04-0"
+          }
+        ]
+      },
+      "methacrylate": {
+        "cosing_info": {
+          "reference": "aab63a3f-945b-4e04-822f-6c27a41a7f6b",
+          "inci_name": "2,3-Epoxypropyl methacrylate; glycidyl methacrylate",
+          "cas_no": [
+            "106-91-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "7837",
+            "sid": "505659336",
+            "cas_no": "106-91-2"
+          }
+        ]
+      },
+      "biotin": {
+        "cosing_info": {
+          "reference": "917aee7f-6e41-473d-8b21-950cf6527a7d",
+          "inci_name": "BIOTIN",
+          "cas_no": [
+            "58-85-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "171548",
+            "sid": "481107735",
+            "cas_no": "58-85-5"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120088490"

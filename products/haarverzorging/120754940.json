@@ -25,7 +25,24 @@
       "-",
       "INGEDRIENTS"
     ],
-    "inci": {}
+    "inci": {
+      "g": {
+        "cosing_info": {
+          "reference": "ac66cacb-9995-4168-b76c-a1a85ba9140f",
+          "inci_name": "GLUCOSYLRUTIN",
+          "cas_no": [
+            "130603-71-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5489459",
+            "sid": "500739529",
+            "cas_no": "130603-71-3"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120754940"

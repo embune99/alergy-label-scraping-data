@@ -64,7 +64,561 @@
       "Officinale",
       "Root",
       "Extract."
-    ]
+    ],
+    "inci": {
+      "caprylic": {
+        "cosing_info": {
+          "reference": "810634c8-edbe-4e21-a034-43c199172437",
+          "inci_name": "CAPRYLIC ACID",
+          "cas_no": [
+            "124-07-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "379",
+            "sid": "483928096",
+            "cas_no": "124-07-2"
+          }
+        ]
+      },
+      "triglyceride": {
+        "cosing_info": {
+          "reference": "7a837030-45f2-4113-b7a5-f51fd0594bd1",
+          "inci_name": "C18-36 ACID TRIGLYCERIDE",
+          "cas_no": [
+            "91052-08-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "cocoglycerides": {
+        "cosing_info": {
+          "reference": "15385e2e-cdea-4883-b9a9-80b30357f286",
+          "inci_name": "COCOGLYCERIDES",
+          "cas_no": [
+            "92045-31-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "aqua": {
+        "cosing_info": {
+          "reference": "acb2fd0b-1174-4f52-8481-759e0f6a9471",
+          "inci_name": "AQUA",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "octyldodecyl": {
+        "cosing_info": {
+          "reference": "c00d0b98-93e9-4a00-b87a-9795622ce835",
+          "inci_name": "OCTYLDODECYL LANOLATE",
+          "cas_no": [
+            "233603-23-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "oleyl": {
+        "cosing_info": {
+          "reference": "402fc382-4173-471c-b6ab-fdb8ef090c83",
+          "inci_name": "POLYGLYCERYL-2 OLEYL ETHER",
+          "cas_no": [
+            "71032-90-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6437995",
+            "sid": "504499009",
+            "cas_no": "71032-90-1"
+          }
+        ]
+      },
+      "erucate": {
+        "cosing_info": {
+          "reference": "2cc07898-0d73-4b4d-a78c-89178bd3cd85",
+          "inci_name": "POLYGLYCERYL-10 NONAERUCATE",
+          "cas_no": [
+            "155808-79-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "glyceryl": {
+        "cosing_info": {
+          "reference": "94832999-3351-45b9-8bd2-ecf3e2675296",
+          "inci_name": "GLYCERYL HEPTANOATE",
+          "cas_no": [
+            "26402-24-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "21924355",
+            "sid": "505659259",
+            "cas_no": "26402-24-4"
+          }
+        ]
+      },
+      "stearate": {
+        "cosing_info": {
+          "reference": "cdb1ff74-2d7e-4c4d-90e5-e8b8ba176ae4",
+          "inci_name": "SUCROSE STEARATE",
+          "cas_no": [
+            "25168-73-4",
+            "37318-31-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "66895039",
+            "sid": "500829828",
+            "cas_no": "25168-73-4"
+          },
+          {
+            "cid": "66895039",
+            "sid": "500829828",
+            "cas_no": "37318-31-3"
+          }
+        ]
+      },
+      "behenate": {
+        "cosing_info": {
+          "reference": "ae3fc3b5-3c2c-4a74-83d2-efb6e7825c41",
+          "inci_name": "ISOCETYL BEHENATE",
+          "cas_no": [
+            "94247-28-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "44148920",
+            "sid": "500792564",
+            "cas_no": "94247-28-6"
+          }
+        ]
+      },
+      "jojoba": {
+        "cosing_info": {
+          "reference": "5371975e-a74b-468c-b12b-b6aba9d731fc",
+          "inci_name": "HYDROGENATED JOJOBA ALCOHOL",
+          "cas_no": [
+            "196316-32-2"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "esters": {
+        "cosing_info": {
+          "reference": "c58db643-e540-400f-b05c-f629a1eeda02",
+          "inci_name": "LINSEED OIL ASCORBATE ESTERS",
+          "cas_no": [
+            "8001-26-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "helianthus": {
+        "cosing_info": {
+          "reference": "981b4ff2-0470-4c2b-9a2a-bdebc1e66420",
+          "inci_name": "HELIANTHUS ANNUUS SEED WAX",
+          "cas_no": [
+            "1286686-34-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "annuus": {
+        "cosing_info": {
+          "reference": "2d06b0fb-16aa-4515-bd4c-af0007d51709",
+          "inci_name": "HELIANTHUS ANNUUS SEED",
+          "cas_no": [
+            "84625-38-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "seed": {
+        "cosing_info": {
+          "reference": "981b4ff2-0470-4c2b-9a2a-bdebc1e66420",
+          "inci_name": "HELIANTHUS ANNUUS SEED WAX",
+          "cas_no": [
+            "1286686-34-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "cera": {
+        "cosing_info": {
+          "reference": "b8a72ee6-e535-4723-b9a2-ec5ac8ffeded",
+          "inci_name": "MUSTELA CERA",
+          "cas_no": [
+            "8023-74-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "hydrogenated": {
+        "cosing_info": {
+          "reference": "eaf6aff1-2d65-4b95-ac0e-66d0ff7d46ef",
+          "inci_name": "HYDROGENATED MICROCRYSTALLINE CERA",
+          "cas_no": [
+            "92045-76-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "castor": {
+        "cosing_info": {
+          "reference": "1873fd44-7a7e-49d2-9de5-6a02eda6b7ee",
+          "inci_name": "ACETYLATED HYDROGENATED CASTOR GLYCERIDE",
+          "cas_no": [
+            "736150-63-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "oil": {
+        "cosing_info": {
+          "reference": "73055330-91dd-4d1e-b860-925fb2ecdbc8",
+          "inci_name": "MENHADEN OIL",
+          "cas_no": [
+            "8002-50-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "benzyl": {
+        "cosing_info": {
+          "reference": "b8bed1f8-a18b-4f12-ada2-664e686fddd7",
+          "inci_name": "BENZYL ACETATE",
+          "cas_no": [
+            "140-11-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8785",
+            "sid": "481106933",
+            "cas_no": "140-11-4"
+          }
+        ]
+      },
+      "alcohol": {
+        "cosing_info": {
+          "reference": "ee98826a-bac8-4089-91f6-32d956b26c61",
+          "inci_name": "ALCOHOL",
+          "cas_no": [
+            "64-17-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "702",
+            "sid": "481101440",
+            "cas_no": "64-17-5"
+          }
+        ]
+      },
+      "pentylene": {
+        "cosing_info": {
+          "reference": "36f04866-782e-409f-9051-5e6605b012a5",
+          "inci_name": "PENTYLENE GLYCOL",
+          "cas_no": [
+            "5343-92-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "93000",
+            "sid": "505856024",
+            "cas_no": "5343-92-0"
+          }
+        ]
+      },
+      "glycol": {
+        "cosing_info": {
+          "reference": "9676e281-f1c1-45e7-8bc5-dde960d1fc3d",
+          "inci_name": "GLYCOL",
+          "cas_no": [
+            "107-21-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "174",
+            "sid": "481107978",
+            "cas_no": "107-21-1"
+          }
+        ]
+      },
+      "acacia": {
+        "cosing_info": {
+          "reference": "04190a8d-c7d0-4aba-8b03-6b8b7f1f289d",
+          "inci_name": "ACACIA DECURRENS EXTRACT",
+          "cas_no": [
+            "98903-76-5"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "decurrens": {
+        "cosing_info": {
+          "reference": "04190a8d-c7d0-4aba-8b03-6b8b7f1f289d",
+          "inci_name": "ACACIA DECURRENS EXTRACT",
+          "cas_no": [
+            "98903-76-5"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "flower": {
+        "cosing_info": {
+          "reference": "c1d12598-6b78-467a-9a80-920b391e0209",
+          "inci_name": "Tagetes minuta flower extract; Tagetes minuta flower oil",
+          "cas_no": [
+            "91770-75-1; 91770-75-1",
+            "8016-84-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "polyglycerin-3": {
+        "cosing_info": {
+          "reference": "0946b145-726b-49e0-ab0b-1923404212d3",
+          "inci_name": "POLYGLYCERIN-3",
+          "cas_no": [
+            "56090-54-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "92007",
+            "sid": "481110159",
+            "cas_no": "56090-54-1"
+          }
+        ]
+      },
+      "bisabolol": {
+        "cosing_info": {
+          "reference": "af49bbe4-6d8f-4da6-9a5e-deb514149ff1",
+          "inci_name": "BISABOLOL",
+          "cas_no": [
+            "515-69-5",
+            "23089-26-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "1549992",
+            "sid": "516563215",
+            "cas_no": "515-69-5"
+          },
+          {
+            "cid": "442343",
+            "sid": "482029414",
+            "cas_no": "23089-26-1"
+          }
+        ]
+      },
+      "hydroxyphenyl": {
+        "cosing_info": {
+          "reference": "780ac911-39b1-4fc3-bc24-b5e5c33359d5",
+          "inci_name": "HYDROXYPHENYL PROPIONAMIDE",
+          "cas_no": [
+            "23838-70-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "16222514",
+            "sid": "505519728",
+            "cas_no": "23838-70-2"
+          }
+        ]
+      },
+      "propamidobenzoic": {
+        "cosing_info": {
+          "reference": "d470e88f-21e2-4756-b7c9-e27d73bfb929",
+          "inci_name": "HYDROXYPHENYL PROPAMIDOBENZOIC ACID",
+          "cas_no": [
+            "697235-49-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "10334118",
+            "sid": "500777144",
+            "cas_no": "697235-49-7"
+          }
+        ]
+      },
+      "acid": {
+        "cosing_info": {
+          "reference": "2ce6a5ff-38b0-47a8-86bf-06e8a480b066",
+          "inci_name": "Perfluoroheptanoic acid; tridecafluoroheptanoic acid",
+          "cas_no": [
+            "375-85-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "67818",
+            "sid": "500815077",
+            "cas_no": "375-85-9"
+          }
+        ]
+      },
+      "tocopherol": {
+        "cosing_info": {
+          "reference": "e353a1e9-9330-4c22-bf1a-f58ac6d356a9",
+          "inci_name": "TOCOPHEROL",
+          "cas_no": [
+            "54-28-4 (gamma)",
+            "16698-35-4(beta)",
+            "10191-41-0(DL)",
+            "119-13-1",
+            "1406-18-4",
+            "1406-66-2",
+            "2074-53-5 (DL)",
+            "59-02-9 (D)",
+            "7616-22-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "92094",
+            "sid": "500775109",
+            "cas_no": "119-13-1"
+          },
+          {
+            "cid": "14985",
+            "sid": "483926503",
+            "cas_no": "1406-18-4"
+          },
+          {
+            "cid": "14986",
+            "sid": "516579069",
+            "cas_no": "1406-66-2"
+          },
+          {
+            "cid": "14986",
+            "sid": "516579069",
+            "cas_no": "7616-22-0"
+          }
+        ]
+      },
+      "oleate": {
+        "cosing_info": {
+          "reference": "9fa5620b-e1ed-46f2-878a-a6f9fbd850a4",
+          "inci_name": "ETHYL OLEATE",
+          "cas_no": [
+            "111-62-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5363269",
+            "sid": "500782445",
+            "cas_no": "111-62-6"
+          }
+        ]
+      },
+      "vegetable": {
+        "cosing_info": {
+          "reference": "9397ea23-8fac-44b8-bb3e-dfbeb7f18271",
+          "inci_name": "ACETYLATED HYDROGENATED VEGETABLE GLYCERIDE",
+          "cas_no": [
+            "174333-76-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "ascorbyl": {
+        "cosing_info": {
+          "reference": "69287ea0-ac70-4c51-bf6f-5997426b7d1e",
+          "inci_name": "PALMITOYL ASCORBYL GLUCOSIDE",
+          "cas_no": [
+            "287925-69-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "palmitate": {
+        "cosing_info": {
+          "reference": "9aee3c4b-4a30-48de-a006-6eadbefabf22",
+          "inci_name": "ISOSTEARYL PALMITATE",
+          "cas_no": [
+            "72576-80-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "11443583",
+            "sid": "505788087",
+            "cas_no": "72576-80-8"
+          }
+        ]
+      },
+      "zingiber": {
+        "cosing_info": {
+          "reference": "8154326a-1152-44a5-8dd4-c52126da80be",
+          "inci_name": "ZINGIBER OFFICINALE ROOT JUICE",
+          "cas_no": [
+            "84696-15-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6850776",
+            "sid": null,
+            "cas_no": "84696-15-1"
+          }
+        ]
+      },
+      "officinale": {
+        "cosing_info": {
+          "reference": "8154326a-1152-44a5-8dd4-c52126da80be",
+          "inci_name": "ZINGIBER OFFICINALE ROOT JUICE",
+          "cas_no": [
+            "84696-15-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6850776",
+            "sid": null,
+            "cas_no": "84696-15-1"
+          }
+        ]
+      },
+      "root": {
+        "cosing_info": {
+          "reference": "8154326a-1152-44a5-8dd4-c52126da80be",
+          "inci_name": "ZINGIBER OFFICINALE ROOT JUICE",
+          "cas_no": [
+            "84696-15-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6850776",
+            "sid": null,
+            "cas_no": "84696-15-1"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120563879"

@@ -75,7 +75,171 @@
       "(E433)",
       "water",
       "."
-    ]
+    ],
+    "inci": {
+      "benzoylperoxide": {
+        "cosing_info": null,
+        "pubchem_info": [
+          {
+            "cid": "7187",
+            "sid": "481107730",
+            "cas_no": null
+          }
+        ]
+      },
+      "50": {
+        "cosing_info": {
+          "reference": "35e53db0-5eb3-4461-be10-d75d23c30074",
+          "inci_name": "C30-50 ALCOHOLS",
+          "cas_no": [
+            "222400-17-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "20": {
+        "cosing_info": {
+          "reference": "21d71e97-e0ee-4541-aa0f-d9e39698f181",
+          "inci_name": "C9-20 ISOALKANE",
+          "cas_no": [
+            "2288769-60-6 (generic)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "en": {
+        "cosing_info": {
+          "reference": "7ef990b2-adac-41c1-b07c-d1d14c0bf4ba",
+          "inci_name": "2-PROPANOL/BORON TRIFLUORIDE/ETHYLIDENEBICYCLOHEPTENE",
+          "cas_no": [
+            "90530-04-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "55250280",
+            "sid": null,
+            "cas_no": "90530-04-4"
+          }
+        ]
+      },
+      "esters": {
+        "cosing_info": {
+          "reference": "c58db643-e540-400f-b05c-f629a1eeda02",
+          "inci_name": "LINSEED OIL ASCORBATE ESTERS",
+          "cas_no": [
+            "8001-26-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "kan": {
+        "cosing_info": null,
+        "pubchem_info": [
+          {
+            "cid": "6032",
+            "sid": "481107270",
+            "cas_no": null
+          }
+        ]
+      },
+      "op": {
+        "cosing_info": {
+          "reference": "6ef33fc2-93ab-4df8-8f4a-5d20c10efeef",
+          "inci_name": "CERAMIDE OP",
+          "cas_no": []
+        },
+        "pubchem_info": []
+      },
+      "open": {
+        "cosing_info": null,
+        "pubchem_info": [
+          {
+            "cid": "6323466",
+            "sid": null,
+            "cas_no": null
+          }
+        ]
+      },
+      "of": {
+        "cosing_info": {
+          "reference": "38a07b0b-c8f4-4668-b3dd-5024d1efb662",
+          "inci_name": "Chlorates of alkali metals",
+          "cas_no": [
+            "3811-04-9",
+            "7775-09-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6426889",
+            "sid": "481107492",
+            "cas_no": "3811-04-9"
+          },
+          {
+            "cid": "516902",
+            "sid": "481107573",
+            "cas_no": "7775-09-9"
+          }
+        ]
+      },
+      "met": {
+        "cosing_info": null,
+        "pubchem_info": [
+          {
+            "cid": "6137",
+            "sid": "481107804",
+            "cas_no": null
+          }
+        ]
+      },
+      "uw": {
+        "cosing_info": null,
+        "pubchem_info": [
+          {
+            "cid": "9547893",
+            "sid": null,
+            "cas_no": null
+          }
+        ]
+      },
+      "te": {
+        "cosing_info": null,
+        "pubchem_info": [
+          {
+            "cid": "6327182",
+            "sid": "504687744",
+            "cas_no": null
+          }
+        ]
+      },
+      "stearylalcohol": {
+        "cosing_info": null,
+        "pubchem_info": [
+          {
+            "cid": "8221",
+            "sid": "481107601",
+            "cas_no": null
+          }
+        ]
+      },
+      "water": {
+        "cosing_info": {
+          "reference": "f47fb937-5e85-47be-a122-3522901eb942",
+          "inci_name": "WATER",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "110887491"

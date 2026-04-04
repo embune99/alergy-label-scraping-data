@@ -32,7 +32,87 @@
       "IJzer",
       "en",
       "Sulfaat"
-    ]
+    ],
+    "inci": {
+      "kalium": {
+        "cosing_info": null,
+        "pubchem_info": [
+          {
+            "cid": "5462222",
+            "sid": "481107488",
+            "cas_no": null
+          }
+        ]
+      },
+      "natrium": {
+        "cosing_info": null,
+        "pubchem_info": [
+          {
+            "cid": "5360545",
+            "sid": "481107834",
+            "cas_no": null
+          }
+        ]
+      },
+      "calcium": {
+        "cosing_info": {
+          "reference": "cc180388-386f-4acb-a5f0-f53acf4d1553",
+          "inci_name": "CALCIUM",
+          "cas_no": [
+            "7440-70-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5460341",
+            "sid": "481106970",
+            "cas_no": "7440-70-2"
+          }
+        ]
+      },
+      "broom": {
+        "cosing_info": null,
+        "pubchem_info": [
+          {
+            "cid": "24408",
+            "sid": "481107737",
+            "cas_no": null
+          }
+        ]
+      },
+      "strontium": {
+        "cosing_info": {
+          "reference": "f03560f5-1e9e-4a11-a0c4-a544e92ff7b7",
+          "inci_name": "STRONTIUM THIOGLYCOLATE",
+          "cas_no": [
+            "38337-95-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "3084699",
+            "sid": "500799972",
+            "cas_no": "38337-95-0"
+          }
+        ]
+      },
+      "en": {
+        "cosing_info": {
+          "reference": "7ef990b2-adac-41c1-b07c-d1d14c0bf4ba",
+          "inci_name": "2-PROPANOL/BORON TRIFLUORIDE/ETHYLIDENEBICYCLOHEPTENE",
+          "cas_no": [
+            "90530-04-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "55250280",
+            "sid": null,
+            "cas_no": "90530-04-4"
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120586481"

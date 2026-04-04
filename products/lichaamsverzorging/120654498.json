@@ -21,7 +21,39 @@
       "communis",
       "seed",
       "oil."
-    ]
+    ],
+    "inci": {
+      "ricinus": {
+        "cosing_info": {
+          "reference": "3a35e6af-8f68-4ba3-be3e-db3fea704d2f",
+          "inci_name": "RICINUS COMMUNIS ROOT EXTRACT",
+          "cas_no": [
+            "8001-79-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "communis": {
+        "cosing_info": {
+          "reference": "41e517a3-5bbf-4f5f-991b-8fac5c418106",
+          "inci_name": "PHRAGMITES COMMUNIS RHIZOME EXTRACT",
+          "cas_no": [
+            "84604-02-4 (generic)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "seed": {
+        "cosing_info": {
+          "reference": "981b4ff2-0470-4c2b-9a2a-bdebc1e66420",
+          "inci_name": "HELIANTHUS ANNUUS SEED WAX",
+          "cas_no": [
+            "1286686-34-7"
+          ]
+        },
+        "pubchem_info": []
+      }
+    }
   },
   "additional_information": {
     "id": "120654498"

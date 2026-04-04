@@ -153,8 +153,8 @@ def enrich_product(product_path: Path) -> bool:
         return False
 
     # Skip if already enriched (inci has data)
-    if inci:
-        print(f"Skipping {product_path.name}: already enriched ({len(inci)} ingredients)")
+    if isinstance(inci, list) or (isinstance(inci, dict) and inci):
+        print(f"Skipping {product_path.name}: already enriched or invalid format ({len(inci)} items)")
         return False
 
     # Initialize inci dict if not exists

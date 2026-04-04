@@ -26,7 +26,34 @@
       "yet",
       "available"
     ],
-    "inci": {}
+    "inci": {
+      "not": {
+        "cosing_info": {
+          "reference": "cac2cd38-9cdf-47b0-ad0b-42962863bce2",
+          "inci_name": "Safrole, except for normal content in the natural essences used and provided that the concentration does not exceed: \r\n100 ppm in the finished cosmetic product, 50 ppm in products for dental and oral hygiene, and provided that Safrole is not present in toothpastes intended specifically for children",
+          "cas_no": [
+            "94-59-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5144",
+            "sid": "481107549",
+            "cas_no": "94-59-7"
+          }
+        ]
+      },
+      "yet": {
+        "cosing_info": null,
+        "pubchem_info": [
+          {
+            "cid": "44462685",
+            "sid": null,
+            "cas_no": null
+          }
+        ]
+      }
+    }
   },
   "additional_information": {
     "id": "120769404"
