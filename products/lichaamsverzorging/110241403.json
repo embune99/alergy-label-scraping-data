@@ -34,61 +34,88 @@
       ""
     ],
     "inci": {
-      "polysorbate 20": [
-        "0a55a2c4-397e-4741-b2e2-8725afebd449",
-        "54e18392-97c3-472f-a947-b66427b2b08d",
-        "26a475d0-a60f-4c88-a626-f1ee10c95dbd",
-        "e24d85e4-e3b1-4339-a029-967b5c40238f",
-        "0fbb3f41-7282-4367-bbf1-3f81d6fb1a6a"
-      ],
-      "eucalyptus globulus oil": [
-        "6e4ad5c4-6939-4b75-a55e-c3ce3834a7b1",
-        "c86d2eb7-1efb-4266-aa89-25f1da6c72da",
-        "7e3d1604-1bc2-40e3-8ac6-5b1a7cda49ed",
-        "c5372ce5-6cc7-4f88-9a54-d06ca063611d"
-      ],
-      "aqua (water)": [
-        "acb2fd0b-1174-4f52-8481-759e0f6a9471",
-        "a9d7ccc5-066f-49da-85ef-5eec1217a478",
-        "88aced55-d191-43a7-85f5-41872fb14e85",
-        "bf9565d8-8238-4bb2-a23b-e70ff2ab63e4",
-        "f47fb937-5e85-47be-a122-3522901eb942"
-      ],
-      "limonene,": [
-        "d9a853fb-831a-4f8e-a3f5-d57b976d9c88",
-        "23d540ea-0079-4c28-8b69-10033f69f535",
-        "d61c4bec-0b4d-4e48-aef5-a218fea8b8cc",
-        "094b1ce3-9584-4c45-b567-8123e10e7033",
-        "77c4653c-3430-4779-bdd8-d76199258418",
-        "dd0b9281-85f3-43f2-b398-855b0154e62a",
-        "65222645-e4f3-41ab-aba8-9c8715c879bd",
-        "59c3e02e-9dda-4c79-a55e-14af2cdcf062",
-        "2fd55649-0293-4f5a-a737-e487ede48da7",
-        "2f9203ba-2582-4f8f-a9d3-6127a0b3f84b",
-        "fcb99a35-7fdb-447a-9c32-0754d66b463b",
-        "57bf7d48-3909-49da-a340-cc2a2164759c",
-        "e99411e7-a980-4d98-a824-64d3ba18b1ce",
-        "b9d71c6d-39c6-47c0-ade3-b681e8f343f2",
-        "f0386f6b-f59b-49a8-a468-5c77e8a8188e",
-        "7f9f30da-c884-4e7d-ba53-2b8eb25b55be",
-        "cffcb078-879d-49cd-964d-2166ba4444e3",
-        "c520b563-610e-4e05-be57-11ba1a7c203a",
-        "67734a62-d120-45e1-ba29-4a62454d9224",
-        "6166f166-7a24-446d-b5a3-c7eb8d60fb7f",
-        "a209d30f-e08c-4245-b4a8-a1812d41feef",
-        "ebdb8cd5-9a2a-446d-b207-9c6ea3bb4e2b",
-        "d489e0ea-9a81-4b1d-b8bc-5502db5adb42",
-        "37922c57-22ba-47ac-86a5-185e7d7702fb",
-        "5fd73f7d-090a-41e9-9cf8-ec2d82359ab1",
-        "f43f6f59-9dfd-4a87-b632-82dadb6e5796",
-        "29a385e8-9ff6-43f0-8eac-8788fb368de3",
-        "e3c609ab-4b8a-4089-89b0-18279e3f2837",
-        "cfcdbaea-0fbc-4c60-9c38-021736c36bb5",
-        "0e1e8e38-fc2e-4ce7-84f9-4dce5df36518",
-        "dcbdaa4c-4fbc-4473-987a-6d33558a5c19",
-        "d93d671b-3419-4680-8269-60583ec9ac0e",
-        "caf20e39-06fb-43bf-8453-7a582cc1d1d4"
-      ]
+      "polysorbate": {
+        "cosing_info": {
+          "reference": "a1aea1e2-2fe9-4a8d-945d-aa5e6e88b201",
+          "inci_name": "POLYSORBATE 80",
+          "cas_no": [
+            "9005-65-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "20": {
+        "cosing_info": {
+          "reference": "21d71e97-e0ee-4541-aa0f-d9e39698f181",
+          "inci_name": "C9-20 ISOALKANE",
+          "cas_no": [
+            "2288769-60-6 (generic)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "eucalyptus": {
+        "cosing_info": {
+          "reference": "417f63b9-7d48-4308-832e-ab937389c051",
+          "inci_name": "EUCALYPTUS GLOBULUS LEAF EXTRACT",
+          "cas_no": [
+            "84625-32-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "globulus": {
+        "cosing_info": {
+          "reference": "417f63b9-7d48-4308-832e-ab937389c051",
+          "inci_name": "EUCALYPTUS GLOBULUS LEAF EXTRACT",
+          "cas_no": [
+            "84625-32-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "oil": {
+        "cosing_info": {
+          "reference": "73055330-91dd-4d1e-b860-925fb2ecdbc8",
+          "inci_name": "MENHADEN OIL",
+          "cas_no": [
+            "8002-50-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "aqua": {
+        "cosing_info": {
+          "reference": "acb2fd0b-1174-4f52-8481-759e0f6a9471",
+          "inci_name": "AQUA",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "limonene": {
+        "cosing_info": {
+          "reference": "d9a853fb-831a-4f8e-a3f5-d57b976d9c88",
+          "inci_name": "LIMONENE",
+          "cas_no": [
+            "138-86-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "22311",
+            "sid": "518147164",
+            "cas_no": "138-86-3"
+          }
+        ]
+      }
     }
   },
   "additional_information": {
