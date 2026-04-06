@@ -45,81 +45,378 @@
       "N70076904/1)."
     ],
     "inci": {
-      "octyldodecanol": [
-        "50436008-d73a-42e0-817b-8d693cb20b97",
-        "4f4208ba-cd5f-47c8-b7a6-2c04e7a7b230",
-        "52371050-d98d-42a3-80d5-407055e37891",
-        "29e95475-659a-499a-94a1-d5cf6cca940f",
-        "a97f0d7a-9581-4269-b46b-8f5f8d8d7fea",
-        "35a5b717-7f0a-4a9a-b6d4-5a0a5afa8f7f",
-        "a4f47ad0-8994-4f55-8ae3-144b4187b1c2",
-        "b30a0a54-bd97-4cdc-b193-b15f41b9aa9d",
-        "b1dc0ef4-dce1-405f-ba8e-545e5c6c3b1d",
-        "b885b1f3-4c13-4f4f-afcf-9e4fff735c22",
-        "e626b73e-9f56-475d-a6b3-71dc859e7ecc",
-        "7fc9791c-552d-44b6-8489-2a3046fd6fcb",
-        "443f1f5f-8540-4412-bfad-fc526c7ba59e",
-        "fcf887d7-f21d-4027-b0cb-53ea4c72c33a",
-        "1693bf95-a4ad-433d-a201-346f96ed4b9d",
-        "c2b0d34f-2fd8-456a-b1ae-77f66ff6205c",
-        "cc3cfaeb-3457-44f7-8961-61598a2deda5",
-        "173aa29a-c8ac-404b-b971-119e702bbb54",
-        "46e32681-2247-4fdb-bf24-2d9d68322c06",
-        "6622abf0-0cf5-49a7-9e84-262a883f807d",
-        "0085caa1-70bf-4a6d-9845-62d38ee1de03",
-        "29d51668-d06e-4ca0-84a3-ec7965c67457",
-        "21e68034-a1bb-442c-b382-bf8024b87500",
-        "53bcef98-1ed3-4d7a-9335-739e04539609",
-        "83703469-67e0-433b-928d-9005f3fdd1a2",
-        "1d00e36e-54d1-4b2d-b706-0b0f5f6ee959",
-        "0e85ce69-bd0d-4d3a-bfc7-9a25efc0f222",
-        "506bd597-5d1a-4378-90d5-e658a9a08eba",
-        "9efa90d2-9d93-42fe-87d9-082a709be113",
-        "247719b9-7a85-45e9-869c-0bbc91b83565",
-        "c3154c6f-e587-4e43-83a7-ae2d7d0636ce",
-        "e4e463e9-5328-4684-8972-4bd289903f6b",
-        "3a1e1faa-f49b-4c0b-a7ca-0690294da725",
-        "7522e0f3-09b4-4e9d-b9fe-ff063feada0e",
-        "ef594de8-b3eb-4062-af5d-7d3ea73ffa2f",
-        "a95a2b50-ecc6-4103-88a2-8509a386c8e4",
-        "3f4d6b44-cde0-447c-b3cf-140a9e375e7c",
-        "7b4c4daf-505f-4391-86e9-854b747710e3",
-        "0226268a-f06e-4d7e-b6ed-9a62520903b9",
-        "8ff1ef89-e0a4-49b1-8c2f-e8ea297c3f92",
-        "edb77f3f-f2dd-4cb7-bd37-af8aa15ab4fd"
-      ],
-      "isoamyl laurate": [
-        "abfa9790-3556-427b-9042-d07d0e69619e"
-      ],
-      "diethylamino hydroxybenzoyl hexyl benzoate": [
-        "a348f543-552b-4aec-96b1-6ac8a2cf1644"
-      ],
-      "triheptanoin": [
-        "16072bf6-ae68-485f-acbc-ed1031a54c5d"
-      ],
-      "dibutyl lauroyl glutamide": [
-        "a1e65b75-f937-463f-9a91-2712bdfa8ec0"
-      ],
-      "dibutyl ethylhexanoyl glutamide": [
-        "f42a3330-8886-49f2-ba20-9219d5edfa9c"
-      ],
-      "bis-ethylhexyloxyphenol methoxyphenyl triazine": [
-        "c4eb9ee3-b90b-4e75-8fd1-fb2e3dd34ed1"
-      ],
-      "ethylhexyl triazone": [
-        "29d89d27-6bce-4058-ba2f-52ae1a3031cd"
-      ],
-      "diethylhexyl butamido triazone": [
-        "bcdba4f0-06f4-41e1-8c30-65b46f872329"
-      ],
-      "haematococcus pluvialis extract": [
-        "832eeb23-499e-46ef-9063-6d06b8492f4e",
-        "b454801a-87c1-4f0d-a416-6e873759daae",
-        "0c607172-7b3a-4e54-9d1f-ef43c40989aa"
-      ],
-      "squalane": [
-        "4852348f-523d-4917-91a5-f6313c0e9f62"
-      ]
+      "octyldodecanol": {
+        "cosing_info": {
+          "reference": "50436008-d73a-42e0-817b-8d693cb20b97",
+          "inci_name": "OCTYLDODECANOL",
+          "cas_no": [
+            "5333-42-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "21414",
+            "sid": "500811329",
+            "cas_no": "5333-42-6"
+          }
+        ]
+      },
+      "isoamyl": {
+        "cosing_info": {
+          "reference": "132f5130-3f2e-4192-8bde-aacbcfd37d4a",
+          "inci_name": "ISOAMYL P-METHOXYCINNAMATE",
+          "cas_no": [
+            "71617-10-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "92386",
+            "sid": "518178853",
+            "cas_no": "71617-10-2"
+          }
+        ]
+      },
+      "laurate": {
+        "cosing_info": {
+          "reference": "b4d41dd9-4164-4ee3-b9c9-47d7af576c0d",
+          "inci_name": "SORBITAN LAURATE",
+          "cas_no": [
+            "1338-39-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "11046239",
+            "sid": "505884199",
+            "cas_no": "1338-39-2"
+          }
+        ]
+      },
+      "diethylamino": {
+        "cosing_info": {
+          "reference": "150d998e-a72d-4478-96e7-e7e1eadcc7ea",
+          "inci_name": "STARCH DIETHYLAMINOETHYL ETHER",
+          "cas_no": [
+            "9041-94-5"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "hydroxybenzoyl": {
+        "cosing_info": {
+          "reference": "a348f543-552b-4aec-96b1-6ac8a2cf1644",
+          "inci_name": "DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE",
+          "cas_no": [
+            "302776-68-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "10111431",
+            "sid": "500776886",
+            "cas_no": "302776-68-7"
+          }
+        ]
+      },
+      "hexyl": {
+        "cosing_info": {
+          "reference": "e0639f70-efc4-424e-a259-4464aeaea8ea",
+          "inci_name": "HEXYL SALICYLATE HEXYL ETHER",
+          "cas_no": [
+            "111222-71-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "benzoate": {
+        "cosing_info": {
+          "reference": "5b65f7cc-6a38-4226-ac3a-f0701f04cd27",
+          "inci_name": "CASTOR OIL BENZOATE",
+          "cas_no": [
+            "225927-34-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "triheptanoin": {
+        "cosing_info": {
+          "reference": "16072bf6-ae68-485f-acbc-ed1031a54c5d",
+          "inci_name": "TRIHEPTANOIN",
+          "cas_no": [
+            "620-67-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "69286",
+            "sid": "483927904",
+            "cas_no": "620-67-7"
+          }
+        ]
+      },
+      "dibutyl": {
+        "cosing_info": {
+          "reference": "a95e4f6c-a461-4b00-b7dd-ad45cc26f3ff",
+          "inci_name": "DIBUTYL MALEATE/HEXADECENE/TETRADECENE COPOLYMER",
+          "cas_no": [
+            "128218-63-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "lauroyl": {
+        "cosing_info": {
+          "reference": "8b42cee8-a4cd-4e59-9f2a-f9919a52cf20",
+          "inci_name": "LAUROYL ARGININE",
+          "cas_no": [
+            "42492-22-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6451888",
+            "sid": "500795938",
+            "cas_no": "42492-22-8"
+          }
+        ]
+      },
+      "glutamide": {
+        "cosing_info": {
+          "reference": "a1e65b75-f937-463f-9a91-2712bdfa8ec0",
+          "inci_name": "DIBUTYL LAUROYL GLUTAMIDE",
+          "cas_no": [
+            "63663-21-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "113401",
+            "sid": "505582254",
+            "cas_no": "63663-21-8"
+          }
+        ]
+      },
+      "ethylhexanoyl": {
+        "cosing_info": {
+          "reference": "f42a3330-8886-49f2-ba20-9219d5edfa9c",
+          "inci_name": "DIBUTYL ETHYLHEXANOYL GLUTAMIDE",
+          "cas_no": [
+            "861390-34-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "71498798",
+            "sid": null,
+            "cas_no": "861390-34-3"
+          }
+        ]
+      },
+      "bis-ethylhexyloxyphenol": {
+        "cosing_info": {
+          "reference": "c4eb9ee3-b90b-4e75-8fd1-fb2e3dd34ed1",
+          "inci_name": "BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE",
+          "cas_no": [
+            "187393-00-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "135487856",
+            "sid": "505556958",
+            "cas_no": "187393-00-6"
+          }
+        ]
+      },
+      "methoxyphenyl": {
+        "cosing_info": {
+          "reference": "d875a53b-b75c-4265-9016-ae7790982f2e",
+          "inci_name": "BIS-METHOXYPHENYL HEPTANEDIONE",
+          "cas_no": [
+            "123953-63-9"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "triazine": {
+        "cosing_info": {
+          "reference": "0d53daed-6b86-4e5a-ae90-6b8e3aee787a",
+          "inci_name": "TRIS-BIPHENYL TRIAZINE",
+          "cas_no": [
+            "31274-51-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "11628027",
+            "sid": "505896340",
+            "cas_no": "31274-51-8"
+          }
+        ]
+      },
+      "ethylhexyl": {
+        "cosing_info": {
+          "reference": "beb72c34-bce7-480f-a1c6-db5594e43c65",
+          "inci_name": "ETHYLHEXYL METHOXYCINNAMATE",
+          "cas_no": [
+            "5466-77-3",
+            "83834-59-7 (trans-)"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5355130",
+            "sid": "483926029",
+            "cas_no": "5466-77-3"
+          }
+        ]
+      },
+      "triazone": {
+        "cosing_info": {
+          "reference": "29d89d27-6bce-4058-ba2f-52ae1a3031cd",
+          "inci_name": "ETHYLHEXYL TRIAZONE",
+          "cas_no": [
+            "88122-99-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "159201",
+            "sid": "500782584",
+            "cas_no": "88122-99-0"
+          }
+        ]
+      },
+      "diethylhexyl": {
+        "cosing_info": {
+          "reference": "345b0f69-bef8-4816-bda3-2ee523ccb346",
+          "inci_name": "bis(2-Ethylhexyl) phthalate; (Diethylhexyl phthalate)",
+          "cas_no": [
+            "117-81-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8343",
+            "sid": "518174587",
+            "cas_no": "117-81-7"
+          }
+        ]
+      },
+      "butamido": {
+        "cosing_info": {
+          "reference": "bcdba4f0-06f4-41e1-8c30-65b46f872329",
+          "inci_name": "DIETHYLHEXYL BUTAMIDO TRIAZONE",
+          "cas_no": [
+            "154702-15-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "9810816",
+            "sid": "505787235",
+            "cas_no": "154702-15-5"
+          }
+        ]
+      },
+      "triglyceride": {
+        "cosing_info": {
+          "reference": "7a837030-45f2-4113-b7a5-f51fd0594bd1",
+          "inci_name": "C18-36 ACID TRIGLYCERIDE",
+          "cas_no": [
+            "91052-08-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "haematococcus": {
+        "cosing_info": {
+          "reference": "832eeb23-499e-46ef-9063-6d06b8492f4e",
+          "inci_name": "HAEMATOCOCCUS PLUVIALIS EXTRACT",
+          "cas_no": []
+        },
+        "pubchem_info": []
+      },
+      "pluvialis": {
+        "cosing_info": {
+          "reference": "832eeb23-499e-46ef-9063-6d06b8492f4e",
+          "inci_name": "HAEMATOCOCCUS PLUVIALIS EXTRACT",
+          "cas_no": []
+        },
+        "pubchem_info": []
+      },
+      "extract": {
+        "cosing_info": {
+          "reference": "6ff40204-b73a-486d-bc81-2a5a6f2faeee",
+          "inci_name": "HAEMATOXYLUM CAMPECHIANUM WOOD EXTRACT",
+          "cas_no": [
+            "8005-33-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "442514",
+            "sid": "505779233",
+            "cas_no": "8005-33-2"
+          }
+        ]
+      },
+      "squalane": {
+        "cosing_info": {
+          "reference": "4852348f-523d-4917-91a5-f6313c0e9f62",
+          "inci_name": "SQUALANE",
+          "cas_no": [
+            "111-01-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8089",
+            "sid": "505884807",
+            "cas_no": "111-01-3"
+          }
+        ]
+      },
+      "tocopherol": {
+        "cosing_info": {
+          "reference": "e353a1e9-9330-4c22-bf1a-f58ac6d356a9",
+          "inci_name": "TOCOPHEROL",
+          "cas_no": [
+            "54-28-4 (gamma)",
+            "16698-35-4(beta)",
+            "10191-41-0(DL)",
+            "119-13-1",
+            "1406-18-4",
+            "1406-66-2",
+            "2074-53-5 (DL)",
+            "59-02-9 (D)",
+            "7616-22-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "92094",
+            "sid": "500775109",
+            "cas_no": "119-13-1"
+          },
+          {
+            "cid": "14985",
+            "sid": "483926503",
+            "cas_no": "1406-18-4"
+          },
+          {
+            "cid": "14986",
+            "sid": "516579069",
+            "cas_no": "1406-66-2"
+          },
+          {
+            "cid": "14986",
+            "sid": "516579069",
+            "cas_no": "7616-22-0"
+          }
+        ]
+      }
     }
   },
   "additional_information": {

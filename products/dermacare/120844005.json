@@ -42,27 +42,140 @@
       "N70055061/1)."
     ],
     "inci": {
-      "hydrogenated poly(c6-20 olefin)": [
-        "29f69409-db67-4d42-8692-2f510335de9e"
-      ],
-      "cellulose gum": [
-        "ecf86144-c4f1-4b59-bacf-56cc76223619",
-        "441a4f8d-cfdf-4809-af65-1a229cb60df8",
-        "8340bcc4-6c28-4635-9cf7-8020c45050ef",
-        "69fdad2b-5ffa-4bb7-9954-9616909be2fe",
-        "b92a91f2-0e87-49c1-a489-8ce8d84926da",
-        "c8b7826f-cd30-4f5a-b7c1-6b189d7a2520",
-        "e11a7133-e449-40c1-81cb-deb3b8964900",
-        "1d8bdff9-3430-4741-a658-04b27e4eba9c"
-      ],
-      "paraffinum liquidum": [
-        "8f9be648-8ecc-49a6-bad7-2c9ca8ac823b"
-      ],
-      "mineral oil": [
-        "f9e8f424-37a1-4d5e-89e6-42def6c1323e",
-        "ab7fafbb-a4a2-43fc-9678-c6ed948b4ce0",
-        "8f9be648-8ecc-49a6-bad7-2c9ca8ac823b"
-      ]
+      "hydrogenated": {
+        "cosing_info": {
+          "reference": "eaf6aff1-2d65-4b95-ac0e-66d0ff7d46ef",
+          "inci_name": "HYDROGENATED MICROCRYSTALLINE CERA",
+          "cas_no": [
+            "92045-76-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "cellulose": {
+        "cosing_info": {
+          "reference": "b482f78a-cfe8-4e22-a602-d4f420b37d60",
+          "inci_name": "CELLULOSE",
+          "cas_no": [
+            "9004-34-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "gum": {
+        "cosing_info": {
+          "reference": "96f25d11-e486-4ceb-86b9-5a3f7c62c9f8",
+          "inci_name": "WELAN GUM",
+          "cas_no": [
+            "96949-22-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "styrene/butadiene": {
+        "cosing_info": null,
+        "pubchem_info": [
+          {
+            "cid": "62697",
+            "sid": "505558415",
+            "cas_no": null
+          }
+        ]
+      },
+      "copolymer": {
+        "cosing_info": {
+          "reference": "fcf102c4-72b2-4018-84a0-e49a1c54ba96",
+          "inci_name": "ACRYLATES/METHOXY PEG-10 MALEATE/STYRENE COPOLYMER",
+          "cas_no": [
+            "68988-26-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "paraffinum": {
+        "cosing_info": {
+          "reference": "8f9be648-8ecc-49a6-bad7-2c9ca8ac823b",
+          "inci_name": "PARAFFINUM LIQUIDUM",
+          "cas_no": [
+            "8012-95-1",
+            "8042-47-5"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "liquidum": {
+        "cosing_info": {
+          "reference": "8f9be648-8ecc-49a6-bad7-2c9ca8ac823b",
+          "inci_name": "PARAFFINUM LIQUIDUM",
+          "cas_no": [
+            "8012-95-1",
+            "8042-47-5"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "mineral": {
+        "cosing_info": {
+          "reference": "a4b7ecce-a9ed-4471-bc90-37bae79ef639",
+          "inci_name": "MINERAL SPIRITS",
+          "cas_no": [
+            "8032-32-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "oil": {
+        "cosing_info": {
+          "reference": "73055330-91dd-4d1e-b860-925fb2ecdbc8",
+          "inci_name": "MENHADEN OIL",
+          "cas_no": [
+            "8002-50-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "pentaerythrityl": {
+        "cosing_info": {
+          "reference": "b282a45e-7f31-47a9-bc7c-6f43feeccfe7",
+          "inci_name": "PENTAERYTHRITYL TETRAACRYLATE",
+          "cas_no": [
+            "1245638-61-2 ; 4986-89-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "tetra-di-t-butyl": {
+        "cosing_info": {
+          "reference": "33858d6f-e1e3-4604-ab74-5c2f2044755c",
+          "inci_name": "PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE",
+          "cas_no": [
+            "6683-19-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "64819",
+            "sid": "481107448",
+            "cas_no": "6683-19-8"
+          }
+        ]
+      },
+      "hydroxyhydrocinnamate": {
+        "cosing_info": {
+          "reference": "33858d6f-e1e3-4604-ab74-5c2f2044755c",
+          "inci_name": "PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE",
+          "cas_no": [
+            "6683-19-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "64819",
+            "sid": "481107448",
+            "cas_no": "6683-19-8"
+          }
+        ]
+      }
     }
   },
   "additional_information": {

@@ -1,0 +1,134 @@
+{
+  "apiVersion": "2.146",
+  "reference": "fa8b644d-3542-4256-999f-75845becc978",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "application/octet-stream",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 21.800175,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "ALPHA-ARBUTIN"
+    ],
+    "refNo": [],
+    "otherRestrictions": [],
+    "note": [],
+    "sccsOpinionUrls": [
+      "https://ec.europa.eu/health/sites/health/files/scientific_committees/consumer_safety/docs/sccs_o_176.pdf",
+      "https://health.ec.europa.eu/publications/safety-alpha-arbutin-and-beta-arbutin-cosmetic-products_en"
+    ],
+    "itemType": [
+      "ingredient"
+    ],
+    "other": [],
+    "innName": [],
+    "chemicalName": [
+      "4-Hydroxyphenyl-alpha-D-glucopyranoside"
+    ],
+    "sccsOpinion": [
+      "OPINION ON α-arbutin",
+      "Opinion on the safety of alpha- (CAS No. 84380-018, EC No. 617-561-8) and beta-arbutin (CAS No. 497-76-7, EC No. 207-8503) in cosmetic products, preliminary version of 15-16 March 2022, final version of 31 January 2023, SCCS/1642/22"
+    ],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "Alpha-Arbutin is the organic compound that conforms to the formula:"
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "FE8CA38CE3EF55068950FC5E5A64F4DD"
+    ],
+    "cosmeticRestriction": [
+      "III/377"
+    ],
+    "ecNo": [
+      "617-561-8"
+    ],
+    "maximumConcentration": [],
+    "identifiedIngredient": [
+      "104252"
+    ],
+    "inciName": [
+      "ALPHA-ARBUTIN"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "84380-01-8"
+    ],
+    "substanceId": [
+      "54359"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "REFERENCE": [
+      "fa8b644d-3542-4256-999f-75845becc978"
+    ],
+    "productTypeBodyParts": [],
+    "annexNo": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "application/octet-stream"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "ANTIOXIDANT",
+      "BLEACHING",
+      "SKIN CONDITIONING - MISCELLANEOUS"
+    ],
+    "esDA_FirstIngestDate": [
+      "2024-11-27T14:44:11.681+0100"
+    ],
+    "esDA_IngestDate": [
+      "2025-03-11T09:19:02.475+0100"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2025-03-11T09:19:02.469+0100"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "fa8b644d-3542-4256-999f-75845becc978. Available at: urn:test",
+  "score": 21.800175
+}

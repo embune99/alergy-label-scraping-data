@@ -127,6 +127,10 @@ def fetch_page(keyword: str, page_number: int, use_cache: bool = True) -> Dict[s
         results = response.json().get("results", [])
 
         if not results:
+            # API returned 200 but empty results - cache None
+            if use_cache and page_number == 1:
+                save_to_cache(keyword, None)
+                print(f"  [Cached 'not found' for '{keyword}']")
             return None
 
         keyword_lower = keyword.lower()
@@ -174,6 +178,10 @@ def fetch_page(keyword: str, page_number: int, use_cache: bool = True) -> Dict[s
 
             return result
 
+        # API returned 200 but no valid matches - cache None
+        if use_cache and page_number == 1:
+            save_to_cache(keyword, None)
+            print(f"  [Cached 'not found' for '{keyword}']")
         return None
 
     except requests.RequestException as e:
