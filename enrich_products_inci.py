@@ -151,11 +151,20 @@ def enrich_product(product_path: Path) -> bool:
     if not ingredients:
         print(f"Skipping {product_path.name}: no ingredients found")
         return False
-
-    # Skip if already enriched (inci has data)
-    if isinstance(inci, list) or (isinstance(inci, dict) and inci):
-        print(f"Skipping {product_path.name}: already enriched or invalid format ({len(inci)} items)")
+    
+    # Skip if already enriched (inci has proper data structure)
+    # Old format: values are arrays of UUIDs; New format: values are dicts with cosing_info/pubchem_info
+    if isinstance(inci, list):
+        print(f"Skipping {product_path.name}: invalid format (inci is a list)")
         return False
+
+    if isinstance(inci, dict) and inci:
+        # Check first value - if it's a list, it's old UUID format (needs enrichment)
+        # If it's a dict with expected keys, it's already enriched
+        first_value = next(iter(inci.values()), None)
+        if isinstance(first_value, dict) and ("cosing_info" in first_value or "pubchem_info" in first_value):
+            print(f"Skipping {product_path.name}: already enriched ({len(inci)} ingredients)")
+            return False
 
     # Initialize inci dict if not exists
     if "inci" not in inferred:

@@ -162,29 +162,35 @@ def product_view(category_name, product_id):
     inferred_info = data.get("inferred_information", {})
     additional_info = data.get("additional_information", {})
 
-    # Load INCI data from reference IDs and map to ingredients
+    # Load INCI data - handle both old format (UUID arrays) and new enriched format (inline data)
     ingredient_inci_map = {}
+    enriched_inci_data = {}  # New format: {ingredient_name: {cosing_info, pubchem_info}}
+
     if inferred_info.get("inci"):
         inci_data = inferred_info["inci"]
         if isinstance(inci_data, dict):
-            # New format: {ingredient_name: [ref_ids]}
-            for ingredient_name, ref_ids in inci_data.items():
-                if not isinstance(ref_ids, list):
-                    continue
-                ingredient_inci_map[ingredient_name] = []
-                for ref_id in ref_ids:
-                    inci_file = INCI_DIR / f"{ref_id}.json"
-                    if inci_file.exists():
-                        with inci_file.open(encoding="utf-8") as f:
-                            inci = json.load(f)
-                            # Only include entries that have valid casNo (non-empty and not just "-" or empty strings)
-                            metadata = inci.get("metadata", {})
-                            cas_no = metadata.get("casNo")
-                            if cas_no and isinstance(cas_no, list):
-                                # Filter out dash-only and empty string values
-                                valid_cas = [c for c in cas_no if c and c.strip() and c.strip() != "-"]
-                                if valid_cas:
-                                    ingredient_inci_map[ingredient_name].append(inci)
+            # Check if it's the new enriched format (values are dicts with cosing_info/pubchem_info)
+            first_value = next(iter(inci_data.values()), None)
+            if isinstance(first_value, dict) and ("cosing_info" in first_value or "pubchem_info" in first_value):
+                # New enriched format - use as-is
+                enriched_inci_data = inci_data
+            else:
+                # Old format: {ingredient_name: [ref_ids]}
+                for ingredient_name, ref_ids in inci_data.items():
+                    if not isinstance(ref_ids, list):
+                        continue
+                    ingredient_inci_map[ingredient_name] = []
+                    for ref_id in ref_ids:
+                        inci_file = INCI_DIR / f"{ref_id}.json"
+                        if inci_file.exists():
+                            with inci_file.open(encoding="utf-8") as f:
+                                inci = json.load(f)
+                                metadata = inci.get("metadata", {})
+                                cas_no = metadata.get("casNo")
+                                if cas_no and isinstance(cas_no, list):
+                                    valid_cas = [c for c in cas_no if c and c.strip() and c.strip() != "-"]
+                                    if valid_cas:
+                                        ingredient_inci_map[ingredient_name].append(inci)
         elif isinstance(inci_data, list):
             # Legacy format: [ref_ids] - map by INCI name or common name
             for ref_id in inci_data:
@@ -193,7 +199,6 @@ def product_view(category_name, product_id):
                     with inci_file.open(encoding="utf-8") as f:
                         inci = json.load(f)
                         metadata = inci.get("metadata", {})
-                        # Only include entries that have valid casNo
                         cas_no = metadata.get("casNo")
                         if cas_no and isinstance(cas_no, list):
                             valid_cas = [c for c in cas_no if c and c.strip() and c.strip() != "-"]
@@ -213,6 +218,7 @@ def product_view(category_name, product_id):
         inferred_info=inferred_info,
         additional_info=additional_info,
         ingredient_inci_map=ingredient_inci_map,
+        enriched_inci_data=enriched_inci_data,
     )
 
 

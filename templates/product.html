@@ -107,56 +107,59 @@
   {% endif %}
 
   {% if inferred_info.ingredients %}
-    <h2>Ingredients</h2>
+    <h2>Ingredients ({{ inferred_info.ingredients|length }})</h2>
     <ul style="list-style:none; padding:0;">
       {% for ingredient in inferred_info.ingredients %}
         {% set ingredient_key = ingredient.lower().strip() %}
+        {% set inci_data = inferred_info.inci.get(ingredient_key) %}
         <li style="margin-bottom:0.5rem;">
           <span class="ingredient-toggle"
                 onclick="toggleInci('{{ ingredient_key }}')"
                 style="cursor:pointer; padding:0.5rem 1rem; background:#f0f0f0; border-radius:4px; display:inline-block;">
             {{ ingredient }}
-            {% if ingredient_inci_map.get(ingredient_key) %}
-              <span style="color:#666; font-size:0.8em;">({{ ingredient_inci_map[ingredient_key]|length }} INCI entries)</span>
+            {% if inci_data %}
+              <span style="color:#2e7d32; font-size:0.8em;">✓</span>
             {% endif %}
           </span>
           <div id="inci-{{ ingredient_key }}" style="display:none; margin-top:0.5rem; padding-left:1rem;">
-            {% if ingredient_inci_map.get(ingredient_key) %}
-              {% for inci in ingredient_inci_map[ingredient_key] %}
-                <div style="border:1px solid #ddd; padding:0.75rem; margin-bottom:0.5rem; border-radius:4px; background:#fafafa;">
-                  {% if inci.metadata.get('inciName') %}
-                    <p style="margin:0.25rem 0;"><strong>INCI Name:</strong> {{ inci.metadata.inciName|join(', ') }}</p>
+            {% if inci_data %}
+              <div style="border:1px solid #ddd; padding:0.75rem; border-radius:4px; background:#fafafa;">
+                {# CosIng info #}
+                {% if inci_data.cosing_info %}
+                  <h4 style="margin:0.5rem 0; color:#1976d2; border-bottom:1px solid #e0e0e0; padding-bottom:0.25rem;">CosIng Database</h4>
+                  <p style="margin:0.25rem 0;"><strong>INCI Name:</strong> {{ inci_data.cosing_info.inci_name or '-' }}</p>
+                  {% if inci_data.cosing_info.cas_no %}
+                    <p style="margin:0.25rem 0;"><strong>CAS No:</strong> {{ inci_data.cosing_info.cas_no|join(', ') }}</p>
                   {% endif %}
-                  {% if inci.metadata.get('chemicalDescription') %}
-                    <p style="margin:0.25rem 0;"><strong>Description:</strong> {{ inci.metadata.chemicalDescription|join(' ') }}</p>
+                  {% if inci_data.cosing_info.reference %}
+                    <p style="margin:0.25rem 0; color:#666; font-size:0.9em;">Ref: {{ inci_data.cosing_info.reference }}</p>
                   {% endif %}
-                  {% if inci.metadata.get('cosmeticRestriction') %}
-                    <p style="margin:0.25rem 0; color:#d32f2f;"><strong>Restrictions:</strong> {{ inci.metadata.cosmeticRestriction|join(', ') }}</p>
-                  {% endif %}
-                  {% if inci.metadata.get('maximumConcentration') %}
-                    <p style="margin:0.25rem 0;"><strong>Max Concentration:</strong> {{ inci.metadata.maximumConcentration|join(', ') }}</p>
-                  {% endif %}
-                  {% if inci.metadata.get('note') %}
-                    <p style="margin:0.25rem 0;"><strong>Notes:</strong> {{ inci.metadata.note|join(' | ') }}</p>
-                  {% endif %}
-                  {% set cas_no = inci.metadata.get('casNo') %}
-                  {% if cas_no and cas_no is iterable and cas_no|length > 0 %}
-                    {% set cas_display = cas_no|join(', ') %}
-                    {% if cas_display and cas_display != '-' and cas_display.strip() %}
-                      <p style="margin:0.25rem 0;"><strong>CAS No:</strong> {{ cas_display }}</p>
-                    {% endif %}
-                  {% endif %}
-                  {% set ec_no = inci.metadata.get('ecNo') %}
-                  {% if ec_no and ec_no is iterable and ec_no|length > 0 %}
-                    {% set ec_display = ec_no|join(', ') %}
-                    {% if ec_display and ec_display != '-' and ec_display.strip() %}
-                      <p style="margin:0.25rem 0;"><strong>EC No:</strong> {{ ec_display }}</p>
-                    {% endif %}
-                  {% endif %}
-                </div>
-              {% endfor %}
+                {% else %}
+                  <p style="color:#d32f2f; margin:0.5rem 0;">✗ Not found in CosIng database</p>
+                {% endif %}
+
+                {# PubChem info #}
+                {% if inci_data.pubchem_info %}
+                  <h4 style="margin:0.5rem 0; margin-top:1rem; color:#388e3c; border-bottom:1px solid #e0e0e0; padding-bottom:0.25rem;">PubChem Database</h4>
+                  {% for pc in inci_data.pubchem_info %}
+                    <div style="margin-left:0.5rem; padding:0.5rem; background:#f0f7f0; border-radius:4px; margin-bottom:0.5rem;">
+                      {% if pc.cid %}
+                        <p style="margin:0.25rem 0;"><strong>CID:</strong> <a href="https://pubchem.ncbi.nlm.nih.gov/compound/{{ pc.cid }}" target="_blank" rel="noreferrer" style="color:#1976d2;">{{ pc.cid }}</a></p>
+                      {% endif %}
+                      {% if pc.sid %}
+                        <p style="margin:0.25rem 0;"><strong>SID:</strong> <a href="https://pubchem.ncbi.nlm.nih.gov/substance/{{ pc.sid }}" target="_blank" rel="noreferrer" style="color:#1976d2;">{{ pc.sid }}</a></p>
+                      {% endif %}
+                      {% if pc.cas_no %}
+                        <p style="margin:0.25rem 0;"><strong>CAS No:</strong> {{ pc.cas_no }}</p>
+                      {% endif %}
+                    </div>
+                  {% endfor %}
+                {% else %}
+                  <p style="color:#d32f2f; margin:0.5rem 0;">✗ Not found in PubChem database</p>
+                {% endif %}
+              </div>
             {% else %}
-              <p style="color:#666;">No INCI data available for this ingredient.</p>
+              <p style="color:#666; padding:0.5rem;">No INCI data available for this ingredient.</p>
             {% endif %}
           </div>
         </li>
