@@ -62,327 +62,537 @@
       "Linalool."
     ],
     "inci": {
-      "aqua": [
-        "acb2fd0b-1174-4f52-8481-759e0f6a9471",
-        "03f72bea-b998-4741-942d-4eb90ea2e5c2",
-        "a9d7ccc5-066f-49da-85ef-5eec1217a478",
-        "b95411b0-fb54-4a85-9901-f92524503f2d",
-        "88aced55-d191-43a7-85f5-41872fb14e85",
-        "95d201d5-eef8-4b4a-9405-8ace8e6eb88c",
-        "bf9565d8-8238-4bb2-a23b-e70ff2ab63e4",
-        "f20f15b7-c291-495a-862f-5b28364a4b7c",
-        "56891eee-e7e0-4df4-a41f-43fddb50858c",
-        "f3176b91-2a20-4ce6-b44a-85df660a618d",
-        "f47fb937-5e85-47be-a122-3522901eb942",
-        "8c333827-b448-4d69-a0a9-ecdc8ba57476"
-      ],
-      "pvp": [
-        "21cdeaa7-25ba-4d46-b6af-83bcae830e55",
-        "183cf417-f99f-446e-a0ee-4cbdbe173dab",
-        "d25846e6-023c-4224-bfdc-0b156eb53676",
-        "c430090b-4d1f-426d-8125-dec0e058ec16",
-        "4ea78696-b9a0-4b68-b7cd-d775e8e548ee",
-        "08f0124f-1c8f-463d-8409-71e37161faea",
-        "718ab324-b63d-48c5-abeb-99eb3dd710e7",
-        "bccfee2f-dde4-49cb-aa20-f3126de7a328",
-        "56397820-bf9c-4413-9f16-2b5cc0dfb89e",
-        "2b67b48c-9d61-44d1-adec-6624b9455f06",
-        "288ddafc-4ba3-4913-be2e-fed7e5dd17fc",
-        "20262760-41f6-497d-9377-ea10c6551187"
-      ],
-      "peg-40 hydrogenated castor oil": [
-        "cf1d071a-ad0f-46b7-a629-6601ef71a986",
-        "b564afdc-0251-4872-84bd-212a6e457dc4",
-        "4e67bd3b-2f8c-4a3a-ac3e-17fa448f583f",
-        "8368dd06-6097-4364-a25c-de9b83e8f031",
-        "6ff5da74-575b-42f1-8d91-6ad67722c0d3",
-        "3a2fa039-8867-43d1-902a-815b55475d9b"
-      ],
-      "phenoxyethanol": [
-        "f8f3a6ab-5656-4d9a-a085-729e03a7376d",
-        "4e24ebd7-ace5-457a-a1c2-da84869f28ac",
-        "2f7d305c-12a6-440c-9467-1c445020bb17"
-      ],
-      "parfum": [
-        "877337a9-4a8b-4d17-bed7-f3a39d335e80"
-      ],
-      "aminomethyl propanol": [
-        "c2762f8b-8a82-4c4a-aafc-a595115f1c2b",
-        "473a6194-084e-4c2a-afa6-d0be87943d65",
-        "eb475f93-c2fd-4bee-99a2-f60352daaaa9",
-        "3fa51bc7-3934-46c3-8df1-336f94ae67bb",
-        "9619a2c4-6853-463b-9f44-4a1ebb6fe8f0",
-        "f9893dce-1a59-4659-8c4a-7f8465823b97",
-        "307dbf08-2ca9-4e2f-addb-5afb414e1e1a",
-        "8e615f19-8b09-44f1-92ef-74a9da5f9194"
-      ],
-      "disodium edta": [
-        "ebaa2639-3df4-4fdf-82ed-170198e085d6",
-        "4b208655-4bc3-4913-b674-2f01be3374e8",
-        "0bc04340-fa59-4cc5-8613-3b2837027816"
-      ],
-      "peg-4 laurate": [
-        "ab9115e6-547a-4938-b6bf-44ca09c39d9d",
-        "f8a66d8c-5eb6-4597-a2e1-567ac880a1ed",
-        "77eefd7f-834a-4fd5-b704-2370a6720b2a"
-      ],
-      "peg-4 dilaurate": [
-        "bda48948-4551-4848-9803-26bbeee81363"
-      ],
-      "hydrolyzed milk protein": [
-        "148067b6-a0ad-40ca-82f6-c5aa20d68d77",
-        "980043b1-c9f8-4c04-90c1-3c31ddb132c2",
-        "88078ea4-4094-4525-9fb0-bbac013eef8b",
-        "9465d7d2-9538-4759-bf4a-b4ae352a47b6",
-        "505e0fcd-8883-4f15-8994-433e1558b432",
-        "94a08c79-aee4-42c5-bb28-39a2e4407a5d"
-      ],
-      "sodium lauryl sulfate": [
-        "e122130b-9fd3-47ab-bf29-63f7f233422f",
-        "b2661101-50d0-47fe-84c0-33a71b2ea3dc",
-        "01d8ade0-1be0-4853-b44e-8b737eccd5ca",
-        "40a40561-884e-406f-80ea-14222079c300"
-      ],
-      "isopropyl alcohol": [
-        "a1b27b72-3de9-441c-a033-deda607a8d81",
-        "93008b25-d9c9-4b37-ab27-e827d3b49f96",
-        "70d92e7b-a00c-4753-9dd6-4db8493aeb78",
-        "26accb1a-5bd2-4ee8-a2c4-4165872732dc",
-        "d2a94c1b-12f1-4fa3-9eea-4362b7389862",
-        "bb97f2d1-eb35-48a3-9dbc-2567d74d2a91",
-        "1824cf47-b365-48f1-8faf-015da9d072c2"
-      ],
-      "laurtrimonium chloride": [
-        "f55319f5-2ce0-4aed-ae8e-a4c5ee626605"
-      ],
-      "peg-4": [
-        "ab9115e6-547a-4938-b6bf-44ca09c39d9d",
-        "be4199f0-b9b6-48f0-b81d-2eaf8a6ffb0e",
-        "681c61fa-567b-4e63-adef-46f87a5d3f84",
-        "8626aa03-dff8-49fa-be2c-fbf1ef33281a",
-        "a93407f6-1ecc-40b7-99fb-4b8be7d839db",
-        "a31590a6-1529-445b-97c7-300f708712aa",
-        "b442a301-a34a-4a94-8dde-86fe178a7a83",
-        "6e9eb491-17ed-46ef-956e-c0c37eb2b36c",
-        "207eb65e-1a13-455c-8dfc-4a55cc4f0a90",
-        "b3cfb612-b545-4923-b148-ba550856f959",
-        "063908f5-c138-4e3d-8b91-07db0c866d27",
-        "30a27ae6-bde0-452a-9c1f-95cf2adafc2f",
-        "a37cbc31-5f06-4768-8b9b-66532bda7e5b",
-        "5ef0b1b0-c471-4a9d-9bbd-18cc62873ac8",
-        "8e09d2a6-c591-4b2f-8280-8b48200987fa",
-        "ddb19f89-2ec0-4b3a-80c9-1bc8b7e1c4dd",
-        "cb3e3c5e-ec4b-4395-83d9-a6bd6764d246",
-        "c7b2b5fc-4801-4420-9987-e2bce106dcba",
-        "82eebc16-26e9-41a2-aeea-f071ed638aab",
-        "6774b6ee-cc0c-49a9-a531-26b03776a4f7",
-        "234ee006-3392-4329-b9a9-98886f455955",
-        "570b4fc7-3db9-455e-9338-d2e88ed9621e",
-        "64ec0ade-7c28-42bd-994a-9ea698601c1f",
-        "418d5ede-bee1-4ac9-adbc-3707e044212d",
-        "a8ee9bb6-42ce-4c71-b5e3-f2ca5ff234e4",
-        "64e28b4d-c60f-45ad-bbcb-71f6cc7eecb8",
-        "e0186410-60ba-4e74-ae1d-5999711bbbad",
-        "8177b2c1-d322-4717-8bbf-ed16bd7f2f39",
-        "77eefd7f-834a-4fd5-b704-2370a6720b2a",
-        "21db30f0-ddc7-4ec6-bfc3-2bcd5e26ea66",
-        "8986d443-aa74-4688-8c9d-ff5cf058d5d5",
-        "6e5e936c-b0bd-4d40-9c8b-244ab5fc054a",
-        "5f8d8c7b-4f3c-43f5-b192-3bee6cbd60f1",
-        "c9a5e54d-350b-408d-89f2-e00b846afa19",
-        "05fe1314-fdfa-46f4-8ddb-f7a3072c03ce",
-        "84c29494-1f82-425b-af67-ae787edefe23",
-        "50d7ebbd-a872-4c79-a239-8f9f2f79be4a",
-        "3e64ca3b-3243-4603-a6e3-1c98268d2f59",
-        "e951b1ba-2740-4be9-823f-3b1fa06b7503",
-        "2f6362af-90c2-4ce3-902b-bd7576dda39e",
-        "12fbc058-dbb6-4238-bfa0-f290b2a23df5",
-        "2dc07139-1634-47cd-8f5e-5533f6e41492",
-        "de03d0ef-3ba8-463e-965b-f5e5f00770d4",
-        "bb260225-7d11-4601-92df-0d5a16bc01dd",
-        "1641fc83-9c3f-4c97-901b-0e9cb6f2f9b2",
-        "6fd6185d-d0a9-4301-a2fe-96d9cf8e2e2c",
-        "96cff41c-8e86-4c41-adf8-fb037ec27f8f",
-        "00673611-8f8c-4456-95e3-664b44f99013",
-        "f8a66d8c-5eb6-4597-a2e1-567ac880a1ed",
-        "5261acd5-7f0c-4570-b271-302b10fa1955",
-        "bda48948-4551-4848-9803-26bbeee81363",
-        "829e230e-c38c-4ac9-851f-91a7afd3b698",
-        "3b522333-11cd-4125-8b91-bc6e0c60a548",
-        "8b5690ea-0143-4f19-96ee-d2de0eee778e",
-        "32182c5e-0152-4d4c-8ce6-862e273a68c1",
-        "8dc8f399-0265-4beb-bb02-0f2cf4b5106a",
-        "1dfcbd67-6f59-476e-9fb2-c4cb37315961",
-        "d8ef7d21-c748-4f42-8012-034f87276a91",
-        "c48f9e15-1178-4df1-b459-5f1685ef1e66",
-        "74550a7c-2e9d-4496-9d4d-b3d80f1f28a6",
-        "d041b624-09c5-49a3-9b32-44aa2e43216f",
-        "63562d6d-d049-46a3-8a08-22a5d43892af",
-        "f0212b2c-e218-45b3-8da1-64c9664f0038",
-        "2e06c4a5-b1d2-4728-98bf-bf8270a52b33",
-        "63108623-4329-490b-ad16-fae4c5c76b9e",
-        "d5582de8-9c63-4912-be13-ddb7dd2af0ce",
-        "7dd055e6-7086-42ee-9517-0f5676884d37",
-        "e218b934-f340-4b63-b78c-12592b7f769c",
-        "8108be81-6fd9-401f-94b7-34fb1fcd10a1",
-        "f491d1ac-fd9b-45cb-abdb-098b5a4d6b74",
-        "4f65d626-2c46-4a1e-a2e3-7d2b056b11d1",
-        "b03ed82a-9847-4552-a064-0b60bea8f1b8",
-        "37daf42d-f379-4d1b-b281-19b5388ceb2f",
-        "46685300-b787-45bc-a54b-926335db1764",
-        "3655fd54-9c9b-4ed1-9663-34bd8395a678",
-        "aa8bf233-f85b-46f2-8754-82e440af4e0a",
-        "6cb1f89e-e3eb-4d27-97b9-38d606fa43ef",
-        "20f2e617-8c4c-4939-be55-93212a9c5cee",
-        "827152b5-fa4c-48f9-965b-b3b394a0c115",
-        "d7da6d9d-ae4c-4d1b-b9e3-91f81dd6f70e",
-        "8591199c-c4fb-4bca-86c5-6a536ff945f0",
-        "8a97b227-76e1-4aa5-9431-3b64257b2525",
-        "e8dc5848-aa8a-46b2-9213-cfba33439e06",
-        "0cb01a8b-297a-4ef8-ae10-a0b05fd90b4b",
-        "959dcb3e-542c-4286-a50c-e1e4fb25a1ff",
-        "cc7c81fd-97a4-4e1a-acd4-e42f909bdbb0",
-        "65d4b62b-ece2-4de3-9daf-05778df0122a",
-        "2cc18ed3-e316-46f2-8908-fb77bd27fbf8",
-        "84c87392-2aed-445c-b0f9-e6d943214acf",
-        "3ce190d6-a62f-4ca0-9109-f2f853ab93bc",
-        "44c14ce4-c85c-4b6d-933b-5e3ac91a410e",
-        "c0aa807e-645a-45bd-8dfa-84d7acfe679b",
-        "d289b3ac-661c-4d44-bfc7-a8c67232e60c",
-        "258dfb29-3a58-4d61-b64b-78e804ddb504",
-        "3bfebcb3-9387-4b31-8a14-1b99af676771",
-        "994bd926-658f-4220-9f12-e40ed8bd81a9",
-        "5cee480f-d9fe-4312-9078-34df1ab6df07",
-        "6ca8d6da-e9fd-4dcc-bf88-f0a6a65ea5c8"
-      ],
-      "sodium benzoate": [
-        "65824413-7700-4374-af04-049ca055f371"
-      ],
-      "benzyl alcohol": [
-        "43b6ac65-f60d-42b8-8d5e-72d73a17cce5",
-        "01d7ff39-2dc3-4f03-bae0-3dfca710120a",
-        "939e6a7b-1a91-44f4-9f60-4e70985d229a",
-        "b8bed1f8-a18b-4f12-ada2-664e686fddd7",
-        "ba0d9117-68cd-47ec-943e-ee22d1f97e0c",
-        "5df0262e-332d-4c98-87f5-4257ba216224",
-        "a24b079a-84ee-4fb4-87b7-8c368822058c",
-        "14619b8e-220c-424e-8752-9c511215fb8b",
-        "c753e955-bd9a-4483-a23a-b674ac4c8898",
-        "0ee058c6-2cba-4bc4-9dcb-5b1998258e33",
-        "edd5f200-f6ba-46b3-a266-bf0764c5955a",
-        "873dab8c-c57d-483f-83f3-6400b2954151",
-        "a59d320f-ad7e-4f45-bb78-3a39371f5b2f",
-        "0bb3c0fe-0d9e-4758-83e0-eb26b83b937b",
-        "2c093be3-34aa-4d45-bd6a-906848433a08",
-        "8367fb00-ef11-484b-9107-e06cdce50896",
-        "a60f276c-63f7-48c3-8b9f-f3e9f548cc5b",
-        "d58d7b28-55b5-4f18-93e5-d029c86de7ea",
-        "3cf07fbd-ee1f-4dfe-841c-03b81ed71e52",
-        "6535dffb-5c2f-4d7d-94a6-2a7566d63543",
-        "995a8f43-ecad-4e03-a475-bbdfedad1560",
-        "dbe208ed-5f66-4ada-acca-07b4d2017273",
-        "c7d8e0ee-63a4-47cc-836b-3f612057f606"
-      ],
-      "benzyl salicylate": [
-        "ba0d9117-68cd-47ec-943e-ee22d1f97e0c",
-        "396e0bc9-32c1-473d-bd25-8e0cfcd51c17"
-      ],
-      "citronellol": [
-        "0dc4ed58-7d3b-4143-a03f-a9d1dccdabc9",
-        "77758167-316e-48cd-9098-d46c980c897d",
-        "ba477a38-110c-403e-840d-c91597e537ab",
-        "29d4f600-b472-4e2f-8b48-db00cef00849",
-        "cc21873c-a0ea-43d6-9dc2-d7f2ea7e43f6",
-        "1869042b-c968-4a64-bdf8-4ffdf6e0cac9",
-        "b6b4c602-e44e-4ab7-8ebb-062c6bcb95b1",
-        "ffa1a140-f081-419a-85b3-5460e0d7ba39",
-        "ccd1c9bf-9835-4c02-bb80-d3791d4f6690",
-        "77e8e7bb-b62d-4fd8-a213-f709399099f2",
-        "77a285e7-0ed1-4d6d-b7da-085fb19efa3b"
-      ],
-      "geraniol": [
-        "4937f329-ce46-43be-bb99-3307e3966e02",
-        "ba477a38-110c-403e-840d-c91597e537ab",
-        "1d4c3d38-90cf-4c06-bb42-87ee002513ad",
-        "9015f415-9eed-4347-94fb-64df574e6664",
-        "d93d671b-3419-4680-8269-60583ec9ac0e",
-        "ccd1c9bf-9835-4c02-bb80-d3791d4f6690",
-        "3eb24603-b991-48bf-8648-9aa5deb0800b",
-        "77e8e7bb-b62d-4fd8-a213-f709399099f2",
-        "a209d30f-e08c-4245-b4a8-a1812d41feef",
-        "ebdb8cd5-9a2a-446d-b207-9c6ea3bb4e2b",
-        "d489e0ea-9a81-4b1d-b8bc-5502db5adb42",
-        "f43f6f59-9dfd-4a87-b632-82dadb6e5796",
-        "29a385e8-9ff6-43f0-8eac-8788fb368de3",
-        "0e1e8e38-fc2e-4ce7-84f9-4dce5df36518"
-      ],
-      "hexyl cinnamal": [
-        "dfe28bfe-bd94-4e13-9f73-24aba98e5505"
-      ],
-      "hydroxycitronellal": [
-        "1282d3f9-0f30-4f82-a66f-fda74e446493",
-        "a76b947a-0f02-4baa-bd0f-c98706fde6b4",
-        "40f395db-13d0-4c51-a3c5-99a0bfab2bcf",
-        "341c2283-15aa-47ba-b3be-f9ce7b6a51d8",
-        "8ba5be6d-fdf4-4040-8d01-e3e683409f82"
-      ],
-      "limonene": [
-        "d9a853fb-831a-4f8e-a3f5-d57b976d9c88",
-        "23d540ea-0079-4c28-8b69-10033f69f535",
-        "d61c4bec-0b4d-4e48-aef5-a218fea8b8cc",
-        "094b1ce3-9584-4c45-b567-8123e10e7033",
-        "77c4653c-3430-4779-bdd8-d76199258418",
-        "dd0b9281-85f3-43f2-b398-855b0154e62a",
-        "65222645-e4f3-41ab-aba8-9c8715c879bd",
-        "59c3e02e-9dda-4c79-a55e-14af2cdcf062",
-        "2fd55649-0293-4f5a-a737-e487ede48da7",
-        "2f9203ba-2582-4f8f-a9d3-6127a0b3f84b",
-        "fcb99a35-7fdb-447a-9c32-0754d66b463b",
-        "57bf7d48-3909-49da-a340-cc2a2164759c",
-        "e99411e7-a980-4d98-a824-64d3ba18b1ce",
-        "b9d71c6d-39c6-47c0-ade3-b681e8f343f2",
-        "f0386f6b-f59b-49a8-a468-5c77e8a8188e",
-        "7f9f30da-c884-4e7d-ba53-2b8eb25b55be",
-        "cffcb078-879d-49cd-964d-2166ba4444e3",
-        "c520b563-610e-4e05-be57-11ba1a7c203a",
-        "67734a62-d120-45e1-ba29-4a62454d9224",
-        "6166f166-7a24-446d-b5a3-c7eb8d60fb7f",
-        "a209d30f-e08c-4245-b4a8-a1812d41feef",
-        "ebdb8cd5-9a2a-446d-b207-9c6ea3bb4e2b",
-        "d489e0ea-9a81-4b1d-b8bc-5502db5adb42",
-        "37922c57-22ba-47ac-86a5-185e7d7702fb",
-        "5fd73f7d-090a-41e9-9cf8-ec2d82359ab1",
-        "f43f6f59-9dfd-4a87-b632-82dadb6e5796",
-        "29a385e8-9ff6-43f0-8eac-8788fb368de3",
-        "e3c609ab-4b8a-4089-89b0-18279e3f2837",
-        "cfcdbaea-0fbc-4c60-9c38-021736c36bb5",
-        "0e1e8e38-fc2e-4ce7-84f9-4dce5df36518",
-        "dcbdaa4c-4fbc-4473-987a-6d33558a5c19",
-        "d93d671b-3419-4680-8269-60583ec9ac0e",
-        "caf20e39-06fb-43bf-8453-7a582cc1d1d4"
-      ],
-      "linalool.": [
-        "8f47a2fa-c519-434c-8bb9-8385cf05fea5",
-        "c396cf4a-6357-436d-8d55-fb24f9961d3d",
-        "8d5a2513-3e2c-44f1-8f85-624d6342866f",
-        "0018acfb-f2a4-4538-8f28-f8af71041bb9",
-        "f2357e58-0181-41f6-b80b-457d1f55ee91",
-        "a19ecbd9-8ced-402a-85d8-9e341468e55f",
-        "99634e65-3bfd-420f-a5b9-7094dc581270",
-        "72a74c17-4c98-4ee7-a58a-7d5ff3942560",
-        "cbc4a314-95f5-4345-98cc-61b2d87bf963",
-        "f5f287c8-50f4-4c93-8b0d-41c89b985347",
-        "ccd1c9bf-9835-4c02-bb80-d3791d4f6690",
-        "7b037553-1d27-4931-8108-84efc7f93f6a",
-        "c2d79f26-662b-4480-b669-afdef300ad6e",
-        "a803ace3-7f88-4b6f-aa4a-0b4119093446",
-        "67734a62-d120-45e1-ba29-4a62454d9224",
-        "d489e0ea-9a81-4b1d-b8bc-5502db5adb42",
-        "d61c4bec-0b4d-4e48-aef5-a218fea8b8cc",
-        "29a385e8-9ff6-43f0-8eac-8788fb368de3",
-        "dcbdaa4c-4fbc-4473-987a-6d33558a5c19",
-        "d93d671b-3419-4680-8269-60583ec9ac0e"
-      ]
+      "aqua": {
+        "cosing_info": {
+          "reference": "acb2fd0b-1174-4f52-8481-759e0f6a9471",
+          "inci_name": "AQUA",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "copolymer": {
+        "cosing_info": {
+          "reference": "fcf102c4-72b2-4018-84a0-e49a1c54ba96",
+          "inci_name": "ACRYLATES/METHOXY PEG-10 MALEATE/STYRENE COPOLYMER",
+          "cas_no": [
+            "68988-26-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "pvp": {
+        "cosing_info": {
+          "reference": "d25846e6-023c-4224-bfdc-0b156eb53676",
+          "inci_name": "PVP",
+          "cas_no": [
+            "9003-39-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "peg-40": {
+        "cosing_info": {
+          "reference": "a38e8f6b-4ba5-4a34-861c-b31ca4d1cf8b",
+          "inci_name": "PEG-40",
+          "cas_no": [
+            "25322-68-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "hydrogenated": {
+        "cosing_info": {
+          "reference": "eaf6aff1-2d65-4b95-ac0e-66d0ff7d46ef",
+          "inci_name": "HYDROGENATED MICROCRYSTALLINE CERA",
+          "cas_no": [
+            "92045-76-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "castor": {
+        "cosing_info": {
+          "reference": "1873fd44-7a7e-49d2-9de5-6a02eda6b7ee",
+          "inci_name": "ACETYLATED HYDROGENATED CASTOR GLYCERIDE",
+          "cas_no": [
+            "736150-63-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "oil": {
+        "cosing_info": {
+          "reference": "73055330-91dd-4d1e-b860-925fb2ecdbc8",
+          "inci_name": "MENHADEN OIL",
+          "cas_no": [
+            "8002-50-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "phenoxyethanol": {
+        "cosing_info": {
+          "reference": "f8f3a6ab-5656-4d9a-a085-729e03a7376d",
+          "inci_name": "PHENOXYETHANOL",
+          "cas_no": [
+            "122-99-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "31236",
+            "sid": "483926132",
+            "cas_no": "122-99-6"
+          }
+        ]
+      },
+      "methacrylate": {
+        "cosing_info": {
+          "reference": "aab63a3f-945b-4e04-822f-6c27a41a7f6b",
+          "inci_name": "2,3-Epoxypropyl methacrylate; glycidyl methacrylate",
+          "cas_no": [
+            "106-91-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "7837",
+            "sid": "505659336",
+            "cas_no": "106-91-2"
+          }
+        ]
+      },
+      "parfum": {
+        "cosing_info": {
+          "reference": "877337a9-4a8b-4d17-bed7-f3a39d335e80",
+          "inci_name": "PARFUM",
+          "cas_no": []
+        },
+        "pubchem_info": []
+      },
+      "aminomethyl": {
+        "cosing_info": {
+          "reference": "52ca7b21-f152-422b-9446-df42fa43d913",
+          "inci_name": "AMINOMETHYL PROPANEDIOL",
+          "cas_no": [
+            "115-69-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "1531",
+            "sid": "505553288",
+            "cas_no": "115-69-5"
+          }
+        ]
+      },
+      "propanol": {
+        "cosing_info": {
+          "reference": "c2762f8b-8a82-4c4a-aafc-a595115f1c2b",
+          "inci_name": "AMINOMETHYL PROPANOL",
+          "cas_no": [
+            "124-68-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "11807",
+            "sid": "505459246",
+            "cas_no": "124-68-5"
+          }
+        ]
+      },
+      "disodium": {
+        "cosing_info": {
+          "reference": "9a36d68d-cfcc-48b5-a7b1-b5e0286611ea",
+          "inci_name": "DISODIUM PYROPHOSPHATE",
+          "cas_no": [
+            "7758-16-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "24451",
+            "sid": "500778501",
+            "cas_no": "7758-16-9"
+          }
+        ]
+      },
+      "edta": {
+        "cosing_info": {
+          "reference": "64cc9da1-36bb-4875-b859-77375d6ab3f5",
+          "inci_name": "EDTA",
+          "cas_no": [
+            "60-00-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6049",
+            "sid": "481107126",
+            "cas_no": "60-00-4"
+          }
+        ]
+      },
+      "peg-4": {
+        "cosing_info": {
+          "reference": "570b4fc7-3db9-455e-9338-d2e88ed9621e",
+          "inci_name": "PEG-4",
+          "cas_no": [
+            "25322-68-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "laurate": {
+        "cosing_info": {
+          "reference": "b4d41dd9-4164-4ee3-b9c9-47d7af576c0d",
+          "inci_name": "SORBITAN LAURATE",
+          "cas_no": [
+            "1338-39-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "11046239",
+            "sid": "505884199",
+            "cas_no": "1338-39-2"
+          }
+        ]
+      },
+      "dilaurate": {
+        "cosing_info": {
+          "reference": "0e29f9a6-8bea-465c-8d3c-a49db69ea5ec",
+          "inci_name": "PROPYLENE GLYCOL DILAURATE",
+          "cas_no": [
+            "22788-19-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "90838",
+            "sid": "500819956",
+            "cas_no": "22788-19-8"
+          }
+        ]
+      },
+      "hydrolyzed": {
+        "cosing_info": {
+          "reference": "23c3bca9-cbcb-4e62-ae2b-ddd2ae73c62f",
+          "inci_name": "HYDROLYZED EGG SHELL MEMBRANE",
+          "cas_no": [
+            "227025-35-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "milk": {
+        "cosing_info": {
+          "reference": "962ac4bb-c5a9-4a17-8429-8043221eff4f",
+          "inci_name": "MILK",
+          "cas_no": [
+            "8049-98-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "protein": {
+        "cosing_info": {
+          "reference": "c2e4b361-fc87-4dc0-8317-a17a6869fdef",
+          "inci_name": "Hydrolyzed wheat protein",
+          "cas_no": [
+            "94350-06-8",
+            "222400-28-4",
+            "70084-87-6",
+            "100209- 50-5"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "sodium": {
+        "cosing_info": {
+          "reference": "436c3318-3a15-40db-b19b-54900ed3abc1",
+          "inci_name": "SODIUM SIALYLLACTOSE",
+          "cas_no": [
+            "128596-80-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "71308479",
+            "sid": "504500786",
+            "cas_no": "128596-80-5"
+          }
+        ]
+      },
+      "lauryl": {
+        "cosing_info": {
+          "reference": "80894cdc-b057-4512-9f71-a2a6b0fe3911",
+          "inci_name": "POTASSIUM LAURYL PHOSPHATE",
+          "cas_no": [
+            "39322-78-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "11970398",
+            "sid": "518187891",
+            "cas_no": "39322-78-6"
+          }
+        ]
+      },
+      "sulfate": {
+        "cosing_info": {
+          "reference": "e122130b-9fd3-47ab-bf29-63f7f233422f",
+          "inci_name": "SODIUM LAURYL SULFATE",
+          "cas_no": [
+            "151-21-3",
+            "68585-47-7 (generic)",
+            "68955-19-1 (generic)",
+            "73296-89-6",
+            "85586-07-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "3423265",
+            "sid": "505883583",
+            "cas_no": "151-21-3"
+          }
+        ]
+      },
+      "isopropyl": {
+        "cosing_info": {
+          "reference": "39b9f1de-dcfd-4862-9d82-661671ab0a80",
+          "inci_name": "ISOPROPYL LAURATE",
+          "cas_no": [
+            "10233-13-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "25068",
+            "sid": "500793234",
+            "cas_no": "10233-13-3"
+          }
+        ]
+      },
+      "alcohol": {
+        "cosing_info": {
+          "reference": "ee98826a-bac8-4089-91f6-32d956b26c61",
+          "inci_name": "ALCOHOL",
+          "cas_no": [
+            "64-17-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "702",
+            "sid": "481101440",
+            "cas_no": "64-17-5"
+          }
+        ]
+      },
+      "laurtrimonium": {
+        "cosing_info": {
+          "reference": "9a3f564d-dd7e-442a-9411-875a2b48dfac",
+          "inci_name": "LAURTRIMONIUM BROMIDE",
+          "cas_no": [
+            "1119-94-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "14249",
+            "sid": "516566482",
+            "cas_no": "1119-94-4"
+          }
+        ]
+      },
+      "chloride": {
+        "cosing_info": {
+          "reference": "c34b87ef-4a9c-4fea-ab84-b7fa2e76303d",
+          "inci_name": "Hexamethonium chloride; Hexamethylene(bistrimethylammonium)chloride",
+          "cas_no": [
+            "60-25-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "93550",
+            "sid": "500789484",
+            "cas_no": "60-25-3"
+          }
+        ]
+      },
+      "butylcarbamate": {
+        "cosing_info": {
+          "reference": "0773c32c-65d4-4d97-8522-f50def869140",
+          "inci_name": "TRIMETHYLCYCLOHEXYL BUTYLCARBAMATE",
+          "cas_no": [
+            "1228376-60-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "benzoate": {
+        "cosing_info": {
+          "reference": "5b65f7cc-6a38-4226-ac3a-f0701f04cd27",
+          "inci_name": "CASTOR OIL BENZOATE",
+          "cas_no": [
+            "225927-34-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "benzyl": {
+        "cosing_info": {
+          "reference": "b8bed1f8-a18b-4f12-ada2-664e686fddd7",
+          "inci_name": "BENZYL ACETATE",
+          "cas_no": [
+            "140-11-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8785",
+            "sid": "481106933",
+            "cas_no": "140-11-4"
+          }
+        ]
+      },
+      "salicylate": {
+        "cosing_info": {
+          "reference": "d9c33ee5-63e3-4708-ba47-82d1215b093f",
+          "inci_name": "SILVER SALICYLATE",
+          "cas_no": [
+            "19025-97-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "54683737",
+            "sid": "505404027",
+            "cas_no": "19025-97-9"
+          }
+        ]
+      },
+      "citronellol": {
+        "cosing_info": {
+          "reference": "0dc4ed58-7d3b-4143-a03f-a9d1dccdabc9",
+          "inci_name": "CITRONELLOL",
+          "cas_no": [
+            "106-22-9",
+            "26489-01-0",
+            "7540-51-4",
+            "1117-61-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8842",
+            "sid": "482039864",
+            "cas_no": "106-22-9"
+          },
+          {
+            "cid": "8842",
+            "sid": "482039864",
+            "cas_no": "26489-01-0"
+          },
+          {
+            "cid": "7793",
+            "sid": "505563004",
+            "cas_no": "7540-51-4"
+          },
+          {
+            "cid": "101977",
+            "sid": "483924806",
+            "cas_no": "1117-61-9"
+          }
+        ]
+      },
+      "geraniol": {
+        "cosing_info": {
+          "reference": "4937f329-ce46-43be-bb99-3307e3966e02",
+          "inci_name": "GERANIOL",
+          "cas_no": [
+            "106-24-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "637566",
+            "sid": "481107196",
+            "cas_no": "106-24-1"
+          }
+        ]
+      },
+      "hexyl": {
+        "cosing_info": {
+          "reference": "e0639f70-efc4-424e-a259-4464aeaea8ea",
+          "inci_name": "HEXYL SALICYLATE HEXYL ETHER",
+          "cas_no": [
+            "111222-71-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "cinnamal": {
+        "cosing_info": {
+          "reference": "def9943c-d755-44df-8a88-921782a72d1a",
+          "inci_name": "CINNAMAL",
+          "cas_no": [
+            "104-55-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "637511",
+            "sid": "500769665",
+            "cas_no": "104-55-2"
+          }
+        ]
+      },
+      "hydroxycitronellal": {
+        "cosing_info": {
+          "reference": "1282d3f9-0f30-4f82-a66f-fda74e446493",
+          "inci_name": "Hydroxycitronellal",
+          "cas_no": [
+            "107-75-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "7888",
+            "sid": "500790572",
+            "cas_no": "107-75-5"
+          }
+        ]
+      },
+      "limonene": {
+        "cosing_info": {
+          "reference": "d9a853fb-831a-4f8e-a3f5-d57b976d9c88",
+          "inci_name": "LIMONENE",
+          "cas_no": [
+            "138-86-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "22311",
+            "sid": "518147164",
+            "cas_no": "138-86-3"
+          }
+        ]
+      }
     }
   },
   "additional_information": {

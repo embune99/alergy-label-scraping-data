@@ -1,0 +1,137 @@
+{
+  "apiVersion": "2.146",
+  "reference": "5d7fe464-785d-4c74-8c52-50abb3c5a959",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 14.442768,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "CI 45100"
+    ],
+    "otherRestrictions": [],
+    "note": [],
+    "refNo": [],
+    "sccsOpinionUrls": [
+      "http://ec.europa.eu/health/ph_risk/committees/sccp/documents/out266_en.pdf",
+      "http://ec.europa.eu/health/ph_risk/committees/04_sccp/docs/sccp_o_137.pdf"
+    ],
+    "innName": [],
+    "other": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "chemicalName": [
+      "Hydrogen 3,6-bis(diethylamino)-9-(2,4-disulphonatophenyl)xanthylium, sodium salt"
+    ],
+    "sccsOpinion": [
+      "Opinion on Acid Red 52",
+      "Opinion on Acid Red 52"
+    ],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "CI 45100 is classed chemically as a xanthene colour. It conforms to the formula:"
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "727E39DD390F1BE9E9EB149A476B68F7"
+    ],
+    "cosmeticRestriction": [
+      "IV/71\r\nIII/193 (Acid Red 52)"
+    ],
+    "ecNo": [
+      "222-529-8"
+    ],
+    "maximumConcentration": [],
+    "identifiedIngredient": [
+      "30470",
+      "82172",
+      "87685"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "inciName": [
+      "CI 45100"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "3520-42-1"
+    ],
+    "substanceId": [
+      "32764"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "annexNo": [],
+    "productTypeBodyParts": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "COLORANT",
+      "HAIR DYEING"
+    ],
+    "esDA_IngestDate": [
+      "2023-05-22T13:07:50.610+0200"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "corporate-search-version": [
+      "102"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-05-22T13:07:50.580+0200"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "datasource": [
+      "GROWTH_COSING"
+    ],
+    "wordingOfConditions": [],
+    "inciUsaName": [
+      "Acid Red 52"
+    ],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "5d7fe464-785d-4c74-8c52-50abb3c5a959. Available at: urn:test",
+  "score": 14.442768
+}

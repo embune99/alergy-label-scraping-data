@@ -25,20 +25,96 @@
       "COPOLYMER"
     ],
     "inci": {
-      "aqua": [
-        "acb2fd0b-1174-4f52-8481-759e0f6a9471",
-        "03f72bea-b998-4741-942d-4eb90ea2e5c2",
-        "a9d7ccc5-066f-49da-85ef-5eec1217a478",
-        "b95411b0-fb54-4a85-9901-f92524503f2d",
-        "88aced55-d191-43a7-85f5-41872fb14e85",
-        "95d201d5-eef8-4b4a-9405-8ace8e6eb88c",
-        "bf9565d8-8238-4bb2-a23b-e70ff2ab63e4",
-        "f20f15b7-c291-495a-862f-5b28364a4b7c",
-        "56891eee-e7e0-4df4-a41f-43fddb50858c",
-        "f3176b91-2a20-4ce6-b44a-85df660a618d",
-        "f47fb937-5e85-47be-a122-3522901eb942",
-        "8c333827-b448-4d69-a0a9-ecdc8ba57476"
-      ]
+      "aqua": {
+        "cosing_info": {
+          "reference": "acb2fd0b-1174-4f52-8481-759e0f6a9471",
+          "inci_name": "AQUA",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "water": {
+        "cosing_info": {
+          "reference": "f47fb937-5e85-47be-a122-3522901eb942",
+          "inci_name": "WATER",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "propylene": {
+        "cosing_info": {
+          "reference": "0e29f9a6-8bea-465c-8d3c-a49db69ea5ec",
+          "inci_name": "PROPYLENE GLYCOL DILAURATE",
+          "cas_no": [
+            "22788-19-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "90838",
+            "sid": "500819956",
+            "cas_no": "22788-19-8"
+          }
+        ]
+      },
+      "glycol": {
+        "cosing_info": {
+          "reference": "9676e281-f1c1-45e7-8bc5-dde960d1fc3d",
+          "inci_name": "GLYCOL",
+          "cas_no": [
+            "107-21-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "174",
+            "sid": "481107978",
+            "cas_no": "107-21-1"
+          }
+        ]
+      },
+      "methacrylate": {
+        "cosing_info": {
+          "reference": "aab63a3f-945b-4e04-822f-6c27a41a7f6b",
+          "inci_name": "2,3-Epoxypropyl methacrylate; glycidyl methacrylate",
+          "cas_no": [
+            "106-91-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "7837",
+            "sid": "505659336",
+            "cas_no": "106-91-2"
+          }
+        ]
+      },
+      "copolymer": {
+        "cosing_info": {
+          "reference": "fcf102c4-72b2-4018-84a0-e49a1c54ba96",
+          "inci_name": "ACRYLATES/METHOXY PEG-10 MALEATE/STYRENE COPOLYMER",
+          "cas_no": [
+            "68988-26-1"
+          ]
+        },
+        "pubchem_info": []
+      }
     }
   },
   "additional_information": {

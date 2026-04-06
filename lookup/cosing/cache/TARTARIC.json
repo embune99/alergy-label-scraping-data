@@ -1,0 +1,125 @@
+{
+  "apiVersion": "2.146",
+  "reference": "b0cf34ae-c7c5-432d-a103-34eaa3c0e13e",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 14.005645,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "TARTARIC ACID"
+    ],
+    "otherRestrictions": [
+      "ban substances that deplete the ozone layer"
+    ],
+    "note": [],
+    "refNo": [],
+    "sccsOpinionUrls": [],
+    "innName": [
+      "tartaric acid"
+    ],
+    "other": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "chemicalName": [
+      "2,3-Dihydroxybutanedioic acid"
+    ],
+    "sccsOpinion": [],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "4C6C7423220331681C63C8803B84309C"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [
+      "205-105-7 / 205-695-6 / 201-766-0"
+    ],
+    "maximumConcentration": [],
+    "identifiedIngredient": [],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "inciName": [
+      "TARTARIC ACID"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "133-37-9 / 147-71-7 / 87-69-4"
+    ],
+    "substanceId": [
+      "38476"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "annexNo": [],
+    "productTypeBodyParts": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "BUFFERING",
+      "FRAGRANCE"
+    ],
+    "esDA_IngestDate": [
+      "2023-05-22T15:01:29.184+0200"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "corporate-search-version": [
+      "102"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-05-22T15:01:29.154+0200"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "datasource": [
+      "GROWTH_COSING"
+    ],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "b0cf34ae-c7c5-432d-a103-34eaa3c0e13e. Available at: urn:test",
+  "score": 14.005645
+}

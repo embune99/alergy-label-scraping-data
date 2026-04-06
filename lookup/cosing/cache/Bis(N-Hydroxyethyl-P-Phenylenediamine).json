@@ -1,0 +1,125 @@
+{
+  "apiVersion": "2.146",
+  "reference": "8aadafe6-7d17-4667-b472-b16e4e0b6f60",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 23.15786,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "HYDROXYPROPYL BIS(N-HYDROXYETHYL-P-PHENYLENEDIAMINE) HCL"
+    ],
+    "otherRestrictions": [],
+    "note": [],
+    "refNo": [],
+    "sccsOpinionUrls": [],
+    "innName": [],
+    "other": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "chemicalName": [
+      "1,4-Benzenediamine, N(4)-(2-hydroxyethyl)-N(1),N'(1)-[2-hydroxypropanediyl]-"
+    ],
+    "sccsOpinion": [],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "18D2B9CF7EF79039151B701AB38ECF78"
+    ],
+    "cosmeticRestriction": [
+      "III/239"
+    ],
+    "ecNo": [
+      "416-320-2"
+    ],
+    "maximumConcentration": [],
+    "identifiedIngredient": [
+      "41571",
+      "84435"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "inciName": [
+      "HYDROXYPROPYL BIS(N-HYDROXYETHYL-P-PHENYLENEDIAMINE) HCL"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "128729-28-2"
+    ],
+    "substanceId": [
+      "34526"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "annexNo": [],
+    "productTypeBodyParts": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "HAIR DYEING"
+    ],
+    "esDA_IngestDate": [
+      "2023-05-22T12:59:45.933+0200"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "corporate-search-version": [
+      "102"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-05-22T12:59:45.866+0200"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "datasource": [
+      "GROWTH_COSING"
+    ],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "8aadafe6-7d17-4667-b472-b16e4e0b6f60. Available at: urn:test",
+  "score": 23.15786
+}

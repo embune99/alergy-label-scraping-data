@@ -1,0 +1,126 @@
+{
+  "apiVersion": "2.146",
+  "reference": "60f83378-021b-4643-8b16-f0cd25a97c72",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 14.005645,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "TETRASODIUM ETIDRONATE"
+    ],
+    "otherRestrictions": [],
+    "note": [],
+    "refNo": [],
+    "sccsOpinionUrls": [],
+    "innName": [],
+    "other": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "chemicalName": [
+      "Tetrasodium (1-hydroxyethylidene)bisphosphonate"
+    ],
+    "sccsOpinion": [],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "0DAC959D571BFB3EDCDCC80C24137793"
+    ],
+    "cosmeticRestriction": [
+      "III/53"
+    ],
+    "ecNo": [
+      "223-267-7"
+    ],
+    "maximumConcentration": [],
+    "identifiedIngredient": [
+      "28303"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "inciName": [
+      "TETRASODIUM ETIDRONATE"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "3794-83-0"
+    ],
+    "substanceId": [
+      "38570"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "annexNo": [],
+    "productTypeBodyParts": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "CHELATING",
+      "EMULSION STABILISING",
+      "VISCOSITY CONTROLLING"
+    ],
+    "esDA_IngestDate": [
+      "2023-05-22T13:07:02.046+0200"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "corporate-search-version": [
+      "102"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-05-22T13:07:02.010+0200"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "datasource": [
+      "GROWTH_COSING"
+    ],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "60f83378-021b-4643-8b16-f0cd25a97c72. Available at: urn:test",
+  "score": 14.005645
+}
