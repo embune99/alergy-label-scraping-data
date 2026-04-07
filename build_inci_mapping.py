@@ -9,8 +9,8 @@ def build_inci_mapping():
     mapping = defaultdict(set)
 
     # Loop through all product JSON files
-    products_dir = Path("products/dermacare")
-    for product_file in products_dir.glob("*.json"):
+    products_dir = Path("products")
+    for product_file in products_dir.rglob("*.json"):
         if product_file.name == "_meta.json":
             continue
 
