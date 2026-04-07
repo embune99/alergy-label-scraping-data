@@ -35,63 +35,181 @@
       "IRON OXIDES"
     ],
     "inci": {
-      "ricinus communis (castor) seed oil": [
-        "c8ff48a0-c368-4a64-b175-b2302c318e4c",
-        "c1b7595f-0102-46c8-9db5-d7936f581887",
-        "b6ce5e17-6c4f-4ea7-80ad-405344b7924c",
-        "62da5339-dbea-49f0-99a2-35faa766064a",
-        "f4f4f266-cee7-40bc-8f95-e3bcee9b3cb8",
-        "ecb34965-16dc-4e44-a45a-be3a3a41be7f",
-        "d9a65fe0-ecf0-4399-a6bb-454e9d0e36a5",
-        "caee69cb-20f4-460b-9cac-2c3ed951d703",
-        "3240a71b-2451-4d68-ad67-d20ff86b9a44",
-        "094de513-81f9-4907-8e49-db5b32dffe8a"
-      ],
-      "mica": [
-        "010eae61-86ea-4457-832d-2edb6b3ef55f",
-        "1101a6c0-c991-4b5a-a414-bca7a5779c23",
-        "46431523-ca8f-46a9-a2b2-d41d7cde1234",
-        "a917e333-0e81-46ef-ac62-93ba543c57bb",
-        "dbeee728-59ad-41c5-852e-f8dcd93fb494",
-        "c49c5456-a851-4325-bda3-e778fd97c40d"
-      ],
-      "c10-18 triglycerides": [
-        "6eb7007e-937c-4b2d-9d57-ef3f26c0a529",
-        "e8a6e325-b0a7-425a-9793-792e41130a3a"
-      ],
-      "hydrogenated cottonseed oil": [
-        "46803098-13fe-49b3-894e-123d1ccf5061",
-        "44e894d1-5613-4f97-883e-a1403af6193b",
-        "501f8576-fe8a-4322-93f8-e0a6e34b9baf",
-        "014b75fc-57f2-44e3-8891-7d8816a36162"
-      ],
-      "tocopherol": [
-        "e353a1e9-9330-4c22-bf1a-f58ac6d356a9",
-        "e342caa4-feb8-4dc2-af5a-fcc144dbc2ad",
-        "471234b3-ba01-48ae-a37e-7868f8959211",
-        "eb980407-930e-424f-9091-3879c2e5ecfc",
-        "febc5fb6-f775-402d-8e13-e08ed0a9f16a",
-        "31933de9-8f3e-470c-9744-6491f3497b83",
-        "668f1319-66e2-4b67-a27a-5ed3cd5099c0",
-        "4f06768f-c5c3-46ee-884e-f296ecca24f5",
-        "299d7c1b-0d33-4121-b0c7-3394b65c41ce",
-        "3b942130-8595-4391-a215-6a35f4317c84",
-        "c3d456a3-7bde-42d1-b7c2-4f5e02697980",
-        "ba0f16c8-434e-4075-bb1a-643aa7efad45",
-        "44c28ff8-3740-444e-b642-e0bdb305d023",
-        "a4ad8d2c-9b8f-4138-824f-e29b6ef09361",
-        "4828cb81-0b05-4ba3-8a46-771c5494a2ea",
-        "e43e9c7e-530c-44c3-af6a-a162338ef91b",
-        "7e8579f5-6568-47a6-b164-98a195149713"
-      ],
-      "ascorbyl palmitate": [
-        "08598e5a-6f1f-48b5-9539-6f92bbc2d679",
-        "650c900a-8830-4c16-8d58-b0c12cb0e992",
-        "69287ea0-ac70-4c51-bf6f-5997426b7d1e"
-      ],
-      "ci 77492": [
-        "7d7b6af7-26f7-4e93-8b82-c8022388d610"
-      ]
+      "ricinus communis seed oil": {
+        "cosing_info": {
+          "reference": "c8ff48a0-c368-4a64-b175-b2302c318e4c",
+          "inci_name": "RICINUS COMMUNIS SEED OIL",
+          "cas_no": [
+            "8001-79-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "cera microcristallina": {
+        "cosing_info": {
+          "reference": "4dba314b-7794-4582-adea-ed2ddf8738f6",
+          "inci_name": "CERA MICROCRISTALLINA",
+          "cas_no": [
+            "63231-60-7",
+            "64742-42-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "microcrystalline wax": {
+        "cosing_info": {
+          "reference": "7e0ebf96-ec78-441c-a235-4cb9a1729023",
+          "inci_name": "MICROCRYSTALLINE WAX",
+          "cas_no": [
+            "63231-60-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "mica": {
+        "cosing_info": {
+          "reference": "1101a6c0-c991-4b5a-a414-bca7a5779c23",
+          "inci_name": "MICA",
+          "cas_no": [
+            "12001-26-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "131842327",
+            "sid": "505814538",
+            "cas_no": "12001-26-2"
+          }
+        ]
+      },
+      "caprylic": {
+        "cosing_info": {
+          "reference": "810634c8-edbe-4e21-a034-43c199172437",
+          "inci_name": "CAPRYLIC ACID",
+          "cas_no": [
+            "124-07-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "379",
+            "sid": "483928096",
+            "cas_no": "124-07-2"
+          }
+        ]
+      },
+      "capric triglyceride": {
+        "cosing_info": {
+          "reference": "391f2119-12c6-4f9b-bdb5-ce760b4bcbe1",
+          "inci_name": "CAPRYLIC/CAPRIC TRIGLYCERIDE",
+          "cas_no": [
+            "73398-61-5",
+            "65381-09-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "93356",
+            "sid": "500787193",
+            "cas_no": "65381-09-1"
+          }
+        ]
+      },
+      "c10-18 triglycerides": {
+        "cosing_info": {
+          "reference": "6eb7007e-937c-4b2d-9d57-ef3f26c0a529",
+          "inci_name": "C10-18 TRIGLYCERIDES",
+          "cas_no": [
+            "85665-33-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "hydrogenated cottonseed oil": {
+        "cosing_info": {
+          "reference": "46803098-13fe-49b3-894e-123d1ccf5061",
+          "inci_name": "HYDROGENATED COTTONSEED OIL",
+          "cas_no": [
+            "68334-00-9"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "tocopherol": {
+        "cosing_info": {
+          "reference": "e353a1e9-9330-4c22-bf1a-f58ac6d356a9",
+          "inci_name": "TOCOPHEROL",
+          "cas_no": [
+            "54-28-4 (gamma)",
+            "16698-35-4(beta)",
+            "10191-41-0(DL)",
+            "119-13-1",
+            "1406-18-4",
+            "1406-66-2",
+            "2074-53-5 (DL)",
+            "59-02-9 (D)",
+            "7616-22-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "92094",
+            "sid": "500775109",
+            "cas_no": "119-13-1"
+          },
+          {
+            "cid": "14985",
+            "sid": "483926503",
+            "cas_no": "1406-18-4"
+          },
+          {
+            "cid": "14986",
+            "sid": "516579069",
+            "cas_no": "1406-66-2"
+          },
+          {
+            "cid": "14986",
+            "sid": "516579069",
+            "cas_no": "7616-22-0"
+          }
+        ]
+      },
+      "ascorbyl palmitate": {
+        "cosing_info": {
+          "reference": "650c900a-8830-4c16-8d58-b0c12cb0e992",
+          "inci_name": "ASCORBYL PALMITATE",
+          "cas_no": [
+            "137-66-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "54680660",
+            "sid": "505555912",
+            "cas_no": "137-66-6"
+          }
+        ]
+      },
+      "yellow 5 lake": {
+        "cosing_info": null,
+        "pubchem_info": [
+          {
+            "cid": "135414244",
+            "sid": "505594564",
+            "cas_no": null
+          }
+        ]
+      },
+      "iron oxides": {
+        "cosing_info": {
+          "reference": "8f820c77-51eb-4248-8b96-59d016633648",
+          "inci_name": "SILICON/TITANIUM/CERIUM/IRON OXIDES",
+          "cas_no": [
+            "-"
+          ]
+        },
+        "pubchem_info": []
+      }
     }
   },
   "additional_information": {

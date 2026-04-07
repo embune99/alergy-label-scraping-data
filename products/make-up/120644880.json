@@ -33,69 +33,160 @@
       "Bis-Ethylhexyl Hydroxydimethoxy Benzylmalonate"
     ],
     "inci": {
-      "ethylhexyl palmitate": [
-        "28641b2e-181f-4af6-a530-39c8bf4d6045",
-        "d868b2c8-9e09-43a7-97b9-1dee57d78f6d",
-        "03ea03f9-6e6b-40ff-a6b0-db9dd84f99ce",
-        "ac824f39-74fa-427e-9a10-02825a1e5894"
-      ],
-      "peg-20 glyceryl triisostearate": [
-        "c974b222-8a97-44cf-ba60-359d1f218adb"
-      ],
-      "canola oil": [
-        "007d1908-6f81-487b-87de-f514338e9dab",
-        "b7abbe28-3860-4a30-a65b-0ea712bc8c01",
-        "f49f9243-2db7-4fe6-9398-0d9181327aba",
-        "e49c03f7-799d-46f0-870b-55111517b3bc",
-        "81e0fb51-428b-416d-83bb-8a62aac89bf1",
-        "e43859a3-e739-4987-8e3b-ee2e63abf987",
-        "c7349739-ffb8-4d01-8048-47f171d144a7",
-        "a68d80af-2d84-43c8-91d5-2b5392c3635c",
-        "33d491f5-f951-4d45-8a53-b14086726ecd",
-        "5fbff263-3e87-49b3-8a1f-a2ac0b147bde",
-        "5f007832-16cc-4aea-9921-a06ffae06cf9",
-        "4e7e0360-608a-45aa-a820-dc4a6737a0b3",
-        "a2989f0f-01c5-4ca2-b2f9-5d8cf09fe1ab",
-        "15bb92e1-1021-4c53-882f-4e107c8959f7",
-        "31074dd7-f6c9-45e8-81b1-21b6732fd585",
-        "6326cf43-9a6c-4def-a338-e895a2068acf",
-        "966a66ef-de38-427a-9712-a1e66fd063da",
-        "4d1c1630-6f60-4e10-b68f-f18dab069dcb"
-      ],
-      "cetearyl ethylhexanoate": [
-        "2b97e76c-3f09-4597-9023-99ee774b02f0"
-      ],
-      "pentaerythrityl tetraisostearate": [
-        "060984fb-a84e-4727-827f-d90028b9f0e5"
-      ],
-      "limnanthes alba seed oil": [
-        "18f46964-9a96-40e4-82c7-c9b7182821e1",
-        "ea9982e7-f098-4c7b-9c46-351b81aba3c2",
-        "f339e557-b596-410c-8870-dfc32aff220d",
-        "1146a300-9bb9-4a08-b087-c425f83b177a",
-        "ecaaaf34-159b-42cd-843b-0c7aa9826d68",
-        "08f45ebb-b6ea-4bdc-afac-19f3d6229924",
-        "67662241-c7b5-4330-a4b1-86daded64c86",
-        "cef7d601-ed02-456d-b54d-d2d261e3ca51",
-        "34d6d018-efe5-4080-8d56-0e3cbe4c27b4",
-        "4c80bc5f-7f80-4d66-a671-f359b692a27d",
-        "d620437e-ac1f-41c3-bda2-507f80a24e82",
-        "71234d68-4021-474d-9b38-f8548b476122",
-        "4710fb57-ff8c-48dc-b0da-448ca153060f",
-        "edf7926d-90c7-49eb-89d1-3e8f6611c491"
-      ],
-      "parfum": [
-        "877337a9-4a8b-4d17-bed7-f3a39d335e80"
-      ],
-      "tocopheryl acetate": [
-        "544afce0-b367-442d-a246-29c1c9988d24",
-        "096e8610-396d-43e5-a17c-5532e8963e49",
-        "86896d58-f20f-4c8e-9339-627e0d850838",
-        "0485209c-ed15-4827-a986-6f097b9b358b"
-      ],
-      "bis-ethylhexyl hydroxydimethoxy benzylmalonate.": [
-        "41894b55-d399-4e78-9c0e-d983cf649c1c"
-      ]
+      "ethylhexyl palmitate": {
+        "cosing_info": {
+          "reference": "28641b2e-181f-4af6-a530-39c8bf4d6045",
+          "inci_name": "ETHYLHEXYL PALMITATE",
+          "cas_no": [
+            "29806-73-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "62851",
+            "sid": "505592505",
+            "cas_no": "29806-73-3"
+          }
+        ]
+      },
+      "peg-20 glyceryl triisostearate": {
+        "cosing_info": {
+          "reference": "c974b222-8a97-44cf-ba60-359d1f218adb",
+          "inci_name": "PEG-20 GLYCERYL TRIISOSTEARATE",
+          "cas_no": []
+        },
+        "pubchem_info": []
+      },
+      "canola oil": {
+        "cosing_info": {
+          "reference": "f49f9243-2db7-4fe6-9398-0d9181327aba",
+          "inci_name": "CANOLA OIL",
+          "cas_no": [
+            "120962-03-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "cetearyl ethylhexanoate": {
+        "cosing_info": {
+          "reference": "2b97e76c-3f09-4597-9023-99ee774b02f0",
+          "inci_name": "CETEARYL ETHYLHEXANOATE",
+          "cas_no": [
+            "90411-68-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "42956",
+            "sid": "505571064",
+            "cas_no": "90411-68-0"
+          }
+        ]
+      },
+      "pentaerythrityl tetraisostearate": {
+        "cosing_info": {
+          "reference": "060984fb-a84e-4727-827f-d90028b9f0e5",
+          "inci_name": "PENTAERYTHRITYL TETRAISOSTEARATE",
+          "cas_no": [
+            "62125-22-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "173849",
+            "sid": "500814774",
+            "cas_no": "62125-22-8"
+          }
+        ]
+      },
+      "coco-caprylate": {
+        "cosing_info": {
+          "reference": "120d6c67-b38a-4e2b-b7ef-9d0d3df6d49a",
+          "inci_name": "COCO-CAPRYLATE",
+          "cas_no": [
+            "-"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "caprate": {
+        "cosing_info": {
+          "reference": "656d2ae7-5095-4b61-a193-bf6bfb8ceb60",
+          "inci_name": "ETHYLHEXYL CAPRATE",
+          "cas_no": [
+            "73947-30-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "156266",
+            "sid": "500730398",
+            "cas_no": "73947-30-5"
+          }
+        ]
+      },
+      "limnanthes alba seed oil": {
+        "cosing_info": {
+          "reference": "18f46964-9a96-40e4-82c7-c9b7182821e1",
+          "inci_name": "LIMNANTHES ALBA SEED OIL",
+          "cas_no": [
+            "153065-40-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "168010134",
+            "sid": null,
+            "cas_no": "153065-40-8"
+          }
+        ]
+      },
+      "parfum": {
+        "cosing_info": {
+          "reference": "877337a9-4a8b-4d17-bed7-f3a39d335e80",
+          "inci_name": "PARFUM",
+          "cas_no": []
+        },
+        "pubchem_info": []
+      },
+      "tocopheryl acetate": {
+        "cosing_info": {
+          "reference": "544afce0-b367-442d-a246-29c1c9988d24",
+          "inci_name": "TOCOPHERYL ACETATE",
+          "cas_no": [
+            "7695-91-2",
+            "58-95-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "2117",
+            "sid": "518175238",
+            "cas_no": "7695-91-2"
+          },
+          {
+            "cid": "86472",
+            "sid": "481106872",
+            "cas_no": "58-95-7"
+          }
+        ]
+      },
+      "bis-ethylhexyl hydroxydimethoxy benzylmalonate": {
+        "cosing_info": {
+          "reference": "41894b55-d399-4e78-9c0e-d983cf649c1c",
+          "inci_name": "BIS-ETHYLHEXYL HYDROXYDIMETHOXY BENZYLMALONATE",
+          "cas_no": [
+            "872182-46-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "11961068",
+            "sid": "505565128",
+            "cas_no": "872182-46-2"
+          }
+        ]
+      }
     }
   },
   "additional_information": {
