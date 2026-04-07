@@ -57,120 +57,240 @@
       "Citral*."
     ],
     "inci": {
-      "simmondsia chinensis (jojoba) seed oil": [
-        "a1868e53-c579-4ddb-bf2e-a757a42e9b17",
-        "26bf70ea-9915-471a-babe-df76af960c08",
-        "0be7be00-5f70-4cab-a4dc-2fa5ea039f61",
-        "e8bc4dab-3a90-4d63-8915-d0e1cf0edcaf",
-        "b1a73b9d-ad4b-4e46-b12d-a629efafb901",
-        "cbb39c9f-def9-426b-afa2-35861c1b3742",
-        "1386b984-e17d-4c96-93b8-d6e0941b2bf4",
-        "edc7d7f5-fea7-4e27-8207-7bf21f20bac4",
-        "7f7af546-b403-4849-b709-6055d92a82c4",
-        "3399fdf8-c5cb-4e4d-8706-662dc7c2b91b",
-        "e366199d-e237-41b2-b093-fddb87d19bfb"
-      ],
-      "triticum vulgare (wheat) germ oil": [
-        "5be74d63-43eb-47c7-8cdd-86836ecf371c",
-        "61e87af7-1d5d-4e58-ae0c-8f75919d0fcf",
-        "3714ddbd-c13c-462f-92a0-7e4315861689",
-        "c9412c26-a36f-4792-b878-5b08184f84f6",
-        "fb620355-e2e2-4c31-a91f-cebc5c7bcdac",
-        "4dea89e9-d90f-4c26-bcf8-c147c4549fb2",
-        "c323e2d1-bdd8-4254-92e7-346bf8334710"
-      ],
-      "betula alba leaf extract": [
-        "0e941ff5-a618-43b3-b3cf-e79a1d1cf8e3",
-        "45f974e7-8d5f-4316-a8d8-2c76766c6002",
-        "4b1fd7ca-622d-4c69-83c1-452cff8fdfb4",
-        "13859322-552e-4f64-a21f-d10e12957df4"
-      ],
-      "limonene*": [
-        "caf20e39-06fb-43bf-8453-7a582cc1d1d4",
-        "d9a853fb-831a-4f8e-a3f5-d57b976d9c88",
-        "23d540ea-0079-4c28-8b69-10033f69f535"
-      ],
-      "ruscus aculeatus root extract": [
-        "4284beb8-e6b4-4f80-875d-72636436f2c5"
-      ],
-      "rosmarinus officinalis (rosemary) leaf extract": [
-        "97d9a1d5-ca2d-4303-84b9-4a8cb4251a11",
-        "064eec58-8860-40cb-94a5-20b206ab45ee",
-        "847936b2-d94a-402a-9ca3-e03e755341e2",
-        "ec37e9be-2f6a-47ce-9c04-cd4568333ca3",
-        "d19f1125-f973-4f27-be55-5f973219003b",
-        "69100267-3247-49a9-bc3b-c34bac98440f",
-        "8869e1b3-7724-43d9-9fa2-66dcbff37068",
-        "c5c7d370-7423-4222-883a-536c71c9a164",
-        "58ebe5f8-e7cc-43d5-8dbc-c719c2187697",
-        "f4cfac9f-fbc6-44ef-a4e1-866bf60c01c9",
-        "a7ed9331-e0a8-4a9a-aad0-a939a30036f7",
-        "4b1fd7ca-622d-4c69-83c1-452cff8fdfb4",
-        "2f8ca852-86f4-4628-9001-e6fd7ebc7607",
-        "39f11c1d-dee3-4438-a11b-6a4a1a00c78a",
-        "caa7f83a-cfc4-4312-a7f2-ab500a405efb",
-        "70139f3f-0150-4173-8a04-07e38d3b7060",
-        "8fca7bb5-f46d-4388-8ebf-76d38aa73924"
-      ],
-      "linalool*": [
-        "d93d671b-3419-4680-8269-60583ec9ac0e",
-        "c2d79f26-662b-4480-b669-afdef300ad6e",
-        "a803ace3-7f88-4b6f-aa4a-0b4119093446",
-        "c396cf4a-6357-436d-8d55-fb24f9961d3d",
-        "8d5a2513-3e2c-44f1-8f85-624d6342866f",
-        "08f68cb9-7fbd-4d25-9b7c-72223c835b80",
-        "f5f287c8-50f4-4c93-8b0d-41c89b985347",
-        "da255150-17e9-4f41-b7ba-78d474933d47",
-        "d489e0ea-9a81-4b1d-b8bc-5502db5adb42",
-        "6a2c48d4-8e76-4710-80dc-53309a1935c1",
-        "7b037553-1d27-4931-8108-84efc7f93f6a",
-        "0018acfb-f2a4-4538-8f28-f8af71041bb9",
-        "c6fafb98-efe0-4a3f-a693-ff0b26320026",
-        "e3becc95-ee8c-4fde-b0a0-ccf4dab5ba0b",
-        "dcbdaa4c-4fbc-4473-987a-6d33558a5c19",
-        "d61c4bec-0b4d-4e48-aef5-a218fea8b8cc",
-        "63af6a56-a19e-4126-b4d8-d9a79e9e01d2",
-        "f2357e58-0181-41f6-b80b-457d1f55ee91",
-        "ccd1c9bf-9835-4c02-bb80-d3791d4f6690",
-        "a19ecbd9-8ced-402a-85d8-9e341468e55f",
-        "67734a62-d120-45e1-ba29-4a62454d9224",
-        "8f47a2fa-c519-434c-8bb9-8385cf05fea5",
-        "72a74c17-4c98-4ee7-a58a-7d5ff3942560",
-        "18e71a6d-f045-452e-8a75-cd3d740e0d6a",
-        "99634e65-3bfd-420f-a5b9-7094dc581270",
-        "29a385e8-9ff6-43f0-8eac-8788fb368de3",
-        "a334b8d0-102b-42a8-a5d0-5a813e6a8624",
-        "cbc4a314-95f5-4345-98cc-61b2d87bf963"
-      ],
-      "citronellol*": [
-        "29d4f600-b472-4e2f-8b48-db00cef00849",
-        "ffa1a140-f081-419a-85b3-5460e0d7ba39",
-        "77a285e7-0ed1-4d6d-b7da-085fb19efa3b",
-        "ccd1c9bf-9835-4c02-bb80-d3791d4f6690",
-        "0dc4ed58-7d3b-4143-a03f-a9d1dccdabc9",
-        "77e8e7bb-b62d-4fd8-a213-f709399099f2",
-        "ba477a38-110c-403e-840d-c91597e537ab",
-        "1869042b-c968-4a64-bdf8-4ffdf6e0cac9",
-        "b6b4c602-e44e-4ab7-8ebb-062c6bcb95b1",
-        "cc21873c-a0ea-43d6-9dc2-d7f2ea7e43f6",
-        "77758167-316e-48cd-9098-d46c980c897d"
-      ],
-      "geraniol*": [
-        "d93d671b-3419-4680-8269-60583ec9ac0e",
-        "4937f329-ce46-43be-bb99-3307e3966e02",
-        "a209d30f-e08c-4245-b4a8-a1812d41feef",
-        "1d4c3d38-90cf-4c06-bb42-87ee002513ad",
-        "d489e0ea-9a81-4b1d-b8bc-5502db5adb42",
-        "0e1e8e38-fc2e-4ce7-84f9-4dce5df36518",
-        "ccd1c9bf-9835-4c02-bb80-d3791d4f6690",
-        "77e8e7bb-b62d-4fd8-a213-f709399099f2",
-        "3eb24603-b991-48bf-8648-9aa5deb0800b",
-        "ba477a38-110c-403e-840d-c91597e537ab",
-        "f43f6f59-9dfd-4a87-b632-82dadb6e5796",
-        "9015f415-9eed-4347-94fb-64df574e6664",
-        "29a385e8-9ff6-43f0-8eac-8788fb368de3",
-        "ebdb8cd5-9a2a-446d-b207-9c6ea3bb4e2b"
-      ]
+      "(inci)": {
+        "cosing_info": {
+          "reference": "a69b812b-c7bb-4d6f-9f5b-b54c75c91452",
+          "inci_name": "Pentasodium (carboxylatomethyl)iminobis(ethylenenitrilo)tetraacetate; Pentasodium Pentetate (INCI)",
+          "cas_no": [
+            "140-01-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8779",
+            "sid": "500814891",
+            "cas_no": "140-01-2"
+          }
+        ]
+      },
+      "prunus": {
+        "cosing_info": {
+          "reference": "66fda891-5114-4a29-81f7-88df1b2ca9b2",
+          "inci_name": "PRUNUS PERSICA FRUIT",
+          "cas_no": [
+            "84012-34-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "armeniaca": {
+        "cosing_info": {
+          "reference": "cb3ac883-7a5a-4ff2-b7e7-86b459dc3a91",
+          "inci_name": "PRUNUS ARMENIACA FRUIT",
+          "cas_no": [
+            "68650-44-2"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "kernel": {
+        "cosing_info": {
+          "reference": "ad86ddd5-9e64-4694-9380-d50e4f8b2945",
+          "inci_name": "ORYZA SATIVA KERNEL",
+          "cas_no": [
+            "68553-81-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "oil": {
+        "cosing_info": {
+          "reference": "73055330-91dd-4d1e-b860-925fb2ecdbc8",
+          "inci_name": "MENHADEN OIL",
+          "cas_no": [
+            "8002-50-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "simmondsia": {
+        "cosing_info": {
+          "reference": "8cdfa80d-10d3-4239-b373-be3c29a1ad78",
+          "inci_name": "SIMMONDSIA CHINENSIS SEED EXTRACT",
+          "cas_no": [
+            "90045-98-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "chinensis": {
+        "cosing_info": {
+          "reference": "ab70a694-30d7-45dd-9090-08e5e18b5ef5",
+          "inci_name": "SCHISANDRA CHINENSIS FRUIT",
+          "cas_no": [
+            "223748-53-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "seed": {
+        "cosing_info": {
+          "reference": "981b4ff2-0470-4c2b-9a2a-bdebc1e66420",
+          "inci_name": "HELIANTHUS ANNUUS SEED WAX",
+          "cas_no": [
+            "1286686-34-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "triticum": {
+        "cosing_info": {
+          "reference": "3b6df4c2-429e-49d6-9392-90780d909f0b",
+          "inci_name": "TRITICUM VULGARE SEED EXTRACT",
+          "cas_no": [
+            "84012-44-2"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "vulgare": {
+        "cosing_info": {
+          "reference": "6b9c494c-ee2b-43ae-9a21-7a547bc58f49",
+          "inci_name": "FOENICULUM VULGARE VULGARE FRUIT EXTRACT",
+          "cas_no": [
+            "92623-75-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "germ": {
+        "cosing_info": {
+          "reference": "22ef8838-086d-4133-b9b6-dface2d93979",
+          "inci_name": "NELUMBO NUCIFERA GERM EXTRACT",
+          "cas_no": [
+            "85085-51-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "fragrance": {
+        "cosing_info": {
+          "reference": "8df6b6bc-f26a-438c-8dc4-130db9e8ce6b",
+          "inci_name": "3,7-Dimethyl-2-octen-1-ol (6,7-Dihydrogeraniol), when used as a fragrance ingredient",
+          "cas_no": [
+            "40607-48-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5365836",
+            "sid": "504562939",
+            "cas_no": "40607-48-5"
+          }
+        ]
+      },
+      "betula": {
+        "cosing_info": {
+          "reference": "f7c0d3c8-eba3-4cd7-81c3-c1bb0ec8da8b",
+          "inci_name": "BETULA ALBA LEAF JUICE",
+          "cas_no": [
+            "84012-15-7 (generic)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "alba": {
+        "cosing_info": {
+          "reference": "eaf35829-907f-4689-9985-3ea288a4e2ab",
+          "inci_name": "BETULA ALBA LEAF POWDER",
+          "cas_no": [
+            "84012-15-7 (generic)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "leaf": {
+        "cosing_info": {
+          "reference": "8e8792ba-fdf8-439d-864b-3c48468d6204",
+          "inci_name": "PSIDIUM GUAJAVA LEAF OIL",
+          "cas_no": [
+            "91770-12-6 (generic)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "extract": {
+        "cosing_info": {
+          "reference": "6ff40204-b73a-486d-bc81-2a5a6f2faeee",
+          "inci_name": "HAEMATOXYLUM CAMPECHIANUM WOOD EXTRACT",
+          "cas_no": [
+            "8005-33-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "442514",
+            "sid": "505779233",
+            "cas_no": "8005-33-2"
+          }
+        ]
+      },
+      "ruscus": {
+        "cosing_info": {
+          "reference": "4284beb8-e6b4-4f80-875d-72636436f2c5",
+          "inci_name": "RUSCUS ACULEATUS ROOT EXTRACT",
+          "cas_no": [
+            "84012-38-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "aculeatus": {
+        "cosing_info": {
+          "reference": "4284beb8-e6b4-4f80-875d-72636436f2c5",
+          "inci_name": "RUSCUS ACULEATUS ROOT EXTRACT",
+          "cas_no": [
+            "84012-38-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "root": {
+        "cosing_info": {
+          "reference": "8154326a-1152-44a5-8dd4-c52126da80be",
+          "inci_name": "ZINGIBER OFFICINALE ROOT JUICE",
+          "cas_no": [
+            "84696-15-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6850776",
+            "sid": null,
+            "cas_no": "84696-15-1"
+          }
+        ]
+      },
+      "rosmarinus": {
+        "cosing_info": {
+          "reference": "26771641-9b19-4502-8cea-d65b05996210",
+          "inci_name": "ROSMARINUS OFFICINALIS LEAF",
+          "cas_no": [
+            "84604-14-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "officinalis": {
+        "cosing_info": {
+          "reference": "fde86a8e-9241-40d9-a1d3-35ce8d8504b2",
+          "inci_name": "MELISSA OFFICINALIS LEAF/STEM OIL",
+          "cas_no": [
+            "84082-61-1 (generic); 8014-71-9 (generic)"
+          ]
+        },
+        "pubchem_info": []
+      }
     }
   },
   "additional_information": {

@@ -34,78 +34,245 @@
       "C15-19"
     ],
     "inci": {
-      "aqua": [
-        "acb2fd0b-1174-4f52-8481-759e0f6a9471",
-        "03f72bea-b998-4741-942d-4eb90ea2e5c2",
-        "a9d7ccc5-066f-49da-85ef-5eec1217a478",
-        "b95411b0-fb54-4a85-9901-f92524503f2d",
-        "88aced55-d191-43a7-85f5-41872fb14e85",
-        "95d201d5-eef8-4b4a-9405-8ace8e6eb88c",
-        "bf9565d8-8238-4bb2-a23b-e70ff2ab63e4",
-        "f20f15b7-c291-495a-862f-5b28364a4b7c",
-        "56891eee-e7e0-4df4-a41f-43fddb50858c",
-        "f3176b91-2a20-4ce6-b44a-85df660a618d",
-        "f47fb937-5e85-47be-a122-3522901eb942",
-        "8c333827-b448-4d69-a0a9-ecdc8ba57476"
-      ],
-      "dicaprylyl carbonate": [
-        "49ebe1a5-c0e3-4f17-8a42-e82f1decf79e"
-      ],
-      "propylheptyl caprylate": [
-        "a4921008-520d-45f6-baa3-03d3d1f01ff1"
-      ],
-      "ethylhexyl salicylate": [
-        "d676effe-0a48-4430-9766-491c97d874d0",
-        "99b94903-ef05-42b4-befd-e73aebbb4621"
-      ],
-      "niacinamide": [
-        "1d812aa9-1b8a-48cb-988b-d2478184a2f4",
-        "e9bb7f4a-25a2-4cb9-8cf1-9d970e8203f0",
-        "968eff23-0738-4fbc-884d-1db339e653c4",
-        "7969f82d-4c5a-494f-ac19-43f015483544",
-        "a79b1a1f-5c16-474c-a654-91ca34c48671",
-        "f2adbea9-4bb5-4c0b-a998-9113b5bb85a4",
-        "eeff3a3c-6e30-467c-937b-e9ce1987fd3e",
-        "2c40fa82-dec4-4d13-82d4-e6b6c31c5a1f",
-        "e00fa998-2698-4e68-b4c7-6e7380bdd0e0",
-        "ac6db4ee-7207-4c71-b942-c0b5ded0cde3",
-        "c110b783-2a13-4ff7-9ce0-09f864bcdd50",
-        "2d7a5d77-1c92-4160-a21f-17dbdb38b0df",
-        "c9829b7a-6759-4260-9493-7eb948796707",
-        "8b0273eb-e6dd-4d14-a9a9-449a1cfd1950",
-        "12f24663-7ba1-44e4-ba08-ad762f93d939",
-        "ef70ac7c-33d0-455f-8ae7-7eb9387da98f",
-        "46bd05d9-62d0-4979-85f0-cb5571c5983d",
-        "9e871a72-ff01-489c-abc7-e786b08100c3",
-        "9eb8f342-bb32-42f6-8155-3cc4250c68cb",
-        "024d018c-47ed-4afc-b14e-fad35f210a33",
-        "0a1434a1-fe3c-4245-9dd7-fce13c1cfd2e",
-        "defa5b85-1a66-4beb-9eea-dec0d7e16ed9",
-        "64f170ab-7138-4c22-b76b-12cc7a25ec7a",
-        "426dea88-f479-4cdb-b285-621d17720cdb",
-        "d0cfdcad-69e2-40bd-8e2b-87c52bc5dae3",
-        "afad2caf-0273-49a1-badd-43e7c22b717b",
-        "28d4aaa3-dba5-4a19-b937-d65584bb8a7d",
-        "1c8162f1-17bd-420b-8996-524c41f5fc2f",
-        "86606c64-9bdb-4ee3-a50b-a84ebad2be0e",
-        "e2f76bc1-9764-410f-8113-9b006c816c04",
-        "25e20829-2af2-4781-8ed5-daf4c3cc9eb6",
-        "998e784a-666b-4521-b1fe-7f8ff92de91f",
-        "7e8579f5-6568-47a6-b164-98a195149713",
-        "317fe93c-67c5-484d-91b9-777b0be25152",
-        "7bd3f40b-a22e-455e-9386-61d94b290e45",
-        "86896d58-f20f-4c8e-9339-627e0d850838",
-        "0485209c-ed15-4827-a986-6f097b9b358b"
-      ],
-      "bis-ethylhexyloxyphenol methoxyphenyl triazine": [
-        "c4eb9ee3-b90b-4e75-8fd1-fb2e3dd34ed1"
-      ],
-      "c15-19": [
-        "03ae1f19-2595-4e8c-a909-b3eb820501eb",
-        "422ed68f-462a-43e4-8f87-bcc79ce234ff",
-        "33bef28c-0689-4928-93ab-978c25d64ab2",
-        "eb4bb786-aefa-4c07-9ea7-82ab49515cf9"
-      ]
+      "aqua": {
+        "cosing_info": {
+          "reference": "acb2fd0b-1174-4f52-8481-759e0f6a9471",
+          "inci_name": "AQUA",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "dicaprylyl": {
+        "cosing_info": {
+          "reference": "028331e3-8407-46e9-b950-1118836ddb15",
+          "inci_name": "DICAPRYLYL ETHER",
+          "cas_no": [
+            "629-82-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "12399",
+            "sid": "500776404",
+            "cas_no": "629-82-3"
+          }
+        ]
+      },
+      "carbonate": {
+        "cosing_info": {
+          "reference": "af176ba2-24b2-49fa-a06b-3c31672cbd82",
+          "inci_name": "DIPROPYLHEPTYL CARBONATE",
+          "cas_no": [
+            "1238449-42-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "87573553",
+            "sid": "505565158",
+            "cas_no": "1238449-42-7"
+          }
+        ]
+      },
+      "propylheptyl": {
+        "cosing_info": {
+          "reference": "af176ba2-24b2-49fa-a06b-3c31672cbd82",
+          "inci_name": "DIPROPYLHEPTYL CARBONATE",
+          "cas_no": [
+            "1238449-42-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "87573553",
+            "sid": "505565158",
+            "cas_no": "1238449-42-7"
+          }
+        ]
+      },
+      "caprylate": {
+        "cosing_info": {
+          "reference": "bf49a36b-c36a-4705-b12b-660bc2693c41",
+          "inci_name": "TEA-CAPRYLATE",
+          "cas_no": [
+            "22919-56-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "161405",
+            "sid": "505896582",
+            "cas_no": "22919-56-8"
+          }
+        ]
+      },
+      "glycerin": {
+        "cosing_info": {
+          "reference": "59eb65ef-7b29-4486-a311-f194224c11e6",
+          "inci_name": "GLYCERIN",
+          "cas_no": [
+            "56-81-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "753",
+            "sid": "481110738",
+            "cas_no": "56-81-5"
+          }
+        ]
+      },
+      "butyl": {
+        "cosing_info": {
+          "reference": "b4fa8f70-1796-4542-941f-548bbb07b96b",
+          "inci_name": "BUTYL GLYCOLATE",
+          "cas_no": [
+            "7397-62-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "81882",
+            "sid": "500765673",
+            "cas_no": "7397-62-8"
+          }
+        ]
+      },
+      "methoxydibenzoylmethane": {
+        "cosing_info": {
+          "reference": "2308244c-ee36-46b9-8417-b00a85599ace",
+          "inci_name": "BUTYL METHOXYDIBENZOYLMETHANE",
+          "cas_no": [
+            "70356-09-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "51040",
+            "sid": "481106914",
+            "cas_no": "70356-09-1"
+          }
+        ]
+      },
+      "cellulose": {
+        "cosing_info": {
+          "reference": "b482f78a-cfe8-4e22-a602-d4f420b37d60",
+          "inci_name": "CELLULOSE",
+          "cas_no": [
+            "9004-34-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "ethylhexyl": {
+        "cosing_info": {
+          "reference": "beb72c34-bce7-480f-a1c6-db5594e43c65",
+          "inci_name": "ETHYLHEXYL METHOXYCINNAMATE",
+          "cas_no": [
+            "5466-77-3",
+            "83834-59-7 (trans-)"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5355130",
+            "sid": "483926029",
+            "cas_no": "5466-77-3"
+          }
+        ]
+      },
+      "salicylate": {
+        "cosing_info": {
+          "reference": "d9c33ee5-63e3-4708-ba47-82d1215b093f",
+          "inci_name": "SILVER SALICYLATE",
+          "cas_no": [
+            "19025-97-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "54683737",
+            "sid": "505404027",
+            "cas_no": "19025-97-9"
+          }
+        ]
+      },
+      "niacinamide": {
+        "cosing_info": {
+          "reference": "1d812aa9-1b8a-48cb-988b-d2478184a2f4",
+          "inci_name": "NIACINAMIDE",
+          "cas_no": [
+            "98-92-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "936",
+            "sid": "483925991",
+            "cas_no": "98-92-0"
+          }
+        ]
+      },
+      "bis-ethylhexyloxyphenol": {
+        "cosing_info": {
+          "reference": "c4eb9ee3-b90b-4e75-8fd1-fb2e3dd34ed1",
+          "inci_name": "BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE",
+          "cas_no": [
+            "187393-00-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "135487856",
+            "sid": "505556958",
+            "cas_no": "187393-00-6"
+          }
+        ]
+      },
+      "methoxyphenyl": {
+        "cosing_info": {
+          "reference": "d875a53b-b75c-4265-9016-ae7790982f2e",
+          "inci_name": "BIS-METHOXYPHENYL HEPTANEDIONE",
+          "cas_no": [
+            "123953-63-9"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "triazine": {
+        "cosing_info": {
+          "reference": "0d53daed-6b86-4e5a-ae90-6b8e3aee787a",
+          "inci_name": "TRIS-BIPHENYL TRIAZINE",
+          "cas_no": [
+            "31274-51-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "11628027",
+            "sid": "505896340",
+            "cas_no": "31274-51-8"
+          }
+        ]
+      },
+      "c15-19": {
+        "cosing_info": {
+          "reference": "03ae1f19-2595-4e8c-a909-b3eb820501eb",
+          "inci_name": "C15-19 ISOALKANE",
+          "cas_no": [
+            "1437281-01-0"
+          ]
+        },
+        "pubchem_info": []
+      }
     }
   },
   "additional_information": {

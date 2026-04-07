@@ -21,26 +21,55 @@
       ""
     ],
     "inci": {
-      "aqua": [
-        "acb2fd0b-1174-4f52-8481-759e0f6a9471",
-        "03f72bea-b998-4741-942d-4eb90ea2e5c2",
-        "a9d7ccc5-066f-49da-85ef-5eec1217a478",
-        "b95411b0-fb54-4a85-9901-f92524503f2d",
-        "88aced55-d191-43a7-85f5-41872fb14e85",
-        "95d201d5-eef8-4b4a-9405-8ace8e6eb88c",
-        "bf9565d8-8238-4bb2-a23b-e70ff2ab63e4",
-        "f20f15b7-c291-495a-862f-5b28364a4b7c",
-        "56891eee-e7e0-4df4-a41f-43fddb50858c",
-        "f3176b91-2a20-4ce6-b44a-85df660a618d",
-        "f47fb937-5e85-47be-a122-3522901eb942",
-        "8c333827-b448-4d69-a0a9-ecdc8ba57476"
-      ],
-      "ethylhexyl palmitate,": [
-        "28641b2e-181f-4af6-a530-39c8bf4d6045",
-        "d868b2c8-9e09-43a7-97b9-1dee57d78f6d",
-        "03ea03f9-6e6b-40ff-a6b0-db9dd84f99ce",
-        "ac824f39-74fa-427e-9a10-02825a1e5894"
-      ]
+      "aqua": {
+        "cosing_info": {
+          "reference": "acb2fd0b-1174-4f52-8481-759e0f6a9471",
+          "inci_name": "AQUA",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "ethylhexyl": {
+        "cosing_info": {
+          "reference": "beb72c34-bce7-480f-a1c6-db5594e43c65",
+          "inci_name": "ETHYLHEXYL METHOXYCINNAMATE",
+          "cas_no": [
+            "5466-77-3",
+            "83834-59-7 (trans-)"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5355130",
+            "sid": "483926029",
+            "cas_no": "5466-77-3"
+          }
+        ]
+      },
+      "palmitate": {
+        "cosing_info": {
+          "reference": "9aee3c4b-4a30-48de-a006-6eadbefabf22",
+          "inci_name": "ISOSTEARYL PALMITATE",
+          "cas_no": [
+            "72576-80-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "11443583",
+            "sid": "505788087",
+            "cas_no": "72576-80-8"
+          }
+        ]
+      }
     }
   },
   "additional_information": {

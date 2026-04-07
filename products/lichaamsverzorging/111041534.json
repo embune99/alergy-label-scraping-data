@@ -28,17 +28,82 @@
       ""
     ],
     "inci": {
-      "sesamum indicum (sesame) seed oil,": [
-        "1b588613-7b10-48b2-8b3b-bde20305728d",
-        "f7b154e9-0b50-45fd-a9ec-51b3f4a0a13a",
-        "d14c08fd-9fbc-4e1f-ac6c-08e263440310",
-        "e5dda7d3-6dad-4b45-aced-43d8b4f1d79c",
-        "f31e864e-6537-40dd-8de6-e67f12e56d67",
-        "47fc8e3d-e7a1-435b-9acc-c1b04395a84f",
-        "52b91508-452e-49ad-ae37-d42b9ffbf5a6",
-        "95ab4fed-2a48-4f7b-a712-bcb84e0a5442",
-        "197770fe-661d-4fb1-8807-888fe97bd143"
-      ]
+      "(inci)": {
+        "cosing_info": {
+          "reference": "a69b812b-c7bb-4d6f-9f5b-b54c75c91452",
+          "inci_name": "Pentasodium (carboxylatomethyl)iminobis(ethylenenitrilo)tetraacetate; Pentasodium Pentetate (INCI)",
+          "cas_no": [
+            "140-01-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8779",
+            "sid": "500814891",
+            "cas_no": "140-01-2"
+          }
+        ]
+      },
+      "simmondsia": {
+        "cosing_info": {
+          "reference": "8cdfa80d-10d3-4239-b373-be3c29a1ad78",
+          "inci_name": "SIMMONDSIA CHINENSIS SEED EXTRACT",
+          "cas_no": [
+            "90045-98-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "chinensis": {
+        "cosing_info": {
+          "reference": "ab70a694-30d7-45dd-9090-08e5e18b5ef5",
+          "inci_name": "SCHISANDRA CHINENSIS FRUIT",
+          "cas_no": [
+            "223748-53-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "seed": {
+        "cosing_info": {
+          "reference": "981b4ff2-0470-4c2b-9a2a-bdebc1e66420",
+          "inci_name": "HELIANTHUS ANNUUS SEED WAX",
+          "cas_no": [
+            "1286686-34-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "oil": {
+        "cosing_info": {
+          "reference": "73055330-91dd-4d1e-b860-925fb2ecdbc8",
+          "inci_name": "MENHADEN OIL",
+          "cas_no": [
+            "8002-50-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "sesamum": {
+        "cosing_info": {
+          "reference": "8e0f44bf-d1d2-4b4a-b720-44204770feed",
+          "inci_name": "SESAMUM INDICUM SEED",
+          "cas_no": [
+            "8008-74-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "indicum": {
+        "cosing_info": {
+          "reference": "8b73a4e6-5770-4eef-95bf-ac5e5b76d070",
+          "inci_name": "CHRYSANTHELLUM INDICUM EXTRACT",
+          "cas_no": [
+            "223748-24-1"
+          ]
+        },
+        "pubchem_info": []
+      }
     }
   },
   "additional_information": {

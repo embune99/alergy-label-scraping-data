@@ -60,348 +60,621 @@
       "Vanillin"
     ],
     "inci": {
-      "aqua": [
-        "acb2fd0b-1174-4f52-8481-759e0f6a9471",
-        "03f72bea-b998-4741-942d-4eb90ea2e5c2",
-        "a9d7ccc5-066f-49da-85ef-5eec1217a478",
-        "b95411b0-fb54-4a85-9901-f92524503f2d",
-        "88aced55-d191-43a7-85f5-41872fb14e85",
-        "95d201d5-eef8-4b4a-9405-8ace8e6eb88c",
-        "bf9565d8-8238-4bb2-a23b-e70ff2ab63e4",
-        "f20f15b7-c291-495a-862f-5b28364a4b7c",
-        "56891eee-e7e0-4df4-a41f-43fddb50858c",
-        "f3176b91-2a20-4ce6-b44a-85df660a618d",
-        "f47fb937-5e85-47be-a122-3522901eb942",
-        "8c333827-b448-4d69-a0a9-ecdc8ba57476"
-      ],
-      "aluminum chlorohydrate": [
-        "0b8e3c5b-0e0d-423a-80e0-ec2bb505712a"
-      ],
-      "ppg-15 stearyl ether": [
-        "106f5a1d-5ba5-4765-9e3a-f56f9f3f23f3",
-        "f31f8bf9-7389-4aef-adea-379842c9c405"
-      ],
-      "steareth-2": [
-        "1dde185a-37d7-4d9b-bd62-a159507f49a6",
-        "3539c890-c329-4097-982a-158839c7e635",
-        "a98b570d-a699-4454-a328-16e4699a5d78",
-        "6efb0644-e3a4-4aed-8621-0a0f1055b6de"
-      ],
-      "triethyl citrate": [
-        "3fd7f7bf-ff0e-4fe8-bcf1-fdec2f388e71",
-        "7f03bd91-49a2-4ced-890f-e94cef1afa98"
-      ],
-      "parfum": [
-        "877337a9-4a8b-4d17-bed7-f3a39d335e80"
-      ],
-      "steareth-21": [
-        "a9349010-a19f-42bb-9938-e4df3a309a7b"
-      ],
-      "kaolin": [
-        "e323b0bb-339a-4758-a589-b35c858b5c11",
-        "34d62342-0201-48ef-8b70-94ae130e47e3",
-        "290bc951-d4c7-407e-b2a8-e9bd8d325af9"
-      ],
-      "magnesium aluminometasilicate": [
-        "5ce17575-41f3-47bc-9006-e19b664c6957"
-      ],
-      "citrus aurantium peel oil": [
-        "319a7f33-e7c2-4980-893c-95401d36c377",
-        "f0fc6896-88e3-4c26-9653-fe2b7e78874c",
-        "b747f753-b493-47a5-b0d3-4d3ec981e273",
-        "a923c1c8-494d-4330-9bff-3e8b24f17b00",
-        "f9c05970-20d5-47a4-8093-098a52a53874",
-        "ecf6ef2d-4da6-4ff8-a1d0-d29422d24e3a",
-        "a4931990-2a2a-46dc-a740-46703fe88c6d",
-        "6627e41a-1b9d-4622-89b3-1964337768d2",
-        "67734a62-d120-45e1-ba29-4a62454d9224",
-        "d657011d-cff1-41f2-8f9f-fe37c7a11a84",
-        "dcbdaa4c-4fbc-4473-987a-6d33558a5c19",
-        "a64c558c-1c8a-4f75-8411-0108578fb4f6"
-      ],
-      "cellulose": [
-        "b482f78a-cfe8-4e22-a602-d4f420b37d60",
-        "c3e6c0f4-e51b-466f-8e89-03a0e032842d",
-        "c9cbe5d5-b3ca-4422-9545-e69f1cd706e5",
-        "6a737da7-2116-4b87-835b-901ac4569c4b",
-        "fe999dd3-270b-4ecb-aa71-25a646e5a5db",
-        "69fdad2b-5ffa-4bb7-9954-9616909be2fe",
-        "a0b78d96-23fb-4bc6-b0b9-a115146a75cb",
-        "3eaa652a-7fd0-4178-b9c5-b1a0f34a0a46",
-        "8832db20-80d7-427b-a80c-8055bbe4d434",
-        "2916f67b-447b-4469-8cdb-6bc8eccf7297",
-        "c0b086fe-daa3-4c8c-9c71-77c88b68e2a3",
-        "7d343106-e009-4ec3-b763-25699e3f744d",
-        "836d93cc-6c12-4659-a59c-2c2b67cd9860",
-        "48f10b38-017f-4104-8749-cb2665945af7",
-        "7d122f9f-4787-4352-8ff2-b04494798768",
-        "ecf86144-c4f1-4b59-bacf-56cc76223619",
-        "c67f0e32-d2c8-4349-8d80-2b8172b9c0bf",
-        "4317514e-f87f-4359-a6be-3a170aecd86e",
-        "00f8a63d-b238-4d16-ba38-10fd1097c7cc",
-        "077d30c3-0a30-4cab-8323-17c09338e9c9",
-        "3fa71e60-86ba-4819-b285-4f95647ede0a",
-        "c8b7826f-cd30-4f5a-b7c1-6b189d7a2520",
-        "441a4f8d-cfdf-4809-af65-1a229cb60df8",
-        "be5d322a-f758-43d2-b5eb-bbf8b957be4b",
-        "ef055eb5-06bf-4e27-a17b-eed7464acfde",
-        "0e1a6498-0f23-4a19-91af-63b18c82f751",
-        "4df6d7e7-1646-4b70-afe9-cd92c032add6",
-        "30407466-1de8-4242-b836-db769efc21c7",
-        "f8ef1097-3ba3-4f18-8c7e-a056182c2380",
-        "8a53c834-55ac-4ab7-855c-4d59c2f33c9c",
-        "25518c2c-460f-4a60-a4f8-4ae256edcd52",
-        "8340bcc4-6c28-4635-9cf7-8020c45050ef",
-        "e221f9a2-2fc7-4b6e-917a-ad6b67bb01e7",
-        "038406b4-7f95-4893-aa54-76bf65ae9d45",
-        "c80598d6-84a8-41aa-80b5-939dbda4f460",
-        "86cffabc-49a0-4db5-865a-de26bda87e8f",
-        "d0e8af07-7ffd-40c9-8658-b4dec61c4229",
-        "93750eb2-0427-4ac9-93fb-326364d16d10",
-        "3af948b2-fd40-4582-9adf-eb8217ce9be3",
-        "b92a91f2-0e87-49c1-a489-8ce8d84926da",
-        "639a9701-1c4f-420d-a4d1-3415f17becad",
-        "b5dfff4e-ae51-429d-8316-15b08f70e724",
-        "43de8b97-f3d5-4e4e-98e2-1252cdcc2b6c",
-        "df081f8d-d759-4379-b20d-2f1b78c44b16",
-        "0712dec6-a29b-4074-9be0-bb200acda7e4",
-        "3c0f7b58-14ae-4f98-9676-e8d8a681b8df",
-        "bfba3d6c-8a7e-4eaf-af25-7231fedf4616",
-        "88ef5ef2-f1af-43a3-9941-14df5676100b",
-        "1c32acbb-440b-445e-8fef-141a6cc12abb",
-        "0fe1a6d4-ec2c-4f7f-9f49-761700007fcf",
-        "c13af31e-aff9-4437-9e44-677c72f27f02",
-        "b9d2d370-d0a0-4fbc-b956-d72c6c1a8e84",
-        "69da7950-c79e-47f6-820d-f9455fec4e73",
-        "568dc384-c7ef-4c0e-b1b6-f0bf73bc5e00",
-        "d345a029-15e5-4f65-a755-707d4e736ac7",
-        "7607a0d5-765e-412a-9217-45a49422c52d",
-        "57b2f99c-fb2c-446b-a6b5-2c428840151e",
-        "7215a0c5-73c7-4eab-8d57-0cf676d508d6",
-        "52e8a90a-6e54-4997-8d83-1f59ae852d80",
-        "cf39ee7f-812e-4f61-93a2-af79a88ba4ef",
-        "106900f8-68a0-4834-92ce-951390e493f3",
-        "ecdae358-adda-4dc3-b0f5-db780dbc65c2",
-        "61c1a395-c348-4ec9-84c8-bb5e5ce64cd5",
-        "18a3cb5c-9347-4666-916e-a6626e706217",
-        "8a36ab83-9d6d-452e-b214-6633a0c9c54f",
-        "e11a7133-e449-40c1-81cb-deb3b8964900",
-        "1d8bdff9-3430-4741-a658-04b27e4eba9c"
-      ],
-      "zea mays starch": [
-        "8a604f92-3735-4923-b03c-b75566bc78b5",
-        "00b6e815-ef31-425b-8c98-9aa6d426f696",
-        "4abe4e2d-2495-41a9-bbe5-7580f6ccab1e",
-        "77efd38a-6376-4a74-9549-f6d60cafcd8d",
-        "102a1851-da04-4254-b96f-57bcc73ed193",
-        "83bee8e7-117d-4826-9cdb-a4708713b3fe",
-        "b60d95bf-3bb4-49c8-a65a-eb4aa7459d36",
-        "2c5b8b9b-ea70-419c-b69a-3e64ff1d9743",
-        "7124c811-abf5-4dd3-a071-1abca320fcde",
-        "cddb1920-0dae-4f7e-9931-09a69e483ba1",
-        "faf6389b-3ddd-4ab8-98ec-198c21d7bbc3",
-        "6fbf327e-bd8e-4352-88b0-874a43e30c57"
-      ],
-      "oryza sativa starch": [
-        "ee503bdc-a61c-4a70-883e-c9af6876b5ac",
-        "ac6677e9-e8f5-48c2-9a05-78a467b78a94",
-        "faf6389b-3ddd-4ab8-98ec-198c21d7bbc3",
-        "6fbf327e-bd8e-4352-88b0-874a43e30c57"
-      ],
-      "alpha-isomethyl ionone": [
-        "bb1bdf74-ac91-4b4f-a06e-4f30fe9e50be",
-        "11962886-2355-462e-9e05-4f089a23afa9"
-      ],
-      "benzyl benzoate": [
-        "1a10b23f-a185-4dd6-82a7-58dcc4d404c3",
-        "7abfbf55-02d4-44df-b6e5-313c4cbc3ea7",
-        "cd527998-3238-43e8-a1da-e440f8fc1f9b",
-        "9c3a546a-8701-480c-9b82-af57ca3e6186"
-      ],
-      "benzyl cinnamate": [
-        "12a6eb1f-8f79-4699-a42d-5ab3ac048c4b"
-      ],
-      "citral": [
-        "c41dea05-5e24-4081-be53-3e926964bbf7",
-        "c53a9ad6-3f21-49f3-92bc-7cec65e2f1a5",
-        "d74ce2fa-b5ad-4149-acfb-8b656f847754",
-        "2b606e9d-f334-4dfd-80fc-af81300f8226",
-        "d2dd5a9a-d156-41c4-9626-5909090fa0d5",
-        "24fc428f-a2e4-4036-b074-06c55249f791",
-        "b4df82d4-950e-423f-b475-3dd54df0fa35",
-        "77c4653c-3430-4779-bdd8-d76199258418",
-        "67734a62-d120-45e1-ba29-4a62454d9224",
-        "a209d30f-e08c-4245-b4a8-a1812d41feef",
-        "ebdb8cd5-9a2a-446d-b207-9c6ea3bb4e2b"
-      ],
-      "citronellol": [
-        "0dc4ed58-7d3b-4143-a03f-a9d1dccdabc9",
-        "77758167-316e-48cd-9098-d46c980c897d",
-        "ba477a38-110c-403e-840d-c91597e537ab",
-        "29d4f600-b472-4e2f-8b48-db00cef00849",
-        "cc21873c-a0ea-43d6-9dc2-d7f2ea7e43f6",
-        "1869042b-c968-4a64-bdf8-4ffdf6e0cac9",
-        "b6b4c602-e44e-4ab7-8ebb-062c6bcb95b1",
-        "ffa1a140-f081-419a-85b3-5460e0d7ba39",
-        "ccd1c9bf-9835-4c02-bb80-d3791d4f6690",
-        "77e8e7bb-b62d-4fd8-a213-f709399099f2",
-        "77a285e7-0ed1-4d6d-b7da-085fb19efa3b"
-      ],
-      "coumarin": [
-        "5ea4136c-9b7f-446c-875c-1b04d887a52e",
-        "f86e00ab-bdc8-47b5-b7d2-70ef22996a90",
-        "619cbc0c-e91e-4d0e-8198-06a761755a93",
-        "df84f810-ac37-4e85-b232-c8b9ffc9862f",
-        "6feb157b-81d0-4e67-ae8f-1479077b74ae",
-        "79c29bfa-8cdb-4068-9650-6f4f93c4c0c1",
-        "fd0d91dc-c977-4163-9703-84bdec9f68f8"
-      ],
-      "geraniol": [
-        "4937f329-ce46-43be-bb99-3307e3966e02",
-        "ba477a38-110c-403e-840d-c91597e537ab",
-        "1d4c3d38-90cf-4c06-bb42-87ee002513ad",
-        "9015f415-9eed-4347-94fb-64df574e6664",
-        "d93d671b-3419-4680-8269-60583ec9ac0e",
-        "ccd1c9bf-9835-4c02-bb80-d3791d4f6690",
-        "3eb24603-b991-48bf-8648-9aa5deb0800b",
-        "77e8e7bb-b62d-4fd8-a213-f709399099f2",
-        "a209d30f-e08c-4245-b4a8-a1812d41feef",
-        "ebdb8cd5-9a2a-446d-b207-9c6ea3bb4e2b",
-        "d489e0ea-9a81-4b1d-b8bc-5502db5adb42",
-        "f43f6f59-9dfd-4a87-b632-82dadb6e5796",
-        "29a385e8-9ff6-43f0-8eac-8788fb368de3",
-        "0e1e8e38-fc2e-4ce7-84f9-4dce5df36518"
-      ],
-      "geranyl acetate": [
-        "923ad553-c536-4a72-a5e9-c5f086995196",
-        "e7b43e73-a3d6-4098-8e90-6fa1dd1cb804",
-        "cad62702-886e-4de6-b03e-7999599e8306",
-        "f43f6f59-9dfd-4a87-b632-82dadb6e5796"
-      ],
-      "hexamethylindanopyran": [
-        "21a8da0c-d1e0-436c-831e-2d0d6e79bcad"
-      ],
-      "hydroxycitronellal": [
-        "1282d3f9-0f30-4f82-a66f-fda74e446493",
-        "a76b947a-0f02-4baa-bd0f-c98706fde6b4",
-        "40f395db-13d0-4c51-a3c5-99a0bfab2bcf",
-        "341c2283-15aa-47ba-b3be-f9ce7b6a51d8",
-        "8ba5be6d-fdf4-4040-8d01-e3e683409f82"
-      ],
-      "limonene": [
-        "d9a853fb-831a-4f8e-a3f5-d57b976d9c88",
-        "23d540ea-0079-4c28-8b69-10033f69f535",
-        "d61c4bec-0b4d-4e48-aef5-a218fea8b8cc",
-        "094b1ce3-9584-4c45-b567-8123e10e7033",
-        "77c4653c-3430-4779-bdd8-d76199258418",
-        "dd0b9281-85f3-43f2-b398-855b0154e62a",
-        "65222645-e4f3-41ab-aba8-9c8715c879bd",
-        "59c3e02e-9dda-4c79-a55e-14af2cdcf062",
-        "2fd55649-0293-4f5a-a737-e487ede48da7",
-        "2f9203ba-2582-4f8f-a9d3-6127a0b3f84b",
-        "fcb99a35-7fdb-447a-9c32-0754d66b463b",
-        "57bf7d48-3909-49da-a340-cc2a2164759c",
-        "e99411e7-a980-4d98-a824-64d3ba18b1ce",
-        "b9d71c6d-39c6-47c0-ade3-b681e8f343f2",
-        "f0386f6b-f59b-49a8-a468-5c77e8a8188e",
-        "7f9f30da-c884-4e7d-ba53-2b8eb25b55be",
-        "cffcb078-879d-49cd-964d-2166ba4444e3",
-        "c520b563-610e-4e05-be57-11ba1a7c203a",
-        "67734a62-d120-45e1-ba29-4a62454d9224",
-        "6166f166-7a24-446d-b5a3-c7eb8d60fb7f",
-        "a209d30f-e08c-4245-b4a8-a1812d41feef",
-        "ebdb8cd5-9a2a-446d-b207-9c6ea3bb4e2b",
-        "d489e0ea-9a81-4b1d-b8bc-5502db5adb42",
-        "37922c57-22ba-47ac-86a5-185e7d7702fb",
-        "5fd73f7d-090a-41e9-9cf8-ec2d82359ab1",
-        "f43f6f59-9dfd-4a87-b632-82dadb6e5796",
-        "29a385e8-9ff6-43f0-8eac-8788fb368de3",
-        "e3c609ab-4b8a-4089-89b0-18279e3f2837",
-        "cfcdbaea-0fbc-4c60-9c38-021736c36bb5",
-        "0e1e8e38-fc2e-4ce7-84f9-4dce5df36518",
-        "dcbdaa4c-4fbc-4473-987a-6d33558a5c19",
-        "d93d671b-3419-4680-8269-60583ec9ac0e",
-        "caf20e39-06fb-43bf-8453-7a582cc1d1d4"
-      ],
-      "linalool": [
-        "8f47a2fa-c519-434c-8bb9-8385cf05fea5",
-        "c396cf4a-6357-436d-8d55-fb24f9961d3d",
-        "8d5a2513-3e2c-44f1-8f85-624d6342866f",
-        "0018acfb-f2a4-4538-8f28-f8af71041bb9",
-        "f2357e58-0181-41f6-b80b-457d1f55ee91",
-        "a19ecbd9-8ced-402a-85d8-9e341468e55f",
-        "99634e65-3bfd-420f-a5b9-7094dc581270",
-        "72a74c17-4c98-4ee7-a58a-7d5ff3942560",
-        "cbc4a314-95f5-4345-98cc-61b2d87bf963",
-        "f5f287c8-50f4-4c93-8b0d-41c89b985347",
-        "ccd1c9bf-9835-4c02-bb80-d3791d4f6690",
-        "7b037553-1d27-4931-8108-84efc7f93f6a",
-        "c2d79f26-662b-4480-b669-afdef300ad6e",
-        "a803ace3-7f88-4b6f-aa4a-0b4119093446",
-        "67734a62-d120-45e1-ba29-4a62454d9224",
-        "d489e0ea-9a81-4b1d-b8bc-5502db5adb42",
-        "d61c4bec-0b4d-4e48-aef5-a218fea8b8cc",
-        "29a385e8-9ff6-43f0-8eac-8788fb368de3",
-        "dcbdaa4c-4fbc-4473-987a-6d33558a5c19",
-        "d93d671b-3419-4680-8269-60583ec9ac0e"
-      ],
-      "linalyl acetate": [
-        "b5a2ca6c-f9ef-4258-b968-f613f7376cb5",
-        "d489e0ea-9a81-4b1d-b8bc-5502db5adb42",
-        "d61c4bec-0b4d-4e48-aef5-a218fea8b8cc",
-        "29a385e8-9ff6-43f0-8eac-8788fb368de3"
-      ],
-      "pinene": [
-        "4f954592-7925-439a-b6bd-4e845d4a6c7c",
-        "7925757f-9158-47e6-865b-c37088e2e8d5",
-        "26386c63-5832-4d7f-b124-508eaaa5c484",
-        "2a0a2c1a-8e94-48b6-8fb7-46bff5dc3b37",
-        "86a60062-a62b-4569-8aeb-5a2016df0116",
-        "3baffe3a-11db-427a-92d8-cc3182bb15ba",
-        "37859274-7f34-430e-8a1d-6693e57f52dc",
-        "65222645-e4f3-41ab-aba8-9c8715c879bd",
-        "74a3584d-b181-4e4f-aaf6-7da76b028478",
-        "e8231d4a-5420-4888-abc6-77ae8ea71d44",
-        "3eb24603-b991-48bf-8648-9aa5deb0800b",
-        "fcb99a35-7fdb-447a-9c32-0754d66b463b",
-        "57bf7d48-3909-49da-a340-cc2a2164759c",
-        "c10177eb-30d9-4115-9f6c-b7ce907cda0b",
-        "e99411e7-a980-4d98-a824-64d3ba18b1ce",
-        "cffcb078-879d-49cd-964d-2166ba4444e3",
-        "c520b563-610e-4e05-be57-11ba1a7c203a",
-        "6166f166-7a24-446d-b5a3-c7eb8d60fb7f",
-        "37922c57-22ba-47ac-86a5-185e7d7702fb",
-        "29a385e8-9ff6-43f0-8eac-8788fb368de3",
-        "e3c609ab-4b8a-4089-89b0-18279e3f2837",
-        "e7b43e73-a3d6-4098-8e90-6fa1dd1cb804",
-        "cfcdbaea-0fbc-4c60-9c38-021736c36bb5",
-        "cad62702-886e-4de6-b03e-7999599e8306",
-        "0e1e8e38-fc2e-4ce7-84f9-4dce5df36518",
-        "3ccf4d55-96da-4e89-a32d-3e0dc4d22010"
-      ],
-      "terpineol": [
-        "816d1d06-f045-465c-9ced-267f1cf6b94d",
-        "9d2c292a-53a0-44eb-955a-bf666793e88f",
-        "34a5e4d3-904d-42cc-a37b-9c76f39ddc60",
-        "639fdf9c-710d-4ce5-a13c-899590816de1",
-        "77c4653c-3430-4779-bdd8-d76199258418",
-        "c10177eb-30d9-4115-9f6c-b7ce907cda0b",
-        "f65c0f27-78b0-4804-8c28-6071b7f3eaa9",
-        "f0386f6b-f59b-49a8-a468-5c77e8a8188e",
-        "c2d79f26-662b-4480-b669-afdef300ad6e",
-        "67734a62-d120-45e1-ba29-4a62454d9224",
-        "5fd73f7d-090a-41e9-9cf8-ec2d82359ab1",
-        "f43f6f59-9dfd-4a87-b632-82dadb6e5796",
-        "e7b43e73-a3d6-4098-8e90-6fa1dd1cb804",
-        "cfcdbaea-0fbc-4c60-9c38-021736c36bb5",
-        "cad62702-886e-4de6-b03e-7999599e8306",
-        "0e1e8e38-fc2e-4ce7-84f9-4dce5df36518",
-        "dcbdaa4c-4fbc-4473-987a-6d33558a5c19"
-      ],
-      "vanillin": [
-        "66d59cfe-69b2-46cf-ad54-d553ca4e9884",
-        "10bac44b-b523-4691-8274-844ff3684417"
-      ]
+      "aqua": {
+        "cosing_info": {
+          "reference": "acb2fd0b-1174-4f52-8481-759e0f6a9471",
+          "inci_name": "AQUA",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "aluminum": {
+        "cosing_info": {
+          "reference": "f8fd658c-b90a-4232-adf0-4e693bea3cfb",
+          "inci_name": "ALUMINUM",
+          "cas_no": [
+            "7429-90-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5359268",
+            "sid": "481106873",
+            "cas_no": "7429-90-5"
+          }
+        ]
+      },
+      "chlorohydrate": {
+        "cosing_info": {
+          "reference": "4b9fdb65-0611-408f-8f2d-c8558686b5d1",
+          "inci_name": "ZIRCONIUM CHLOROHYDRATE",
+          "cas_no": [
+            "18428-88-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "10176254",
+            "sid": "505901140",
+            "cas_no": "18428-88-1"
+          }
+        ]
+      },
+      "ppg-15": {
+        "cosing_info": {
+          "reference": "fdd4f3f6-8b77-4a52-b253-3a2cec39ef13",
+          "inci_name": "PPG-15",
+          "cas_no": [
+            "25322-69-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "stearyl": {
+        "cosing_info": {
+          "reference": "3e4066a6-9c3b-40ea-a5bb-c4ff27bdb307",
+          "inci_name": "STEARYL POLYLACTATE",
+          "cas_no": [
+            "187664-14-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "ether": {
+        "cosing_info": {
+          "reference": "1a33884e-9c41-4ce7-9725-136604d07dd0",
+          "inci_name": "DISTEARYL ETHER",
+          "cas_no": [
+            "6297-03-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "80526",
+            "sid": "505585378",
+            "cas_no": "6297-03-6"
+          }
+        ]
+      },
+      "steareth-2": {
+        "cosing_info": {
+          "reference": "1dde185a-37d7-4d9b-bd62-a159507f49a6",
+          "inci_name": "STEARETH-2",
+          "cas_no": [
+            "9005-00-9 (Generic)",
+            "16057-43-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "4165923",
+            "sid": "505885064",
+            "cas_no": "16057-43-5"
+          }
+        ]
+      },
+      "triethyl": {
+        "cosing_info": {
+          "reference": "7f03bd91-49a2-4ced-890f-e94cef1afa98",
+          "inci_name": "ACETYL TRIETHYL CITRATE",
+          "cas_no": [
+            "77-89-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6504",
+            "sid": "505548246",
+            "cas_no": "77-89-4"
+          }
+        ]
+      },
+      "citrate": {
+        "cosing_info": {
+          "reference": "2b4b78a2-c463-4238-8297-de65cfc1fc70",
+          "inci_name": "BISMUTH CITRATE",
+          "cas_no": [
+            "813-93-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "13135",
+            "sid": "505565203",
+            "cas_no": "813-93-4"
+          }
+        ]
+      },
+      "parfum": {
+        "cosing_info": {
+          "reference": "877337a9-4a8b-4d17-bed7-f3a39d335e80",
+          "inci_name": "PARFUM",
+          "cas_no": []
+        },
+        "pubchem_info": []
+      },
+      "steareth-21": {
+        "cosing_info": {
+          "reference": "a9349010-a19f-42bb-9938-e4df3a309a7b",
+          "inci_name": "STEARETH-21",
+          "cas_no": [
+            "9005-00-9 (Generic)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "kaolin": {
+        "cosing_info": {
+          "reference": "e323b0bb-339a-4758-a589-b35c858b5c11",
+          "inci_name": "KAOLIN",
+          "cas_no": [
+            "1332-58-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "magnesium": {
+        "cosing_info": {
+          "reference": "3fd37db3-bd9e-4d98-b5fe-570c2db54cda",
+          "inci_name": "MAGNESIUM",
+          "cas_no": [
+            "7439-95-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5462224",
+            "sid": "481107309",
+            "cas_no": "7439-95-4"
+          }
+        ]
+      },
+      "aluminometasilicate": {
+        "cosing_info": {
+          "reference": "5ce17575-41f3-47bc-9006-e19b664c6957",
+          "inci_name": "MAGNESIUM ALUMINOMETASILICATE",
+          "cas_no": []
+        },
+        "pubchem_info": [
+          {
+            "cid": "56841623",
+            "sid": "505881546",
+            "cas_no": null
+          }
+        ]
+      },
+      "citrus": {
+        "cosing_info": {
+          "reference": "ecf6ef2d-4da6-4ff8-a1d0-d29422d24e3a",
+          "inci_name": "CITRUS AURANTIUM DULCIS PEEL OIL",
+          "cas_no": [
+            "8008-57-9"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "aurantium": {
+        "cosing_info": {
+          "reference": "0ee76a08-c272-463e-a11d-7409523e5320",
+          "inci_name": "CITRUS AURANTIUM AMARA PEEL WATER",
+          "cas_no": [
+            "72968-50-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "peel": {
+        "cosing_info": {
+          "reference": "e863d775-c505-4bbd-a8cf-2f9acc6e6afe",
+          "inci_name": "ZANTHOXYLUM PIPERITUM PEEL WATER",
+          "cas_no": [
+            "97404-53-0 (generic)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "oil": {
+        "cosing_info": {
+          "reference": "73055330-91dd-4d1e-b860-925fb2ecdbc8",
+          "inci_name": "MENHADEN OIL",
+          "cas_no": [
+            "8002-50-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "cellulose": {
+        "cosing_info": {
+          "reference": "b482f78a-cfe8-4e22-a602-d4f420b37d60",
+          "inci_name": "CELLULOSE",
+          "cas_no": [
+            "9004-34-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "zea": {
+        "cosing_info": {
+          "reference": "5b181bc3-e563-413f-8baf-b0f565f51927",
+          "inci_name": "ZEA MAYS KERNEL EXTRACT",
+          "cas_no": [
+            "84696-06-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "mays": {
+        "cosing_info": {
+          "reference": "8a604f92-3735-4923-b03c-b75566bc78b5",
+          "inci_name": "ZEA MAYS STARCH",
+          "cas_no": [
+            "9005-25-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "starch": {
+        "cosing_info": {
+          "reference": "93782f1a-117c-49e6-8eca-9fe44b1ef6fc",
+          "inci_name": "HYDROXYPROPYL STARCH",
+          "cas_no": [
+            "9049-76-7",
+            "68584-86-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "24847857",
+            "sid": "518155301",
+            "cas_no": "9049-76-7"
+          }
+        ]
+      },
+      "oryza": {
+        "cosing_info": {
+          "reference": "6022ff60-c04b-4a68-9153-f4cdf5b0c490",
+          "inci_name": "ORYZA SATIVA POWDER",
+          "cas_no": [
+            "68553-81-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "sativa": {
+        "cosing_info": {
+          "reference": "d8f748c2-de9f-4395-a4ac-996ecd709b59",
+          "inci_name": "Cannabis and Cannabis resin; Cannabis sativa, ext.",
+          "cas_no": [
+            "8063-14-7",
+            "89958-21-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "alpha-isomethyl": {
+        "cosing_info": {
+          "reference": "bb1bdf74-ac91-4b4f-a06e-4f30fe9e50be",
+          "inci_name": "ALPHA-ISOMETHYL IONONE",
+          "cas_no": [
+            "127-51-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5372174",
+            "sid": "518159587",
+            "cas_no": "127-51-5"
+          }
+        ]
+      },
+      "ionone": {
+        "cosing_info": {
+          "reference": "cfa7fe92-c563-4769-951b-ec77fd9a2e27",
+          "inci_name": "IONONE",
+          "cas_no": [
+            "8013-90-9",
+            "79-77-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "24680",
+            "sid": "518178763",
+            "cas_no": "8013-90-9"
+          },
+          {
+            "cid": "638014",
+            "sid": "481106941",
+            "cas_no": "79-77-6"
+          }
+        ]
+      },
+      "benzyl": {
+        "cosing_info": {
+          "reference": "b8bed1f8-a18b-4f12-ada2-664e686fddd7",
+          "inci_name": "BENZYL ACETATE",
+          "cas_no": [
+            "140-11-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8785",
+            "sid": "481106933",
+            "cas_no": "140-11-4"
+          }
+        ]
+      },
+      "benzoate": {
+        "cosing_info": {
+          "reference": "5b65f7cc-6a38-4226-ac3a-f0701f04cd27",
+          "inci_name": "CASTOR OIL BENZOATE",
+          "cas_no": [
+            "225927-34-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "cinnamate": {
+        "cosing_info": {
+          "reference": "5e1e214f-ad79-4eb5-a6ef-517cbd0c5a50",
+          "inci_name": "ETHYL CINNAMATE",
+          "cas_no": [
+            "103-36-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "637758",
+            "sid": "481107150",
+            "cas_no": "103-36-6"
+          }
+        ]
+      },
+      "citral": {
+        "cosing_info": {
+          "reference": "c41dea05-5e24-4081-be53-3e926964bbf7",
+          "inci_name": "CITRAL",
+          "cas_no": [
+            "5392-40-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "638011",
+            "sid": "481107032",
+            "cas_no": "5392-40-5"
+          }
+        ]
+      },
+      "citronellol": {
+        "cosing_info": {
+          "reference": "0dc4ed58-7d3b-4143-a03f-a9d1dccdabc9",
+          "inci_name": "CITRONELLOL",
+          "cas_no": [
+            "106-22-9",
+            "26489-01-0",
+            "7540-51-4",
+            "1117-61-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8842",
+            "sid": "482039864",
+            "cas_no": "106-22-9"
+          },
+          {
+            "cid": "8842",
+            "sid": "482039864",
+            "cas_no": "26489-01-0"
+          },
+          {
+            "cid": "7793",
+            "sid": "505563004",
+            "cas_no": "7540-51-4"
+          },
+          {
+            "cid": "101977",
+            "sid": "483924806",
+            "cas_no": "1117-61-9"
+          }
+        ]
+      },
+      "coumarin": {
+        "cosing_info": {
+          "reference": "5ea4136c-9b7f-446c-875c-1b04d887a52e",
+          "inci_name": "COUMARIN",
+          "cas_no": [
+            "91-64-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "323",
+            "sid": "481107046",
+            "cas_no": "91-64-5"
+          }
+        ]
+      },
+      "geraniol": {
+        "cosing_info": {
+          "reference": "4937f329-ce46-43be-bb99-3307e3966e02",
+          "inci_name": "GERANIOL",
+          "cas_no": [
+            "106-24-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "637566",
+            "sid": "481107196",
+            "cas_no": "106-24-1"
+          }
+        ]
+      },
+      "geranyl": {
+        "cosing_info": {
+          "reference": "aae4650c-b8ee-4e04-ba01-a13aa5ae35c9",
+          "inci_name": "GERANYL NONANOATE",
+          "cas_no": [
+            "68039-29-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6437207",
+            "sid": "505850504",
+            "cas_no": "68039-29-2"
+          }
+        ]
+      },
+      "acetate": {
+        "cosing_info": {
+          "reference": "2e90250f-29b8-4066-987b-311a1cbc2f14",
+          "inci_name": "OCTYL ACETATE/MONOMETHYL ACETATE",
+          "cas_no": [
+            "68683-25-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "163261",
+            "sid": "500811241",
+            "cas_no": "68683-25-0"
+          }
+        ]
+      },
+      "hexamethylindanopyran": {
+        "cosing_info": {
+          "reference": "21a8da0c-d1e0-436c-831e-2d0d6e79bcad",
+          "inci_name": "HEXAMETHYLINDANOPYRAN",
+          "cas_no": [
+            "1222-05-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "91497",
+            "sid": "505629237",
+            "cas_no": "1222-05-5"
+          }
+        ]
+      },
+      "hydroxycitronellal": {
+        "cosing_info": {
+          "reference": "1282d3f9-0f30-4f82-a66f-fda74e446493",
+          "inci_name": "Hydroxycitronellal",
+          "cas_no": [
+            "107-75-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "7888",
+            "sid": "500790572",
+            "cas_no": "107-75-5"
+          }
+        ]
+      },
+      "limonene": {
+        "cosing_info": {
+          "reference": "d9a853fb-831a-4f8e-a3f5-d57b976d9c88",
+          "inci_name": "LIMONENE",
+          "cas_no": [
+            "138-86-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "22311",
+            "sid": "518147164",
+            "cas_no": "138-86-3"
+          }
+        ]
+      },
+      "linalool": {
+        "cosing_info": {
+          "reference": "8f47a2fa-c519-434c-8bb9-8385cf05fea5",
+          "inci_name": "LINALOOL",
+          "cas_no": [
+            "78-70-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6549",
+            "sid": "482028551",
+            "cas_no": "78-70-6"
+          }
+        ]
+      },
+      "linalyl": {
+        "cosing_info": {
+          "reference": "cbc4a314-95f5-4345-98cc-61b2d87bf963",
+          "inci_name": "LINALYL BENZOATE",
+          "cas_no": [
+            "126-64-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "31353",
+            "sid": "505794934",
+            "cas_no": "126-64-7"
+          }
+        ]
+      },
+      "pinene": {
+        "cosing_info": {
+          "reference": "4f954592-7925-439a-b6bd-4e845d4a6c7c",
+          "inci_name": "PINENE",
+          "cas_no": [
+            "80-56-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6654",
+            "sid": "481106869",
+            "cas_no": "80-56-8"
+          }
+        ]
+      },
+      "terpineol": {
+        "cosing_info": {
+          "reference": "816d1d06-f045-465c-9ced-267f1cf6b94d",
+          "inci_name": "TERPINEOL",
+          "cas_no": [
+            "8000-41-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "vanillin": {
+        "cosing_info": {
+          "reference": "66d59cfe-69b2-46cf-ad54-d553ca4e9884",
+          "inci_name": "VANILLIN",
+          "cas_no": [
+            "121-33-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "1183",
+            "sid": "481107850",
+            "cas_no": "121-33-5"
+          }
+        ]
+      }
     }
   },
   "additional_information": {

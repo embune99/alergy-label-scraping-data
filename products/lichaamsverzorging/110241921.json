@@ -38,129 +38,297 @@
       "Citroenzuur"
     ],
     "inci": {
-      "glycine soja oil": [
-        "18085a05-dd9b-4857-9a31-110c7a1d90da",
-        "6bcc9ba4-577b-4bac-8a79-ea0c661e0da1",
-        "377630f4-f9ce-451e-be90-b5e1052d83ea",
-        "3baf5619-f5b6-4ca9-9d31-7175ee070e53",
-        "689518bd-1adb-49bb-b5dd-bbd4c2012b1e",
-        "a8ce98ad-4c76-4a9f-be2b-8cc2057ccdea",
-        "7124c811-abf5-4dd3-a071-1abca320fcde",
-        "4ed9970a-7a07-4e2a-8059-869ae2f4b70c",
-        "4605470f-324a-4d3c-8502-88c4f9394c72",
-        "0dc851a9-2ca8-49aa-9bec-7bed9cc64017",
-        "4dde212d-84a2-4a1f-a26a-b0ec5cce9d15",
-        "07a6a004-4993-436f-9da4-7329edb62603",
-        "df331953-d791-45fc-85dc-24ce49f1e3a2",
-        "5112ea05-04e2-4e60-819b-d851ffef476a",
-        "4c18674f-a05c-4c5a-93b7-a76b2fed88b0",
-        "cb73f6c6-bdc7-4a12-b0de-9a75084253bd",
-        "95f1ccd2-f847-4104-a11e-973e27d2a0c3",
-        "ceaf92fc-e7a9-455e-a20f-11e594e215bd",
-        "63ef7a22-cad1-495e-8671-7b543c795fc9",
-        "f7e28dcb-3a55-495d-97d2-89302fba319e",
-        "4234f784-8632-43ad-b5c2-c429140a94e6",
-        "74248939-5711-4ba5-a93c-b75d9ac40c36",
-        "aa3b5eac-3f08-4894-aed6-688af8618498",
-        "7159cb0e-d3ba-432c-9465-88c0ad3c2347",
-        "12cd363f-5599-4626-9962-31dd869197c4",
-        "0c7726cf-56dc-4bf1-8f63-9d0783188467",
-        "41d8f0ba-bc82-43eb-8ec7-f63f7182ee58"
-      ],
-      "laureth-4": [
-        "e11ee2d6-efa1-4f0b-b077-cad97cf6cdd3",
-        "6e8b677a-a057-4eac-b331-ff5dc4927598",
-        "02e54a4c-88eb-44d8-adf5-1f7343fbc221",
-        "7f90fffa-1969-4366-9858-a94c86cd954f",
-        "8baaed7b-e1f8-4b8f-ac27-993e869a766f",
-        "9a7613d2-c922-4ff1-9c33-1daafd724c38",
-        "5de5a6ef-aad0-4355-95e4-90f479054192",
-        "8b3f7589-7003-4fa0-a9cd-35421e10f249",
-        "3ed9c608-27e3-47aa-a605-42774346d883",
-        "bac98797-947b-4430-b49e-65727d3dfae7",
-        "30e85c3d-0958-4f70-9bc0-eb1d0502703a",
-        "96dcf1dd-e355-4907-b182-50e1a0067c66",
-        "24c1c86b-104f-48c9-96c7-35025c6bc484",
-        "d84a5888-fe51-4c4f-8162-70b257ea5139"
-      ],
-      "mipa-laureth sulfate": [
-        "5de5a6ef-aad0-4355-95e4-90f479054192"
-      ],
-      "ricinus communis seed oil": [
-        "c8ff48a0-c368-4a64-b175-b2302c318e4c",
-        "c1b7595f-0102-46c8-9db5-d7936f581887",
-        "b6ce5e17-6c4f-4ea7-80ad-405344b7924c",
-        "62da5339-dbea-49f0-99a2-35faa766064a",
-        "79a87a10-0640-48b3-b28e-2ec4bce24142",
-        "ecb34965-16dc-4e44-a45a-be3a3a41be7f",
-        "f4f4f266-cee7-40bc-8f95-e3bcee9b3cb8",
-        "caee69cb-20f4-460b-9cac-2c3ed951d703",
-        "997a158b-59ff-4eb9-9399-4d53a5c2dc35",
-        "d9a65fe0-ecf0-4399-a6bb-454e9d0e36a5",
-        "3240a71b-2451-4d68-ad67-d20ff86b9a44",
-        "094de513-81f9-4907-8e49-db5b32dffe8a"
-      ],
-      "parfum": [
-        "877337a9-4a8b-4d17-bed7-f3a39d335e80"
-      ],
-      "vitis vinifera seed oil": [
-        "33dd1c60-53d7-40b2-9f32-5cb164c739d4",
-        "477bf517-0fbe-4f62-a14a-ec9a0b9ee82d",
-        "cae2ce3e-a721-496c-a23c-37e6a82c9ce8",
-        "984b859a-6a99-4d5e-b372-1364c067fbfc",
-        "eb71de50-b992-4a06-8443-9845853d067d",
-        "116900b1-c8e3-4ee7-aabf-69d414d139fe",
-        "537a1094-1191-45cb-ac8b-680bf1d8dcf8",
-        "3b9f6078-fe41-4135-a1d4-8b6bda346f43",
-        "5684ed6a-2189-4bfc-ac63-6bf0b37dc9d3",
-        "a11a51d9-1c70-43ea-a5b4-6c2776ea9c7a",
-        "15dc8fca-69cd-43bf-af32-be87864c3f6d",
-        "b9bfae7c-1575-4ada-b20c-cdd46089eff2",
-        "3047ea8e-36c1-44a2-879e-f455ce9cfd09",
-        "77f7a7f1-0b93-4474-92fd-3d7a31a6a954",
-        "98a2e4e3-0679-4604-b6f8-518ff03c63c0"
-      ],
-      "sodium ascorbyl phosphate": [
-        "63d07517-a5c3-4a5b-8f6a-2c03b31c59a7",
-        "dc728143-84eb-4a3e-8c5b-485146a54854",
-        "141b0354-b67f-49d9-ad4c-c16e00186b05"
-      ],
-      "tocopherol": [
-        "e353a1e9-9330-4c22-bf1a-f58ac6d356a9",
-        "e342caa4-feb8-4dc2-af5a-fcc144dbc2ad",
-        "471234b3-ba01-48ae-a37e-7868f8959211",
-        "eb980407-930e-424f-9091-3879c2e5ecfc",
-        "febc5fb6-f775-402d-8e13-e08ed0a9f16a",
-        "31933de9-8f3e-470c-9744-6491f3497b83",
-        "668f1319-66e2-4b67-a27a-5ed3cd5099c0",
-        "4f06768f-c5c3-46ee-884e-f296ecca24f5",
-        "299d7c1b-0d33-4121-b0c7-3394b65c41ce",
-        "3b942130-8595-4391-a215-6a35f4317c84",
-        "c3d456a3-7bde-42d1-b7c2-4f5e02697980",
-        "ba0f16c8-434e-4075-bb1a-643aa7efad45",
-        "44c28ff8-3740-444e-b642-e0bdb305d023",
-        "a4ad8d2c-9b8f-4138-824f-e29b6ef09361",
-        "4828cb81-0b05-4ba3-8a46-771c5494a2ea",
-        "e43e9c7e-530c-44c3-af6a-a162338ef91b",
-        "7e8579f5-6568-47a6-b164-98a195149713"
-      ],
-      "aqua": [
-        "acb2fd0b-1174-4f52-8481-759e0f6a9471",
-        "03f72bea-b998-4741-942d-4eb90ea2e5c2",
-        "a9d7ccc5-066f-49da-85ef-5eec1217a478",
-        "b95411b0-fb54-4a85-9901-f92524503f2d",
-        "88aced55-d191-43a7-85f5-41872fb14e85",
-        "95d201d5-eef8-4b4a-9405-8ace8e6eb88c",
-        "bf9565d8-8238-4bb2-a23b-e70ff2ab63e4",
-        "f20f15b7-c291-495a-862f-5b28364a4b7c",
-        "56891eee-e7e0-4df4-a41f-43fddb50858c",
-        "f3176b91-2a20-4ce6-b44a-85df660a618d",
-        "f47fb937-5e85-47be-a122-3522901eb942",
-        "8c333827-b448-4d69-a0a9-ecdc8ba57476"
-      ],
-      "propyl gallate": [
-        "addf5ca7-9df8-4a53-b1d8-d319fb9f701a"
-      ]
+      "glycine": {
+        "cosing_info": {
+          "reference": "86a48168-97e5-4cc3-aff4-bd4f9e2a69cc",
+          "inci_name": "GLYCINE",
+          "cas_no": [
+            "56-40-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "750",
+            "sid": "481107780",
+            "cas_no": "56-40-6"
+          }
+        ]
+      },
+      "soja": {
+        "cosing_info": {
+          "reference": "97405f60-c38c-40ec-8d2b-e606654d370c",
+          "inci_name": "GLYCINE SOJA EXTRACT",
+          "cas_no": [
+            "84776-91-0",
+            "8001-22-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "oil": {
+        "cosing_info": {
+          "reference": "73055330-91dd-4d1e-b860-925fb2ecdbc8",
+          "inci_name": "MENHADEN OIL",
+          "cas_no": [
+            "8002-50-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "laureth-4": {
+        "cosing_info": {
+          "reference": "7f90fffa-1969-4366-9858-a94c86cd954f",
+          "inci_name": "LAURETH-4",
+          "cas_no": [
+            "5274-68-0",
+            "9002-92-0",
+            "68439-50-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "78933",
+            "sid": "518157406",
+            "cas_no": "5274-68-0"
+          }
+        ]
+      },
+      "mipa-laureth": {
+        "cosing_info": {
+          "reference": "5de5a6ef-aad0-4355-95e4-90f479054192",
+          "inci_name": "MIPA-LAURETH SULFATE",
+          "cas_no": [
+            "83016-76-6",
+            "1187742-72-8 (generic)"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "170851910",
+            "sid": null,
+            "cas_no": "83016-76-6"
+          }
+        ]
+      },
+      "sulfate": {
+        "cosing_info": {
+          "reference": "e122130b-9fd3-47ab-bf29-63f7f233422f",
+          "inci_name": "SODIUM LAURYL SULFATE",
+          "cas_no": [
+            "151-21-3",
+            "68585-47-7 (generic)",
+            "68955-19-1 (generic)",
+            "73296-89-6",
+            "85586-07-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "3423265",
+            "sid": "505883583",
+            "cas_no": "151-21-3"
+          }
+        ]
+      },
+      "ricinus": {
+        "cosing_info": {
+          "reference": "3a35e6af-8f68-4ba3-be3e-db3fea704d2f",
+          "inci_name": "RICINUS COMMUNIS ROOT EXTRACT",
+          "cas_no": [
+            "8001-79-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "communis": {
+        "cosing_info": {
+          "reference": "41e517a3-5bbf-4f5f-991b-8fac5c418106",
+          "inci_name": "PHRAGMITES COMMUNIS RHIZOME EXTRACT",
+          "cas_no": [
+            "84604-02-4 (generic)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "seed": {
+        "cosing_info": {
+          "reference": "981b4ff2-0470-4c2b-9a2a-bdebc1e66420",
+          "inci_name": "HELIANTHUS ANNUUS SEED WAX",
+          "cas_no": [
+            "1286686-34-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "parfum": {
+        "cosing_info": {
+          "reference": "877337a9-4a8b-4d17-bed7-f3a39d335e80",
+          "inci_name": "PARFUM",
+          "cas_no": []
+        },
+        "pubchem_info": []
+      },
+      "vitis": {
+        "cosing_info": {
+          "reference": "58be81f9-c6ef-4483-8b6e-49695c9a7ffd",
+          "inci_name": "VITIS VINIFERA LEAF WAX",
+          "cas_no": [
+            "85594-37-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "3931",
+            "sid": "500750973",
+            "cas_no": "85594-37-2"
+          }
+        ]
+      },
+      "vinifera": {
+        "cosing_info": {
+          "reference": "58be81f9-c6ef-4483-8b6e-49695c9a7ffd",
+          "inci_name": "VITIS VINIFERA LEAF WAX",
+          "cas_no": [
+            "85594-37-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "3931",
+            "sid": "500750973",
+            "cas_no": "85594-37-2"
+          }
+        ]
+      },
+      "sodium": {
+        "cosing_info": {
+          "reference": "436c3318-3a15-40db-b19b-54900ed3abc1",
+          "inci_name": "SODIUM SIALYLLACTOSE",
+          "cas_no": [
+            "128596-80-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "71308479",
+            "sid": "504500786",
+            "cas_no": "128596-80-5"
+          }
+        ]
+      },
+      "ascorbyl": {
+        "cosing_info": {
+          "reference": "69287ea0-ac70-4c51-bf6f-5997426b7d1e",
+          "inci_name": "PALMITOYL ASCORBYL GLUCOSIDE",
+          "cas_no": [
+            "287925-69-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "phosphate": {
+        "cosing_info": {
+          "reference": "e40b9150-a386-4dac-a7a4-afdc5de23f89",
+          "inci_name": "TRISTEARYL PHOSPHATE",
+          "cas_no": [
+            "4889-45-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "74962",
+            "sid": "505896505",
+            "cas_no": "4889-45-6"
+          }
+        ]
+      },
+      "tocopherol": {
+        "cosing_info": {
+          "reference": "e353a1e9-9330-4c22-bf1a-f58ac6d356a9",
+          "inci_name": "TOCOPHEROL",
+          "cas_no": [
+            "54-28-4 (gamma)",
+            "16698-35-4(beta)",
+            "10191-41-0(DL)",
+            "119-13-1",
+            "1406-18-4",
+            "1406-66-2",
+            "2074-53-5 (DL)",
+            "59-02-9 (D)",
+            "7616-22-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "92094",
+            "sid": "500775109",
+            "cas_no": "119-13-1"
+          },
+          {
+            "cid": "14985",
+            "sid": "483926503",
+            "cas_no": "1406-18-4"
+          },
+          {
+            "cid": "14986",
+            "sid": "516579069",
+            "cas_no": "1406-66-2"
+          },
+          {
+            "cid": "14986",
+            "sid": "516579069",
+            "cas_no": "7616-22-0"
+          }
+        ]
+      },
+      "aqua": {
+        "cosing_info": {
+          "reference": "acb2fd0b-1174-4f52-8481-759e0f6a9471",
+          "inci_name": "AQUA",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "propyl": {
+        "cosing_info": {
+          "reference": "8ecb8cb2-7bf8-44a9-8f4b-8664711a49ec",
+          "inci_name": "PROPYL TRIMETHICONE",
+          "cas_no": [
+            "60111-46-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "11325236",
+            "sid": null,
+            "cas_no": "60111-46-8"
+          }
+        ]
+      },
+      "gallate": {
+        "cosing_info": {
+          "reference": "3100910b-650a-40d3-81ae-2c6a3efe7a19",
+          "inci_name": "ETHYLHEXYL GALLATE",
+          "cas_no": [
+            "34531-26-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "118173",
+            "sid": "500730405",
+            "cas_no": "34531-26-5"
+          }
+        ]
+      }
     }
   },
   "additional_information": {

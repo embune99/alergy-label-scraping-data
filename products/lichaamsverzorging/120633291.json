@@ -55,83 +55,214 @@
       "[8005460051]"
     ],
     "inci": {
-      "theobroma cacao (cocoa) seed butter+": [
-        "69822597-6fb3-462c-9d38-a43618bf8505",
-        "f1fbd670-b2ca-4b2c-94cf-6853ee1bc9e5",
-        "3d96b2dd-4b8c-4da1-adde-017b9ebe4d8e",
-        "0c38e0ea-9191-4fa7-8af5-0577331c1afe",
-        "9c290ae2-6cdf-48e2-9fe6-caa517ebd497",
-        "ba4f2dfd-6416-4506-8368-c5ae63d23c65",
-        "0991fdd0-aedd-40a1-81e7-eef3ad968570",
-        "0b00dbe7-d72a-45e2-882e-26818126c472"
-      ],
-      "euphorbia cerifera (candelilla) wax": [
-        "54c43538-d58c-41fb-b8c5-a7118e834ab9",
-        "1d12ce27-bbbd-4247-841c-773c8803a6f7",
-        "5e6079b3-3d60-4cdc-b6cc-a84e7afd53d6",
-        "d5e80f59-732e-4989-9ce5-5c9e61f26de6",
-        "3fefe40e-0723-4729-beee-b317136d1420",
-        "50d5cd96-3546-41b4-a39b-c3af1c0b72f9",
-        "15e2cc7a-056d-4699-8da2-a1086ca73742",
-        "00e7a1e3-625b-4d52-be1e-b3ad18ad6cfd"
-      ],
-      "copernicia cerifera (carnauba) wax": [
-        "d03ef8b7-4dac-4be7-9350-ca2b114f3f5c",
-        "2f861baa-5bb2-4d53-8b75-a0b1a8d3b744",
-        "2274604f-6886-4d04-b9c3-541b0c88a853",
-        "5fc110ac-6c3d-4d56-be63-39b76d40e6d4",
-        "e055bea2-6b98-486b-a2fd-ab83db1ead6c"
-      ],
-      "persea gratissima (avocado) oil+": [
-        "c8e4f98f-b74f-45cf-964f-a73fe6bdab1a",
-        "8188de22-6f38-4ebf-9f82-5367d09aeca9",
-        "f3993f7c-c87e-42b4-9262-d158aa9dca33",
-        "4d391e23-5697-4aa0-8489-7bba22413ff6",
-        "8c2d0c7a-abaa-42b0-ac1f-673327687338",
-        "b8c67722-1049-4a13-90c1-3a6792978d32",
-        "edcd0789-91bc-4a91-8967-11dfa8c4bcad",
-        "89075b50-afce-4fbe-9bf3-50e60c7457e1",
-        "8a160b80-3864-45dd-8fea-2f4b9176b31b",
-        "d6704695-2b60-4968-86c5-523dc975517c",
-        "8e3c69f0-25ce-4b81-aeb2-f83d0aa81b82",
-        "c33925e9-1587-4422-9d10-419f7dcbd9ee",
-        "ffc24bc6-3278-4216-87cb-9bf3f5a3227e",
-        "953a2881-c6e4-441d-bb9b-2a8e098f4b59"
-      ],
-      "sesamum indicum (sesame) seed oil+": [
-        "1b588613-7b10-48b2-8b3b-bde20305728d",
-        "f7b154e9-0b50-45fd-a9ec-51b3f4a0a13a",
-        "d14c08fd-9fbc-4e1f-ac6c-08e263440310",
-        "e5dda7d3-6dad-4b45-aced-43d8b4f1d79c",
-        "f31e864e-6537-40dd-8de6-e67f12e56d67",
-        "47fc8e3d-e7a1-435b-9acc-c1b04395a84f",
-        "52b91508-452e-49ad-ae37-d42b9ffbf5a6",
-        "95ab4fed-2a48-4f7b-a712-bcb84e0a5442",
-        "197770fe-661d-4fb1-8807-888fe97bd143"
-      ],
-      "calendula officinalis flower+ extract": [
-        "87003061-edde-4e39-bdec-c63c36631142",
-        "788d70d4-d2db-449e-aa6b-8cf3c68cb164",
-        "59160e37-6659-4fd5-b571-9319450d5fc6",
-        "8ca86907-949b-4b41-a1da-ad0e475ab9c2",
-        "5636f3e2-df74-401c-8d3e-1612a61ba565",
-        "cdea5048-2a17-4636-8d9a-6bea41c1ae5a",
-        "9d606ba8-21e2-4fd8-a58e-e3f55de45799",
-        "d9cd95a4-ac89-42a7-8ee3-a7f25fb0484b",
-        "cf694da8-8593-4ff6-b7eb-cfc918ef2496",
-        "5ce1efb1-95a8-47cc-93f2-9953ca3c9e56",
-        "20b310e5-11c0-4aa1-afe6-17953f0a9168"
-      ],
-      "panicum miliaceum (millet) seed+ extract": [
-        "bef1b647-c985-492f-834c-a2c5ee39ffda",
-        "8e4ad7c5-0016-46f5-9681-4af0d38ad9a6",
-        "0cb53de2-2522-43aa-97fa-71b7f889e821",
-        "8fca7bb5-f46d-4388-8ebf-76d38aa73924",
-        "31e39172-5966-447b-8b2f-ffab52cefc8a",
-        "4bc50ecb-960e-40d9-b7d7-c9eddf895059",
-        "8fac42ba-1c21-4625-9184-d01ffb5bbd79",
-        "4174c05a-ea0e-49a4-95f0-458ef2a3e4b6"
-      ]
+      "(inci)": {
+        "cosing_info": {
+          "reference": "a69b812b-c7bb-4d6f-9f5b-b54c75c91452",
+          "inci_name": "Pentasodium (carboxylatomethyl)iminobis(ethylenenitrilo)tetraacetate; Pentasodium Pentetate (INCI)",
+          "cas_no": [
+            "140-01-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8779",
+            "sid": "500814891",
+            "cas_no": "140-01-2"
+          }
+        ]
+      },
+      "helianthus": {
+        "cosing_info": {
+          "reference": "981b4ff2-0470-4c2b-9a2a-bdebc1e66420",
+          "inci_name": "HELIANTHUS ANNUUS SEED WAX",
+          "cas_no": [
+            "1286686-34-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "annuus": {
+        "cosing_info": {
+          "reference": "2d06b0fb-16aa-4515-bd4c-af0007d51709",
+          "inci_name": "HELIANTHUS ANNUUS SEED",
+          "cas_no": [
+            "84625-38-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "seed": {
+        "cosing_info": {
+          "reference": "981b4ff2-0470-4c2b-9a2a-bdebc1e66420",
+          "inci_name": "HELIANTHUS ANNUUS SEED WAX",
+          "cas_no": [
+            "1286686-34-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "theobroma": {
+        "cosing_info": {
+          "reference": "0c9f932a-88e9-4fe9-8b97-fbb3b95cfbbb",
+          "inci_name": "THEOBROMA CACAO EXTRACT",
+          "cas_no": [
+            "84649-99-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "cacao": {
+        "cosing_info": {
+          "reference": "0c9f932a-88e9-4fe9-8b97-fbb3b95cfbbb",
+          "inci_name": "THEOBROMA CACAO EXTRACT",
+          "cas_no": [
+            "84649-99-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "euphorbia": {
+        "cosing_info": {
+          "reference": "10d226d7-ebe0-4a2b-96f7-c18710f751e9",
+          "inci_name": "EUPHORBIA CERIFERA WAX",
+          "cas_no": [
+            "8006-44-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "cerifera": {
+        "cosing_info": {
+          "reference": "10d226d7-ebe0-4a2b-96f7-c18710f751e9",
+          "inci_name": "EUPHORBIA CERIFERA WAX",
+          "cas_no": [
+            "8006-44-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "wax": {
+        "cosing_info": {
+          "reference": "58be81f9-c6ef-4483-8b6e-49695c9a7ffd",
+          "inci_name": "VITIS VINIFERA LEAF WAX",
+          "cas_no": [
+            "85594-37-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "3931",
+            "sid": "500750973",
+            "cas_no": "85594-37-2"
+          }
+        ]
+      },
+      "copernicia": {
+        "cosing_info": {
+          "reference": "d03ef8b7-4dac-4be7-9350-ca2b114f3f5c",
+          "inci_name": "COPERNICIA CERIFERA WAX",
+          "cas_no": [
+            "8015-86-9"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "persea": {
+        "cosing_info": {
+          "reference": "6f736df5-3210-433c-b7ea-2eaa4a83e039",
+          "inci_name": "PERSEA GRATISSIMA SEED",
+          "cas_no": [
+            "8024-32-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "gratissima": {
+        "cosing_info": {
+          "reference": "6f736df5-3210-433c-b7ea-2eaa4a83e039",
+          "inci_name": "PERSEA GRATISSIMA SEED",
+          "cas_no": [
+            "8024-32-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "sesamum": {
+        "cosing_info": {
+          "reference": "8e0f44bf-d1d2-4b4a-b720-44204770feed",
+          "inci_name": "SESAMUM INDICUM SEED",
+          "cas_no": [
+            "8008-74-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "indicum": {
+        "cosing_info": {
+          "reference": "8b73a4e6-5770-4eef-95bf-ac5e5b76d070",
+          "inci_name": "CHRYSANTHELLUM INDICUM EXTRACT",
+          "cas_no": [
+            "223748-24-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "calendula": {
+        "cosing_info": {
+          "reference": "05bc4ac9-8fed-40ea-9bf6-912a9fa1612c",
+          "inci_name": "CALENDULA OFFICINALIS EXTRACT",
+          "cas_no": [
+            "84776-23-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "officinalis": {
+        "cosing_info": {
+          "reference": "fde86a8e-9241-40d9-a1d3-35ce8d8504b2",
+          "inci_name": "MELISSA OFFICINALIS LEAF/STEM OIL",
+          "cas_no": [
+            "84082-61-1 (generic); 8014-71-9 (generic)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "extract": {
+        "cosing_info": {
+          "reference": "6ff40204-b73a-486d-bc81-2a5a6f2faeee",
+          "inci_name": "HAEMATOXYLUM CAMPECHIANUM WOOD EXTRACT",
+          "cas_no": [
+            "8005-33-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "442514",
+            "sid": "505779233",
+            "cas_no": "8005-33-2"
+          }
+        ]
+      },
+      "panicum": {
+        "cosing_info": {
+          "reference": "bef1b647-c985-492f-834c-a2c5ee39ffda",
+          "inci_name": "PANICUM MILIACEUM SEED EXTRACT",
+          "cas_no": [
+            "90082-36-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "miliaceum": {
+        "cosing_info": {
+          "reference": "bef1b647-c985-492f-834c-a2c5ee39ffda",
+          "inci_name": "PANICUM MILIACEUM SEED EXTRACT",
+          "cas_no": [
+            "90082-36-3"
+          ]
+        },
+        "pubchem_info": []
+      }
     }
   },
   "additional_information": {

@@ -30,9 +30,74 @@
       "Hexyl"
     ],
     "inci": {
-      "diethylamino hydroxybenzoyl hexyl": [
-        "a348f543-552b-4aec-96b1-6ac8a2cf1644"
-      ]
+      "(inci)": {
+        "cosing_info": {
+          "reference": "a69b812b-c7bb-4d6f-9f5b-b54c75c91452",
+          "inci_name": "Pentasodium (carboxylatomethyl)iminobis(ethylenenitrilo)tetraacetate; Pentasodium Pentetate (INCI)",
+          "cas_no": [
+            "140-01-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8779",
+            "sid": "500814891",
+            "cas_no": "140-01-2"
+          }
+        ]
+      },
+      "aqua": {
+        "cosing_info": {
+          "reference": "acb2fd0b-1174-4f52-8481-759e0f6a9471",
+          "inci_name": "AQUA",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "diethylamino": {
+        "cosing_info": {
+          "reference": "150d998e-a72d-4478-96e7-e7e1eadcc7ea",
+          "inci_name": "STARCH DIETHYLAMINOETHYL ETHER",
+          "cas_no": [
+            "9041-94-5"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "hydroxybenzoyl": {
+        "cosing_info": {
+          "reference": "a348f543-552b-4aec-96b1-6ac8a2cf1644",
+          "inci_name": "DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE",
+          "cas_no": [
+            "302776-68-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "10111431",
+            "sid": "500776886",
+            "cas_no": "302776-68-7"
+          }
+        ]
+      },
+      "hexyl": {
+        "cosing_info": {
+          "reference": "e0639f70-efc4-424e-a259-4464aeaea8ea",
+          "inci_name": "HEXYL SALICYLATE HEXYL ETHER",
+          "cas_no": [
+            "111222-71-0"
+          ]
+        },
+        "pubchem_info": []
+      }
     }
   },
   "additional_information": {

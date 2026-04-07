@@ -47,71 +47,185 @@
       "Coumarin*."
     ],
     "inci": {
-      "arnica montana flower extract": [
-        "1e97c2c9-28f2-4957-aa46-f80cf3563133",
-        "59160e37-6659-4fd5-b571-9319450d5fc6",
-        "b1a57514-dfe4-4171-acba-9249f4142980",
-        "06f7c178-3f98-4fda-8766-94a79943e2ea",
-        "d9cd95a4-ac89-42a7-8ee3-a7f25fb0484b",
-        "5ce1efb1-95a8-47cc-93f2-9953ca3c9e56"
-      ],
-      "betula alba leaf extract": [
-        "0e941ff5-a618-43b3-b3cf-e79a1d1cf8e3",
-        "45f974e7-8d5f-4316-a8d8-2c76766c6002",
-        "4b1fd7ca-622d-4c69-83c1-452cff8fdfb4",
-        "13859322-552e-4f64-a21f-d10e12957df4"
-      ],
-      "limonene*": [
-        "caf20e39-06fb-43bf-8453-7a582cc1d1d4",
-        "d9a853fb-831a-4f8e-a3f5-d57b976d9c88",
-        "23d540ea-0079-4c28-8b69-10033f69f535"
-      ],
-      "linalool*": [
-        "d93d671b-3419-4680-8269-60583ec9ac0e",
-        "c2d79f26-662b-4480-b669-afdef300ad6e",
-        "a803ace3-7f88-4b6f-aa4a-0b4119093446",
-        "c396cf4a-6357-436d-8d55-fb24f9961d3d",
-        "8d5a2513-3e2c-44f1-8f85-624d6342866f",
-        "08f68cb9-7fbd-4d25-9b7c-72223c835b80",
-        "f5f287c8-50f4-4c93-8b0d-41c89b985347",
-        "da255150-17e9-4f41-b7ba-78d474933d47",
-        "d489e0ea-9a81-4b1d-b8bc-5502db5adb42",
-        "6a2c48d4-8e76-4710-80dc-53309a1935c1",
-        "7b037553-1d27-4931-8108-84efc7f93f6a",
-        "0018acfb-f2a4-4538-8f28-f8af71041bb9",
-        "c6fafb98-efe0-4a3f-a693-ff0b26320026",
-        "e3becc95-ee8c-4fde-b0a0-ccf4dab5ba0b",
-        "dcbdaa4c-4fbc-4473-987a-6d33558a5c19",
-        "d61c4bec-0b4d-4e48-aef5-a218fea8b8cc",
-        "63af6a56-a19e-4126-b4d8-d9a79e9e01d2",
-        "f2357e58-0181-41f6-b80b-457d1f55ee91",
-        "ccd1c9bf-9835-4c02-bb80-d3791d4f6690",
-        "a19ecbd9-8ced-402a-85d8-9e341468e55f",
-        "67734a62-d120-45e1-ba29-4a62454d9224",
-        "8f47a2fa-c519-434c-8bb9-8385cf05fea5",
-        "72a74c17-4c98-4ee7-a58a-7d5ff3942560",
-        "18e71a6d-f045-452e-8a75-cd3d740e0d6a",
-        "99634e65-3bfd-420f-a5b9-7094dc581270",
-        "29a385e8-9ff6-43f0-8eac-8788fb368de3",
-        "a334b8d0-102b-42a8-a5d0-5a813e6a8624",
-        "cbc4a314-95f5-4345-98cc-61b2d87bf963"
-      ],
-      "geraniol*": [
-        "d93d671b-3419-4680-8269-60583ec9ac0e",
-        "4937f329-ce46-43be-bb99-3307e3966e02",
-        "a209d30f-e08c-4245-b4a8-a1812d41feef",
-        "1d4c3d38-90cf-4c06-bb42-87ee002513ad",
-        "d489e0ea-9a81-4b1d-b8bc-5502db5adb42",
-        "0e1e8e38-fc2e-4ce7-84f9-4dce5df36518",
-        "ccd1c9bf-9835-4c02-bb80-d3791d4f6690",
-        "77e8e7bb-b62d-4fd8-a213-f709399099f2",
-        "3eb24603-b991-48bf-8648-9aa5deb0800b",
-        "ba477a38-110c-403e-840d-c91597e537ab",
-        "f43f6f59-9dfd-4a87-b632-82dadb6e5796",
-        "9015f415-9eed-4347-94fb-64df574e6664",
-        "29a385e8-9ff6-43f0-8eac-8788fb368de3",
-        "ebdb8cd5-9a2a-446d-b207-9c6ea3bb4e2b"
-      ]
+      "(inci)": {
+        "cosing_info": {
+          "reference": "a69b812b-c7bb-4d6f-9f5b-b54c75c91452",
+          "inci_name": "Pentasodium (carboxylatomethyl)iminobis(ethylenenitrilo)tetraacetate; Pentasodium Pentetate (INCI)",
+          "cas_no": [
+            "140-01-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8779",
+            "sid": "500814891",
+            "cas_no": "140-01-2"
+          }
+        ]
+      },
+      "helianthus": {
+        "cosing_info": {
+          "reference": "981b4ff2-0470-4c2b-9a2a-bdebc1e66420",
+          "inci_name": "HELIANTHUS ANNUUS SEED WAX",
+          "cas_no": [
+            "1286686-34-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "annuus": {
+        "cosing_info": {
+          "reference": "2d06b0fb-16aa-4515-bd4c-af0007d51709",
+          "inci_name": "HELIANTHUS ANNUUS SEED",
+          "cas_no": [
+            "84625-38-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "seed": {
+        "cosing_info": {
+          "reference": "981b4ff2-0470-4c2b-9a2a-bdebc1e66420",
+          "inci_name": "HELIANTHUS ANNUUS SEED WAX",
+          "cas_no": [
+            "1286686-34-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "oil": {
+        "cosing_info": {
+          "reference": "73055330-91dd-4d1e-b860-925fb2ecdbc8",
+          "inci_name": "MENHADEN OIL",
+          "cas_no": [
+            "8002-50-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "olea": {
+        "cosing_info": {
+          "reference": "a2ce5b5d-ab45-4175-a58c-4f331da2cea3",
+          "inci_name": "OLEA EUROPAEA SEED",
+          "cas_no": [
+            "8001-25-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "europaea": {
+        "cosing_info": {
+          "reference": "266fbf33-97aa-4aee-a6c1-0fc50147c427",
+          "inci_name": "SANICULA EUROPAEA EXTRACT",
+          "cas_no": [
+            "90106-53-9"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "fruit": {
+        "cosing_info": {
+          "reference": "bcb3c9aa-e856-4293-bf15-d8d80f6a1117",
+          "inci_name": "COCOS NUCIFERA FRUIT/FRUIT JUICE EXTRACT",
+          "cas_no": [
+            "8001-31-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "fragrance": {
+        "cosing_info": {
+          "reference": "8df6b6bc-f26a-438c-8dc4-130db9e8ce6b",
+          "inci_name": "3,7-Dimethyl-2-octen-1-ol (6,7-Dihydrogeraniol), when used as a fragrance ingredient",
+          "cas_no": [
+            "40607-48-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5365836",
+            "sid": "504562939",
+            "cas_no": "40607-48-5"
+          }
+        ]
+      },
+      "arnica": {
+        "cosing_info": {
+          "reference": "1e97c2c9-28f2-4957-aa46-f80cf3563133",
+          "inci_name": "ARNICA MONTANA FLOWER EXTRACT",
+          "cas_no": [
+            "68990-11-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "montana": {
+        "cosing_info": {
+          "reference": "152f1cfc-0635-4eeb-84c2-5562e0ae6ae0",
+          "inci_name": "ARNICA MONTANA FLOWER",
+          "cas_no": [
+            "68990-11-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "flower": {
+        "cosing_info": {
+          "reference": "c1d12598-6b78-467a-9a80-920b391e0209",
+          "inci_name": "Tagetes minuta flower extract; Tagetes minuta flower oil",
+          "cas_no": [
+            "91770-75-1; 91770-75-1",
+            "8016-84-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "extract": {
+        "cosing_info": {
+          "reference": "6ff40204-b73a-486d-bc81-2a5a6f2faeee",
+          "inci_name": "HAEMATOXYLUM CAMPECHIANUM WOOD EXTRACT",
+          "cas_no": [
+            "8005-33-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "442514",
+            "sid": "505779233",
+            "cas_no": "8005-33-2"
+          }
+        ]
+      },
+      "betula": {
+        "cosing_info": {
+          "reference": "f7c0d3c8-eba3-4cd7-81c3-c1bb0ec8da8b",
+          "inci_name": "BETULA ALBA LEAF JUICE",
+          "cas_no": [
+            "84012-15-7 (generic)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "alba": {
+        "cosing_info": {
+          "reference": "eaf35829-907f-4689-9985-3ea288a4e2ab",
+          "inci_name": "BETULA ALBA LEAF POWDER",
+          "cas_no": [
+            "84012-15-7 (generic)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "leaf": {
+        "cosing_info": {
+          "reference": "8e8792ba-fdf8-439d-864b-3c48468d6204",
+          "inci_name": "PSIDIUM GUAJAVA LEAF OIL",
+          "cas_no": [
+            "91770-12-6 (generic)"
+          ]
+        },
+        "pubchem_info": []
+      }
     }
   },
   "additional_information": {

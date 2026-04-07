@@ -38,111 +38,187 @@
       "bladextract."
     ],
     "inci": {
-      "lactose": [
-        "67543001-fc35-48ea-aacb-7396f550c9d9",
-        "4b960fc0-c99d-475f-92cd-15e7aa805f7a",
-        "df3c5665-5b85-46f3-8c79-d1f99934f22a",
-        "2cb7b82e-8748-4238-8c93-2489afad2428",
-        "695521fb-d833-4d49-85f3-409be2d40076",
-        "0625b137-e9b6-4778-8346-703d3ac0515c",
-        "1e6010c5-cc5f-4283-9c1c-f7ea8ff3da69",
-        "6ec147e1-7504-4e1d-a2b7-a49d2ac51300",
-        "6624f154-b0b9-4090-87b1-0e6777f7422e",
-        "d63e397b-3b9b-47cf-9330-3803afe36c29",
-        "0485209c-ed15-4827-a986-6f097b9b358b"
-      ],
-      "citric acid": [
-        "398b79ca-fc64-43b5-bf15-956e6239c1db",
-        "1480f95d-9343-4f09-bf68-4ce68b5cb5c7",
-        "4f345ae4-4989-4790-ac69-9e3918f3521f",
-        "a15f0ed1-c032-4545-b545-31b808440ebe",
-        "0475616d-fb2f-49f8-8edf-06ad7de3aea6",
-        "114a0f38-02c6-4b8e-9497-4a7123db4b99",
-        "92fdfdd5-7cf8-4c76-9c54-8d01be21e806",
-        "2ae3cc68-1096-41c2-8368-1288163e2c75",
-        "50ed5817-b951-4e9e-9bd1-06713bd3c42a",
-        "efb40140-403c-48f0-b76f-a54cc3313786",
-        "e30e18c1-47d2-4558-815f-6902599aa7f2",
-        "3fd7f7bf-ff0e-4fe8-bcf1-fdec2f388e71",
-        "dfbffaa1-9498-4c09-83ba-071285866fca",
-        "14c5d1bf-54ae-4e14-8439-c9297a9561a5",
-        "b30a0a54-bd97-4cdc-b193-b15f41b9aa9d",
-        "0bc748a1-0dfe-4bd6-90a4-7424a130dcba",
-        "b3426c0c-001b-4cf4-ba7f-1b93964598e4",
-        "380e8aa3-149d-497f-973e-8d8898ac05a4",
-        "dda20ee1-8364-4540-92b5-bbd50fa99c85",
-        "cc3cfaeb-3457-44f7-8961-61598a2deda5",
-        "00b6e815-ef31-425b-8c98-9aa6d426f696",
-        "173aa29a-c8ac-404b-b971-119e702bbb54",
-        "0085caa1-70bf-4a6d-9845-62d38ee1de03",
-        "29d51668-d06e-4ca0-84a3-ec7965c67457",
-        "f9c6d0eb-eb39-4671-8fe2-a2e6e4594e66",
-        "16841e6c-abfc-4300-87cb-072d880bb571",
-        "21e68034-a1bb-442c-b382-bf8024b87500",
-        "53bcef98-1ed3-4d7a-9335-739e04539609",
-        "879dfe97-f5b0-409b-b3ab-7e45038f373b",
-        "2d50705f-7aab-497a-9eb1-949bfacf4e2e",
-        "f38c86bd-f573-4998-bc93-0ae4477dac25",
-        "09cfe452-a81c-440f-9b2f-dde3e79cbe88",
-        "e9589e3c-67f5-49cf-8635-2c77ca5c69fc",
-        "3f4d6b44-cde0-447c-b3cf-140a9e375e7c",
-        "7b4c4daf-505f-4391-86e9-854b747710e3",
-        "a59d320f-ad7e-4f45-bb78-3a39371f5b2f",
-        "ecdae489-cedf-4392-8c60-3fa9e0ccad15",
-        "a2a8a8f3-e6e5-41fe-b8e0-8e96c6ec03ea"
-      ],
-      "sodium bicarbonate": [
-        "c3304c5c-ad43-486f-8ade-2d0f2b4619f3",
-        "8ae4c063-1e5b-45d2-a059-eeed93bd0faa",
-        "80908c95-06f7-481b-9328-c8dfe7ac99ea",
-        "c781a17f-d9f7-4f36-a136-353b942808fe",
-        "0a1434a1-fe3c-4245-9dd7-fce13c1cfd2e",
-        "024d018c-47ed-4afc-b14e-fad35f210a33",
-        "d0cfdcad-69e2-40bd-8e2b-87c52bc5dae3",
-        "afad2caf-0273-49a1-badd-43e7c22b717b",
-        "28d4aaa3-dba5-4a19-b937-d65584bb8a7d",
-        "1c8162f1-17bd-420b-8996-524c41f5fc2f",
-        "86606c64-9bdb-4ee3-a50b-a84ebad2be0e",
-        "e2f76bc1-9764-410f-8113-9b006c816c04",
-        "25e20829-2af2-4781-8ed5-daf4c3cc9eb6",
-        "317fe93c-67c5-484d-91b9-777b0be25152",
-        "998e784a-666b-4521-b1fe-7f8ff92de91f",
-        "7e8579f5-6568-47a6-b164-98a195149713",
-        "7bd3f40b-a22e-455e-9386-61d94b290e45"
-      ],
-      "lactic acid": [
-        "366b5960-4dd9-4f4a-9b25-d670d30f3b6f",
-        "d31a8d26-d71a-4959-9159-5c42b8cfe549",
-        "03ff8841-a4ee-4792-a560-c816495970d8",
-        "c03df1c9-18b7-43f1-b065-61b5a27bb900",
-        "97794d0c-d395-4644-89b9-2cdbaf0f81b3",
-        "d2a01d1c-8cfb-4e75-98e6-6d62ba83c4a6",
-        "262b545e-8ced-4703-b90b-36f88fe48724",
-        "f1547e9b-d224-4c4b-8d9f-9a7eb7d6cc21",
-        "cb9201e0-9710-4c88-9134-d677ae0ba208",
-        "c23e32ec-de65-4887-9545-bae9837dc891",
-        "727c38c1-4f8c-4228-9124-4c61e4794487",
-        "b749e066-d540-4a3d-88b4-ee45517f0aac",
-        "9708cee6-39e8-49e2-989e-f27e82682169",
-        "4f252bb3-4105-43ee-8ef7-8b00337afd75",
-        "3f6adfd5-0f1c-465c-a31b-b5748148070e",
-        "d8638571-2c24-4db5-b294-ff1159ca4da7",
-        "bf48a709-95ae-42bf-be72-29253b54ea58",
-        "8e99afe3-f248-4c04-ade7-689900590462",
-        "689f373a-8170-49b1-aff0-50d1f4c8b49a",
-        "3a4b30a5-fd78-4deb-a058-360ddebeb98d",
-        "2be95a51-4278-4661-82c2-66e6a1d80c59"
-      ],
-      "aloe barbadensis leaf extract": [
-        "f794ba87-2b06-4935-9e4e-5463f1c1f5f0",
-        "68eaf554-80b0-490e-8960-73a07ce5649e",
-        "4d7334d6-f0cf-4457-abf9-cc9e468bb6e6",
-        "67f1b0e4-2265-4c3e-be3d-9625923f2c26",
-        "456df705-df39-4025-bec0-075517f06981",
-        "32e42237-ad2e-4811-9b99-b8263aa03e6e",
-        "bcaeba31-7257-4aba-b7e0-b8cb72eb297d",
-        "05259bbe-ec1d-45f6-8d66-92dd25ef97de"
-      ]
+      "lactose": {
+        "cosing_info": {
+          "reference": "67543001-fc35-48ea-aacb-7396f550c9d9",
+          "inci_name": "LACTOSE",
+          "cas_no": [
+            "63-42-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "440995",
+            "sid": "516551381",
+            "cas_no": "63-42-3"
+          }
+        ]
+      },
+      "citric": {
+        "cosing_info": {
+          "reference": "398b79ca-fc64-43b5-bf15-956e6239c1db",
+          "inci_name": "CITRIC ACID",
+          "cas_no": [
+            "77-92-9",
+            "5949-29-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "311",
+            "sid": "481107970",
+            "cas_no": "77-92-9"
+          },
+          {
+            "cid": "22230",
+            "sid": "481107868",
+            "cas_no": "5949-29-1"
+          }
+        ]
+      },
+      "acid": {
+        "cosing_info": {
+          "reference": "2ce6a5ff-38b0-47a8-86bf-06e8a480b066",
+          "inci_name": "Perfluoroheptanoic acid; tridecafluoroheptanoic acid",
+          "cas_no": [
+            "375-85-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "67818",
+            "sid": "500815077",
+            "cas_no": "375-85-9"
+          }
+        ]
+      },
+      "sodium": {
+        "cosing_info": {
+          "reference": "436c3318-3a15-40db-b19b-54900ed3abc1",
+          "inci_name": "SODIUM SIALYLLACTOSE",
+          "cas_no": [
+            "128596-80-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "71308479",
+            "sid": "504500786",
+            "cas_no": "128596-80-5"
+          }
+        ]
+      },
+      "bicarbonate": {
+        "cosing_info": {
+          "reference": "4c65cdec-297b-47d9-913c-6698dd590607",
+          "inci_name": "AMINOGUANIDINE BICARBONATE",
+          "cas_no": [
+            "2582-30-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "164944",
+            "sid": "505553277",
+            "cas_no": "2582-30-1"
+          }
+        ]
+      },
+      "lactic": {
+        "cosing_info": {
+          "reference": "7b7b024e-34fa-4f28-883a-0a1bcc52ffb0",
+          "inci_name": "LACTIC YEASTS",
+          "cas_no": [
+            "68876-77-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "aloe": {
+        "cosing_info": {
+          "reference": "2417ba86-6200-452d-8506-2e62681569b2",
+          "inci_name": "ALOE SPECIES RESIN",
+          "cas_no": [
+            "84837-08-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "barbadensis": {
+        "cosing_info": {
+          "reference": "9c6d5b9b-517c-4f2f-89fd-d874e4af781c",
+          "inci_name": "ALOE BARBADENSIS EXTRACT",
+          "cas_no": [
+            "85507-69-3",
+            "94349-62-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5712222",
+            "sid": "505550691",
+            "cas_no": "85507-69-3"
+          }
+        ]
+      },
+      "leaf": {
+        "cosing_info": {
+          "reference": "8e8792ba-fdf8-439d-864b-3c48468d6204",
+          "inci_name": "PSIDIUM GUAJAVA LEAF OIL",
+          "cas_no": [
+            "91770-12-6 (generic)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "extract": {
+        "cosing_info": {
+          "reference": "6ff40204-b73a-486d-bc81-2a5a6f2faeee",
+          "inci_name": "HAEMATOXYLUM CAMPECHIANUM WOOD EXTRACT",
+          "cas_no": [
+            "8005-33-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "442514",
+            "sid": "505779233",
+            "cas_no": "8005-33-2"
+          }
+        ]
+      },
+      "ascorbic": {
+        "cosing_info": {
+          "reference": "4566935f-c71f-40e0-9f50-cde43ab151b2",
+          "inci_name": "ASCORBIC ACID",
+          "cas_no": [
+            "50-81-7",
+            "62624-30-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "54670067",
+            "sid": "481107957",
+            "cas_no": "50-81-7"
+          },
+          {
+            "cid": "54676860",
+            "sid": "505578434",
+            "cas_no": "62624-30-0"
+          }
+        ]
+      },
+      "uit": {
+        "cosing_info": null,
+        "pubchem_info": [
+          {
+            "cid": "5312860",
+            "sid": "518142406",
+            "cas_no": null
+          }
+        ]
+      }
     }
   },
   "additional_information": {
