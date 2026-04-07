@@ -43,170 +43,396 @@
       "ULTRAMARINES"
     ],
     "inci": {
-      "talc": [
-        "61eb11c5-cc4a-4ee7-b932-d2ca37b57cb4",
-        "15da3bda-611e-404c-80d2-b49a6d927a22",
-        "18a5f7d5-a7e7-4f93-9255-51fa259c0ab4",
-        "bbd983d7-4d29-4d12-9425-37a87f8ea3c5",
-        "1a4c8d24-a4c1-4154-93f4-60e1b584d5ef"
-      ],
-      "mica": [
-        "010eae61-86ea-4457-832d-2edb6b3ef55f",
-        "1101a6c0-c991-4b5a-a414-bca7a5779c23",
-        "46431523-ca8f-46a9-a2b2-d41d7cde1234",
-        "a917e333-0e81-46ef-ac62-93ba543c57bb",
-        "dbeee728-59ad-41c5-852e-f8dcd93fb494",
-        "c49c5456-a851-4325-bda3-e778fd97c40d"
-      ],
-      "isostearyl neopentanoate": [
-        "f08f7bbe-8888-4b8c-8267-9d40a102113c"
-      ],
-      "magnesium stearate": [
-        "85913cec-6268-43e3-9c76-a8c339e01f4d",
-        "dc883165-d2bc-4574-a502-1ca2ab1cdee5"
-      ],
-      "phenyl trimethicone": [
-        "9ae54455-3cc9-4aec-a401-548bedccf989",
-        "56d2b630-aee9-4048-a357-d7b6604ca7df",
-        "1ed2c67b-7c0f-4f68-be2e-98c01b83cad0",
-        "ab1173d3-07d6-476e-aa6f-22238b394f10",
-        "6edbe15b-9d92-4cd2-ab1c-51785f593d2a",
-        "84eccf40-7454-4f7c-abb3-112f2c4ee2f3",
-        "329eceef-a0f8-44b9-a372-07b87b216be1"
-      ],
-      "polybutene": [
-        "b2fbed7c-ef88-4dd4-9325-93b9a92c70a1",
-        "9018f995-968c-4347-b927-03cd3a54abc8"
-      ],
-      "methylparaben": [
-        "cedb3e15-74dd-4775-985b-ea4475684509",
-        "62bb4ff0-9d89-4621-a0b1-8dd6974cbc31",
-        "fcea9e36-5adf-4a57-ad0d-e8d54929cc17",
-        "70af5aef-f671-4013-acca-e89a604fc200"
-      ],
-      "tocopheryl acetate": [
-        "544afce0-b367-442d-a246-29c1c9988d24",
-        "096e8610-396d-43e5-a17c-5532e8963e49",
-        "86896d58-f20f-4c8e-9339-627e0d850838",
-        "0485209c-ed15-4827-a986-6f097b9b358b"
-      ],
-      "propylparaben": [
-        "3a5539dc-13b0-43ec-820e-09525be3b719",
-        "073e8050-ad3a-46c8-bfda-6ef3f1fb73b6",
-        "5295eeab-2ecd-4b73-928a-e31767afcd5a",
-        "5cd6c1e3-9cdd-46f5-af0a-443a85171ae2"
-      ],
-      "cocos nucifera (coconut) oil": [
-        "6b6edff1-a92f-4e8e-a2e0-92559572c4e3",
-        "5b5ea621-64f4-462e-a943-3ba2de03fa5f",
-        "ee1020e1-0054-4309-8a9b-c82c230bd70a",
-        "6e6a0afb-330d-4f7c-8518-0ff38cfc7b41",
-        "16e97b9d-4100-4b2b-a14c-e9933c7066a6",
-        "0c039ce7-8488-4dcb-9af4-b941f729426e",
-        "f5489898-9d08-47df-89d3-d4d686cd03f2",
-        "2506c9f2-cc41-43a1-b32c-ca29b9e90fc5",
-        "c85ee5cc-e0b1-4c0b-8f05-f36b8fc36a7b",
-        "d9bcf8a6-0cbd-42e1-9ea9-3b1d16aa6304",
-        "43f9dc01-723b-4a38-8cda-5e4d0c5c8a5f",
-        "f8597344-fe9e-4c97-8f93-63e6d86b70f0",
-        "fd292c21-87a5-4d7c-9179-094d6ed99e1b",
-        "73aa9f55-895a-48f9-a1e3-c772104ef56d",
-        "ede2e87c-c8f5-43e7-a5cb-0bc70033316b",
-        "67d4c839-872d-44cb-8949-346855fda655",
-        "a11a51d9-1c70-43ea-a5b4-6c2776ea9c7a",
-        "b11abd84-292a-4ef3-b850-d5b461fb0be2",
-        "f2d9d35b-3537-4674-a0b5-875d78151a35",
-        "43fb5a00-748e-41ca-8fef-649a6fb1aefe",
-        "953a2881-c6e4-441d-bb9b-2a8e098f4b59"
-      ],
-      "aloe barbadensis leaf extract": [
-        "f794ba87-2b06-4935-9e4e-5463f1c1f5f0",
-        "68eaf554-80b0-490e-8960-73a07ce5649e",
-        "4d7334d6-f0cf-4457-abf9-cc9e468bb6e6",
-        "67f1b0e4-2265-4c3e-be3d-9625923f2c26",
-        "456df705-df39-4025-bec0-075517f06981",
-        "32e42237-ad2e-4811-9b99-b8263aa03e6e",
-        "bcaeba31-7257-4aba-b7e0-b8cb72eb297d",
-        "05259bbe-ec1d-45f6-8d66-92dd25ef97de"
-      ],
-      "benzyl salicylate": [
-        "ba0d9117-68cd-47ec-943e-ee22d1f97e0c",
-        "396e0bc9-32c1-473d-bd25-8e0cfcd51c17"
-      ],
-      "citronellol": [
-        "0dc4ed58-7d3b-4143-a03f-a9d1dccdabc9",
-        "77758167-316e-48cd-9098-d46c980c897d",
-        "ba477a38-110c-403e-840d-c91597e537ab",
-        "29d4f600-b472-4e2f-8b48-db00cef00849",
-        "cc21873c-a0ea-43d6-9dc2-d7f2ea7e43f6",
-        "1869042b-c968-4a64-bdf8-4ffdf6e0cac9",
-        "b6b4c602-e44e-4ab7-8ebb-062c6bcb95b1",
-        "ffa1a140-f081-419a-85b3-5460e0d7ba39",
-        "ccd1c9bf-9835-4c02-bb80-d3791d4f6690",
-        "77e8e7bb-b62d-4fd8-a213-f709399099f2",
-        "77a285e7-0ed1-4d6d-b7da-085fb19efa3b"
-      ],
-      "hexamethylindanopyran": [
-        "21a8da0c-d1e0-436c-831e-2d0d6e79bcad"
-      ],
-      "terpineol": [
-        "816d1d06-f045-465c-9ced-267f1cf6b94d",
-        "9d2c292a-53a0-44eb-955a-bf666793e88f",
-        "34a5e4d3-904d-42cc-a37b-9c76f39ddc60",
-        "639fdf9c-710d-4ce5-a13c-899590816de1",
-        "77c4653c-3430-4779-bdd8-d76199258418",
-        "c10177eb-30d9-4115-9f6c-b7ce907cda0b",
-        "f65c0f27-78b0-4804-8c28-6071b7f3eaa9",
-        "f0386f6b-f59b-49a8-a468-5c77e8a8188e",
-        "c2d79f26-662b-4480-b669-afdef300ad6e",
-        "67734a62-d120-45e1-ba29-4a62454d9224",
-        "5fd73f7d-090a-41e9-9cf8-ec2d82359ab1",
-        "f43f6f59-9dfd-4a87-b632-82dadb6e5796",
-        "e7b43e73-a3d6-4098-8e90-6fa1dd1cb804",
-        "cfcdbaea-0fbc-4c60-9c38-021736c36bb5",
-        "cad62702-886e-4de6-b03e-7999599e8306",
-        "0e1e8e38-fc2e-4ce7-84f9-4dce5df36518",
-        "dcbdaa4c-4fbc-4473-987a-6d33558a5c19"
-      ],
-      "hexyl cinnamal": [
-        "dfe28bfe-bd94-4e13-9f73-24aba98e5505"
-      ],
-      "linalyl acetate": [
-        "b5a2ca6c-f9ef-4258-b968-f613f7376cb5",
-        "d489e0ea-9a81-4b1d-b8bc-5502db5adb42",
-        "d61c4bec-0b4d-4e48-aef5-a218fea8b8cc",
-        "29a385e8-9ff6-43f0-8eac-8788fb368de3"
-      ],
-      "linalool": [
-        "8f47a2fa-c519-434c-8bb9-8385cf05fea5",
-        "c396cf4a-6357-436d-8d55-fb24f9961d3d",
-        "8d5a2513-3e2c-44f1-8f85-624d6342866f",
-        "0018acfb-f2a4-4538-8f28-f8af71041bb9",
-        "f2357e58-0181-41f6-b80b-457d1f55ee91",
-        "a19ecbd9-8ced-402a-85d8-9e341468e55f",
-        "99634e65-3bfd-420f-a5b9-7094dc581270",
-        "72a74c17-4c98-4ee7-a58a-7d5ff3942560",
-        "cbc4a314-95f5-4345-98cc-61b2d87bf963",
-        "f5f287c8-50f4-4c93-8b0d-41c89b985347",
-        "ccd1c9bf-9835-4c02-bb80-d3791d4f6690",
-        "7b037553-1d27-4931-8108-84efc7f93f6a",
-        "c2d79f26-662b-4480-b669-afdef300ad6e",
-        "a803ace3-7f88-4b6f-aa4a-0b4119093446",
-        "67734a62-d120-45e1-ba29-4a62454d9224",
-        "d489e0ea-9a81-4b1d-b8bc-5502db5adb42",
-        "d61c4bec-0b4d-4e48-aef5-a218fea8b8cc",
-        "29a385e8-9ff6-43f0-8eac-8788fb368de3",
-        "dcbdaa4c-4fbc-4473-987a-6d33558a5c19",
-        "d93d671b-3419-4680-8269-60583ec9ac0e"
-      ],
-      "ci 77492": [
-        "7d7b6af7-26f7-4e93-8b82-c8022388d610"
-      ],
-      "titanium dioxide (ci 77891)": [
-        "3b6d8c27-57ab-42ee-8cfb-3a30dc79cbdf",
-        "fc447eee-75df-4425-bf66-91a1b3929d87",
-        "ff57a03a-400b-4cb0-9686-980d370aefcb"
-      ]
+      "talc": {
+        "cosing_info": {
+          "reference": "61eb11c5-cc4a-4ee7-b932-d2ca37b57cb4",
+          "inci_name": "TALC",
+          "cas_no": [
+            "14807-96-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "165411828",
+            "sid": "516578436",
+            "cas_no": "14807-96-6"
+          }
+        ]
+      },
+      "mica": {
+        "cosing_info": {
+          "reference": "1101a6c0-c991-4b5a-a414-bca7a5779c23",
+          "inci_name": "MICA",
+          "cas_no": [
+            "12001-26-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "131842327",
+            "sid": "505814538",
+            "cas_no": "12001-26-2"
+          }
+        ]
+      },
+      "isostearyl neopentanoate": {
+        "cosing_info": {
+          "reference": "f08f7bbe-8888-4b8c-8267-9d40a102113c",
+          "inci_name": "ISOSTEARYL NEOPENTANOATE",
+          "cas_no": [
+            "58958-60-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "42891",
+            "sid": "505788086",
+            "cas_no": "58958-60-4"
+          }
+        ]
+      },
+      "magnesium stearate": {
+        "cosing_info": {
+          "reference": "85913cec-6268-43e3-9c76-a8c339e01f4d",
+          "inci_name": "MAGNESIUM STEARATE",
+          "cas_no": [
+            "557-04-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "11177",
+            "sid": "481107313",
+            "cas_no": "557-04-0"
+          }
+        ]
+      },
+      "phenyl trimethicone": {
+        "cosing_info": {
+          "reference": "9ae54455-3cc9-4aec-a401-548bedccf989",
+          "inci_name": "PHENYL TRIMETHICONE",
+          "cas_no": [
+            "195868-36-1",
+            "70131-69-0",
+            "2116-84-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "62427",
+            "sid": "518143001",
+            "cas_no": "2116-84-9"
+          }
+        ]
+      },
+      "polybutene": {
+        "cosing_info": {
+          "reference": "9018f995-968c-4347-b927-03cd3a54abc8",
+          "inci_name": "POLYBUTENE",
+          "cas_no": [
+            "9003-28-5",
+            "9003-29-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "methylparaben": {
+        "cosing_info": {
+          "reference": "62bb4ff0-9d89-4621-a0b1-8dd6974cbc31",
+          "inci_name": "METHYLPARABEN",
+          "cas_no": [
+            "99-76-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "7456",
+            "sid": "481107807",
+            "cas_no": "99-76-3"
+          }
+        ]
+      },
+      "tocopheryl acetate": {
+        "cosing_info": {
+          "reference": "544afce0-b367-442d-a246-29c1c9988d24",
+          "inci_name": "TOCOPHERYL ACETATE",
+          "cas_no": [
+            "7695-91-2",
+            "58-95-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "2117",
+            "sid": "518175238",
+            "cas_no": "7695-91-2"
+          },
+          {
+            "cid": "86472",
+            "sid": "481106872",
+            "cas_no": "58-95-7"
+          }
+        ]
+      },
+      "propylparaben": {
+        "cosing_info": {
+          "reference": "073e8050-ad3a-46c8-bfda-6ef3f1fb73b6",
+          "inci_name": "PROPYLPARABEN",
+          "cas_no": [
+            "94-13-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "7175",
+            "sid": "481107517",
+            "cas_no": "94-13-3"
+          }
+        ]
+      },
+      "cocos nucifera oil": {
+        "cosing_info": {
+          "reference": "ee1020e1-0054-4309-8a9b-c82c230bd70a",
+          "inci_name": "COCOS NUCIFERA OIL",
+          "cas_no": [
+            "8001-31-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "paraffinum liquidum": {
+        "cosing_info": {
+          "reference": "8f9be648-8ecc-49a6-bad7-2c9ca8ac823b",
+          "inci_name": "PARAFFINUM LIQUIDUM",
+          "cas_no": [
+            "8012-95-1",
+            "8042-47-5"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "mineral oil": {
+        "cosing_info": {
+          "reference": "f9e8f424-37a1-4d5e-89e6-42def6c1323e",
+          "inci_name": "MINERAL OIL",
+          "cas_no": [
+            "8012-95-1",
+            "8042-47-5",
+            "8020-83-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "139291139",
+            "sid": null,
+            "cas_no": "8020-83-5"
+          }
+        ]
+      },
+      "parfum": {
+        "cosing_info": {
+          "reference": "877337a9-4a8b-4d17-bed7-f3a39d335e80",
+          "inci_name": "PARFUM",
+          "cas_no": []
+        },
+        "pubchem_info": []
+      },
+      "fragrance": {
+        "cosing_info": {
+          "reference": "8df6b6bc-f26a-438c-8dc4-130db9e8ce6b",
+          "inci_name": "3,7-Dimethyl-2-octen-1-ol (6,7-Dihydrogeraniol), when used as a fragrance ingredient",
+          "cas_no": [
+            "40607-48-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5365836",
+            "sid": "504562939",
+            "cas_no": "40607-48-5"
+          }
+        ]
+      },
+      "aloe barbadensis leaf extract": {
+        "cosing_info": {
+          "reference": "f794ba87-2b06-4935-9e4e-5463f1c1f5f0",
+          "inci_name": "ALOE BARBADENSIS LEAF EXTRACT",
+          "cas_no": [
+            "85507-69-3",
+            "94349-62-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5712222",
+            "sid": "505550691",
+            "cas_no": "85507-69-3"
+          }
+        ]
+      },
+      "benzyl salicylate": {
+        "cosing_info": {
+          "reference": "ba0d9117-68cd-47ec-943e-ee22d1f97e0c",
+          "inci_name": "BENZYL SALICYLATE",
+          "cas_no": [
+            "118-58-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8363",
+            "sid": "481106937",
+            "cas_no": "118-58-1"
+          }
+        ]
+      },
+      "citronellol": {
+        "cosing_info": {
+          "reference": "0dc4ed58-7d3b-4143-a03f-a9d1dccdabc9",
+          "inci_name": "CITRONELLOL",
+          "cas_no": [
+            "106-22-9",
+            "26489-01-0",
+            "7540-51-4",
+            "1117-61-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8842",
+            "sid": "482039864",
+            "cas_no": "106-22-9"
+          },
+          {
+            "cid": "8842",
+            "sid": "482039864",
+            "cas_no": "26489-01-0"
+          },
+          {
+            "cid": "7793",
+            "sid": "505563004",
+            "cas_no": "7540-51-4"
+          },
+          {
+            "cid": "101977",
+            "sid": "483924806",
+            "cas_no": "1117-61-9"
+          }
+        ]
+      },
+      "hexamethylindanopyran": {
+        "cosing_info": {
+          "reference": "21a8da0c-d1e0-436c-831e-2d0d6e79bcad",
+          "inci_name": "HEXAMETHYLINDANOPYRAN",
+          "cas_no": [
+            "1222-05-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "91497",
+            "sid": "505629237",
+            "cas_no": "1222-05-5"
+          }
+        ]
+      },
+      "terpineol": {
+        "cosing_info": {
+          "reference": "816d1d06-f045-465c-9ced-267f1cf6b94d",
+          "inci_name": "TERPINEOL",
+          "cas_no": [
+            "8000-41-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "hexyl cinnamal": {
+        "cosing_info": {
+          "reference": "dfe28bfe-bd94-4e13-9f73-24aba98e5505",
+          "inci_name": "HEXYL CINNAMAL",
+          "cas_no": [
+            "101-86-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "1550884",
+            "sid": "505551463",
+            "cas_no": "101-86-0"
+          }
+        ]
+      },
+      "linalyl acetate": {
+        "cosing_info": {
+          "reference": "b5a2ca6c-f9ef-4258-b968-f613f7376cb5",
+          "inci_name": "LINALYL ACETATE",
+          "cas_no": [
+            "115-95-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8294",
+            "sid": "482027779",
+            "cas_no": "115-95-7"
+          }
+        ]
+      },
+      "linalool": {
+        "cosing_info": {
+          "reference": "8f47a2fa-c519-434c-8bb9-8385cf05fea5",
+          "inci_name": "LINALOOL",
+          "cas_no": [
+            "78-70-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6549",
+            "sid": "482028551",
+            "cas_no": "78-70-6"
+          }
+        ]
+      },
+      "titanium dioxide": {
+        "cosing_info": {
+          "reference": "8ba16816-692e-4285-b48e-d203761c2220",
+          "inci_name": "Titanium Dioxide",
+          "cas_no": [
+            "13463-67-7[1]",
+            "1317-70-0[2]",
+            "1317-80-2[3]"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "ultramarines": {
+        "cosing_info": {
+          "reference": "4fccee4a-b15e-4885-9ce1-3cf9191a9823",
+          "inci_name": "ULTRAMARINES",
+          "cas_no": [
+            "1302-83-6",
+            "1317-97-1",
+            "1345-00-2",
+            "11118-33-5",
+            "12703-66-1",
+            "12769-96-9",
+            "57455-37-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "91667813",
+            "sid": "505572818",
+            "cas_no": "12769-96-9"
+          },
+          {
+            "cid": "71587188",
+            "sid": "516563708",
+            "cas_no": "57455-37-5"
+          }
+        ]
+      }
     }
   },
   "additional_information": {
