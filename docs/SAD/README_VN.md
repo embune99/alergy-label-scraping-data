@@ -340,7 +340,198 @@ graph TD
 
 ## 5. Cấu Trúc Database
 
-### 5.1 Bảng Product (Azure SQL)
+### 5.1 Sơ Đồ Entity-Relationship (ERD)
+
+```mermaid
+erDiagram
+    users ||--o{ user_allergies : "có"
+    users ||--o{ scanned_products : "quét"
+    users ||--o{ user_favorites : "yêu thích"
+
+    products ||--o{ product_ingredients : "chứa"
+    products ||--o{ scanned_products : "được quét"
+    products ||--o{ user_favorites : "được thích"
+
+    ingredients ||--o{ product_ingredients : "thuộc"
+    ingredients ||--o{ ingredient_allergens : "chứa"
+
+    allergens ||--o{ ingredient_allergens : "có trong"
+    allergens ||--o{ user_allergies : "gây dị ứng"
+
+    users {
+        int id PK
+        varchar username
+        varchar email
+        varchar password
+        enum role
+        datetime created_at
+        datetime updated_at
+    }
+
+    products {
+        int id PK
+        varchar name
+        varchar brand
+        text description
+        varchar barcode
+        datetime created_at
+        datetime updated_at
+    }
+
+    ingredients {
+        int id PK
+        varchar name
+        text description
+        datetime created_at
+        datetime updated_at
+    }
+
+    allergens {
+        int id PK
+        varchar name
+        text description
+        enum severity_level
+        datetime created_at
+        datetime updated_at
+    }
+
+    product_ingredients {
+        int product_id FK
+        int ingredient_id FK
+        datetime created_at
+    }
+
+    ingredient_allergens {
+        int ingredient_id FK
+        int allergen_id FK
+        datetime created_at
+    }
+
+    user_allergies {
+        int id PK
+        int user_id FK
+        int allergen_id FK
+        varchar severity_level
+        text notes
+        datetime created_at
+        datetime updated_at
+    }
+
+    scanned_products {
+        int id PK
+        int user_id FK
+        int product_id FK
+        datetime scanned_at
+    }
+
+    user_favorites {
+        int id PK
+        int user_id FK
+        int product_id FK
+        datetime created_at
+    }
+```
+
+### 5.2 Chi Tiết Các Bảng
+
+#### 5.2.1 Bảng users - Người Dùng
+
+| Column | Type | Attributes | Mô Tả |
+|--------|------|------------|-------|
+| id | INT | PK, AUTO_INCREMENT | ID duy nhất của người dùng |
+| username | VARCHAR(255) | UNIQUE, NOT NULL | Tên đăng nhập |
+| email | VARCHAR(255) | UNIQUE, NOT NULL | Email người dùng |
+| password | VARCHAR(255) | NOT NULL | Mật khẩu đã được hash |
+| role | ENUM | ('user', 'admin') | Vai trò người dùng |
+| created_at | DATETIME | DEFAULT CURRENT_TIMESTAMP | Thời gian tạo tài khoản |
+| updated_at | DATETIME | ON UPDATE CURRENT_TIMESTAMP | Thời gian cập nhật lần cuối |
+
+#### 5.2.2 Bảng products - Sản Phẩm
+
+| Column | Type | Attributes | Mô Tả |
+|--------|------|------------|-------|
+| id | INT | PK, AUTO_INCREMENT | ID duy nhất của sản phẩm |
+| name | VARCHAR(255) | NOT NULL | Tên sản phẩm |
+| brand | VARCHAR(255) | | Thương hiệu |
+| description | TEXT | | Mô tả sản phẩm |
+| barcode | VARCHAR(50) | UNIQUE | Mã vạch sản phẩm |
+| created_at | DATETIME | DEFAULT CURRENT_TIMESTAMP | Thời gian tạo bản ghi |
+| updated_at | DATETIME | ON UPDATE CURRENT_TIMESTAMP | Thời gian cập nhật lần cuối |
+
+#### 5.2.3 Bảng ingredients - Thành Phần
+
+| Column | Type | Attributes | Mô Tả |
+|--------|------|------------|-------|
+| id | INT | PK, AUTO_INCREMENT | ID duy nhất của thành phần |
+| name | VARCHAR(255) | UNIQUE, NOT NULL | Tên thành phần (INCI name) |
+| description | TEXT | | Mô tả chi tiết |
+| created_at | DATETIME | DEFAULT CURRENT_TIMESTAMP | Thời gian tạo bản ghi |
+| updated_at | DATETIME | ON UPDATE CURRENT_TIMESTAMP | Thời gian cập nhật lần cuối |
+
+#### 5.2.4 Bảng allergens - Chất Gây Dị Ứng
+
+| Column | Type | Attributes | Mô Tả |
+|--------|------|------------|-------|
+| id | INT | PK, AUTO_INCREMENT | ID duy nhất của chất gây dị ứng |
+| name | VARCHAR(255) | UNIQUE, NOT NULL | Tên chất gây dị ứng |
+| description | TEXT | | Mô tả chi tiết |
+| severity_level | ENUM | ('low', 'medium', 'high') | Mức độ nghiêm trọng |
+| created_at | DATETIME | DEFAULT CURRENT_TIMESTAMP | Thời gian tạo bản ghi |
+| updated_at | DATETIME | ON UPDATE CURRENT_TIMESTAMP | Thời gian cập nhật lần cuối |
+
+#### 5.2.5 Bảng product_ingredients - Sản Phẩm <--> Thành Phần (Many-to-Many)
+
+| Column | Type | Attributes | Mô Tả |
+|--------|------|------------|-------|
+| product_id | INT | FK, NOT NULL | Khóa ngoại đến products.id |
+| ingredient_id | INT | FK, NOT NULL | Khóa ngoại đến ingredients.id |
+| created_at | DATETIME | DEFAULT CURRENT_TIMESTAMP | Thời gian tạo bản ghi |
+
+**Primary Key:** (product_id, ingredient_id)
+
+#### 5.2.6 Bảng ingredient_allergens - Thành Phần <--> Chất Gây Dị Ứng (Many-to-Many)
+
+| Column | Type | Attributes | Mô Tả |
+|--------|------|------------|-------|
+| ingredient_id | INT | FK, NOT NULL | Khóa ngoại đến ingredients.id |
+| allergen_id | INT | FK, NOT NULL | Khóa ngoại đến allergens.id |
+| created_at | DATETIME | DEFAULT CURRENT_TIMESTAMP | Thời gian tạo bản ghi |
+
+**Primary Key:** (ingredient_id, allergen_id)
+
+#### 5.2.7 Bảng user_allergies - Dị Ứng Cá Nhân
+
+| Column | Type | Attributes | Mô Tả |
+|--------|------|------------|-------|
+| id | INT | PK, AUTO_INCREMENT | ID duy nhất của bản ghi |
+| user_id | INT | FK, NOT NULL | Khóa ngoại đến users.id |
+| allergen_id | INT | FK, NOT NULL | Khóa ngoại đến allergens.id |
+| severity_level | VARCHAR(50) | | Mức độ nghiêm trọng cá nhân |
+| notes | TEXT | | Ghi chú thêm |
+| created_at | DATETIME | DEFAULT CURRENT_TIMESTAMP | Thời gian tạo bản ghi |
+| updated_at | DATETIME | ON UPDATE CURRENT_TIMESTAMP | Thời gian cập nhật lần cuối |
+
+#### 5.2.8 Bảng scanned_products - Lịch Sử Quét Mã
+
+| Column | Type | Attributes | Mô Tả |
+|--------|------|------------|-------|
+| id | INT | PK, AUTO_INCREMENT | ID duy nhất của bản ghi |
+| user_id | INT | FK, NOT NULL | Khóa ngoại đến users.id |
+| product_id | INT | FK, NOT NULL | Khóa ngoại đến products.id |
+| scanned_at | DATETIME | DEFAULT CURRENT_TIMESTAMP | Thời gian quét |
+
+#### 5.2.9 Bảng user_favorites - Sản Phẩm Yêu Thích
+
+| Column | Type | Attributes | Mô Tả |
+|--------|------|------------|-------|
+| id | INT | PK, AUTO_INCREMENT | ID duy nhất của bản ghi |
+| user_id | INT | FK, NOT NULL | Khóa ngoại đến users.id |
+| product_id | INT | FK, NOT NULL | Khóa ngoại đến products.id |
+| created_at | DATETIME | DEFAULT CURRENT_TIMESTAMP | Thời gian thêm vào yêu thích |
+
+**Primary Key:** (user_id, product_id)
+
+### 5.3 Bảng Product Crawler (Azure SQL)
 
 | Column | Type | Mô Tả | Nguồn |
 |--------|------|-------------|--------|
@@ -357,7 +548,7 @@ graph TD
 | created_at | DATETIME | Timestamp tạo bản ghi | Hệ thống |
 | updated_at | DATETIME | Timestamp cập nhật lần cuối | Hệ thống |
 
-### 5.2 Cấu Trúc Làm Giàu Thành Phần
+### 5.4 Cấu Trúc Làm Giàu Thành Phần
 
 ```json
 {

@@ -340,7 +340,198 @@ graph TD
 
 ## 5. Database Schema
 
-### 5.1 Product Table (Azure SQL)
+### 5.1 Entity-Relationship Diagram (ERD)
+
+```mermaid
+erDiagram
+    users ||--o{ user_allergies : "has"
+    users ||--o{ scanned_products : "scans"
+    users ||--o{ user_favorites : "likes"
+
+    products ||--o{ product_ingredients : "contains"
+    products ||--o{ scanned_products : "scanned_by"
+    products ||--o{ user_favorites : "liked_by"
+
+    ingredients ||--o{ product_ingredients : "belongs_to"
+    ingredients ||--o{ ingredient_allergens : "contains"
+
+    allergens ||--o{ ingredient_allergens : "found_in"
+    allergens ||--o{ user_allergies : "causes"
+
+    users {
+        int id PK
+        varchar username
+        varchar email
+        varchar password
+        enum role
+        datetime created_at
+        datetime updated_at
+    }
+
+    products {
+        int id PK
+        varchar name
+        varchar brand
+        text description
+        varchar barcode
+        datetime created_at
+        datetime updated_at
+    }
+
+    ingredients {
+        int id PK
+        varchar name
+        text description
+        datetime created_at
+        datetime updated_at
+    }
+
+    allergens {
+        int id PK
+        varchar name
+        text description
+        enum severity_level
+        datetime created_at
+        datetime updated_at
+    }
+
+    product_ingredients {
+        int product_id FK
+        int ingredient_id FK
+        datetime created_at
+    }
+
+    ingredient_allergens {
+        int ingredient_id FK
+        int allergen_id FK
+        datetime created_at
+    }
+
+    user_allergies {
+        int id PK
+        int user_id FK
+        int allergen_id FK
+        varchar severity_level
+        text notes
+        datetime created_at
+        datetime updated_at
+    }
+
+    scanned_products {
+        int id PK
+        int user_id FK
+        int product_id FK
+        datetime scanned_at
+    }
+
+    user_favorites {
+        int id PK
+        int user_id FK
+        int product_id FK
+        datetime created_at
+    }
+```
+
+### 5.2 Table Details
+
+#### 5.2.1 users Table
+
+| Column | Type | Attributes | Description |
+|--------|------|------------|-------------|
+| id | INT | PK, AUTO_INCREMENT | Unique user identifier |
+| username | VARCHAR(255) | UNIQUE, NOT NULL | Login username |
+| email | VARCHAR(255) | UNIQUE, NOT NULL | User email address |
+| password | VARCHAR(255) | NOT NULL | Hashed password |
+| role | ENUM | ('user', 'admin') | User role |
+| created_at | DATETIME | DEFAULT CURRENT_TIMESTAMP | Account creation timestamp |
+| updated_at | DATETIME | ON UPDATE CURRENT_TIMESTAMP | Last update timestamp |
+
+#### 5.2.2 products Table
+
+| Column | Type | Attributes | Description |
+|--------|------|------------|-------------|
+| id | INT | PK, AUTO_INCREMENT | Unique product identifier |
+| name | VARCHAR(255) | NOT NULL | Product name |
+| brand | VARCHAR(255) | | Brand name |
+| description | TEXT | | Product description |
+| barcode | VARCHAR(50) | UNIQUE | Product barcode |
+| created_at | DATETIME | DEFAULT CURRENT_TIMESTAMP | Record creation timestamp |
+| updated_at | DATETIME | ON UPDATE CURRENT_TIMESTAMP | Last update timestamp |
+
+#### 5.2.3 ingredients Table
+
+| Column | Type | Attributes | Description |
+|--------|------|------------|-------------|
+| id | INT | PK, AUTO_INCREMENT | Unique ingredient identifier |
+| name | VARCHAR(255) | UNIQUE, NOT NULL | Ingredient name (INCI name) |
+| description | TEXT | | Detailed description |
+| created_at | DATETIME | DEFAULT CURRENT_TIMESTAMP | Record creation timestamp |
+| updated_at | DATETIME | ON UPDATE CURRENT_TIMESTAMP | Last update timestamp |
+
+#### 5.2.4 allergens Table
+
+| Column | Type | Attributes | Description |
+|--------|------|------------|-------------|
+| id | INT | PK, AUTO_INCREMENT | Unique allergen identifier |
+| name | VARCHAR(255) | UNIQUE, NOT NULL | Allergen name |
+| description | TEXT | | Detailed description |
+| severity_level | ENUM | ('low', 'medium', 'high') | Severity level |
+| created_at | DATETIME | DEFAULT CURRENT_TIMESTAMP | Record creation timestamp |
+| updated_at | DATETIME | ON UPDATE CURRENT_TIMESTAMP | Last update timestamp |
+
+#### 5.2.5 product_ingredients Table (Many-to-Many)
+
+| Column | Type | Attributes | Description |
+|--------|------|------------|-------------|
+| product_id | INT | FK, NOT NULL | Foreign key to products.id |
+| ingredient_id | INT | FK, NOT NULL | Foreign key to ingredients.id |
+| created_at | DATETIME | DEFAULT CURRENT_TIMESTAMP | Record creation timestamp |
+
+**Primary Key:** (product_id, ingredient_id)
+
+#### 5.2.6 ingredient_allergens Table (Many-to-Many)
+
+| Column | Type | Attributes | Description |
+|--------|------|------------|-------------|
+| ingredient_id | INT | FK, NOT NULL | Foreign key to ingredients.id |
+| allergen_id | INT | FK, NOT NULL | Foreign key to allergens.id |
+| created_at | DATETIME | DEFAULT CURRENT_TIMESTAMP | Record creation timestamp |
+
+**Primary Key:** (ingredient_id, allergen_id)
+
+#### 5.2.7 user_allergies Table
+
+| Column | Type | Attributes | Description |
+|--------|------|------------|-------------|
+| id | INT | PK, AUTO_INCREMENT | Unique record identifier |
+| user_id | INT | FK, NOT NULL | Foreign key to users.id |
+| allergen_id | INT | FK, NOT NULL | Foreign key to allergens.id |
+| severity_level | VARCHAR(50) | | Personal severity level |
+| notes | TEXT | | Additional notes |
+| created_at | DATETIME | DEFAULT CURRENT_TIMESTAMP | Record creation timestamp |
+| updated_at | DATETIME | ON UPDATE CURRENT_TIMESTAMP | Last update timestamp |
+
+#### 5.2.8 scanned_products Table - Scan History
+
+| Column | Type | Attributes | Description |
+|--------|------|------------|-------------|
+| id | INT | PK, AUTO_INCREMENT | Unique record identifier |
+| user_id | INT | FK, NOT NULL | Foreign key to users.id |
+| product_id | INT | FK, NOT NULL | Foreign key to products.id |
+| scanned_at | DATETIME | DEFAULT CURRENT_TIMESTAMP | Scan timestamp |
+
+#### 5.2.9 user_favorites Table
+
+| Column | Type | Attributes | Description |
+|--------|------|------------|-------------|
+| id | INT | PK, AUTO_INCREMENT | Unique record identifier |
+| user_id | INT | FK, NOT NULL | Foreign key to users.id |
+| product_id | INT | FK, NOT NULL | Foreign key to products.id |
+| created_at | DATETIME | DEFAULT CURRENT_TIMESTAMP | Added to favorites timestamp |
+
+**Primary Key:** (user_id, product_id)
+
+### 5.3 Product Crawler Table (Azure SQL)
 
 | Column | Type | Description | Source |
 |--------|------|-------------|--------|
@@ -357,7 +548,7 @@ graph TD
 | created_at | DATETIME | Record creation timestamp | System |
 | updated_at | DATETIME | Last update timestamp | System |
 
-### 5.2 Ingredient Enrichment Structure
+### 5.4 Ingredient Enrichment Structure
 
 ```json
 {

@@ -1,0 +1,232 @@
+{% extends "base.html" %}
+
+{% block title %}INCI Mapping - Etos products{% endblock %}
+
+{% block content %}
+<style>
+  .inci-mapping-header {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    border-radius: 12px;
+    padding: 30px;
+    margin-bottom: 20px;
+    color: white;
+  }
+
+  .inci-mapping-header h1 {
+    color: white;
+    margin-bottom: 5px;
+  }
+
+  .inci-mapping-header p {
+    color: rgba(255,255,255,0.9);
+  }
+
+  .inci-stats {
+    display: flex;
+    gap: 30px;
+    margin-top: 20px;
+  }
+
+  .inci-stat {
+    background: rgba(255,255,255,0.2);
+    padding: 15px 20px;
+    border-radius: 8px;
+  }
+
+  .inci-stat-label {
+    font-size: 12px;
+    color: rgba(255,255,255,0.8);
+    text-transform: uppercase;
+  }
+
+  .inci-stat-value {
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+  }
+
+  .inci-search-box {
+    background: white;
+    border-radius: 12px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+  }
+
+  #inciSearchInput {
+    width: 100%;
+    padding: 15px;
+    border: 2px solid #e2e8f0;
+    border-radius: 8px;
+    font-size: 16px;
+    transition: border-color 0.3s;
+  }
+
+  #inciSearchInput:focus {
+    outline: none;
+    border-color: #667eea;
+  }
+
+  .inci-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    gap: 15px;
+  }
+
+  .inci-card {
+    background: white;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+
+  .inci-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+  }
+
+  .inci-name {
+    font-size: 14px;
+    font-weight: bold;
+    color: #667eea;
+    margin-bottom: 10px;
+    word-break: break-word;
+  }
+
+  .key-count {
+    font-size: 12px;
+    color: #666;
+    margin-bottom: 10px;
+  }
+
+  .inci-keys {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+  }
+
+  .inci-key {
+    background: #edf2f7;
+    color: #4a5568;
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: 11px;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  }
+
+  .no-results {
+    background: white;
+    border-radius: 12px;
+    padding: 40px;
+    text-align: center;
+    color: #666;
+  }
+
+  .back-link {
+    display: inline-block;
+    margin-bottom: 20px;
+    color: #2563eb;
+    text-decoration: none;
+  }
+
+  .back-link:hover {
+    text-decoration: underline;
+  }
+</style>
+
+<a href="{{ url_for('index') }}" class="back-link">← Back to categories</a>
+
+<div class="inci-mapping-header">
+  <h1>INCI Mapping Visualization</h1>
+  <p>Maps INCI names to their ingredient keys found across all products</p>
+  <div class="inci-stats">
+    <div class="inci-stat">
+      <div class="inci-stat-label">Total INCI Names</div>
+      <div class="inci-stat-value" id="totalInci">{{ mapping_data|length }}</div>
+    </div>
+    <div class="inci-stat">
+      <div class="inci-stat-label">Total Ingredient Keys</div>
+      <div class="inci-stat-value" id="totalKeys">0</div>
+    </div>
+    <div class="inci-stat">
+      <div class="inci-stat-label">Showing</div>
+      <div class="inci-stat-value" id="showing">{{ mapping_data|length }}</div>
+    </div>
+  </div>
+</div>
+
+<div class="inci-search-box">
+  <input type="text" id="inciSearchInput" placeholder="Search INCI names or ingredient keys..." />
+</div>
+
+<div class="inci-grid" id="inciGrid"></div>
+<div class="no-results hidden" id="inciNoResults">No results found</div>
+
+<script>
+  const mappingData = {{ mapping_data|tojson }};
+  let currentData = mappingData;
+
+  function updateStats(data) {
+    const totalKeys = Object.values(data).reduce((sum, keys) => sum + keys.length, 0);
+    document.getElementById('totalKeys').textContent = totalKeys;
+    document.getElementById('showing').textContent = Object.keys(data).length;
+  }
+
+  function escapeHtml(text) {
+    const div = document.createElement('div');
+    div.textContent = text;
+    return div.innerHTML;
+  }
+
+  function renderGrid(data) {
+    const grid = document.getElementById('inciGrid');
+    grid.innerHTML = '';
+
+    for (const [inciName, keys] of Object.entries(data)) {
+      const card = document.createElement('div');
+      card.className = 'inci-card';
+
+      card.innerHTML = `
+        <div class="inci-name">${escapeHtml(inciName)}</div>
+        <div class="key-count">${keys.length} ingredient key${keys.length > 1 ? 's' : ''}</div>
+        <div class="inci-keys">
+          ${keys.map(key => `<span class="inci-key">${escapeHtml(key)}</span>`).join('')}
+        </div>
+      `;
+
+      grid.appendChild(card);
+    }
+
+    document.getElementById('inciNoResults').classList.add('hidden');
+  }
+
+  // Initial render
+  updateStats(mappingData);
+  renderGrid(mappingData);
+
+  // Search functionality
+  document.getElementById('inciSearchInput').addEventListener('input', function(e) {
+    const query = e.target.value.toLowerCase();
+    const filtered = {};
+
+    for (const [inciName, keys] of Object.entries(mappingData)) {
+      const nameMatch = inciName.toLowerCase().includes(query);
+      const keyMatch = keys.some(key => key.toLowerCase().includes(query));
+
+      if (nameMatch || keyMatch) {
+        filtered[inciName] = keys;
+      }
+    }
+
+    if (Object.keys(filtered).length === 0) {
+      document.getElementById('inciGrid').innerHTML = '';
+      document.getElementById('inciNoResults').classList.remove('hidden');
+      document.getElementById('showing').textContent = '0';
+    } else {
+      renderGrid(filtered);
+      updateStats(filtered);
+    }
+  });
+</script>
+{% endblock %}

@@ -180,6 +180,7 @@
         {% if session.get("logged_in") %}
           <span style="font-size:0.85rem; opacity:0.8;">Signed in as {{ session.get("username") }}</span>
           <a href="{{ url_for('index') }}">All categories</a>
+          <a href="{{ url_for('inci_mapping') }}">INCI Mapping</a>
           <a href="{{ url_for('logout') }}">Logout</a>
         {% else %}
           <a href="{{ url_for('login') }}">Login</a>

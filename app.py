@@ -244,6 +244,17 @@ def logout():
     return redirect(url_for("login"))
 
 
+@app.route("/inci-mapping/")
+@login_required
+def inci_mapping():
+    mapping_path = BASE_DIR / "inci_mapping.json"
+    mapping_data = {}
+    if mapping_path.exists():
+        with mapping_path.open(encoding="utf-8") as f:
+            mapping_data = json.load(f)
+    return render_template("inci_mapping.html", mapping_data=mapping_data)
+
+
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", "5000"))
     app.run(debug=True, host="0.0.0.0", port=port)
