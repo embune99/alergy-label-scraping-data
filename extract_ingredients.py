@@ -55,14 +55,210 @@ def extract_ingredients_from_file(filepath: Path) -> List[str]:
             # Thay thế bằng chuỗi rỗng
             raw = raw.replace(disclaimer, "")
 
-            # Thay vì map() và flat() liên tục, dùng re.split để cắt chuỗi 
-            # bằng bất kỳ delimiter nào trong: " • ", ": ", " / ", ", "
-            results = re.split(r' • |: | / |, |,| · | * ', raw)
+            # Remove ingredient-related prefixes (various languages) - anywhere in string
+            raw = re.sub(r'INGREDIE?NTS?\s*:?\s*', '', raw, flags=re.IGNORECASE)
+            raw = re.sub(r'INGREDIENTEN\s*:?\s*', '', raw, flags=re.IGNORECASE)
+            raw = re.sub(r'INGREDIENTES\s*:?\s*', '', raw, flags=re.IGNORECASE)
+            raw = re.sub(r'INGREDIËNTEN\s*:?\s*', '', raw, flags=re.IGNORECASE)
+            raw = re.sub(r'INGREDIËNTS?\s*:?\s*', '', raw, flags=re.IGNORECASE)
+            raw = re.sub(r'INGEDRIENTS?\s*:?\s*', '', raw, flags=re.IGNORECASE)
+            raw = re.sub(r'ZUTATEN\s*:?\s*', '', raw, flags=re.IGNORECASE)
+            raw = re.sub(r'INGREDIENTI\s*:?\s*', '', raw, flags=re.IGNORECASE)
+            # Remove organic farming notes
+            raw = re.sub(r'Ingredients? from Organic Farming.*', '', raw, flags=re.IGNORECASE)
+            raw = re.sub(r'Ingredients? stick\s*:.*', '', raw, flags=re.IGNORECASE)
+            raw = re.sub(r'Ingrédients issues de l\'Agriculture Biologique.*', '', raw, flags=re.IGNORECASE)
+            raw = re.sub(r'Ingrédients issus [\'d]e l\'Agriculture Biologique.*', '', raw, flags=re.IGNORECASE)
+            # Remove "Ingrediënten:" prefix (Dutch for "Ingredients:") - anywhere in string
+            raw = re.sub(r'.*?Ingrediënten\s*:?\s*', '', raw, flags=re.IGNORECASE)
+            # Remove "Fair Trade Ingredient" patterns
+            raw = re.sub(r'Fair Trade Ingredient\s*\|?\s*Natural ingredients may vary in color and consistency.*', '', raw, flags=re.IGNORECASE)
+            raw = re.sub(r'Fair Trade Ingredient\s*\|?\s*Natural ingredients may vary.*', '', raw, flags=re.IGNORECASE)
+            raw = re.sub(r'Fair Trade Ingredient\s*', '', raw, flags=re.IGNORECASE)
+            # Remove "DO NOT USE" (case-insensitive)
+            raw = re.sub(r'DO NOT USE\s*', '', raw, flags=re.IGNORECASE)
+            # Remove product name prefixes followed by colon (e.g., "WAX STRIPS:")
+            raw = re.sub(r'^[A-Z][A-Z\s]{5,}:\s*', '', raw)
+            # Remove "+/- may contain" and "may contain" patterns
+            raw = re.sub(r'^\+/?\s*-\s*may\s+contain\s*:?\s*', '', raw, flags=re.IGNORECASE)
+            raw = re.sub(r'^may\s+contain\s*:?\s*', '', raw, flags=re.IGNORECASE)
+            # Remove content in parentheses (e.g., "(F.I.L. N70016807/1)")
+            raw = re.sub(r'\([^)]*\)', '', raw)
+            # Remove concentration patterns - must include % or w/w/w/v/v/v indicator (not CI + number)
+            # Split approach: protect CI + number patterns first, then remove concentrations, then restore
+            ci_placeholders = {}
+            def protect_ci_patterns(m):
+                placeholder = f"__CI_{len(ci_placeholders)}__"
+                ci_placeholders[placeholder] = m.group(0)
+                return placeholder
+            raw = re.sub(r'CI\s+\d+[A-Za-z]?', protect_ci_patterns, raw)
+            # Now remove concentrations (safe since CI patterns are protected)
+            raw = re.sub(r'\d+[,.]?\d*\s*(?:%|w/w|w/v|v/v)\s*(?:&?\s*\d+[,.]?\d*\s*(?:%|w/w|w/v|v/v)\s*)?', '', raw)
+            raw = re.sub(r'\d+\s+ppm\b', '', raw)
+            # Restore CI patterns
+            for placeholder, original in ci_placeholders.items():
+                raw = raw.replace(placeholder, original)
+            # Remove Dutch "Bevat" (contains) statements with ingredient concentrations
+            raw = re.sub(r'Bevat\s+[^.:]+\d+%.*', '', raw, flags=re.IGNORECASE)
+            # Replace literal \n with actual newlines for splitting
+            raw = raw.replace('\\n', '\n')
+            # Replace multiple spaces with single space
+            raw = re.sub(r' +', ' ', raw)
+            raw = raw.strip()
 
-            # [...new Set(results)] để lọc trùng lặp
-            # Dùng list(set(results)) sẽ lọc trùng nhưng làm lộn xộn thứ tự gốc.
-            # Dùng dict.fromkeys() là thủ thuật Pythonic để lọc trùng mà VẪN GIỮ NGUYÊN THỨ TỰ ban đầu.
-            ingredients = list(dict.fromkeys(results))
+            # Cascading split: ● -> " / " -> " , " -> ", "
+            def cascade_split(text: str) -> List[str]:
+                results = [text]
+                # Split by newlines first
+                temp = []
+                for r in results:
+                    temp.extend([s.strip() for s in r.split('\n') if s.strip()])
+                results = temp
+                # Split by ● first
+                temp = []
+                for r in results:
+                    temp.extend([s.strip() for s in r.split('●') if s.strip()])
+                results = temp
+
+                # Then split by " · "
+                temp = []
+                for r in results:
+                    temp.extend([s.strip() for s in r.split(' · ') if s.strip()])
+                results = temp
+
+                # Then split by "· "
+                temp = []
+                for r in results:
+                    temp.extend([s.strip() for s in r.split('· ') if s.strip()])
+                results = temp
+
+                # Then split by " * "
+                temp = []
+                for r in results:
+                    temp.extend([s.strip() for s in r.split(' * ') if s.strip()])
+                results = temp
+
+                # Then split by "*"
+                temp = []
+                for r in results:
+                    temp.extend([s.strip() for s in r.split('*') if s.strip()])
+                results = temp
+
+                # Then split by "•"
+                temp = []
+                for r in results:
+                    temp.extend([s.strip() for s in r.split('•') if s.strip()])
+                results = temp
+
+                # Then split by " - "
+                temp = []
+                for r in results:
+                    temp.extend([s.strip() for s in r.split(' - ') if s.strip()])
+                results = temp
+
+                # Then split by "- " (dash without leading space)
+                temp = []
+                for r in results:
+                    temp.extend([s.strip() for s in r.split('- ') if s.strip()])
+                results = temp
+
+                # Then split by " – " (en-dash with spaces)
+                temp = []
+                for r in results:
+                    temp.extend([s.strip() for s in r.split(' – ') if s.strip()])
+                results = temp
+
+                # Then split by ". " (dot-space separator)
+                temp = []
+                for r in results:
+                    temp.extend([s.strip() for s in r.split('. ') if s.strip()])
+                results = temp
+
+                # Then split by " / "
+                temp = []
+                for r in results:
+                    temp.extend([s.strip() for s in r.split(' / ') if s.strip()])
+                results = temp
+
+                # Then split by "/"
+                temp = []
+                for r in results:
+                    temp.extend([s.strip() for s in r.split('/') if s.strip()])
+                results = temp
+
+                # Then split by "\\" (backslash - alternative names)
+                temp = []
+                for r in results:
+                    temp.extend([s.strip() for s in r.split('\\') if s.strip()])
+                results = temp
+
+                # Then split by " , " (space before comma)
+                temp = []
+                for r in results:
+                    temp.extend([s.strip() for s in r.split(' , ') if s.strip()])
+                results = temp
+
+                # Then split by ", " (space before comma)
+                temp = []
+                for r in results:
+                    temp.extend([s.strip() for s in r.split(', ') if s.strip()])
+                results = temp
+
+                # Finally split by "," (comma only)
+                temp = []
+                for r in results:
+                    temp.extend([s.strip() for s in r.split(',') if s.strip()])
+                results = temp
+
+                return results
+
+            results = cascade_split(raw)
+
+            # Filter out optional ingredients (starting with [ or +, ending with [+)
+            def is_optional(item: str) -> bool:
+                item_lower = item.lower()
+                return (item.startswith('[') or item.startswith('+') or
+                        item.endswith('[+') or
+                        item_lower.startswith('may contain') or
+                        item_lower.startswith('+/') or
+                        item.startswith('-'))
+
+            results = [r for r in results if r and not is_optional(r)]
+
+            # Post-process: remove leading slashes, trailing dots, orphaned parentheses, filter empty
+            def clean_ingredient(i: str) -> str:
+                i = i.lstrip('/').lstrip('°').lstrip("'").lstrip(":").lstrip("s: ").lstrip("wax: ").lstrip("| ").lstrip("® ").lstrip("¹ ")  # Remove leading slash and degree symbol
+                # Remove everything from opening parenthesis to end (if no closing)
+                if '(' in i and ')' not in i:
+                    i = i[:i.index('(')]
+                # Remove everything up to orphaned closing parenthesis (if no opening)
+                if ')' in i and '(' not in i:
+                    i = i[i.index(')') + 1:]
+                # Remove everything from opening bracket to end (if no closing)
+                if '[' in i and ']' not in i:
+                    i = i[:i.index('[')]
+                i = i.strip()  # Strip whitespace first to handle "char] ." cases
+                i = i.rstrip('.').rstrip(']').rstrip(',').rstrip('°').rstrip('+')  # Remove trailing dot, bracket, comma
+                i = i.strip()
+                # Remove orphaned closing bracket at end (if no opening)
+                if i.endswith(']') and '[' not in i:
+                    i = i.rstrip(']')
+                return i.strip()
+
+            def is_valid_ingredient(i: str) -> bool:
+                if i == "C-":
+                    return False
+                # Filter out symbols-only or very short meaningless strings
+                if not i or len(i) < 2:
+                    return False
+                # Check if contains at least one letter
+                if not any(c.isalpha() for c in i):
+                    return False
+                return True
+
+            # Clean all ingredients first, then filter and deduplicate
+            cleaned = [clean_ingredient(i) for i in results]
+            ingredients = list(dict.fromkeys(i for i in cleaned if i and is_valid_ingredient(i)))
 
             # Add ingredients field to the JSON
             data["inferred_information"]["ingredients"] = ingredients
@@ -84,19 +280,19 @@ def main():
     json_files = list(PRODUCTS_DIR.rglob("*.json"))
     print(f"Found {len(json_files)} product JSON files")
 
-    all_ingredients = []
+    all_ingredients = set()
 
     # Extract ingredients from each file and update with ingredients field
     for filepath in json_files:
         ingredients = extract_ingredients_from_file(filepath)
-        all_ingredients.extend(ingredients)
+        all_ingredients.update(ingredients)
 
     print(f"\nExtracted {len(all_ingredients)} unique ingredients across all files")
 
     # Save to ingredients.txt (overwrite old data)
     output_file = Path(__file__).parent / "ingredients.txt"
     with open(output_file, "w", encoding="utf-8") as f:
-        for ingredient in all_ingredients:
+        for ingredient in sorted(all_ingredients):
             f.write(f"{ingredient}\n")
     print(f"Saved to {output_file}")
 

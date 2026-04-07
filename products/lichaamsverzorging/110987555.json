@@ -19,80 +19,97 @@
     "product_category": "Lichaamsverzorging",
     "legal_grade": null,
     "ingredients": [
-      "(INCI)",
-      "SESAMUM",
-      "INDICUM",
-      "(SESAME)",
-      "SEED",
-      "OIL",
-      "HIPPOPHAE",
-      "RHAMNOIDES",
+      "SESAMUM INDICUM SEED OIL",
+      "HIPPOPHAE RHAMNOIDES OIL",
       "ROSMARINUS"
     ],
     "inci": {
-      "hippophae rhamnoides oil": [
-        "b581cf3d-4414-4245-99a1-2a6df932e0ee",
-        "2f76f5e0-dc26-40b5-9eb4-3c2a16757361",
-        "43b46f04-217c-4e45-b2f6-d55a1670a83e",
-        "452065b5-d160-4560-b253-10fbcf208134",
-        "3be097f5-a83e-4e1b-a30e-43a0d7001e16",
-        "61bd8820-368b-47ac-ae32-9f8fab0af7a2"
-      ],
-      "rosmarinus": [
-        "605068be-01a2-4db7-ae90-26d44794e980",
-        "26771641-9b19-4502-8cea-d65b05996210",
-        "08922918-a15a-458f-965a-c973b7216e82",
-        "ffb80284-618b-4a4e-ba7a-346ce4b6bb9e",
-        "5374a5da-3b4c-4f18-ba6f-22a5215ea296",
-        "97d9a1d5-ca2d-4303-84b9-4a8cb4251a11",
-        "aef05406-7f0a-41ec-8ed5-92557f2217c7",
-        "2ba757e8-51fa-4cba-834b-4d2562e775f7",
-        "5150f2cf-fe8a-43a6-844c-d120093f064d",
-        "b5d158c1-e743-42d1-9fa1-dd238376b1e0",
-        "5416b13f-e1c0-4de6-87a5-5c8293c59629",
-        "90c8ae5f-e208-4472-99b9-7471ad386146",
-        "70f45d53-81df-4cb7-9360-d7df798bd0e7",
-        "81d48df3-02bd-4f1a-aec6-daedd2aeea82",
-        "064eec58-8860-40cb-94a5-20b206ab45ee",
-        "847936b2-d94a-402a-9ca3-e03e755341e2",
-        "68fb1325-c530-4d45-9380-9f1b84225d1d",
-        "48e85c62-bde9-4a83-b4bc-5d2a69271d65",
-        "d0ca65e7-242f-4f6c-a2a6-de20f982d5b0",
-        "ac685728-8bae-4363-92f3-d296663267a2",
-        "0c173c7e-7e00-44c0-965f-d10bfd18d5a2",
-        "ec37e9be-2f6a-47ce-9c04-cd4568333ca3",
-        "1056ad1c-c779-4dfc-b89a-a3a20b31c0b4",
-        "153bcd24-1bfe-4f3f-b928-04db7a2dfe25",
-        "648ba0fa-9f61-4d27-9b1d-bbd1c4800c55",
-        "64834412-0ce6-411c-a60c-5b98001f60f7",
-        "6f66fa53-ab41-479d-833d-c39ef06c55ac",
-        "f4cfac9f-fbc6-44ef-a4e1-866bf60c01c9",
-        "c51886bb-3d94-43f3-a873-69027ebabef5",
-        "a81e99e7-4277-477a-95cd-af617d298900",
-        "d19f1125-f973-4f27-be55-5f973219003b",
-        "39f11c1d-dee3-4438-a11b-6a4a1a00c78a",
-        "4b1fd7ca-622d-4c69-83c1-452cff8fdfb4",
-        "c5c7d370-7423-4222-883a-536c71c9a164",
-        "69100267-3247-49a9-bc3b-c34bac98440f",
-        "58ebe5f8-e7cc-43d5-8dbc-c719c2187697",
-        "a7ed9331-e0a8-4a9a-aad0-a939a30036f7",
-        "f287550f-e55b-49cc-b7cf-12ba1d344e1b",
-        "8869e1b3-7724-43d9-9fa2-66dcbff37068",
-        "2f8ca852-86f4-4628-9001-e6fd7ebc7607",
-        "2c7eea04-f8a6-4bae-8e47-7b391dc4b3f0",
-        "f82cbc2f-57f3-4780-9a81-5e83fb181391",
-        "b09620f6-03ec-4e98-9566-79b564d13377",
-        "45aca6cb-0d9f-43ac-b949-ee729862df7e",
-        "95f2717f-94e5-4da5-8ebc-a4f8f50d376a",
-        "5539dd92-ea3a-463e-91fb-d2c4cf8a4224",
-        "0df3fc75-8542-49d1-b8d3-a2ee2bfe28f0",
-        "87ccb731-aed9-4105-be89-212494ec88c9",
-        "8bd07fd2-c550-4ac8-a955-65957ebef28b",
-        "3cf4b92a-d99a-4d1b-94d7-b477e40442dc",
-        "70139f3f-0150-4173-8a04-07e38d3b7060",
-        "8fca7bb5-f46d-4388-8ebf-76d38aa73924",
-        "caa7f83a-cfc4-4312-a7f2-ab500a405efb"
-      ]
+      "(inci)": {
+        "cosing_info": {
+          "reference": "a69b812b-c7bb-4d6f-9f5b-b54c75c91452",
+          "inci_name": "Pentasodium (carboxylatomethyl)iminobis(ethylenenitrilo)tetraacetate; Pentasodium Pentetate (INCI)",
+          "cas_no": [
+            "140-01-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8779",
+            "sid": "500814891",
+            "cas_no": "140-01-2"
+          }
+        ]
+      },
+      "sesamum": {
+        "cosing_info": {
+          "reference": "8e0f44bf-d1d2-4b4a-b720-44204770feed",
+          "inci_name": "SESAMUM INDICUM SEED",
+          "cas_no": [
+            "8008-74-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "indicum": {
+        "cosing_info": {
+          "reference": "8b73a4e6-5770-4eef-95bf-ac5e5b76d070",
+          "inci_name": "CHRYSANTHELLUM INDICUM EXTRACT",
+          "cas_no": [
+            "223748-24-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "seed": {
+        "cosing_info": {
+          "reference": "981b4ff2-0470-4c2b-9a2a-bdebc1e66420",
+          "inci_name": "HELIANTHUS ANNUUS SEED WAX",
+          "cas_no": [
+            "1286686-34-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "oil": {
+        "cosing_info": {
+          "reference": "73055330-91dd-4d1e-b860-925fb2ecdbc8",
+          "inci_name": "MENHADEN OIL",
+          "cas_no": [
+            "8002-50-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "hippophae": {
+        "cosing_info": {
+          "reference": "af6b8875-9edb-4ea0-9e37-f058531df3e0",
+          "inci_name": "HIPPOPHAE RHAMNOIDES KERNEL EXTRACT",
+          "cas_no": [
+            "90106-68-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "rhamnoides": {
+        "cosing_info": {
+          "reference": "af6b8875-9edb-4ea0-9e37-f058531df3e0",
+          "inci_name": "HIPPOPHAE RHAMNOIDES KERNEL EXTRACT",
+          "cas_no": [
+            "90106-68-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "rosmarinus": {
+        "cosing_info": {
+          "reference": "26771641-9b19-4502-8cea-d65b05996210",
+          "inci_name": "ROSMARINUS OFFICINALIS LEAF",
+          "cas_no": [
+            "84604-14-8"
+          ]
+        },
+        "pubchem_info": []
+      }
     }
   },
   "additional_information": {

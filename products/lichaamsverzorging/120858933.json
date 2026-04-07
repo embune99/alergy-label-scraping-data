@@ -18,127 +18,287 @@
     "product_category": "Lichaamsverzorging",
     "legal_grade": null,
     "ingredients": [
-      "65%",
-      "Ethanol",
-      "Alcohol",
+      "Ethanol Alcohol",
       "Aqua",
-      "(Water)",
-      "Aloe",
-      "barbadensis",
-      "Leaf",
-      "Juice",
-      "Methyl",
-      "Gluceth-10",
+      "Aloe barbadensis Leaf Juice",
+      "Methyl Gluceth-10",
       "Parfum",
-      "(Fragrance)",
-      "Acrylates/C10-30",
-      "Alkyl",
-      "Acrylate",
-      "Crosspolymer",
+      "Acrylates",
+      "C10-30 Alkyl Acrylate Crosspolymer",
       "Limonene",
       "Linalool",
       "Tromethamine",
-      "Potassium",
-      "Sorbate",
-      "Sodium",
-      "Benzoate."
+      "Potassium Sorbate",
+      "Sodium Benzoate"
     ],
     "inci": {
-      "aqua (water)": [
-        "acb2fd0b-1174-4f52-8481-759e0f6a9471",
-        "a9d7ccc5-066f-49da-85ef-5eec1217a478",
-        "88aced55-d191-43a7-85f5-41872fb14e85",
-        "bf9565d8-8238-4bb2-a23b-e70ff2ab63e4",
-        "f47fb937-5e85-47be-a122-3522901eb942"
-      ],
-      "aloe barbadensis leaf juice": [
-        "18f31d00-f6f7-4142-b533-6f06f9ce0e5b",
-        "de3004e5-8343-4737-8cb2-71de5a20d096",
-        "6a3511eb-462e-4453-957a-1d0bd1911837",
-        "2e2946fe-3e7e-4253-ba94-18a6d5360f5a",
-        "4d7334d6-f0cf-4457-abf9-cc9e468bb6e6"
-      ],
-      "methyl gluceth-10": [
-        "73aea0b2-3ec0-40c1-a482-d6dc4d6236f7",
-        "73850409-af95-4025-b95a-54cc0def5938",
-        "9e89d4ad-137a-4808-99c9-703b2030047a"
-      ],
-      "limonene": [
-        "d9a853fb-831a-4f8e-a3f5-d57b976d9c88",
-        "23d540ea-0079-4c28-8b69-10033f69f535",
-        "d61c4bec-0b4d-4e48-aef5-a218fea8b8cc",
-        "094b1ce3-9584-4c45-b567-8123e10e7033",
-        "77c4653c-3430-4779-bdd8-d76199258418",
-        "dd0b9281-85f3-43f2-b398-855b0154e62a",
-        "65222645-e4f3-41ab-aba8-9c8715c879bd",
-        "59c3e02e-9dda-4c79-a55e-14af2cdcf062",
-        "2fd55649-0293-4f5a-a737-e487ede48da7",
-        "2f9203ba-2582-4f8f-a9d3-6127a0b3f84b",
-        "fcb99a35-7fdb-447a-9c32-0754d66b463b",
-        "57bf7d48-3909-49da-a340-cc2a2164759c",
-        "e99411e7-a980-4d98-a824-64d3ba18b1ce",
-        "b9d71c6d-39c6-47c0-ade3-b681e8f343f2",
-        "f0386f6b-f59b-49a8-a468-5c77e8a8188e",
-        "7f9f30da-c884-4e7d-ba53-2b8eb25b55be",
-        "cffcb078-879d-49cd-964d-2166ba4444e3",
-        "c520b563-610e-4e05-be57-11ba1a7c203a",
-        "67734a62-d120-45e1-ba29-4a62454d9224",
-        "6166f166-7a24-446d-b5a3-c7eb8d60fb7f",
-        "a209d30f-e08c-4245-b4a8-a1812d41feef",
-        "ebdb8cd5-9a2a-446d-b207-9c6ea3bb4e2b",
-        "d489e0ea-9a81-4b1d-b8bc-5502db5adb42",
-        "37922c57-22ba-47ac-86a5-185e7d7702fb",
-        "5fd73f7d-090a-41e9-9cf8-ec2d82359ab1",
-        "f43f6f59-9dfd-4a87-b632-82dadb6e5796",
-        "29a385e8-9ff6-43f0-8eac-8788fb368de3",
-        "e3c609ab-4b8a-4089-89b0-18279e3f2837",
-        "cfcdbaea-0fbc-4c60-9c38-021736c36bb5",
-        "0e1e8e38-fc2e-4ce7-84f9-4dce5df36518",
-        "dcbdaa4c-4fbc-4473-987a-6d33558a5c19",
-        "d93d671b-3419-4680-8269-60583ec9ac0e",
-        "caf20e39-06fb-43bf-8453-7a582cc1d1d4"
-      ],
-      "linalool": [
-        "8f47a2fa-c519-434c-8bb9-8385cf05fea5",
-        "c396cf4a-6357-436d-8d55-fb24f9961d3d",
-        "8d5a2513-3e2c-44f1-8f85-624d6342866f",
-        "0018acfb-f2a4-4538-8f28-f8af71041bb9",
-        "f2357e58-0181-41f6-b80b-457d1f55ee91",
-        "a19ecbd9-8ced-402a-85d8-9e341468e55f",
-        "99634e65-3bfd-420f-a5b9-7094dc581270",
-        "72a74c17-4c98-4ee7-a58a-7d5ff3942560",
-        "cbc4a314-95f5-4345-98cc-61b2d87bf963",
-        "f5f287c8-50f4-4c93-8b0d-41c89b985347",
-        "ccd1c9bf-9835-4c02-bb80-d3791d4f6690",
-        "7b037553-1d27-4931-8108-84efc7f93f6a",
-        "c2d79f26-662b-4480-b669-afdef300ad6e",
-        "a803ace3-7f88-4b6f-aa4a-0b4119093446",
-        "67734a62-d120-45e1-ba29-4a62454d9224",
-        "d489e0ea-9a81-4b1d-b8bc-5502db5adb42",
-        "d61c4bec-0b4d-4e48-aef5-a218fea8b8cc",
-        "29a385e8-9ff6-43f0-8eac-8788fb368de3",
-        "dcbdaa4c-4fbc-4473-987a-6d33558a5c19",
-        "d93d671b-3419-4680-8269-60583ec9ac0e"
-      ],
-      "tromethamine": [
-        "3d2775d8-36d3-4e17-ae37-7b927001a759",
-        "a9ce74db-dc8f-4485-b8ae-06d83ff401e9",
-        "0d5e3864-7425-45a9-b19d-480022e3de9c",
-        "195afe5a-1d59-4015-8966-c85bcdc50b78",
-        "e03015ff-dec0-4b77-92b5-3a407be8796b",
-        "2c27ff73-0bac-4721-b764-07c52578fd68",
-        "0be7ef32-86fe-4b07-8087-b177387d43ce",
-        "e946b870-cdcf-4051-92c2-0ea2dfa9a807",
-        "4ee888c6-5fd7-437c-898d-5ddb3bed2984",
-        "2e73345f-ff42-4ade-82f8-a5c1932c0bda",
-        "8bd07fd2-c550-4ac8-a955-65957ebef28b"
-      ],
-      "potassium sorbate": [
-        "134cca64-0dd3-4ab3-91d1-69126771188f"
-      ],
-      "sodium benzoate.": [
-        "65824413-7700-4374-af04-049ca055f371"
-      ]
+      "ethanol": {
+        "cosing_info": {
+          "reference": "fba25f53-e468-4b70-81a5-69cc221a477b",
+          "inci_name": "ISOPROPYLCYCLOHEXYL-ETHANOL",
+          "cas_no": [
+            "3650-46-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "77212",
+            "sid": "505576287",
+            "cas_no": "3650-46-2"
+          }
+        ]
+      },
+      "alcohol": {
+        "cosing_info": {
+          "reference": "ee98826a-bac8-4089-91f6-32d956b26c61",
+          "inci_name": "ALCOHOL",
+          "cas_no": [
+            "64-17-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "702",
+            "sid": "481101440",
+            "cas_no": "64-17-5"
+          }
+        ]
+      },
+      "aqua": {
+        "cosing_info": {
+          "reference": "acb2fd0b-1174-4f52-8481-759e0f6a9471",
+          "inci_name": "AQUA",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "aloe": {
+        "cosing_info": {
+          "reference": "2417ba86-6200-452d-8506-2e62681569b2",
+          "inci_name": "ALOE SPECIES RESIN",
+          "cas_no": [
+            "84837-08-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "barbadensis": {
+        "cosing_info": {
+          "reference": "9c6d5b9b-517c-4f2f-89fd-d874e4af781c",
+          "inci_name": "ALOE BARBADENSIS EXTRACT",
+          "cas_no": [
+            "85507-69-3",
+            "94349-62-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5712222",
+            "sid": "505550691",
+            "cas_no": "85507-69-3"
+          }
+        ]
+      },
+      "leaf": {
+        "cosing_info": {
+          "reference": "8e8792ba-fdf8-439d-864b-3c48468d6204",
+          "inci_name": "PSIDIUM GUAJAVA LEAF OIL",
+          "cas_no": [
+            "91770-12-6 (generic)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "juice": {
+        "cosing_info": {
+          "reference": "f7c0d3c8-eba3-4cd7-81c3-c1bb0ec8da8b",
+          "inci_name": "BETULA ALBA LEAF JUICE",
+          "cas_no": [
+            "84012-15-7 (generic)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "methyl": {
+        "cosing_info": {
+          "reference": "8ee01b36-0f1d-48c4-a31c-9a3566e62750",
+          "inci_name": "HYDROXYANTHRAQUINONEAMINOPROPYL METHYL MORPHOLINIUM METHOSULFATE",
+          "cas_no": [
+            "38866-20-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "16205112",
+            "sid": "505785171",
+            "cas_no": "38866-20-5"
+          }
+        ]
+      },
+      "gluceth-10": {
+        "cosing_info": {
+          "reference": "73aea0b2-3ec0-40c1-a482-d6dc4d6236f7",
+          "inci_name": "METHYL GLUCETH-10",
+          "cas_no": [
+            "68239-42-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "62247",
+            "sid": "505861503",
+            "cas_no": "68239-42-9"
+          }
+        ]
+      },
+      "parfum": {
+        "cosing_info": {
+          "reference": "877337a9-4a8b-4d17-bed7-f3a39d335e80",
+          "inci_name": "PARFUM",
+          "cas_no": []
+        },
+        "pubchem_info": []
+      },
+      "alkyl": {
+        "cosing_info": {
+          "reference": "06766eaa-53eb-4a7b-9e03-c627de0c732c",
+          "inci_name": "C10 ALKYL ACETATE",
+          "cas_no": [
+            "68478-36-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "acrylate": {
+        "cosing_info": {
+          "reference": "6e027566-51f9-4c71-afb2-99b0bf9a92d3",
+          "inci_name": "ETHYL ACRYLATE",
+          "cas_no": [
+            "140-88-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8821",
+            "sid": "481108687",
+            "cas_no": "140-88-5"
+          }
+        ]
+      },
+      "crosspolymer": {
+        "cosing_info": {
+          "reference": "39d6f73c-4bab-41f0-8aad-8953309b5517",
+          "inci_name": "DIMETHICONOL/METHYLSILANOL/SILICATE CROSSPOLYMER",
+          "cas_no": [
+            "69856-02-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "limonene": {
+        "cosing_info": {
+          "reference": "d9a853fb-831a-4f8e-a3f5-d57b976d9c88",
+          "inci_name": "LIMONENE",
+          "cas_no": [
+            "138-86-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "22311",
+            "sid": "518147164",
+            "cas_no": "138-86-3"
+          }
+        ]
+      },
+      "linalool": {
+        "cosing_info": {
+          "reference": "8f47a2fa-c519-434c-8bb9-8385cf05fea5",
+          "inci_name": "LINALOOL",
+          "cas_no": [
+            "78-70-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6549",
+            "sid": "482028551",
+            "cas_no": "78-70-6"
+          }
+        ]
+      },
+      "tromethamine": {
+        "cosing_info": {
+          "reference": "a9ce74db-dc8f-4485-b8ae-06d83ff401e9",
+          "inci_name": "TROMETHAMINE",
+          "cas_no": [
+            "77-86-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6503",
+            "sid": "481107847",
+            "cas_no": "77-86-1"
+          }
+        ]
+      },
+      "potassium": {
+        "cosing_info": {
+          "reference": "a7960d89-221b-44b5-8b26-fc243a13308f",
+          "inci_name": "POTASSIUM CAROATE",
+          "cas_no": [
+            "70693-62-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "sorbate": {
+        "cosing_info": {
+          "reference": "134cca64-0dd3-4ab3-91d1-69126771188f",
+          "inci_name": "POTASSIUM SORBATE",
+          "cas_no": [
+            "24634-61-5",
+            "590-00-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "23676745",
+            "sid": "481107499",
+            "cas_no": "24634-61-5"
+          },
+          {
+            "cid": "23676745",
+            "sid": "481107499",
+            "cas_no": "590-00-1"
+          }
+        ]
+      },
+      "sodium": {
+        "cosing_info": {
+          "reference": "436c3318-3a15-40db-b19b-54900ed3abc1",
+          "inci_name": "SODIUM SIALYLLACTOSE",
+          "cas_no": [
+            "128596-80-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "71308479",
+            "sid": "504500786",
+            "cas_no": "128596-80-5"
+          }
+        ]
+      }
     }
   },
   "additional_information": {

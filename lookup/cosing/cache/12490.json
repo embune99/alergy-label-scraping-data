@@ -1,0 +1,127 @@
+{
+  "apiVersion": "2.146",
+  "reference": "10223861-6efe-4814-b825-92222d303cf4",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 14.442768,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "CI 12490"
+    ],
+    "otherRestrictions": [],
+    "note": [],
+    "refNo": [],
+    "sccsOpinionUrls": [],
+    "innName": [],
+    "other": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "chemicalName": [
+      "N-(5-Chloro-2,4-dimethoxyphenyl)-4-[[5-[(diethylamino)sulphonyl]-2-methoxyphenyl]azo]-3-hydroxynaphthalene-2-carboxamide"
+    ],
+    "sccsOpinion": [],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "CI 12490 is classed chemically as a monoazo colour. It conforms to the formula:"
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "9938E34A459A9A1E282083DFA4857049"
+    ],
+    "cosmeticRestriction": [
+      "IV/14 (CI 12490)\r\nII/1347 (Pigment Red 5; CI 12490: and its salts when used as a substance in hair dye products)"
+    ],
+    "ecNo": [
+      "229-107-2"
+    ],
+    "maximumConcentration": [],
+    "identifiedIngredient": [
+      "30398",
+      "87711"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "inciName": [
+      "CI 12490"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "6410-41-9"
+    ],
+    "substanceId": [
+      "32707"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "annexNo": [],
+    "productTypeBodyParts": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "COLORANT"
+    ],
+    "esDA_IngestDate": [
+      "2023-05-23T08:03:08.163+0200"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "corporate-search-version": [
+      "102"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-05-23T08:03:08.133+0200"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "datasource": [
+      "GROWTH_COSING"
+    ],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "10223861-6efe-4814-b825-92222d303cf4. Available at: urn:test",
+  "score": 14.442768
+}

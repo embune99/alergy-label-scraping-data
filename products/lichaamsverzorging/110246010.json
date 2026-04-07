@@ -23,34 +23,67 @@
     "ingredients": [
       "Aqua",
       "Hexyldecanol",
-      "Hexyldecyl",
-      "Laurate",
-      ""
+      "Hexyldecyl Laurate"
     ],
     "inci": {
-      "aqua": [
-        "acb2fd0b-1174-4f52-8481-759e0f6a9471",
-        "03f72bea-b998-4741-942d-4eb90ea2e5c2",
-        "a9d7ccc5-066f-49da-85ef-5eec1217a478",
-        "b95411b0-fb54-4a85-9901-f92524503f2d",
-        "88aced55-d191-43a7-85f5-41872fb14e85",
-        "95d201d5-eef8-4b4a-9405-8ace8e6eb88c",
-        "bf9565d8-8238-4bb2-a23b-e70ff2ab63e4",
-        "f20f15b7-c291-495a-862f-5b28364a4b7c",
-        "56891eee-e7e0-4df4-a41f-43fddb50858c",
-        "f3176b91-2a20-4ce6-b44a-85df660a618d",
-        "f47fb937-5e85-47be-a122-3522901eb942",
-        "8c333827-b448-4d69-a0a9-ecdc8ba57476"
-      ],
-      "hexyldecanol": [
-        "6a42491c-6baf-4f71-a2a7-d91d58518d18",
-        "24f767e4-f673-4c51-ad84-0e57c6f294dc",
-        "f0977319-f98d-44d1-aeff-4606217842f5",
-        "242e6d67-3a09-4456-8bc4-124d27c63836"
-      ],
-      "hexyldecyl laurate,": [
-        "8b80734a-dcef-4534-b358-32b3c02f128c"
-      ]
+      "aqua": {
+        "cosing_info": {
+          "reference": "acb2fd0b-1174-4f52-8481-759e0f6a9471",
+          "inci_name": "AQUA",
+          "cas_no": [
+            "7732-18-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "962",
+            "sid": "481101462",
+            "cas_no": "7732-18-5"
+          }
+        ]
+      },
+      "hexyldecanol": {
+        "cosing_info": {
+          "reference": "6a42491c-6baf-4f71-a2a7-d91d58518d18",
+          "inci_name": "HEXYLDECANOL",
+          "cas_no": [
+            "2425-77-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "95337",
+            "sid": "505468635",
+            "cas_no": "2425-77-6"
+          }
+        ]
+      },
+      "hexyldecyl": {
+        "cosing_info": {
+          "reference": "2447229f-43f0-43e1-be10-b6cf13089234",
+          "inci_name": "HEXYLDECYL ESTER OF HYDROLYZED COLLAGEN",
+          "cas_no": [
+            "169590-83-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "laurate": {
+        "cosing_info": {
+          "reference": "b4d41dd9-4164-4ee3-b9c9-47d7af576c0d",
+          "inci_name": "SORBITAN LAURATE",
+          "cas_no": [
+            "1338-39-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "11046239",
+            "sid": "505884199",
+            "cas_no": "1338-39-2"
+          }
+        ]
+      }
     }
   },
   "additional_information": {

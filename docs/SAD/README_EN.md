@@ -78,7 +78,7 @@ The Allergy Label Crawler is a web scraping system designed to extract product i
 
 ### 3.1 End-to-End Pipeline
 
-```mermaid
+:::mermaid
 flowchart TD
     %% Scheduled Job Trigger
     A[SCHEDULER<br/>Daily Cron Job] --> B[Scraper Job<br/>crawl_categories.py &<br/>crawl_each_product.py]
@@ -140,11 +140,11 @@ flowchart TD
     class D,F4,N,O storage
     class I,K api
     class P web
-```
+:::
 
 ### 3.2 Jobs Overview Diagram
 
-```mermaid
+:::mermaid
 graph TD
     %% Nodes definition
     Start([Start - Daily Schedule]) --> Scraper[Job 1: Scrape etos.nl]
@@ -182,7 +182,7 @@ graph TD
     style Scraper fill:#bbf,stroke:#333
     style Job_Media fill:#dfd,stroke:#333
     style Job_Enrichment fill:#fff4dd,stroke:#333
-```
+:::
 
 ### 3.3 Job Execution Details
 
@@ -342,7 +342,7 @@ graph TD
 
 ### 5.1 Entity-Relationship Diagram (ERD)
 
-```mermaid
+:::mermaid
 erDiagram
     users ||--o{ user_allergies : "has"
     users ||--o{ scanned_products : "scans"
@@ -430,7 +430,7 @@ erDiagram
         int product_id FK
         datetime created_at
     }
-```
+:::
 
 ### 5.2 Table Details
 
