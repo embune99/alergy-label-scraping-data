@@ -18,7 +18,18 @@
     "ingredients": [
       "Petrolatum"
     ],
-    "inci": {}
+    "inci": {
+      "petrolatum": {
+        "cosing_info": {
+          "reference": "708f3232-a2e3-4c9e-a418-e0c0e18b7476",
+          "inci_name": "PETROLATUM",
+          "cas_no": [
+            "8009-03-8"
+          ]
+        },
+        "pubchem_info": []
+      }
+    }
   },
   "additional_information": {
     "id": "120222409"

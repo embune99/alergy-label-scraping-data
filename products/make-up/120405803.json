@@ -24,18 +24,16 @@
       "Petrolatum"
     ],
     "inci": {
-      "petrolatum.": [
-        "f9ea6bde-ca8b-46bb-b84a-ad78103a62d3",
-        "708f3232-a2e3-4c9e-a418-e0c0e18b7476",
-        "9e8ac082-8533-4a9c-8d4e-21b87679f0e9",
-        "0dc38227-e848-48d1-9032-a8063a29be88",
-        "36780643-3e67-4986-a7e4-4ffb638b450b",
-        "11587190-a421-400d-ba89-73c8b28fa74b",
-        "f04adefc-239e-4f37-ada4-3058c2fad0cf",
-        "81c9934a-86aa-4f37-b7d2-24a3587fa39a",
-        "02c6edb5-6ab6-4665-b48c-490d342b06d5",
-        "61f64182-5b02-48ba-b0ed-ef33243391d3"
-      ]
+      "petrolatum": {
+        "cosing_info": {
+          "reference": "708f3232-a2e3-4c9e-a418-e0c0e18b7476",
+          "inci_name": "PETROLATUM",
+          "cas_no": [
+            "8009-03-8"
+          ]
+        },
+        "pubchem_info": []
+      }
     }
   },
   "additional_information": {

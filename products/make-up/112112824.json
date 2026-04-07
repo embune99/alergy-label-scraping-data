@@ -36,45 +36,259 @@
       "TOCOPHEROL"
     ],
     "inci": {
-      "prunus armeniaca kernel oil": [
-        "e9edf941-1851-44a0-a4a9-5c2bdd1db14e",
-        "a9314b9a-b482-432a-abbd-3aef93cff649",
-        "e2fe15af-667b-42ad-937e-e1186d423f6c",
-        "690fc9aa-bc09-430d-9917-ba068d8efb7d",
-        "a7e002af-ccb4-4ade-9fa7-8dd9292e32cb",
-        "b8e78b13-22ac-40c8-8789-8bf4ec7f1a67",
-        "f2bb4230-6076-495b-922d-8ecbb2a7cfa0",
-        "135e07db-244e-4b8f-839f-8b1dd6432cf6",
-        "4216fdaa-e086-468f-aa6c-07ce5532183c",
-        "9a247e29-1714-4c51-b94b-fe5de6037505",
-        "bed6a97c-a26a-4c2d-a0b5-97f19844923e",
-        "90e5b835-2026-48f1-88c1-d3292f647708",
-        "5e24d3bf-e227-4d28-bf27-0fed235202e9",
-        "d156f1fd-5947-472b-bf8d-9fbe5f755c71",
-        "3aa79a2a-830f-4c80-a848-a6b0e9f2c0ea",
-        "5e7d00b6-1998-4198-ad52-17891bbc6982",
-        "62fd5189-60ce-4dbf-9a96-b6604fdc4661",
-        "7ca8f167-45e5-468c-b3d4-b981a1bf3b38",
-        "c9491e07-37e5-462f-aa30-467ecfa69c22",
-        "4e7684d5-851a-4d11-9eec-0367b3af3aa6",
-        "1afaf044-d1c1-4cf6-9360-7e4a98e7338b",
-        "91cc1aa4-8fbe-49e4-b20d-52a1ee781992",
-        "dafd5d3b-59b2-46a9-8303-e78c112052fb",
-        "451a2f8a-488b-47e6-9b1d-fdd26f24fcf8",
-        "587bcea5-ad42-4945-b488-bfcbaa4d906f",
-        "6aaac0ec-eec8-4d10-8282-e63cedbf963f",
-        "a7c5c1d6-d23f-4cf3-9bf4-62f98f7062ec",
-        "1ad1a9d0-539b-45ad-ba04-0ef0ed211c17",
-        "4234f784-8632-43ad-b5c2-c429140a94e6",
-        "74248939-5711-4ba5-a93c-b75d9ac40c36",
-        "aa3b5eac-3f08-4894-aed6-688af8618498",
-        "7159cb0e-d3ba-432c-9465-88c0ad3c2347",
-        "12cd363f-5599-4626-9962-31dd869197c4",
-        "0c7726cf-56dc-4bf1-8f63-9d0783188467",
-        "41d8f0ba-bc82-43eb-8ec7-f63f7182ee58",
-        "981eec56-7788-48d9-9c28-e8f63201a5f3",
-        "953a2881-c6e4-441d-bb9b-2a8e098f4b59"
-      ]
+      "prunus armeniaca kernel oil": {
+        "cosing_info": {
+          "reference": "a9314b9a-b482-432a-abbd-3aef93cff649",
+          "inci_name": "PRUNUS ARMENIACA KERNEL OIL",
+          "cas_no": [
+            "68650-44-2",
+            "72869-69-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "apricot kernel oil": {
+        "cosing_info": {
+          "reference": "6c4566d4-8324-48e2-82eb-4ae32fbbd794",
+          "inci_name": "APRICOT KERNEL OIL PEG-6 ESTERS",
+          "cas_no": [
+            "69071-70-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "simmondsia chinensis seed oil": {
+        "cosing_info": {
+          "reference": "26bf70ea-9915-471a-babe-df76af960c08",
+          "inci_name": "SIMMONDSIA CHINENSIS SEED OIL",
+          "cas_no": [
+            "90045-98-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "jojoba seed oil": {
+        "cosing_info": {
+          "reference": "cbb39c9f-def9-426b-afa2-35861c1b3742",
+          "inci_name": "JOJOBA SEED OIL AMINOPROPANEDIOL AMIDES/ESTERS",
+          "cas_no": []
+        },
+        "pubchem_info": []
+      },
+      "tocopheryl acetate": {
+        "cosing_info": {
+          "reference": "544afce0-b367-442d-a246-29c1c9988d24",
+          "inci_name": "TOCOPHERYL ACETATE",
+          "cas_no": [
+            "7695-91-2",
+            "58-95-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "2117",
+            "sid": "518175238",
+            "cas_no": "7695-91-2"
+          },
+          {
+            "cid": "86472",
+            "sid": "481106872",
+            "cas_no": "58-95-7"
+          }
+        ]
+      },
+      "parfum": {
+        "cosing_info": {
+          "reference": "877337a9-4a8b-4d17-bed7-f3a39d335e80",
+          "inci_name": "PARFUM",
+          "cas_no": []
+        },
+        "pubchem_info": []
+      },
+      "fragrance": {
+        "cosing_info": {
+          "reference": "8df6b6bc-f26a-438c-8dc4-130db9e8ce6b",
+          "inci_name": "3,7-Dimethyl-2-octen-1-ol (6,7-Dihydrogeraniol), when used as a fragrance ingredient",
+          "cas_no": [
+            "40607-48-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5365836",
+            "sid": "504562939",
+            "cas_no": "40607-48-5"
+          }
+        ]
+      },
+      "phenoxyethanol": {
+        "cosing_info": {
+          "reference": "f8f3a6ab-5656-4d9a-a085-729e03a7376d",
+          "inci_name": "PHENOXYETHANOL",
+          "cas_no": [
+            "122-99-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "31236",
+            "sid": "483926132",
+            "cas_no": "122-99-6"
+          }
+        ]
+      },
+      "caprylyl glycol": {
+        "cosing_info": {
+          "reference": "9b06d311-16ec-4711-90cd-a561cbae6078",
+          "inci_name": "CAPRYLYL GLYCOL",
+          "cas_no": [
+            "1117-86-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "14231",
+            "sid": "500715531",
+            "cas_no": "1117-86-8"
+          }
+        ]
+      },
+      "hexyl cinnamal": {
+        "cosing_info": {
+          "reference": "dfe28bfe-bd94-4e13-9f73-24aba98e5505",
+          "inci_name": "HEXYL CINNAMAL",
+          "cas_no": [
+            "101-86-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "1550884",
+            "sid": "505551463",
+            "cas_no": "101-86-0"
+          }
+        ]
+      },
+      "helianthus annuus seed oil": {
+        "cosing_info": {
+          "reference": "19099c7c-b498-4ddb-9e22-cbb5b33ed888",
+          "inci_name": "HELIANTHUS ANNUUS SEED OIL",
+          "cas_no": [
+            "84776-03-4 (generic)",
+            "8001-21-6",
+            "164250-88-8 (generic)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "sunflower seed oil": {
+        "cosing_info": {
+          "reference": "2186aa0a-a9a2-4bcd-bd48-7c4bb6a8f864",
+          "inci_name": "SUNFLOWER SEED OIL SORBITOL ESTERS",
+          "cas_no": [
+            "96690-53-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "benzyl alcohol": {
+        "cosing_info": {
+          "reference": "43b6ac65-f60d-42b8-8d5e-72d73a17cce5",
+          "inci_name": "BENZYL ALCOHOL",
+          "cas_no": [
+            "100-51-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "244",
+            "sid": "481107731",
+            "cas_no": "100-51-6"
+          }
+        ]
+      },
+      "ci 75120": {
+        "cosing_info": {
+          "reference": "b91c7e52-35c4-4ea9-923d-8dc1808799e6",
+          "inci_name": "CI 75120",
+          "cas_no": [
+            "1393-63-1",
+            "542-40-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5281249",
+            "sid": "516573801",
+            "cas_no": "542-40-5"
+          }
+        ]
+      },
+      "annatto": {
+        "cosing_info": {
+          "reference": "a22d01d2-c45e-4b0d-a03b-1a15d6f94c59",
+          "inci_name": "Annatto",
+          "cas_no": [
+            "1393-63-1; 542-40-5; 6983-79-5"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "limonene": {
+        "cosing_info": {
+          "reference": "d9a853fb-831a-4f8e-a3f5-d57b976d9c88",
+          "inci_name": "LIMONENE",
+          "cas_no": [
+            "138-86-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "22311",
+            "sid": "518147164",
+            "cas_no": "138-86-3"
+          }
+        ]
+      },
+      "tocopherol": {
+        "cosing_info": {
+          "reference": "e353a1e9-9330-4c22-bf1a-f58ac6d356a9",
+          "inci_name": "TOCOPHEROL",
+          "cas_no": [
+            "54-28-4 (gamma)",
+            "16698-35-4(beta)",
+            "10191-41-0(DL)",
+            "119-13-1",
+            "1406-18-4",
+            "1406-66-2",
+            "2074-53-5 (DL)",
+            "59-02-9 (D)",
+            "7616-22-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "92094",
+            "sid": "500775109",
+            "cas_no": "119-13-1"
+          },
+          {
+            "cid": "14985",
+            "sid": "483926503",
+            "cas_no": "1406-18-4"
+          },
+          {
+            "cid": "14986",
+            "sid": "516579069",
+            "cas_no": "1406-66-2"
+          },
+          {
+            "cid": "14986",
+            "sid": "516579069",
+            "cas_no": "7616-22-0"
+          }
+        ]
+      }
     }
   },
   "additional_information": {

@@ -56,155 +56,364 @@
       "RED 6"
     ],
     "inci": {
-      "hydrogenated polyisobutene": [
-        "b732d3a2-8f4d-4982-9a46-e8e5179bc3fa"
-      ],
-      "polybutene": [
-        "b2fbed7c-ef88-4dd4-9325-93b9a92c70a1",
-        "9018f995-968c-4347-b927-03cd3a54abc8"
-      ],
-      "c12-15 alkyl benzoate": [
-        "f4c3b10d-10f9-4e80-bb53-9a328ca0be2c"
-      ],
-      "tridecyl trimellitate": [
-        "f9cb003d-e13d-4aa3-b357-14e03de4e8b5"
-      ],
-      "ethylene/propylene/styrene copolymer": [
-        "cb42963c-1f87-46ac-b9e8-ec2c9cff7903",
-        "e315b1fd-64ae-4857-a6f7-eafac91cb876"
-      ],
-      "bis-diglyceryl polyacyladipate-2": [
-        "e28b28d3-d5db-49be-afe3-2dd1960ec579"
-      ],
-      "butylene/ethylene/styrene copolymer": [
-        "1dce42f5-3cab-4896-9b33-154d091dd80e",
-        "2dc91407-e82b-44a9-93a9-6b07dea57aff"
-      ],
-      "caprylyl glycol": [
-        "18d13ec9-bd3b-47f0-aacd-28712ac74d84",
-        "9b06d311-16ec-4711-90cd-a561cbae6078",
-        "c82e5dc7-68ac-4de3-a974-9c6f17324073",
-        "cb561fbc-6343-4721-83dd-50a4a566400f",
-        "05ffa6e3-013d-4324-8d3a-9836e7d638dd",
-        "75b3bf4b-0201-4821-b480-a764d00c9fa8",
-        "8b610055-cd0a-4ca0-a498-caea63297914",
-        "845077fd-c549-440f-a8e8-eb019bb6ea46",
-        "b09620f6-03ec-4e98-9566-79b564d13377"
-      ],
-      "silica dimethyl silylate": [
-        "30385805-de8c-43f0-991e-d5274f263acd"
-      ],
-      "helianthus annuus (sunflower) seed oil": [
-        "a8491473-b00c-41e8-beaa-8a9fed3fd65a",
-        "19099c7c-b498-4ddb-9e22-cbb5b33ed888",
-        "ede749cd-6e56-4b93-b4e0-0ddd74e1ff4f",
-        "f0d31399-b8ef-42ce-a6d6-0f1ca3dc793f",
-        "0d910577-6579-4d74-8435-763a40883cdd",
-        "d99f4b20-de0f-455f-8f02-06ff9fa13552",
-        "2186aa0a-a9a2-4bcd-bd48-7c4bb6a8f864",
-        "2c7688bc-70f8-4efc-937b-69b2a241e0fd",
-        "c18e9944-ead3-4519-9569-a9793b15ffce",
-        "d779f3c2-9bbd-4062-807f-a848ff0b5fb6",
-        "f08bf3af-ab16-4e5b-b18a-852755dd43be",
-        "289ce0c6-241e-40f6-a79a-07674b023539",
-        "2ca712e0-d443-4624-871c-7e57e79f7807",
-        "1a4682a2-58c3-41e7-8670-109a5153f1ce",
-        "0a2ce360-2ee6-4ebb-81ba-fd80abe52faf",
-        "e3243624-dbd1-4851-a4c8-02064f15efe0",
-        "23aa6e0c-a74a-4f70-8617-9ba46dc825f6",
-        "3add510b-67f3-41d9-8933-c07b0da3d847",
-        "3ce894db-4245-421d-8c56-5e2ca56f387d",
-        "544eb2b4-fa4b-4eb2-bede-e7b093c63b3c",
-        "25d9959a-2c81-4949-9da8-e99bbb8dcc6e",
-        "4b4025f2-9100-4c54-9e39-2de10d898ebd",
-        "3a50268a-db7b-498b-9a66-64123349d4f3",
-        "2978cd01-acd4-4483-9b1e-d5a4448daff7",
-        "5d018381-13eb-4a44-abdf-3a8d6f0d5ae7",
-        "1ed01ef0-8cd4-4b5f-bb46-955c26e9c98d",
-        "15dc8fca-69cd-43bf-af32-be87864c3f6d",
-        "04e04e4e-f386-4d64-911d-4482cd29d914",
-        "77e6e8f9-7130-4cfa-8c0b-023c48eb33d2",
-        "19851a4e-8111-43cc-ae50-63a8e4e1c123",
-        "9d7ea0e0-c661-4317-9414-25b5a1470f14",
-        "75f6cf5f-2f89-44ee-9eb2-291577805586",
-        "b6c4f2bc-be90-47df-9339-9ee233f4ddbe",
-        "a4c816ed-86f3-41cc-af2c-82310c987a9b",
-        "a4b97e27-89da-4f19-a145-fd51094bb70c",
-        "06f7c178-3f98-4fda-8766-94a79943e2ea",
-        "3047ea8e-36c1-44a2-879e-f455ce9cfd09",
-        "c9491e07-37e5-462f-aa30-467ecfa69c22",
-        "4e7684d5-851a-4d11-9eec-0367b3af3aa6",
-        "1afaf044-d1c1-4cf6-9360-7e4a98e7338b",
-        "91cc1aa4-8fbe-49e4-b20d-52a1ee781992",
-        "dafd5d3b-59b2-46a9-8303-e78c112052fb",
-        "451a2f8a-488b-47e6-9b1d-fdd26f24fcf8",
-        "587bcea5-ad42-4945-b488-bfcbaa4d906f",
-        "6aaac0ec-eec8-4d10-8282-e63cedbf963f",
-        "a7c5c1d6-d23f-4cf3-9bf4-62f98f7062ec",
-        "1ad1a9d0-539b-45ad-ba04-0ef0ed211c17",
-        "4234f784-8632-43ad-b5c2-c429140a94e6",
-        "74248939-5711-4ba5-a93c-b75d9ac40c36",
-        "aa3b5eac-3f08-4894-aed6-688af8618498",
-        "7159cb0e-d3ba-432c-9465-88c0ad3c2347",
-        "12cd363f-5599-4626-9962-31dd869197c4",
-        "0c7726cf-56dc-4bf1-8f63-9d0783188467",
-        "41d8f0ba-bc82-43eb-8ec7-f63f7182ee58",
-        "981eec56-7788-48d9-9c28-e8f63201a5f3",
-        "77f7a7f1-0b93-4474-92fd-3d7a31a6a954",
-        "98a2e4e3-0679-4604-b6f8-518ff03c63c0",
-        "c19e8142-c329-47b7-a6d7-cfd43855d5a7",
-        "953a2881-c6e4-441d-bb9b-2a8e098f4b59"
-      ],
-      "sodium hyaluronate": [
-        "6c7d782d-0145-442c-9386-57e805b86565",
-        "b3c8caa8-3be5-4236-96c6-ff64298b328c",
-        "a581e650-b917-472a-a3de-329936b70b2a",
-        "613275e3-609a-47f4-aaa9-9ca2f7aa56e5",
-        "3f6072ad-ebad-4026-8003-a3a3a548670b",
-        "fc55298e-36f2-400d-901d-cd511afcc2b9",
-        "662d1bb7-b3ca-4fc9-8452-478bf2dc0d53",
-        "f2df829c-987c-4123-9470-a32dcfc8931c",
-        "14b302a8-a4cd-4089-8ef1-8aa7df47d8ba",
-        "1e77b890-fef6-44c2-95cf-792476439a37",
-        "bff89d44-8ff9-4eff-b94c-507c23348f65",
-        "2987bdfd-d47d-480b-b156-707d449a504e",
-        "44501a6e-3a61-4569-9733-8270b1cb2192",
-        "dc9f8e9d-6f28-4746-ab3b-ab7d649fe997",
-        "54916256-03a2-4d15-a46f-0ab18b546b88",
-        "94830abb-8f25-4705-9414-1247b7a01979",
-        "1c9cceef-0fb1-4ff6-b4cf-dd16eb34eb30",
-        "8a3a904b-3294-4cb4-acd7-f39f31c37c31",
-        "c26731aa-cae8-4dbc-87f7-0ab876b894ef",
-        "e66615f4-db8a-4cd6-b76e-347d9b308516",
-        "cd2c0710-b570-47ec-84c0-b7f65b774cc7",
-        "a4b90177-82ff-4bf6-ac60-7429d21fd1ad",
-        "919ce297-8347-4ec8-9636-cd5c393c5955",
-        "640fcc29-e446-465c-a010-1ccfc15b59be",
-        "c9e041d4-fb9f-475d-9cb4-6f0ff7d59f91",
-        "9af5141b-fb4d-48db-800c-159aff45ebbb",
-        "df4d2139-f2e2-44d5-af2d-d3b1786f4f25",
-        "7d4850b2-3674-47f1-99ad-caaf3d75783a",
-        "b3adb7ab-581d-4e55-b952-a25627a82a54",
-        "09865f85-a80d-460a-bd15-708d684b1c78",
-        "3a60541d-cecd-4778-bc8f-d841e8bbe2b2",
-        "58a8c04b-d81b-486e-a2c0-e27f4bc11710",
-        "bfb332c1-d306-4f17-a2d6-b4c49fbd7fdf",
-        "39d1be19-7b15-4195-845f-eb9b63b2a27b",
-        "1d8bdff9-3430-4741-a658-04b27e4eba9c"
-      ],
-      "sambucus nigra fruit extract": [
-        "86169ea6-ea16-44f5-88f2-a28cdb56d5a0",
-        "ad2ba07f-d788-4c45-bd05-a646ff687d43",
-        "263b3371-efec-4061-9a06-64bc93caa1ef"
-      ],
-      "titanium dioxide (ci 77891)": [
-        "3b6d8c27-57ab-42ee-8cfb-3a30dc79cbdf",
-        "fc447eee-75df-4425-bf66-91a1b3929d87",
-        "ff57a03a-400b-4cb0-9686-980d370aefcb"
-      ],
-      "ci 77492": [
-        "7d7b6af7-26f7-4e93-8b82-c8022388d610"
-      ]
+      "hydrogenated polyisobutene": {
+        "cosing_info": {
+          "reference": "b732d3a2-8f4d-4982-9a46-e8e5179bc3fa",
+          "inci_name": "HYDROGENATED POLYISOBUTENE",
+          "cas_no": [
+            "40921-86-6",
+            "61693-08-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "3085224",
+            "sid": "505779329",
+            "cas_no": "61693-08-1"
+          }
+        ]
+      },
+      "polybutene": {
+        "cosing_info": {
+          "reference": "9018f995-968c-4347-b927-03cd3a54abc8",
+          "inci_name": "POLYBUTENE",
+          "cas_no": [
+            "9003-28-5",
+            "9003-29-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "c12-15 alkyl benzoate": {
+        "cosing_info": {
+          "reference": "f4c3b10d-10f9-4e80-bb53-9a328ca0be2c",
+          "inci_name": "C12-15 ALKYL BENZOATE",
+          "cas_no": [
+            "68411-27-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "tridecyl trimellitate": {
+        "cosing_info": {
+          "reference": "f9cb003d-e13d-4aa3-b357-14e03de4e8b5",
+          "inci_name": "TRIDECYL TRIMELLITATE",
+          "cas_no": [
+            "94109-09-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "3023588",
+            "sid": "505894893",
+            "cas_no": "94109-09-8"
+          }
+        ]
+      },
+      "ethylene": {
+        "cosing_info": {
+          "reference": "5260cc06-fb24-4ac6-8cb5-63920b0e4f74",
+          "inci_name": "ETHYLENE CARBONATE",
+          "cas_no": [
+            "96-49-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "7303",
+            "sid": "500782545",
+            "cas_no": "96-49-1"
+          }
+        ]
+      },
+      "propylene": {
+        "cosing_info": {
+          "reference": "0e29f9a6-8bea-465c-8d3c-a49db69ea5ec",
+          "inci_name": "PROPYLENE GLYCOL DILAURATE",
+          "cas_no": [
+            "22788-19-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "90838",
+            "sid": "500819956",
+            "cas_no": "22788-19-8"
+          }
+        ]
+      },
+      "styrene copolymer": {
+        "cosing_info": {
+          "reference": "6abca832-62c9-4913-98eb-69ff2ff48ed8",
+          "inci_name": "ISOBUTYLENE/STYRENE COPOLYMER",
+          "cas_no": [
+            "9011-12-5"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "bis-diglyceryl polyacyladipate-2": {
+        "cosing_info": {
+          "reference": "e28b28d3-d5db-49be-afe3-2dd1960ec579",
+          "inci_name": "BIS-DIGLYCERYL POLYACYLADIPATE-2",
+          "cas_no": [
+            "82249-33-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "butylene": {
+        "cosing_info": {
+          "reference": "0f8a5d9f-369e-49e5-beca-66607ac949a6",
+          "inci_name": "BUTYLENE GLYCOL",
+          "cas_no": [
+            "107-88-0 (i), 6290-03-5 (ii)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "caprylyl glycol": {
+        "cosing_info": {
+          "reference": "9b06d311-16ec-4711-90cd-a561cbae6078",
+          "inci_name": "CAPRYLYL GLYCOL",
+          "cas_no": [
+            "1117-86-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "14231",
+            "sid": "500715531",
+            "cas_no": "1117-86-8"
+          }
+        ]
+      },
+      "ricinus communis seed oil": {
+        "cosing_info": {
+          "reference": "c8ff48a0-c368-4a64-b175-b2302c318e4c",
+          "inci_name": "RICINUS COMMUNIS SEED OIL",
+          "cas_no": [
+            "8001-79-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "parfum": {
+        "cosing_info": {
+          "reference": "877337a9-4a8b-4d17-bed7-f3a39d335e80",
+          "inci_name": "PARFUM",
+          "cas_no": []
+        },
+        "pubchem_info": []
+      },
+      "fragrance": {
+        "cosing_info": {
+          "reference": "8df6b6bc-f26a-438c-8dc4-130db9e8ce6b",
+          "inci_name": "3,7-Dimethyl-2-octen-1-ol (6,7-Dihydrogeraniol), when used as a fragrance ingredient",
+          "cas_no": [
+            "40607-48-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5365836",
+            "sid": "504562939",
+            "cas_no": "40607-48-5"
+          }
+        ]
+      },
+      "silica dimethyl silylate": {
+        "cosing_info": {
+          "reference": "30385805-de8c-43f0-991e-d5274f263acd",
+          "inci_name": "SILICA DIMETHYL SILYLATE",
+          "cas_no": [
+            "68611-44-9"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "pentaerythrityl tetra-di-t-butyl hydroxyhydrocinnamate": {
+        "cosing_info": {
+          "reference": "33858d6f-e1e3-4604-ab74-5c2f2044755c",
+          "inci_name": "PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE",
+          "cas_no": [
+            "6683-19-8"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "64819",
+            "sid": "481107448",
+            "cas_no": "6683-19-8"
+          }
+        ]
+      },
+      "tocopheryl acetate": {
+        "cosing_info": {
+          "reference": "544afce0-b367-442d-a246-29c1c9988d24",
+          "inci_name": "TOCOPHERYL ACETATE",
+          "cas_no": [
+            "7695-91-2",
+            "58-95-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "2117",
+            "sid": "518175238",
+            "cas_no": "7695-91-2"
+          },
+          {
+            "cid": "86472",
+            "sid": "481106872",
+            "cas_no": "58-95-7"
+          }
+        ]
+      },
+      "helianthus annuus seed oil": {
+        "cosing_info": {
+          "reference": "19099c7c-b498-4ddb-9e22-cbb5b33ed888",
+          "inci_name": "HELIANTHUS ANNUUS SEED OIL",
+          "cas_no": [
+            "84776-03-4 (generic)",
+            "8001-21-6",
+            "164250-88-8 (generic)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "sodium hyaluronate": {
+        "cosing_info": {
+          "reference": "1c9cceef-0fb1-4ff6-b4cf-dd16eb34eb30",
+          "inci_name": "SODIUM HYALURONATE",
+          "cas_no": [
+            "9067-32-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "stevia rebaudiana leaf": {
+        "cosing_info": {
+          "reference": "c203ee1b-e4dc-4590-991b-9493faf06780",
+          "inci_name": "STEVIA REBAUDIANA LEAF/STEM EXTRACT",
+          "cas_no": [
+            "91722-21-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "13370031",
+            "sid": "500829144",
+            "cas_no": "91722-21-3"
+          }
+        ]
+      },
+      "stem extract": {
+        "cosing_info": {
+          "reference": "753fb835-7881-4d97-a687-d4b588f37cfa",
+          "inci_name": "BRASSICA NAPUS STEM EXTRACT",
+          "cas_no": [
+            "89958-03-2 (generic)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "euterpe oleracea fruit extract": {
+        "cosing_info": {
+          "reference": "29b8de09-7fc8-4a18-aee5-cbd63e0b5dba",
+          "inci_name": "EUTERPE OLERACEA FRUIT EXTRACT",
+          "cas_no": [
+            "879496-95-4 (generic), 906351-38-0 (generic)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "lycium barbarum fruit extract": {
+        "cosing_info": {
+          "reference": "ad30c522-ca89-478a-88a3-b730306f54ec",
+          "inci_name": "LYCIUM BARBARUM FRUIT EXTRACT",
+          "cas_no": [
+            "85085-46-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "sambucus nigra fruit extract": {
+        "cosing_info": {
+          "reference": "86169ea6-ea16-44f5-88f2-a28cdb56d5a0",
+          "inci_name": "SAMBUCUS NIGRA FRUIT EXTRACT",
+          "cas_no": [
+            "84603-58-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "hydrogenated castor oil": {
+        "cosing_info": {
+          "reference": "cb2ddcb2-92dc-47b5-b91f-bcb6b2219712",
+          "inci_name": "HYDROGENATED CASTOR OIL",
+          "cas_no": [
+            "8001-78-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "triethoxycaprylylsilane": {
+        "cosing_info": {
+          "reference": "c9c58d25-cc83-4932-a224-93af12861b3b",
+          "inci_name": "TRIETHOXYCAPRYLYLSILANE",
+          "cas_no": [
+            "2943-75-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "76262",
+            "sid": "505895387",
+            "cas_no": "2943-75-1"
+          }
+        ]
+      },
+      "iron oxides": {
+        "cosing_info": {
+          "reference": "8f820c77-51eb-4248-8b96-59d016633648",
+          "inci_name": "SILICON/TITANIUM/CERIUM/IRON OXIDES",
+          "cas_no": [
+            "-"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "yellow 5 lake": {
+        "cosing_info": null,
+        "pubchem_info": [
+          {
+            "cid": "135414244",
+            "sid": "505594564",
+            "cas_no": null
+          }
+        ]
+      },
+      "blue 1 lake": {
+        "cosing_info": null,
+        "pubchem_info": [
+          {
+            "cid": "11979396",
+            "sid": "505594552",
+            "cas_no": null
+          }
+        ]
+      },
+      "red 6": {
+        "cosing_info": null,
+        "pubchem_info": [
+          {
+            "cid": "135487652",
+            "sid": "505577179",
+            "cas_no": null
+          }
+        ]
+      }
     }
   },
   "additional_information": {
