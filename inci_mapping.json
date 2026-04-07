@@ -161,6 +161,9 @@
   "ACETYL TRIETHYL CITRATE": [
     "triethyl"
   ],
+  "ACETYLATED GLYCOL STEARATE": [
+    "acetylated glycol stearate"
+  ],
   "ACETYLATED HYDROGENATED CASTOR GLYCERIDE": [
     "castor"
   ],
@@ -195,6 +198,12 @@
   ],
   "ACID VIOLET 43": [
     "acid violet 43"
+  ],
+  "ACRYLAMIDE/ISOPROPYLACRYLAMIDE CROSSPOLYMER": [
+    "acrylamide"
+  ],
+  "ACRYLAMIDE/SODIUM ACRYLOYLDIMETHYLTAURATE COPOLYMER": [
+    "sodium acryloyldimethyltaurate copolymer"
   ],
   "ACRYLAMIDOPROPYLTRIMONIUM CHLORIDE/ACRYLATES COPOLYMER": [
     "acrylamidopropyltrimonium"
@@ -261,6 +270,9 @@
   "ALANINE GLUTAMATE": [
     "glutamate"
   ],
+  "ALARIA ESCULENTA EXTRACT": [
+    "alaria esculenta extract"
+  ],
   "ALCALIGENES POLYSACCHARIDES": [
     "alcaligenes polysaccharides"
   ],
@@ -304,6 +316,9 @@
   "ALOE BARBADENSIS LEAF JUICE": [
     "aloe barbadensis leaf juice"
   ],
+  "ALOE BARBADENSIS LEAF JUICE POWDER": [
+    "aloe barbadensis leaf juice powder"
+  ],
   "ALOE FEROX LEAF EXTRACT": [
     "ferox"
   ],
@@ -315,6 +330,9 @@
   ],
   "ALPHA-GLUCAN": [
     "alpha-glucan"
+  ],
+  "ALPHA-GLUCAN OLIGOSACCHARIDE": [
+    "alpha-glucan oligosaccharide"
   ],
   "ALPHA-ISOMETHYL IONONE": [
     "alpha-isomethyl",
@@ -336,6 +354,9 @@
   ],
   "ALUMINUM": [
     "aluminum"
+  ],
+  "ALUMINUM CALCIUM SODIUM SILICATE": [
+    "aluminum calcium sodium silicate"
   ],
   "ALUMINUM GLYCINATE": [
     "glycinate"
@@ -434,6 +455,12 @@
   ],
   "AMODIMETHICONE": [
     "amodimethicone"
+  ],
+  "AMP-ACRYLATES COPOLYMER": [
+    "amp-acrylates"
+  ],
+  "AMP-ACRYLATES/ALLYL METHACRYLATE COPOLYMER": [
+    "allyl methacrylate copolymer"
   ],
   "AMP-ISOSTEAROYL HYDROLYZED COLLAGEN": [
     "amp-isostearoyl"
@@ -840,10 +867,14 @@
   ],
   "BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE": [
     "bis-ethylhexyloxyphenol",
+    "bis-ethylhexyloxyphenol methoxyphenyl triazine",
     "ethylhexyloxyphenol"
   ],
   "BIS-HEA POLYCAPROLACTONE DIOL/HDI COPOLYMER": [
     "hdi"
+  ],
+  "BIS-HEMA POLYCAPROLACTONE/POLY(1,4-BUTANEDIOL)-6/IPDI COPOLYMER": [
+    "ipdi copolymer"
   ],
   "BIS-HYDROXYETHOXYPROPYL DIMETHICONE/LACTIDE COPOLYMER": [
     "bis-hydroxyethoxypropyl"
@@ -989,6 +1020,9 @@
     "42090.",
     "ci 42090."
   ],
+  "Benzenesulfonic acid, 5-chloro-2-((2-hydroxy-1-naphthalenyl)azo)-4-methyl-, monosodium salt;  \r\nD&C Red No. 8": [
+    "d&c red no"
+  ],
   "Benzyl benzoate": [
     "benzyl benzoate"
   ],
@@ -1002,6 +1036,12 @@
     "c10-18",
     "c10-18 triglycerides",
     "triglycerides"
+  ],
+  "C11-12 ISOALKANE": [
+    "c11-12 isoalkane"
+  ],
+  "C11-13 ISOALKANE": [
+    "c11-13 isoalkane"
   ],
   "C11-15 ALKETH-7": [
     "c11-15 alketh-7"
@@ -1095,6 +1135,7 @@
     "c18-38"
   ],
   "C18-38 ALKYL HYDROXYSTEAROYL STEARATE": [
+    "c18-38 alkyl hydroxystearoyl stearate",
     "hydroxystearoyl"
   ],
   "C20-24 OLEFIN": [
@@ -1109,6 +1150,9 @@
   "C20-40 ALKETH-40": [
     "40",
     "c20-40"
+  ],
+  "C20-40 ALKYL STEARATE": [
+    "c20-40 alkyl stearate"
   ],
   "C22-28 ALKANE": [
     "alkane"
@@ -1163,15 +1207,27 @@
   "CALCIUM ASCORBATE": [
     "ascorbate"
   ],
+  "CALCIUM CARBONATE": [
+    "calcium carbonate"
+  ],
+  "CALCIUM CHLORIDE": [
+    "calcium chloride"
+  ],
   "CALCIUM GLUCONATE": [
     "calcium gluconate",
     "gluconate"
+  ],
+  "CALCIUM PANTOTHENATE": [
+    "calcium pantothenate"
   ],
   "CALCIUM SILICATE": [
     "calcium silicate"
   ],
   "CALCIUM SODIUM BOROSILICATE": [
     "calcium sodium borosilicate"
+  ],
+  "CALCIUM TITANIUM BOROSILICATE": [
+    "calcium titanium borosilicate"
   ],
   "CALCIUM TRIFLUOROACETATE": [
     "trifluoroacetate"
@@ -1243,6 +1299,9 @@
   "CAPRYLOYL GLYCINE": [
     "capryloyl glycine"
   ],
+  "CAPRYLOYL SALICYLIC ACID": [
+    "capryloyl salicylic acid"
+  ],
   "CAPRYLOYL SARCOSINE": [
     "capryloyl"
   ],
@@ -1308,7 +1367,8 @@
     "italica"
   ],
   "CASTOR OIL BENZOATE": [
-    "benzoate"
+    "benzoate",
+    "castor oil"
   ],
   "CASTOR SEED OIL AMINOPROPANEDIOL AMIDES/ESTERS": [
     "castor seed oil"
@@ -1328,6 +1388,9 @@
   ],
   "CELLULOSE ACETATE": [
     "cellulose acetate"
+  ],
+  "CELLULOSE ACETATE BUTYRATE": [
+    "cellulose acetate butyrate"
   ],
   "CELLULOSE GUM": [
     "cellulose gum"
@@ -1633,6 +1696,9 @@
     "45410",
     "ci 45410"
   ],
+  "CI 47000": [
+    "ci 47000"
+  ],
   "CI 47005": [
     "47005",
     "ci 47005"
@@ -1661,7 +1727,8 @@
     "73015"
   ],
   "CI 73360": [
-    "73360"
+    "73360",
+    "ci 73360"
   ],
   "CI 73915": [
     "73915"
@@ -1677,6 +1744,9 @@
   ],
   "CI 75130": [
     "75130"
+  ],
+  "CI 75170": [
+    "ci 75170"
   ],
   "CI 75470": [
     "75470",
@@ -1700,7 +1770,8 @@
     "ci 77163"
   ],
   "CI 77266": [
-    "77266"
+    "77266",
+    "ci 77266"
   ],
   "CI 77288": [
     "77288",
@@ -1789,8 +1860,14 @@
   "CITRUS AURANTIFOLIA FRUIT EXTRACT": [
     "aurantifolia"
   ],
+  "CITRUS AURANTIFOLIA PEEL OIL": [
+    "citrus aurantifolia peel oil"
+  ],
   "CITRUS AURANTIUM AMARA PEEL WATER": [
     "aurantium"
+  ],
+  "CITRUS AURANTIUM BERGAMIA FRUIT OIL": [
+    "citrus aurantium bergamia fruit oil"
   ],
   "CITRUS AURANTIUM BERGAMIA LEAF EXTRACT": [
     "bergamia"
@@ -1940,6 +2017,12 @@
   "CORIANDRUM SATIVUM EXTRACT": [
     "coriandrum"
   ],
+  "CORIANDRUM SATIVUM FRUIT OIL": [
+    "coriandrum sativum fruit oil"
+  ],
+  "CORN STARCH MODIFIED": [
+    "corn starch modified"
+  ],
   "CORYLUS AVELLANA BARK EXTRACT": [
     "avellana",
     "corylus"
@@ -1966,11 +2049,17 @@
   "CROCUS SATIVUS FLOWER EXTRACT": [
     "crocus"
   ],
+  "CUCUMIS MELO FRUIT EXTRACT": [
+    "cucumis melo fruit extract"
+  ],
   "CUCUMIS MELO SEED EXTRACT": [
     "melo"
   ],
   "CUCUMIS SATIVUS FRUIT": [
     "cucumis"
+  ],
+  "CUCUMIS SATIVUS FRUIT EXTRACT": [
+    "cucumis sativus fruit extract"
   ],
   "CUCURBITA PEPO FRUIT": [
     "cucurbita",
@@ -2137,6 +2226,9 @@
     "diaminopyrimidine",
     "diaminopyrimidine oxide"
   ],
+  "DIAMMONIUM PHOSPHATE": [
+    "diammonium phosphate"
+  ],
   "DIAMOND POWDER": [
     "diamond powder"
   ],
@@ -2190,6 +2282,7 @@
     "dicocoylethyl hydroxyethylmonium methosulfate"
   ],
   "DIETHYLAMINO HYDROXYBENZOYL HEXYL BENZOATE": [
+    "diethylamino hydroxybenzoyl hexyl benzoate",
     "hydroxybenzoyl"
   ],
   "DIETHYLENE GLYCOL": [
@@ -2199,6 +2292,7 @@
     "butamido"
   ],
   "DIETHYLHEXYL SYRINGYLIDENEMALONATE": [
+    "diethylhexyl syringylidenemalonate",
     "syringylidenemalonate"
   ],
   "DIETHYLLUTIDINATE": [
@@ -2275,6 +2369,9 @@
   "DIMETHICONE/VINYL DIMETHICONE CROSSPOLYMER": [
     "vinyl dimethicone crosspolymer"
   ],
+  "DIMETHICONE/VINYLTRIMETHYLSILOXYSILICATE CROSSPOLYMER": [
+    "vinyltrimethylsiloxysilicate crosspolymer"
+  ],
   "DIMETHICONOL": [
     "dimethiconol"
   ],
@@ -2292,11 +2389,17 @@
     "dimethyl phenethyl acetate",
     "phenethyl"
   ],
+  "DIMETHYL SULFONE": [
+    "dimethyl sulfone"
+  ],
   "DIMETHYL-4-ISOHEPTENAL DIMETHYL ACETAL": [
     "dimethyl"
   ],
   "DIMETHYLHYDROXY DIHYDROFLAVONE": [
     "dimethylhydroxy dihydroflavone"
+  ],
+  "DIMETHYLIMIDAZOLIDINONE CORN STARCH": [
+    "corn starch"
   ],
   "DIMETHYLIMIDAZOLIDINONE RICE STARCH": [
     "rice starch"
@@ -2317,6 +2420,9 @@
   ],
   "DIPALMITOYLETHYL HYDROXYETHYLMONIUM METHOSULFATE": [
     "dipalmitoylethyl hydroxyethylmonium methosulfate"
+  ],
+  "DIPENTAERYTHRITYL HEXA C5-9 ACID ESTERS": [
+    "dipentaerythrityl hexa c5-9 acid esters"
   ],
   "DIPENTAERYTHRITYL HEXAISONONANOATE": [
     "dipentaerythrityl"
@@ -2496,6 +2602,9 @@
     "cardamomum",
     "elettaria"
   ],
+  "EMPETRUM NIGRUM FRUIT JUICE": [
+    "empetrum nigrum fruit juice"
+  ],
   "ENTEROCOCCUS FAECIUM/LACTOBACILLUS/SALIX PURPUREA BARK/LEAF/STEM/WOOD/ASCORBIC ACID/ GLUCONOLACTONE FERMENT EXTRACT FILTRATE": [
     "gluconolacton"
   ],
@@ -2563,6 +2672,9 @@
   "ETHYL PYRUVATE": [
     "pyruvate"
   ],
+  "ETHYL TOSYLAMIDE": [
+    "ethyl tosylamide"
+  ],
   "ETHYL TRIMETHYLBENZOYL PHENYLPHOSPHINATE": [
     "ethyl trimethylbenzoyl phenylphosphinate"
   ],
@@ -2580,6 +2692,9 @@
   ],
   "ETHYLENE DISTEARAMIDE": [
     "distearamide"
+  ],
+  "ETHYLENE/ACRYLIC ACID COPOLYMER": [
+    "acrylic acid copolymer"
   ],
   "ETHYLENEDIAMINE": [
     "ethylenediamine"
@@ -2663,6 +2778,9 @@
   ],
   "EUGENYL GLUCOSIDE": [
     "eugenyl"
+  ],
+  "EUPHORBIA CERIFERA CERA": [
+    "euphorbia cerifera cera"
   ],
   "EUPHORBIA CERIFERA WAX": [
     "cerifera",
@@ -2783,12 +2901,16 @@
   "GLUCOSE": [
     "glucose"
   ],
+  "GLUCOSYL HESPERIDIN": [
+    "glucosyl hesperidin"
+  ],
   "GLUCOSYLRUTIN": [
     "g",
     "glucosylrutin"
   ],
   "GLUTAMIC ACID": [
-    "glutamic"
+    "glutamic",
+    "glutamic acid"
   ],
   "GLUTATHIONE": [
     "glutathione"
@@ -2811,6 +2933,9 @@
   ],
   "GLYCEROL FORMAL": [
     "glycerol"
+  ],
+  "GLYCERYL ACRYLATE/ACRYLIC ACID COPOLYMER": [
+    "glyceryl acrylate"
   ],
   "GLYCERYL BEHENATE": [
     "glyceryl behenate"
@@ -2919,6 +3044,9 @@
   ],
   "GRIFOLA FRONDOSA EXTRACT": [
     "grifola"
+  ],
+  "GUANINE": [
+    "guanine"
   ],
   "GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE": [
     "guar hydroxypropyltrimonium chloride"
@@ -3037,6 +3165,9 @@
   ],
   "HEXYL SALICYLATE HEXYL ETHER": [
     "hexyl"
+  ],
+  "HEXYL/SUCCINYL DIMETHICONE CROSSPOLYMER": [
+    "succinyl dimethicone crosspolymer"
   ],
   "HEXYLDECANOL": [
     "hexyldecanol"
@@ -3202,6 +3333,9 @@
   ],
   "HYDROLYZED COLLAGEN": [
     "hydrolyzed collagen"
+  ],
+  "HYDROLYZED CONCHIOLIN PROTEIN": [
+    "hydrolyzed conchiolin protein"
   ],
   "HYDROLYZED CORN PROTEIN": [
     "hydrolyzed corn protein"
@@ -3393,6 +3527,9 @@
   "HYDROXYSTEARIC ACID": [
     "hydroxystearic"
   ],
+  "HYDROXYSTEARIC ACID/ADIPIC ACID/GLYCERIN CROSSPOLYMER": [
+    "glycerin crosspolymer"
+  ],
   "HYDROXYSTEARYL GLUCOSIDE": [
     "hydroxystearyl"
   ],
@@ -3465,6 +3602,9 @@
   "ISOBUTYLPHENOXY EPOXY RESIN": [
     "epoxy resin"
   ],
+  "ISOCETETH-10": [
+    "isoceteth-10"
+  ],
   "ISOCETETH-20": [
     "isoceteth-20"
   ],
@@ -3473,6 +3613,9 @@
   ],
   "ISOCETYL MYRISTATE": [
     "isocetyl"
+  ],
+  "ISOCETYL STEAROYL STEARATE": [
+    "isocetyl stearoyl stearate"
   ],
   "ISODECYL ISONONANOATE": [
     "isodecyl"
@@ -3512,6 +3655,15 @@
   ],
   "ISOPENTANE": [
     "isopentane"
+  ],
+  "ISOPENTYLDIOL": [
+    "isopentyldiol"
+  ],
+  "ISOPHORONE DIAMINE SESQUIMALEATE": [
+    "isophorone diamine"
+  ],
+  "ISOPHORONE DIAMINE/ISOPHTHALIC ACID/TROMETHAMINE COPOLYMER": [
+    "tromethamine copolymer"
   ],
   "ISOPROPANOLAMINE": [
     "isopropanolamine"
@@ -3573,6 +3725,9 @@
   ],
   "ISOSTEARYL GLYCOLATE": [
     "glycolate"
+  ],
+  "ISOSTEARYL ISOSTEARATE": [
+    "isostearyl isostearate"
   ],
   "ISOSTEARYL NEOPENTANOATE": [
     "isostearyl neopentanoate"
@@ -3652,6 +3807,9 @@
   ],
   "LACTOBACILLUS/DANDELION LEAF/ROOT EXTRACT FERMENT FILTRATE": [
     "dandelion"
+  ],
+  "LACTOBACILLUS/RADISH ROOT FERMENT FILTRATE": [
+    "radish root ferment filtrate"
   ],
   "LACTOBACILLUS/RYE FLOUR FERMENT": [
     "rye"
@@ -3777,12 +3935,16 @@
   "LEPIDIUM SATIVUM SPROUT EXTRACT": [
     "lepidium"
   ],
+  "LEUCONOSTOC": [
+    "leuconostoc"
+  ],
   "LEVULINIC ACID": [
     "levulinic",
     "levulinic acid"
   ],
   "LIMNANTHES ALBA SEED OIL": [
-    "limnanthes"
+    "limnanthes",
+    "limnanthes alba seed oil"
   ],
   "LIMONENE": [
     "limonene"
@@ -3909,6 +4071,9 @@
   "MAGNESIUM GLUCONATE": [
     "magnesium gluconate"
   ],
+  "MAGNESIUM MYRISTATE": [
+    "magnesium myristate"
+  ],
   "MAGNESIUM PEROXIDE": [
     "peroxide"
   ],
@@ -3968,6 +4133,9 @@
     "indica",
     "mangifera"
   ],
+  "MANGIFERA INDICA SEED BUTTER": [
+    "mangifera indica seed butter"
+  ],
   "MANNITOL": [
     "mannitol"
   ],
@@ -3994,6 +4162,9 @@
   ],
   "MEA-THIOLACTATE": [
     "thiolactate"
+  ],
+  "MEADOWFOAM ESTOLIDE": [
+    "meadowfoam estolide"
   ],
   "MEADOWFOAMAMIDOPROPYL PG-DIMONIUM CHLORIDE": [
     "pg-dimonium"
@@ -4203,6 +4374,9 @@
   "MYRISTYL ALCOHOL": [
     "myristyl alcohol"
   ],
+  "MYRISTYL LACTATE": [
+    "myristyl lactate"
+  ],
   "MYRISTYL METHICONE": [
     "myristyl"
   ],
@@ -4237,6 +4411,9 @@
   "NATURAL RED 26": [
     "natural"
   ],
+  "NELUMBIUM SPECIOSUM FLOWER EXTRACT": [
+    "nelumbium speciosum flower extract"
+  ],
   "NELUMBO NUCIFERA EXTRACT": [
     "nelumbo",
     "nucifera"
@@ -4256,7 +4433,8 @@
   ],
   "NEOPENTYL GLYCOL DIHEPTANOATE": [
     "diheptanoate",
-    "neopentyl"
+    "neopentyl",
+    "neopentyl glycol diheptanoate"
   ],
   "NEROL OXIDE": [
     "nerol"
@@ -4342,6 +4520,12 @@
   "OCTYLDODECYL MEADOWFOAMATE": [
     "meadowfoam",
     "meadowfoamate"
+  ],
+  "OCTYLDODECYL NEOPENTANOATE": [
+    "octyldodecyl neopentanoate"
+  ],
+  "OCTYLDODECYL STEAROYL STEARATE": [
+    "octyldodecyl stearoyl stearate"
   ],
   "OCTYLDODECYL XYLOSIDE": [
     "xyloside"
@@ -4499,6 +4683,9 @@
   ],
   "PALMITOYL GRAPE SEED EXTRACT": [
     "grape"
+  ],
+  "PALMITOYL OLIGOPEPTIDE-226": [
+    "palmitoyl oligopeptide"
   ],
   "PALMITOYL TETRAPEPTIDE-7": [
     "7",
@@ -4766,8 +4953,13 @@
   "PEG/PPG-15/15 ACETATE DIMETHICONE": [
     "15"
   ],
+  "PEG/PPG-18/18 DIMETHICONE": [
+    "18 dimethicone"
+  ],
   "PEG/PPG/POLYBUTYLENE GLYCOL-8/5/3 GLYCERIN": [
-    "glycol-8/5/3"
+    "3 glycerin",
+    "glycol-8/5/3",
+    "polybutylene glycol-8"
   ],
   "PELARGONIUM GRAVEOLENS FLOWER EXTRACT": [
     "pelargonium"
@@ -4775,12 +4967,17 @@
   "PELARGONIUM GRAVEOLENS FLOWER OIL": [
     "pelargonium graveolens flower oil"
   ],
+  "PENTAERYTHRITYL HYDROGENATED ROSINATE": [
+    "pentaerythrityl hydrogenated rosinate"
+  ],
   "PENTAERYTHRITYL ROSINATES": [
     "rosinate"
   ],
   "PENTAERYTHRITYL TETRA-DI-T-BUTYL HYDROXYHYDROCINNAMATE": [
+    "butyl hydroxyhydrocinnamate",
     "di-t-butyl",
     "hydroxyhydrocinnamate",
+    "pentaerythrityl tetra-di-t",
     "pentaerythrityl tetra-di-t-butyl hydroxyhydrocinnamate",
     "pentaerythrityl tetra-di-t-butyl\u00a0hydroxyhydrocinnamate",
     "tetra-di-t-butyl"
@@ -4934,6 +5131,9 @@
   "PIGMENT RED 4": [
     "red 4"
   ],
+  "PIGMENT RED 90:1 ALUMINUM LAKE": [
+    "1 aluminum lake"
+  ],
   "PIMPINELLA ANISUM EXTRACT": [
     "anisum"
   ],
@@ -4964,6 +5164,9 @@
   ],
   "PISTACIA LENTISCUS GUM": [
     "lentiscus"
+  ],
+  "PISTACIA LENTISCUS GUM OIL": [
+    "pistacia lentiscus gum oil"
   ],
   "PISUM SATIVUM SEED EXTRACT": [
     "pisum"
@@ -5002,10 +5205,14 @@
     "101"
   ],
   "POLOXAMER 124": [
-    "124"
+    "124",
+    "poloxamer 124"
   ],
   "POLOXAMER 184": [
     "184"
+  ],
+  "POLOXAMER 188": [
+    "poloxamer 188"
   ],
   "POLOXAMER 231": [
     "poloxamer 231"
@@ -5059,6 +5266,9 @@
   ],
   "POLYBUTYLENE GLYCOL-10": [
     "glycol-"
+  ],
+  "POLYBUTYLENE TEREPHTHALATE": [
+    "polybutylene terephthalate"
   ],
   "POLYCAPROLACTONE": [
     "polycaprolactone"
@@ -5154,6 +5364,9 @@
   "POLYGLYCERYL-4 PELARGONATE": [
     "polyglyceryl-4"
   ],
+  "POLYGLYCERYL-6 DISTEARATE": [
+    "polyglyceryl-6 distearate"
+  ],
   "POLYGLYCERYL-6 SESQUICAPRYLATE": [
     "polyglyceryl-6"
   ],
@@ -5168,7 +5381,8 @@
     "polyisobutene"
   ],
   "POLYMETHYL METHACRYLATE": [
-    "polymethyl"
+    "polymethyl",
+    "polymethyl methacrylate"
   ],
   "POLYMETHYLSILSESQUIOXANE": [
     "polymethylsilsesquioxane"
@@ -5278,6 +5492,9 @@
   "POLYUREA CROSSPOLYMER-6": [
     "crosspolymer-6"
   ],
+  "POLYURETHANE-11": [
+    "polyurethane-11"
+  ],
   "POLYURETHANE-48": [
     "polyurethane-48"
   ],
@@ -5378,6 +5595,9 @@
   "PPG-15": [
     "ppg-15"
   ],
+  "PPG-18 BUTYL ETHER": [
+    "ppg-18"
+  ],
   "PPG-26-BUTETH-26": [
     "ppg-26-buteth-26"
   ],
@@ -5466,6 +5686,9 @@
   "PRUNUS ARMENIACA FRUIT": [
     "armeniaca"
   ],
+  "PRUNUS ARMENIACA FRUIT EXTRACT": [
+    "prunus armeniaca fruit extract"
+  ],
   "PRUNUS ARMENIACA KERNEL OIL": [
     "prunus armeniaca kernel oil"
   ],
@@ -5528,6 +5751,9 @@
   ],
   "PYRROLOQUINOLINE QUINONE ALLYL ESTER": [
     "ester"
+  ],
+  "PYRUS MALUS FRUIT EXTRACT": [
+    "pyrus malus fruit extract"
   ],
   "Pentaerithrityl tetranitrate (INN)": [
     "pentaerithrityl"
@@ -5640,6 +5866,9 @@
   "RICE BRAN ACID": [
     "rice"
   ],
+  "RICE BRAN OIL/HYDROGENATED RICE BRAN OIL ESTERS": [
+    "rice bran oil"
+  ],
   "RICE FERMENT FILTRATE": [
     "rice ferment filtrate"
   ],
@@ -5663,6 +5892,9 @@
   ],
   "ROSA DAMASCENA FLOWER": [
     "damascena"
+  ],
+  "ROSA DAMASCENA FLOWER EXTRACT": [
+    "rosa damascena flower extract"
   ],
   "ROSA DAMASCENA FLOWER WAX": [
     "rosa"
@@ -5830,6 +6062,9 @@
     "serenoa serrulata fruit extract",
     "serrulata"
   ],
+  "SERICA POWDER": [
+    "serica powder"
+  ],
   "SERICIN": [
     "sericin"
   ],
@@ -5888,7 +6123,8 @@
     "silk"
   ],
   "SILK POWDER": [
-    "powder"
+    "powder",
+    "silk powder"
   ],
   "SILVER": [
     "silver"
@@ -5922,9 +6158,15 @@
   "SODIUM ACETATE": [
     "sodium acetate"
   ],
+  "SODIUM ACETYLATED HYALURONATE": [
+    "sodium acetylated hyaluronate"
+  ],
   "SODIUM ANISATE": [
     "anisate",
     "sodium anisate"
+  ],
+  "SODIUM ASCORBYL PHOSPHATE": [
+    "sodium ascorbyl phosphate"
   ],
   "SODIUM BABASSUATE": [
     "babassu"
@@ -6125,6 +6367,12 @@
     "phytate",
     "sodium phytate"
   ],
+  "SODIUM POLYMETHACRYLATE": [
+    "sodium polymethacrylate"
+  ],
+  "SODIUM POTASSIUM ALUMINUM SILICATE": [
+    "sodium potassium aluminum silicate"
+  ],
   "SODIUM SACCHARIN": [
     "sodium saccharin"
   ],
@@ -6193,6 +6441,9 @@
   ],
   "SORBITAN OLEATE": [
     "sorbitan oleate"
+  ],
+  "SORBITAN SESQUIOLEATE": [
+    "sorbitan sesquioleate"
   ],
   "SORBITAN SESQUISTEARATE": [
     "sesquistearate"
@@ -6296,6 +6547,12 @@
   ],
   "STEARYL ALCOHOL": [
     "stearyl alcohol"
+  ],
+  "STEARYL CAPRYLATE": [
+    "stearyl caprylate"
+  ],
+  "STEARYL HEPTANOATE": [
+    "stearyl heptanoate"
   ],
   "STEARYL POLYLACTATE": [
     "stearyl"
@@ -6431,6 +6688,9 @@
   "TEA-SULFATE": [
     "tea-sulfate"
   ],
+  "TEREPHTHALIC ACID/ISOPHTHALIC ACID/SODIUM ISOPHTHALIC ACID SULFONATE/GLYCOL COPOLYMER": [
+    "isophthalic acid"
+  ],
   "TEREPHTHALYLIDENE DICAMPHOR SULFONIC ACID": [
     "dicamphor",
     "terephthalylidene"
@@ -6446,7 +6706,8 @@
     "tetradecyl"
   ],
   "TETRAHEXYLDECYL ASCORBATE": [
-    "tetrahexyldecyl"
+    "tetrahexyldecyl",
+    "tetrahexyldecyl ascorbate"
   ],
   "TETRAHYDROXYPROPYL ETHYLENEDIAMINE": [
     "tetrahydroxypropyl"
@@ -6528,6 +6789,9 @@
   "TOSYLAMIDE": [
     "tosylamide"
   ],
+  "TOSYLAMIDE/FORMALDEHYDE RESIN": [
+    "formaldehyde resin"
+  ],
   "TRACHEA HYDROLYSATE": [
     "hydrolysate"
   ],
@@ -6598,6 +6862,9 @@
   "TRIDECYL MYRISTATE": [
     "tridecyl"
   ],
+  "TRIDECYL NEOPENTANOATE": [
+    "tridecyl neopentanoate"
+  ],
   "TRIDECYL TRIMELLITATE": [
     "tridecyl trimellitate",
     "tridecyl\u00a0trimellitate"
@@ -6652,7 +6919,8 @@
   ],
   "TRIMETHYL PENTANYL DIISOBUTYRATE": [
     "diisobutyrate",
-    "pentanyl"
+    "pentanyl",
+    "trimethyl pentanyl diisobutyrate"
   ],
   "TRIMETHYL PENTAPHENYL TRISILOXANE": [
     "trimethyl pentaphenyl trisiloxane"
@@ -6671,14 +6939,21 @@
   "TRIMETHYLOLPROPANE TRIISOSTEARATE": [
     "triisostearate"
   ],
+  "TRIMETHYLPENTANEDIOL/ADIPIC ACID COPOLYMER": [
+    "trimethylpentanediol"
+  ],
   "TRIMETHYLPENTANEDIYL DIBENZOATE": [
-    "trimethylpentanediyl"
+    "trimethylpentanediyl",
+    "trimethylpentanediyl dibenzoate"
   ],
   "TRIMETHYLSILOXYPHENYL DIMETHICONE": [
     "trimethylsiloxyphenyl dimethicone"
   ],
   "TRIMETHYLSILOXYSILICATE": [
     "trimethylsiloxysilicate"
+  ],
+  "TRIMETHYLSILOXYSILICATE/DIMETHICONOL CROSSPOLYMER": [
+    "dimethiconol crosspolymer"
   ],
   "TRIOCTYLDODECYL CITRATE": [
     "trioctyldodecyl citrate"
@@ -6694,6 +6969,9 @@
   ],
   "TRIS(NONYLPHENYL)PHOSPHITE": [
     "phosphite"
+  ],
+  "TRIS-BHT MESITYLENE": [
+    "tris-bht mesitylene"
   ],
   "TRIS-BIPHENYL TRIAZINE": [
     "triazine",
@@ -6908,6 +7186,9 @@
   ],
   "YEAST EXTRACT": [
     "yeast extract"
+  ],
+  "YELLOW 11": [
+    "yellow 11"
   ],
   "YOGURT": [
     "yogurt"
