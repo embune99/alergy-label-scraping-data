@@ -1,0 +1,119 @@
+{
+  "apiVersion": "2.146",
+  "reference": "ae187a74-ecfd-471f-997d-10ecf740d8f6",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 23.779827,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "GLUCOSYL HESPERIDIN"
+    ],
+    "otherRestrictions": [
+      "ban substances that deplete the ozone layer"
+    ],
+    "note": [],
+    "refNo": [],
+    "sccsOpinionUrls": [],
+    "innName": [],
+    "other": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "chemicalName": [
+      "(S)-7-[[6-O-(6-Deoxy-alpha-L-mannopyranosyl)-.beta.-D-glucopyranosyl]oxy]-2,3-dihydro-5-hydroxy-2-(3-hydroxy-4-methoxyphenyl)-4H-1-benzopyran-4-one glucopyranosyl ether"
+    ],
+    "sccsOpinion": [],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "E8EAE66C0CAFFF98C7B3642A02DCACE5"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [],
+    "maximumConcentration": [],
+    "identifiedIngredient": [],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "inciName": [
+      "GLUCOSYL HESPERIDIN"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [],
+    "substanceId": [
+      "56193"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "annexNo": [],
+    "productTypeBodyParts": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "HUMECTANT",
+      "SKIN CONDITIONING"
+    ],
+    "esDA_IngestDate": [
+      "2023-05-22T15:06:27.806+0200"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "corporate-search-version": [
+      "102"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-05-22T15:06:27.773+0200"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "datasource": [
+      "GROWTH_COSING"
+    ],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "ae187a74-ecfd-471f-997d-10ecf740d8f6. Available at: urn:test",
+  "score": 23.779827
+}

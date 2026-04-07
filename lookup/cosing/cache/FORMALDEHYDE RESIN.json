@@ -1,0 +1,119 @@
+{
+  "apiVersion": "2.146",
+  "reference": "0cd3192c-f86c-4740-8026-d335b5725129",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 17.879284,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "TOSYLAMIDE/FORMALDEHYDE RESIN"
+    ],
+    "otherRestrictions": [],
+    "note": [],
+    "refNo": [],
+    "sccsOpinionUrls": [],
+    "innName": [],
+    "other": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "chemicalName": [],
+    "sccsOpinion": [],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "Benzenesulfonamide, 4-methyl-, polymer with formaldehyde"
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "FABE674F8BF168E28FF9C9793FBD41B9"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [],
+    "maximumConcentration": [],
+    "identifiedIngredient": [],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "inciName": [
+      "TOSYLAMIDE/FORMALDEHYDE RESIN"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "25035-71-6"
+    ],
+    "substanceId": [
+      "80289"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "annexNo": [],
+    "productTypeBodyParts": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "FILM FORMING",
+      "PLASTICISER"
+    ],
+    "esDA_IngestDate": [
+      "2023-05-22T13:03:01.726+0200"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "corporate-search-version": [
+      "102"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-05-22T13:03:01.683+0200"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "datasource": [
+      "GROWTH_COSING"
+    ],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "0cd3192c-f86c-4740-8026-d335b5725129. Available at: urn:test",
+  "score": 17.879284
+}

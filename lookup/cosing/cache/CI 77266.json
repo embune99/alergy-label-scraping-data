@@ -1,0 +1,133 @@
+{
+  "apiVersion": "2.146",
+  "reference": "6ed37458-253c-429b-924f-de6bcaf3cb84",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 21.747349,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "CI 77266"
+    ],
+    "otherRestrictions": [],
+    "note": [],
+    "refNo": [],
+    "sccsOpinionUrls": [
+      "http://ec.europa.eu/health/scientific_committees/consumer_safety/docs/sccs_o_144.pdf",
+      "http://ec.europa.eu/health/scientific_committees/consumer_safety/docs/sccs_o_163.pdf"
+    ],
+    "innName": [],
+    "other": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "chemicalName": [],
+    "sccsOpinion": [
+      "Opinionon Carbon Black (nano-form)",
+      "Opinion for clarification of the meaning of the term \"sprayable\r\napplications/products\" for the nano forms of Carbon Black CI 77266, Titanium Oxide and Zinc Oxide"
+    ],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "CI 77266 is a colorant composed of finely divided particles of elemental carbon obtained by the incomplete combustion of hydrocarbons."
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "24D65A8B0AD3E624BCDD674533F6B9D0"
+    ],
+    "cosmeticRestriction": [
+      "IV/126\r\nIV/126a"
+    ],
+    "ecNo": [
+      "215-609-9; 231-153-3; 931-328-0; 931-334-3"
+    ],
+    "maximumConcentration": [],
+    "identifiedIngredient": [
+      "30536",
+      "94691"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "inciName": [
+      "CI 77266"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "1333-86-4; 7440-44-0"
+    ],
+    "substanceId": [
+      "98573"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "annexNo": [],
+    "productTypeBodyParts": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "COLORANT"
+    ],
+    "esDA_IngestDate": [
+      "2023-05-23T07:58:51.625+0200"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "corporate-search-version": [
+      "102"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-05-23T07:58:51.601+0200"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "datasource": [
+      "GROWTH_COSING"
+    ],
+    "wordingOfConditions": [],
+    "inciUsaName": [
+      "Carbon black"
+    ],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "6ed37458-253c-429b-924f-de6bcaf3cb84. Available at: urn:test",
+  "score": 21.747349
+}

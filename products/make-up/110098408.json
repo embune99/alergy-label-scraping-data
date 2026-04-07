@@ -52,181 +52,441 @@
       "IRON OXIDES"
     ],
     "inci": {
-      "talc": [
-        "61eb11c5-cc4a-4ee7-b932-d2ca37b57cb4",
-        "15da3bda-611e-404c-80d2-b49a6d927a22",
-        "18a5f7d5-a7e7-4f93-9255-51fa259c0ab4",
-        "bbd983d7-4d29-4d12-9425-37a87f8ea3c5",
-        "1a4c8d24-a4c1-4154-93f4-60e1b584d5ef"
-      ],
-      "zinc stearate": [
-        "fa86ea49-fe6c-4cd0-a578-6f39b42b80f8"
-      ],
-      "calcium carbonate": [
-        "551b9ced-3f7d-4899-891f-019bec697753",
-        "8f239a92-ad70-4332-bee1-7406b6c6dac6",
-        "144d6bbe-09ca-4624-b677-a4272f45790d",
-        "80eecae5-dbed-4af9-983a-36ee61cf1c10",
-        "6a9dac8f-55f9-41f0-bf1a-3783ba4ee960",
-        "03c62e72-a0ee-4348-9762-be9e6a98ce82",
-        "89d77521-c8db-4ef5-bbed-47a6c3ac4459",
-        "2b002647-fcf2-4ce1-9eb0-524f48d092a3",
-        "b8b1fd49-197d-4379-b0b7-c9706c6a6b00",
-        "07bea395-239a-455b-af70-7b57fbcf589f",
-        "388d5e9a-0876-4bcc-9889-fb8d2338ea52",
-        "a487b9db-c76a-45f3-b588-8717fad99672",
-        "d5faf90f-f532-4ea8-9b83-8b6d7a433e5a",
-        "40984f18-0f57-4c1d-8a56-10c7d07641f8",
-        "72a944c4-3a9b-4ed4-97e3-916546ef5c15",
-        "cf41b5dd-0e44-4227-852b-4a1d34faa9f8",
-        "135b90c4-a414-4962-9e8a-0839522c29dd",
-        "96ff7d5f-db43-4df9-834c-421938d5c5b8",
-        "7124c811-abf5-4dd3-a071-1abca320fcde",
-        "1b07ee5a-662a-47b7-ba80-f1ef707e417c",
-        "49fe4a28-e3d2-4bf5-a25e-cc5f6aeb9531",
-        "2f01e23f-593f-47e0-961d-c42fa2ba043c",
-        "c49c5456-a851-4325-bda3-e778fd97c40d"
-      ],
-      "sorbitan sesquioleate": [
-        "424ee9c9-35c6-4383-a7ff-fbbc541669bd"
-      ],
-      "methylparaben": [
-        "cedb3e15-74dd-4775-985b-ea4475684509",
-        "62bb4ff0-9d89-4621-a0b1-8dd6974cbc31",
-        "fcea9e36-5adf-4a57-ad0d-e8d54929cc17",
-        "70af5aef-f671-4013-acca-e89a604fc200"
-      ],
-      "propylparaben": [
-        "3a5539dc-13b0-43ec-820e-09525be3b719",
-        "073e8050-ad3a-46c8-bfda-6ef3f1fb73b6",
-        "5295eeab-2ecd-4b73-928a-e31767afcd5a",
-        "5cd6c1e3-9cdd-46f5-af0a-443a85171ae2"
-      ],
-      "lanolin oil": [
-        "f30d9164-a31a-4bac-8b8e-6907bd541948",
-        "88271d8a-916e-4440-b199-0ce868ac120b",
-        "c23bd4ab-4d2a-408b-a60a-dbe0f63efa6f",
-        "c4ff2f02-7895-48a5-b9b5-55cd19a2d606",
-        "a03c8b1c-5ff6-4aa7-9173-30ed15a62208",
-        "daba1e6f-eed0-4da2-88a8-cfe5e72096e0"
-      ],
-      "polysorbate 60": [
-        "c6dff4eb-5e6a-4512-ba7b-1ef55a1c2aaf"
-      ],
-      "linalyl acetate": [
-        "b5a2ca6c-f9ef-4258-b968-f613f7376cb5",
-        "d489e0ea-9a81-4b1d-b8bc-5502db5adb42",
-        "d61c4bec-0b4d-4e48-aef5-a218fea8b8cc",
-        "29a385e8-9ff6-43f0-8eac-8788fb368de3"
-      ],
-      "linalool": [
-        "8f47a2fa-c519-434c-8bb9-8385cf05fea5",
-        "c396cf4a-6357-436d-8d55-fb24f9961d3d",
-        "8d5a2513-3e2c-44f1-8f85-624d6342866f",
-        "0018acfb-f2a4-4538-8f28-f8af71041bb9",
-        "f2357e58-0181-41f6-b80b-457d1f55ee91",
-        "a19ecbd9-8ced-402a-85d8-9e341468e55f",
-        "99634e65-3bfd-420f-a5b9-7094dc581270",
-        "72a74c17-4c98-4ee7-a58a-7d5ff3942560",
-        "cbc4a314-95f5-4345-98cc-61b2d87bf963",
-        "f5f287c8-50f4-4c93-8b0d-41c89b985347",
-        "ccd1c9bf-9835-4c02-bb80-d3791d4f6690",
-        "7b037553-1d27-4931-8108-84efc7f93f6a",
-        "c2d79f26-662b-4480-b669-afdef300ad6e",
-        "a803ace3-7f88-4b6f-aa4a-0b4119093446",
-        "67734a62-d120-45e1-ba29-4a62454d9224",
-        "d489e0ea-9a81-4b1d-b8bc-5502db5adb42",
-        "d61c4bec-0b4d-4e48-aef5-a218fea8b8cc",
-        "29a385e8-9ff6-43f0-8eac-8788fb368de3",
-        "dcbdaa4c-4fbc-4473-987a-6d33558a5c19",
-        "d93d671b-3419-4680-8269-60583ec9ac0e"
-      ],
-      "citronellol": [
-        "0dc4ed58-7d3b-4143-a03f-a9d1dccdabc9",
-        "77758167-316e-48cd-9098-d46c980c897d",
-        "ba477a38-110c-403e-840d-c91597e537ab",
-        "29d4f600-b472-4e2f-8b48-db00cef00849",
-        "cc21873c-a0ea-43d6-9dc2-d7f2ea7e43f6",
-        "1869042b-c968-4a64-bdf8-4ffdf6e0cac9",
-        "b6b4c602-e44e-4ab7-8ebb-062c6bcb95b1",
-        "ffa1a140-f081-419a-85b3-5460e0d7ba39",
-        "ccd1c9bf-9835-4c02-bb80-d3791d4f6690",
-        "77e8e7bb-b62d-4fd8-a213-f709399099f2",
-        "77a285e7-0ed1-4d6d-b7da-085fb19efa3b"
-      ],
-      "eugenol": [
-        "dd349f06-f0ce-41df-b270-ca56be133fb2",
-        "8159b3b3-c146-4977-b716-08285c972958",
-        "0fa45e0d-18c7-4d3d-907f-1a580c169fe6",
-        "de997fcd-2a6f-4b53-8b67-22b28c8a59c7",
-        "cfcdbaea-0fbc-4c60-9c38-021736c36bb5",
-        "6ae0a396-6e2c-4074-b6b0-83030c18e895",
-        "80ec36af-1b6b-4e04-b52f-e8975f05801f"
-      ],
-      "cinnamyl alcohol": [
-        "0ef98020-4470-47ce-a4e0-e42a0126dda5",
-        "0e5b5797-6dce-4e24-9c6f-0e5f162865e9"
-      ],
-      "terpineol": [
-        "816d1d06-f045-465c-9ced-267f1cf6b94d",
-        "9d2c292a-53a0-44eb-955a-bf666793e88f",
-        "34a5e4d3-904d-42cc-a37b-9c76f39ddc60",
-        "639fdf9c-710d-4ce5-a13c-899590816de1",
-        "77c4653c-3430-4779-bdd8-d76199258418",
-        "c10177eb-30d9-4115-9f6c-b7ce907cda0b",
-        "f65c0f27-78b0-4804-8c28-6071b7f3eaa9",
-        "f0386f6b-f59b-49a8-a468-5c77e8a8188e",
-        "c2d79f26-662b-4480-b669-afdef300ad6e",
-        "67734a62-d120-45e1-ba29-4a62454d9224",
-        "5fd73f7d-090a-41e9-9cf8-ec2d82359ab1",
-        "f43f6f59-9dfd-4a87-b632-82dadb6e5796",
-        "e7b43e73-a3d6-4098-8e90-6fa1dd1cb804",
-        "cfcdbaea-0fbc-4c60-9c38-021736c36bb5",
-        "cad62702-886e-4de6-b03e-7999599e8306",
-        "0e1e8e38-fc2e-4ce7-84f9-4dce5df36518",
-        "dcbdaa4c-4fbc-4473-987a-6d33558a5c19"
-      ],
-      "benzyl salicylate": [
-        "ba0d9117-68cd-47ec-943e-ee22d1f97e0c",
-        "396e0bc9-32c1-473d-bd25-8e0cfcd51c17"
-      ],
-      "amyl cinnamal": [
-        "4ccca63f-ef92-4138-ba3f-4e6444ef9fdb"
-      ],
-      "geranyl acetate": [
-        "923ad553-c536-4a72-a5e9-c5f086995196",
-        "e7b43e73-a3d6-4098-8e90-6fa1dd1cb804",
-        "cad62702-886e-4de6-b03e-7999599e8306",
-        "f43f6f59-9dfd-4a87-b632-82dadb6e5796"
-      ],
-      "beta-caryophyllene": [
-        "07843aed-2428-4a06-be80-2e72b1528d10",
-        "a640ea0f-dc25-43c0-9c6d-06afafa50280"
-      ],
-      "alpha-isomethyl ionone": [
-        "bb1bdf74-ac91-4b4f-a06e-4f30fe9e50be",
-        "11962886-2355-462e-9e05-4f089a23afa9"
-      ],
-      "pelargonium graveolens flower oil": [
-        "8d239d63-f61b-4bd9-b9e3-a2d17aeeb65f"
-      ],
-      "benzyl benzoate": [
-        "1a10b23f-a185-4dd6-82a7-58dcc4d404c3",
-        "7abfbf55-02d4-44df-b6e5-313c4cbc3ea7",
-        "cd527998-3238-43e8-a1da-e440f8fc1f9b",
-        "9c3a546a-8701-480c-9b82-af57ca3e6186"
-      ],
-      "diammonium phosphate": [
-        "23f318f4-4e1b-450d-989b-d1d4188ec870"
-      ],
-      "titanium dioxide (ci 77891)": [
-        "3b6d8c27-57ab-42ee-8cfb-3a30dc79cbdf",
-        "fc447eee-75df-4425-bf66-91a1b3929d87",
-        "ff57a03a-400b-4cb0-9686-980d370aefcb"
-      ],
-      "ci 77492": [
-        "7d7b6af7-26f7-4e93-8b82-c8022388d610"
-      ]
+      "talc": {
+        "cosing_info": {
+          "reference": "61eb11c5-cc4a-4ee7-b932-d2ca37b57cb4",
+          "inci_name": "TALC",
+          "cas_no": [
+            "14807-96-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "165411828",
+            "sid": "516578436",
+            "cas_no": "14807-96-6"
+          }
+        ]
+      },
+      "zinc stearate": {
+        "cosing_info": {
+          "reference": "fa86ea49-fe6c-4cd0-a578-6f39b42b80f8",
+          "inci_name": "ZINC STEARATE",
+          "cas_no": [
+            "557-05-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "11178",
+            "sid": "505900926",
+            "cas_no": "557-05-1"
+          }
+        ]
+      },
+      "calcium carbonate": {
+        "cosing_info": {
+          "reference": "551b9ced-3f7d-4899-891f-019bec697753",
+          "inci_name": "CALCIUM CARBONATE",
+          "cas_no": [
+            "471-34-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "10112",
+            "sid": "481107964",
+            "cas_no": "471-34-1"
+          }
+        ]
+      },
+      "paraffinum liquidum": {
+        "cosing_info": {
+          "reference": "8f9be648-8ecc-49a6-bad7-2c9ca8ac823b",
+          "inci_name": "PARAFFINUM LIQUIDUM",
+          "cas_no": [
+            "8012-95-1",
+            "8042-47-5"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "mineral oil": {
+        "cosing_info": {
+          "reference": "f9e8f424-37a1-4d5e-89e6-42def6c1323e",
+          "inci_name": "MINERAL OIL",
+          "cas_no": [
+            "8012-95-1",
+            "8042-47-5",
+            "8020-83-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "139291139",
+            "sid": null,
+            "cas_no": "8020-83-5"
+          }
+        ]
+      },
+      "parfum": {
+        "cosing_info": {
+          "reference": "877337a9-4a8b-4d17-bed7-f3a39d335e80",
+          "inci_name": "PARFUM",
+          "cas_no": []
+        },
+        "pubchem_info": []
+      },
+      "fragrance": {
+        "cosing_info": {
+          "reference": "8df6b6bc-f26a-438c-8dc4-130db9e8ce6b",
+          "inci_name": "3,7-Dimethyl-2-octen-1-ol (6,7-Dihydrogeraniol), when used as a fragrance ingredient",
+          "cas_no": [
+            "40607-48-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5365836",
+            "sid": "504562939",
+            "cas_no": "40607-48-5"
+          }
+        ]
+      },
+      "sorbitan sesquioleate": {
+        "cosing_info": {
+          "reference": "424ee9c9-35c6-4383-a7ff-fbbc541669bd",
+          "inci_name": "SORBITAN SESQUIOLEATE",
+          "cas_no": [
+            "8007-43-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6433515",
+            "sid": "505884213",
+            "cas_no": "8007-43-0"
+          }
+        ]
+      },
+      "methylparaben": {
+        "cosing_info": {
+          "reference": "62bb4ff0-9d89-4621-a0b1-8dd6974cbc31",
+          "inci_name": "METHYLPARABEN",
+          "cas_no": [
+            "99-76-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "7456",
+            "sid": "481107807",
+            "cas_no": "99-76-3"
+          }
+        ]
+      },
+      "propylparaben": {
+        "cosing_info": {
+          "reference": "073e8050-ad3a-46c8-bfda-6ef3f1fb73b6",
+          "inci_name": "PROPYLPARABEN",
+          "cas_no": [
+            "94-13-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "7175",
+            "sid": "481107517",
+            "cas_no": "94-13-3"
+          }
+        ]
+      },
+      "lanolin oil": {
+        "cosing_info": {
+          "reference": "88271d8a-916e-4440-b199-0ce868ac120b",
+          "inci_name": "LANOLIN OIL",
+          "cas_no": [
+            "70321-63-0",
+            "8038-43-5"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "polysorbate 60": {
+        "cosing_info": {
+          "reference": "c6dff4eb-5e6a-4512-ba7b-1ef55a1c2aaf",
+          "inci_name": "POLYSORBATE 60",
+          "cas_no": [
+            "9005-67-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "linalyl acetate": {
+        "cosing_info": {
+          "reference": "b5a2ca6c-f9ef-4258-b968-f613f7376cb5",
+          "inci_name": "LINALYL ACETATE",
+          "cas_no": [
+            "115-95-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8294",
+            "sid": "482027779",
+            "cas_no": "115-95-7"
+          }
+        ]
+      },
+      "linalool": {
+        "cosing_info": {
+          "reference": "8f47a2fa-c519-434c-8bb9-8385cf05fea5",
+          "inci_name": "LINALOOL",
+          "cas_no": [
+            "78-70-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "6549",
+            "sid": "482028551",
+            "cas_no": "78-70-6"
+          }
+        ]
+      },
+      "citronellol": {
+        "cosing_info": {
+          "reference": "0dc4ed58-7d3b-4143-a03f-a9d1dccdabc9",
+          "inci_name": "CITRONELLOL",
+          "cas_no": [
+            "106-22-9",
+            "26489-01-0",
+            "7540-51-4",
+            "1117-61-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8842",
+            "sid": "482039864",
+            "cas_no": "106-22-9"
+          },
+          {
+            "cid": "8842",
+            "sid": "482039864",
+            "cas_no": "26489-01-0"
+          },
+          {
+            "cid": "7793",
+            "sid": "505563004",
+            "cas_no": "7540-51-4"
+          },
+          {
+            "cid": "101977",
+            "sid": "483924806",
+            "cas_no": "1117-61-9"
+          }
+        ]
+      },
+      "eugenol": {
+        "cosing_info": {
+          "reference": "dd349f06-f0ce-41df-b270-ca56be133fb2",
+          "inci_name": "EUGENOL",
+          "cas_no": [
+            "97-53-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "3314",
+            "sid": "481107773",
+            "cas_no": "97-53-0"
+          }
+        ]
+      },
+      "cinnamyl alcohol": {
+        "cosing_info": {
+          "reference": "0ef98020-4470-47ce-a4e0-e42a0126dda5",
+          "inci_name": "CINNAMYL ALCOHOL",
+          "cas_no": [
+            "104-54-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5315892",
+            "sid": "482037367",
+            "cas_no": "104-54-1"
+          }
+        ]
+      },
+      "terpineol": {
+        "cosing_info": {
+          "reference": "816d1d06-f045-465c-9ced-267f1cf6b94d",
+          "inci_name": "TERPINEOL",
+          "cas_no": [
+            "8000-41-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "benzyl salicylate": {
+        "cosing_info": {
+          "reference": "ba0d9117-68cd-47ec-943e-ee22d1f97e0c",
+          "inci_name": "BENZYL SALICYLATE",
+          "cas_no": [
+            "118-58-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "8363",
+            "sid": "481106937",
+            "cas_no": "118-58-1"
+          }
+        ]
+      },
+      "amyl cinnamal": {
+        "cosing_info": {
+          "reference": "4ccca63f-ef92-4138-ba3f-4e6444ef9fdb",
+          "inci_name": "AMYL CINNAMAL",
+          "cas_no": [
+            "122-40-7"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "31209",
+            "sid": "518168306",
+            "cas_no": "122-40-7"
+          }
+        ]
+      },
+      "cananga odorata oil": {
+        "cosing_info": {
+          "reference": "f0fe2764-86b9-40db-a8b3-ecbb99ec1958",
+          "inci_name": "CANANGA ODORATA OIL/EXTRACT",
+          "cas_no": []
+        },
+        "pubchem_info": []
+      },
+      "extract": {
+        "cosing_info": {
+          "reference": "6ff40204-b73a-486d-bc81-2a5a6f2faeee",
+          "inci_name": "HAEMATOXYLUM CAMPECHIANUM WOOD EXTRACT",
+          "cas_no": [
+            "8005-33-2"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "442514",
+            "sid": "505779233",
+            "cas_no": "8005-33-2"
+          }
+        ]
+      },
+      "geranyl acetate": {
+        "cosing_info": {
+          "reference": "923ad553-c536-4a72-a5e9-c5f086995196",
+          "inci_name": "GERANYL ACETATE",
+          "cas_no": [
+            "105-87-3"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "1549026",
+            "sid": "482032162",
+            "cas_no": "105-87-3"
+          }
+        ]
+      },
+      "beta-caryophyllene": {
+        "cosing_info": {
+          "reference": "07843aed-2428-4a06-be80-2e72b1528d10",
+          "inci_name": "BETA-CARYOPHYLLENE",
+          "cas_no": [
+            "87-44-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5281515",
+            "sid": "481107968",
+            "cas_no": "87-44-5"
+          }
+        ]
+      },
+      "alpha-isomethyl ionone": {
+        "cosing_info": {
+          "reference": "bb1bdf74-ac91-4b4f-a06e-4f30fe9e50be",
+          "inci_name": "ALPHA-ISOMETHYL IONONE",
+          "cas_no": [
+            "127-51-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "5372174",
+            "sid": "518159587",
+            "cas_no": "127-51-5"
+          }
+        ]
+      },
+      "pelargonium graveolens flower oil": {
+        "cosing_info": {
+          "reference": "8d239d63-f61b-4bd9-b9e3-a2d17aeeb65f",
+          "inci_name": "PELARGONIUM GRAVEOLENS FLOWER OIL",
+          "cas_no": [
+            "90082-51-2",
+            "8000-46-2"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "benzyl benzoate": {
+        "cosing_info": {
+          "reference": "1a10b23f-a185-4dd6-82a7-58dcc4d404c3",
+          "inci_name": "Benzyl benzoate",
+          "cas_no": [
+            "120-51-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "2345",
+            "sid": "481106934",
+            "cas_no": "120-51-4"
+          }
+        ]
+      },
+      "diammonium phosphate": {
+        "cosing_info": {
+          "reference": "23f318f4-4e1b-450d-989b-d1d4188ec870",
+          "inci_name": "DIAMMONIUM PHOSPHATE",
+          "cas_no": [
+            "7783-28-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "24540",
+            "sid": "483924461",
+            "cas_no": "7783-28-0"
+          }
+        ]
+      },
+      "iron oxides": {
+        "cosing_info": {
+          "reference": "8f820c77-51eb-4248-8b96-59d016633648",
+          "inci_name": "SILICON/TITANIUM/CERIUM/IRON OXIDES",
+          "cas_no": [
+            "-"
+          ]
+        },
+        "pubchem_info": []
+      }
     }
   },
   "additional_information": {
