@@ -46,234 +46,349 @@
       "Acid."
     ],
     "inci": {
-      "sodium bicarbonate": [
-        "c3304c5c-ad43-486f-8ade-2d0f2b4619f3",
-        "8ae4c063-1e5b-45d2-a059-eeed93bd0faa",
-        "80908c95-06f7-481b-9328-c8dfe7ac99ea",
-        "c781a17f-d9f7-4f36-a136-353b942808fe",
-        "0a1434a1-fe3c-4245-9dd7-fce13c1cfd2e",
-        "024d018c-47ed-4afc-b14e-fad35f210a33",
-        "d0cfdcad-69e2-40bd-8e2b-87c52bc5dae3",
-        "afad2caf-0273-49a1-badd-43e7c22b717b",
-        "28d4aaa3-dba5-4a19-b937-d65584bb8a7d",
-        "1c8162f1-17bd-420b-8996-524c41f5fc2f",
-        "86606c64-9bdb-4ee3-a50b-a84ebad2be0e",
-        "e2f76bc1-9764-410f-8113-9b006c816c04",
-        "25e20829-2af2-4781-8ed5-daf4c3cc9eb6",
-        "317fe93c-67c5-484d-91b9-777b0be25152",
-        "998e784a-666b-4521-b1fe-7f8ff92de91f",
-        "7e8579f5-6568-47a6-b164-98a195149713",
-        "7bd3f40b-a22e-455e-9386-61d94b290e45"
-      ],
-      "zea mays starch": [
-        "8a604f92-3735-4923-b03c-b75566bc78b5",
-        "00b6e815-ef31-425b-8c98-9aa6d426f696",
-        "4abe4e2d-2495-41a9-bbe5-7580f6ccab1e",
-        "77efd38a-6376-4a74-9549-f6d60cafcd8d",
-        "102a1851-da04-4254-b96f-57bcc73ed193",
-        "83bee8e7-117d-4826-9cdb-a4708713b3fe",
-        "b60d95bf-3bb4-49c8-a65a-eb4aa7459d36",
-        "2c5b8b9b-ea70-419c-b69a-3e64ff1d9743",
-        "7124c811-abf5-4dd3-a071-1abca320fcde",
-        "cddb1920-0dae-4f7e-9931-09a69e483ba1",
-        "faf6389b-3ddd-4ab8-98ec-198c21d7bbc3",
-        "6fbf327e-bd8e-4352-88b0-874a43e30c57"
-      ],
-      "cocos nucifera oil": [
-        "6b6edff1-a92f-4e8e-a2e0-92559572c4e3",
-        "ee1020e1-0054-4309-8a9b-c82c230bd70a",
-        "adffdf04-c38d-495f-8f00-0c204022a558",
-        "6e6a0afb-330d-4f7c-8518-0ff38cfc7b41",
-        "5b5ea621-64f4-462e-a943-3ba2de03fa5f",
-        "16e97b9d-4100-4b2b-a14c-e9933c7066a6",
-        "0c039ce7-8488-4dcb-9af4-b941f729426e",
-        "f5489898-9d08-47df-89d3-d4d686cd03f2",
-        "2506c9f2-cc41-43a1-b32c-ca29b9e90fc5",
-        "c85ee5cc-e0b1-4c0b-8f05-f36b8fc36a7b",
-        "43f9dc01-723b-4a38-8cda-5e4d0c5c8a5f",
-        "f8597344-fe9e-4c97-8f93-63e6d86b70f0",
-        "fd292c21-87a5-4d7c-9179-094d6ed99e1b",
-        "d9bcf8a6-0cbd-42e1-9ea9-3b1d16aa6304",
-        "73aa9f55-895a-48f9-a1e3-c772104ef56d",
-        "a11a51d9-1c70-43ea-a5b4-6c2776ea9c7a",
-        "67d4c839-872d-44cb-8949-346855fda655",
-        "b11abd84-292a-4ef3-b850-d5b461fb0be2",
-        "f2d9d35b-3537-4674-a0b5-875d78151a35",
-        "ede2e87c-c8f5-43e7-a5cb-0bc70033316b",
-        "43fb5a00-748e-41ca-8fef-649a6fb1aefe",
-        "953a2881-c6e4-441d-bb9b-2a8e098f4b59"
-      ],
-      "brassica campestris seed oil": [
-        "c87ba112-c904-41a2-9bf2-8b9c50c197c4",
-        "bb55fffc-7118-454d-a58c-5c77a006037f",
-        "9c1c0ace-96f4-44c7-902e-d747b44ea37f",
-        "4a4397a2-0b51-4dc8-9f4d-78f793a14297",
-        "cbaa26d2-10c9-438d-b151-47128aa667f7",
-        "38736171-3a08-4a34-be4c-eab9c75cc9b0",
-        "37232614-27b5-41ae-94a2-3cd77f9b9812",
-        "e6b6c4f7-7fd8-4e17-88c5-3649948ed354",
-        "4ccbc9cb-e4f3-4b47-8de9-e9d595bfd69f",
-        "1e146632-2840-4b41-a738-9fa0bf6355ca",
-        "953a2881-c6e4-441d-bb9b-2a8e098f4b59"
-      ],
-      "helianthus annuus seed cera": [
-        "55415877-3b42-44ca-b008-20807789f3d7"
-      ],
-      "cetyl esters": [
-        "6f70e63a-9d10-4a6c-b469-93bed6e9ffb6",
-        "f9507c73-0b2f-4d2e-976e-9b43141666d7",
-        "12f4e538-20a6-4c8f-9402-8dbea9fb85f5",
-        "4a0b5a7e-f43f-4033-865b-1048b5a38d64",
-        "4eee9041-3888-4236-9a28-4db561fb5d3f",
-        "ce0d71e1-3ae8-42c2-aeb8-e63f087e4fb3",
-        "bdc1f8c3-2d57-4db4-bb86-7fdf786c326f",
-        "cffbf9e8-9dd5-450c-94f1-9d7589f6820e",
-        "4251e8ea-aab3-48ee-8398-f59f5d924643",
-        "0963cbe8-3f21-4cf6-9f7d-f67a947a4870",
-        "1809d037-591a-49af-a73d-99f09da60ab7",
-        "045e04d7-7ae9-465d-9662-f08cf9075b3c",
-        "12c0d7a3-69b0-403e-8b92-d933e88bff32",
-        "2c7688bc-70f8-4efc-937b-69b2a241e0fd",
-        "2a463797-af5b-4c4e-ae17-ce5e83af310e",
-        "2fce232c-dcb8-4f5f-82f8-a468938ecfb7",
-        "cf24c91c-085c-4a15-92af-ec56646bb233",
-        "a32a5869-fed0-4992-83d9-efd4865ad401",
-        "b3fbdb67-5a4c-4bfa-9aa3-3a741ec6221e",
-        "78ff5f69-d0d0-4426-ac8d-8954b4b4d202",
-        "b1f03b56-fb4a-4afe-9246-2564f081435c",
-        "acc1bb70-123a-4a7f-adac-de9ea7537e7b"
-      ],
-      "tribehenin": [
-        "ddab8347-ff64-4dd6-81de-960c0eedb263",
-        "ec76f1a0-fcf9-4089-9bb7-3f0ea1888c98"
-      ],
-      "parfum": [
-        "877337a9-4a8b-4d17-bed7-f3a39d335e80"
-      ],
-      "zinc oxide": [
-        "0e68f68f-ab0f-4bef-ad23-fb405a11e20b",
-        "ee884ec1-56b1-45c8-b4fa-40da023324cf",
-        "1aadcc07-a94e-4be6-8958-c69a8198a725",
-        "3f3b844f-c1d3-4171-9cd8-a985a94df4b2",
-        "0481f185-03ed-4fbf-b928-1c720d653883",
-        "4af2c379-1e4e-44e2-bf1f-bdcf1caac751",
-        "2b8327df-9705-4c2c-9fd1-b42631d7d4ca",
-        "0834dc81-80c2-477f-bd95-1305f9263d3a",
-        "3ee59015-be7a-4b65-a801-72024d4cea51",
-        "39498b3c-917c-45c3-be7a-5780d333f64a",
-        "6e09c9f9-912a-42e4-b6be-8bbf277f273f",
-        "4fa5b661-7ea2-4f5e-bff8-f204e28c4918",
-        "d42d297a-2352-4c1e-bdb4-f9625ab33c9f",
-        "84e1ec45-aca4-40d0-90a2-374ef98c6b19",
-        "504b3b66-56da-40b6-abe9-75f66c292577",
-        "fc377fb4-9558-4acb-bc38-55c6a4a237ef",
-        "19b422a6-6a9a-4363-bfc7-70fe174bf7d3",
-        "aae30f63-59d4-4292-aaac-9f4ab3faec97",
-        "ff3247a6-8957-43e2-b464-08d7a063813d"
-      ],
-      "tocopherol": [
-        "e353a1e9-9330-4c22-bf1a-f58ac6d356a9",
-        "e342caa4-feb8-4dc2-af5a-fcc144dbc2ad",
-        "471234b3-ba01-48ae-a37e-7868f8959211",
-        "eb980407-930e-424f-9091-3879c2e5ecfc",
-        "febc5fb6-f775-402d-8e13-e08ed0a9f16a",
-        "31933de9-8f3e-470c-9744-6491f3497b83",
-        "668f1319-66e2-4b67-a27a-5ed3cd5099c0",
-        "4f06768f-c5c3-46ee-884e-f296ecca24f5",
-        "299d7c1b-0d33-4121-b0c7-3394b65c41ce",
-        "3b942130-8595-4391-a215-6a35f4317c84",
-        "c3d456a3-7bde-42d1-b7c2-4f5e02697980",
-        "ba0f16c8-434e-4075-bb1a-643aa7efad45",
-        "44c28ff8-3740-444e-b642-e0bdb305d023",
-        "a4ad8d2c-9b8f-4138-824f-e29b6ef09361",
-        "4828cb81-0b05-4ba3-8a46-771c5494a2ea",
-        "e43e9c7e-530c-44c3-af6a-a162338ef91b",
-        "7e8579f5-6568-47a6-b164-98a195149713"
-      ],
-      "helianthus annuus seed oil": [
-        "47ebbfec-9f38-4dec-b70f-8be487ff0026",
-        "19099c7c-b498-4ddb-9e22-cbb5b33ed888",
-        "641591e8-5feb-4ccf-a79c-748252b3ba8a",
-        "a8491473-b00c-41e8-beaa-8a9fed3fd65a",
-        "d99f4b20-de0f-455f-8f02-06ff9fa13552",
-        "0d910577-6579-4d74-8435-763a40883cdd",
-        "ede749cd-6e56-4b93-b4e0-0ddd74e1ff4f",
-        "2186aa0a-a9a2-4bcd-bd48-7c4bb6a8f864",
-        "289ce0c6-241e-40f6-a79a-07674b023539",
-        "2ca712e0-d443-4624-871c-7e57e79f7807",
-        "1a4682a2-58c3-41e7-8670-109a5153f1ce",
-        "2c7688bc-70f8-4efc-937b-69b2a241e0fd",
-        "0a2ce360-2ee6-4ebb-81ba-fd80abe52faf",
-        "4b4025f2-9100-4c54-9e39-2de10d898ebd",
-        "c18e9944-ead3-4519-9569-a9793b15ffce",
-        "d779f3c2-9bbd-4062-807f-a848ff0b5fb6",
-        "f08bf3af-ab16-4e5b-b18a-852755dd43be",
-        "8efe48e1-8dc9-4bfa-af92-a9a6eae8ee2e",
-        "97f022d5-af89-4f1b-bb7d-5754147f5f23",
-        "e3243624-dbd1-4851-a4c8-02064f15efe0",
-        "25d9959a-2c81-4949-9da8-e99bbb8dcc6e",
-        "f0d31399-b8ef-42ce-a6d6-0f1ca3dc793f",
-        "23aa6e0c-a74a-4f70-8617-9ba46dc825f6",
-        "3add510b-67f3-41d9-8933-c07b0da3d847",
-        "3a50268a-db7b-498b-9a66-64123349d4f3",
-        "3ce894db-4245-421d-8c56-5e2ca56f387d",
-        "544eb2b4-fa4b-4eb2-bede-e7b093c63b3c",
-        "2978cd01-acd4-4483-9b1e-d5a4448daff7",
-        "5d018381-13eb-4a44-abdf-3a8d6f0d5ae7",
-        "a4b97e27-89da-4f19-a145-fd51094bb70c",
-        "1ed01ef0-8cd4-4b5f-bb46-955c26e9c98d",
-        "986b0ef7-feff-4a21-bec3-98e550c51283",
-        "5036a70b-d758-49e9-9a69-8233924c8a58",
-        "04e04e4e-f386-4d64-911d-4482cd29d914",
-        "9d7ea0e0-c661-4317-9414-25b5a1470f14",
-        "19851a4e-8111-43cc-ae50-63a8e4e1c123",
-        "010b287b-0dec-485c-b286-5eee1f4dafff",
-        "77e6e8f9-7130-4cfa-8c0b-023c48eb33d2",
-        "15dc8fca-69cd-43bf-af32-be87864c3f6d",
-        "75f6cf5f-2f89-44ee-9eb2-291577805586",
-        "b6c4f2bc-be90-47df-9339-9ee233f4ddbe",
-        "3047ea8e-36c1-44a2-879e-f455ce9cfd09",
-        "06f7c178-3f98-4fda-8766-94a79943e2ea",
-        "a4c816ed-86f3-41cc-af2c-82310c987a9b",
-        "c9491e07-37e5-462f-aa30-467ecfa69c22",
-        "4e7684d5-851a-4d11-9eec-0367b3af3aa6",
-        "1afaf044-d1c1-4cf6-9360-7e4a98e7338b",
-        "c19e8142-c329-47b7-a6d7-cfd43855d5a7",
-        "91cc1aa4-8fbe-49e4-b20d-52a1ee781992",
-        "dafd5d3b-59b2-46a9-8303-e78c112052fb",
-        "451a2f8a-488b-47e6-9b1d-fdd26f24fcf8",
-        "587bcea5-ad42-4945-b488-bfcbaa4d906f",
-        "6aaac0ec-eec8-4d10-8282-e63cedbf963f",
-        "a7c5c1d6-d23f-4cf3-9bf4-62f98f7062ec",
-        "1ad1a9d0-539b-45ad-ba04-0ef0ed211c17",
-        "4234f784-8632-43ad-b5c2-c429140a94e6",
-        "74248939-5711-4ba5-a93c-b75d9ac40c36",
-        "aa3b5eac-3f08-4894-aed6-688af8618498",
-        "77f7a7f1-0b93-4474-92fd-3d7a31a6a954",
-        "98a2e4e3-0679-4604-b6f8-518ff03c63c0",
-        "7159cb0e-d3ba-432c-9465-88c0ad3c2347",
-        "12cd363f-5599-4626-9962-31dd869197c4",
-        "0c7726cf-56dc-4bf1-8f63-9d0783188467",
-        "41d8f0ba-bc82-43eb-8ec7-f63f7182ee58",
-        "981eec56-7788-48d9-9c28-e8f63201a5f3",
-        "953a2881-c6e4-441d-bb9b-2a8e098f4b59"
-      ],
-      "polyhydroxystearic acid.": [
-        "719b0c5f-2471-4eed-b547-5d6dbc08938f",
-        "1791d225-450c-4824-8426-8a18896e0fea",
-        "9f3627b9-db8f-4fda-8602-ee9533d5cf27",
-        "7643bcd6-4e08-4fe9-b421-231cb1ab074c",
-        "092e4e50-0660-4ea2-95cd-cd77f61e9f47",
-        "58a9a865-910a-4cb8-86d2-fb31f1f512e8",
-        "3414de01-5bf1-4336-ba68-c90c0cedb46a",
-        "53a93ddb-6bf8-46c1-ab39-b2449034c5d2",
-        "59ce2210-b48d-4e34-b4cc-d7b5b7b0a673",
-        "9484c0f8-0679-4825-9efe-b799ee7a319b",
-        "4431e0cc-9b51-4e55-9938-a9e1528d981e",
-        "42868d13-2e03-4cf5-94ba-f05e44957c0b",
-        "deda8582-8dc6-4582-ad14-cefa7433d1fc",
-        "eeeb2024-993d-4432-a795-4e935fc939df"
-      ]
+      "sodium": {
+        "cosing_info": {
+          "reference": "436c3318-3a15-40db-b19b-54900ed3abc1",
+          "inci_name": "SODIUM SIALYLLACTOSE",
+          "cas_no": [
+            "128596-80-5"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "71308479",
+            "sid": "504500786",
+            "cas_no": "128596-80-5"
+          }
+        ]
+      },
+      "bicarbonate": {
+        "cosing_info": {
+          "reference": "4c65cdec-297b-47d9-913c-6698dd590607",
+          "inci_name": "AMINOGUANIDINE BICARBONATE",
+          "cas_no": [
+            "2582-30-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "164944",
+            "sid": "505553277",
+            "cas_no": "2582-30-1"
+          }
+        ]
+      },
+      "zea": {
+        "cosing_info": {
+          "reference": "5b181bc3-e563-413f-8baf-b0f565f51927",
+          "inci_name": "ZEA MAYS KERNEL EXTRACT",
+          "cas_no": [
+            "84696-06-0"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "mays": {
+        "cosing_info": {
+          "reference": "8a604f92-3735-4923-b03c-b75566bc78b5",
+          "inci_name": "ZEA MAYS STARCH",
+          "cas_no": [
+            "9005-25-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "starch": {
+        "cosing_info": {
+          "reference": "93782f1a-117c-49e6-8eca-9fe44b1ef6fc",
+          "inci_name": "HYDROXYPROPYL STARCH",
+          "cas_no": [
+            "9049-76-7",
+            "68584-86-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "24847857",
+            "sid": "518155301",
+            "cas_no": "9049-76-7"
+          }
+        ]
+      },
+      "cocos": {
+        "cosing_info": {
+          "reference": "e0048346-3a7a-4477-a916-c58362958b47",
+          "inci_name": "COCOS NUCIFERA FRUIT",
+          "cas_no": [
+            "8001-31-8"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "nucifera": {
+        "cosing_info": {
+          "reference": "7fb7a796-8cfd-4622-8eb5-e47ab948e1ac",
+          "inci_name": "NELUMBO NUCIFERA EXTRACT",
+          "cas_no": [
+            "85085-51-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "oil": {
+        "cosing_info": {
+          "reference": "73055330-91dd-4d1e-b860-925fb2ecdbc8",
+          "inci_name": "MENHADEN OIL",
+          "cas_no": [
+            "8002-50-4"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "brassica": {
+        "cosing_info": {
+          "reference": "753fb835-7881-4d97-a687-d4b588f37cfa",
+          "inci_name": "BRASSICA NAPUS STEM EXTRACT",
+          "cas_no": [
+            "89958-03-2 (generic)"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "campestris": {
+        "cosing_info": {
+          "reference": "205b76c2-374d-4963-ab9d-87ce61a02531",
+          "inci_name": "PSALLIOTA CAMPESTRIS EXTRACT",
+          "cas_no": [
+            "84929-56-6"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "seed": {
+        "cosing_info": {
+          "reference": "981b4ff2-0470-4c2b-9a2a-bdebc1e66420",
+          "inci_name": "HELIANTHUS ANNUUS SEED WAX",
+          "cas_no": [
+            "1286686-34-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "helianthus": {
+        "cosing_info": {
+          "reference": "981b4ff2-0470-4c2b-9a2a-bdebc1e66420",
+          "inci_name": "HELIANTHUS ANNUUS SEED WAX",
+          "cas_no": [
+            "1286686-34-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "annuus": {
+        "cosing_info": {
+          "reference": "2d06b0fb-16aa-4515-bd4c-af0007d51709",
+          "inci_name": "HELIANTHUS ANNUUS SEED",
+          "cas_no": [
+            "84625-38-7"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "cera": {
+        "cosing_info": {
+          "reference": "b8a72ee6-e535-4723-b9a2-ec5ac8ffeded",
+          "inci_name": "MUSTELA CERA",
+          "cas_no": [
+            "8023-74-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "cetyl": {
+        "cosing_info": {
+          "reference": "12f4e538-20a6-4c8f-9402-8dbea9fb85f5",
+          "inci_name": "CETYL METHACRYLATE",
+          "cas_no": [
+            "2495-27-4"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "17235",
+            "sid": "481108850",
+            "cas_no": "2495-27-4"
+          }
+        ]
+      },
+      "esters": {
+        "cosing_info": {
+          "reference": "c58db643-e540-400f-b05c-f629a1eeda02",
+          "inci_name": "LINSEED OIL ASCORBATE ESTERS",
+          "cas_no": [
+            "8001-26-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "tribehenin": {
+        "cosing_info": {
+          "reference": "ec76f1a0-fcf9-4089-9bb7-3f0ea1888c98",
+          "inci_name": "TRIBEHENIN",
+          "cas_no": [
+            "18641-57-1"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "62726",
+            "sid": "505894996",
+            "cas_no": "18641-57-1"
+          }
+        ]
+      },
+      "acid": {
+        "cosing_info": {
+          "reference": "2ce6a5ff-38b0-47a8-86bf-06e8a480b066",
+          "inci_name": "Perfluoroheptanoic acid; tridecafluoroheptanoic acid",
+          "cas_no": [
+            "375-85-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "67818",
+            "sid": "500815077",
+            "cas_no": "375-85-9"
+          }
+        ]
+      },
+      "copolymer": {
+        "cosing_info": {
+          "reference": "fcf102c4-72b2-4018-84a0-e49a1c54ba96",
+          "inci_name": "ACRYLATES/METHOXY PEG-10 MALEATE/STYRENE COPOLYMER",
+          "cas_no": [
+            "68988-26-1"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "behenate": {
+        "cosing_info": {
+          "reference": "ae3fc3b5-3c2c-4a74-83d2-efb6e7825c41",
+          "inci_name": "ISOCETYL BEHENATE",
+          "cas_no": [
+            "94247-28-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "44148920",
+            "sid": "500792564",
+            "cas_no": "94247-28-6"
+          }
+        ]
+      },
+      "parfum": {
+        "cosing_info": {
+          "reference": "877337a9-4a8b-4d17-bed7-f3a39d335e80",
+          "inci_name": "PARFUM",
+          "cas_no": []
+        },
+        "pubchem_info": []
+      },
+      "zinc": {
+        "cosing_info": {
+          "reference": "88864e22-d427-4884-9581-d304a063160b",
+          "inci_name": "ZINC",
+          "cas_no": [
+            "7440-66-6"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "23994",
+            "sid": "481107697",
+            "cas_no": "7440-66-6"
+          }
+        ]
+      },
+      "oxide": {
+        "cosing_info": {
+          "reference": "58a584a1-c143-4756-bcc3-ede77f455b94",
+          "inci_name": "YTTRIUM OXIDE",
+          "cas_no": [
+            "1314-36-9"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "159374",
+            "sid": "483928296",
+            "cas_no": "1314-36-9"
+          }
+        ]
+      },
+      "triglyceride": {
+        "cosing_info": {
+          "reference": "7a837030-45f2-4113-b7a5-f51fd0594bd1",
+          "inci_name": "C18-36 ACID TRIGLYCERIDE",
+          "cas_no": [
+            "91052-08-3"
+          ]
+        },
+        "pubchem_info": []
+      },
+      "tocopherol": {
+        "cosing_info": {
+          "reference": "e353a1e9-9330-4c22-bf1a-f58ac6d356a9",
+          "inci_name": "TOCOPHEROL",
+          "cas_no": [
+            "54-28-4 (gamma)",
+            "16698-35-4(beta)",
+            "10191-41-0(DL)",
+            "119-13-1",
+            "1406-18-4",
+            "1406-66-2",
+            "2074-53-5 (DL)",
+            "59-02-9 (D)",
+            "7616-22-0"
+          ]
+        },
+        "pubchem_info": [
+          {
+            "cid": "92094",
+            "sid": "500775109",
+            "cas_no": "119-13-1"
+          },
+          {
+            "cid": "14985",
+            "sid": "483926503",
+            "cas_no": "1406-18-4"
+          },
+          {
+            "cid": "14986",
+            "sid": "516579069",
+            "cas_no": "1406-66-2"
+          },
+          {
+            "cid": "14986",
+            "sid": "516579069",
+            "cas_no": "7616-22-0"
+          }
+        ]
+      },
+      "polyhydroxystearic": {
+        "cosing_info": {
+          "reference": "719b0c5f-2471-4eed-b547-5d6dbc08938f",
+          "inci_name": "POLYHYDROXYSTEARIC ACID",
+          "cas_no": [
+            "27924-99-8",
+            "58128-22-6"
+          ]
+        },
+        "pubchem_info": []
+      }
     }
   },
   "additional_information": {
