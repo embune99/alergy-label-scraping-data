@@ -1,0 +1,114 @@
+{
+  "apiVersion": "2.146",
+  "reference": "c76f901a-4fb3-4d5f-b41a-2abd4a05eaa1",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088693,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "DIMETHYLHYDROGENSILOXY PHENYL POLYSILSESQUIOXANE"
+    ],
+    "otherRestrictions": [],
+    "note": [],
+    "refNo": [],
+    "sccsOpinionUrls": [],
+    "innName": [],
+    "other": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "chemicalName": [],
+    "sccsOpinion": [],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "Dimethylhydrogensiloxy Phenyl Polysilsesquioxane is made by hydrolysis and condensation of a mixture of phenyl trimethoxysilane and dimethychlorosilane. Polysilsesquioxanes are resinous materials composed of a mixture of three-dimensional siloxane polymers and/or oligomers with cage structures. For the oligomers, each silicon atom in the polysilsesquioxane is connected via oxygen atoms to three other silicon atoms and can be represented by the empirical formulation RSiO3/2, where R represents a phenyl group. For the larger polymeric polysilsesquioxanes, some of the silicon atoms are not connected to other silicon atoms and instead have a silanol (SiOH) group. For this material, the dimethylchlorosilane (HSiMe2Cl) acts as an end-blocking group and produces a polysilsesquioxane that contains dimethylhydrogen siloxy (HMe2SiO-) groups."
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "FBA15828F53AF18E0930CB3217CA72E0"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [],
+    "maximumConcentration": [],
+    "identifiedIngredient": [],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "inciName": [
+      "DIMETHYLHYDROGENSILOXY PHENYL POLYSILSESQUIOXANE"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [],
+    "substanceId": [
+      "97614"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "annexNo": [],
+    "productTypeBodyParts": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "FILM FORMING"
+    ],
+    "esDA_IngestDate": [
+      "2023-05-23T07:58:15.549+0200"
+    ],
+    "currentVersion": [],
+    "corporate-search-version": [
+      "102"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-05-23T07:58:15.506+0200"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "datasource": [
+      "GROWTH_COSING"
+    ],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "c76f901a-4fb3-4d5f-b41a-2abd4a05eaa1. Available at: urn:test",
+  "score": 12.088693
+}

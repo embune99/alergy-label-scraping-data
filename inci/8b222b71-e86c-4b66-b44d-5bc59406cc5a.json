@@ -1,0 +1,118 @@
+{
+  "apiVersion": "2.146",
+  "reference": "8b222b71-e86c-4b66-b44d-5bc59406cc5a",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088693,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "SR-(OLIGOPEPTIDE-163 SH-POLYPEPTIDE-117 SH-POLYPEPTIDE-94 SH-POLYPEPTIDE-95 PENTAPEPTIDE-63 OLIGOPEPTIDE-163 SH-POLYPEPTIDE-6 NONAPEPTIDE-43 SH-POLYPEPTIDE-6) DIMER"
+    ],
+    "otherRestrictions": [],
+    "note": [],
+    "refNo": [],
+    "sccsOpinionUrls": [],
+    "innName": [],
+    "other": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "chemicalName": [
+      "sr-(Oligopeptide-163 sh-Polypeptide-117 sh-Polypeptide-94 sh-Polypeptide-95 Pentapeptide-63 Oligopeptide-163 sh-Polypeptide-6 Nonapeptide-43 sh-Polypeptide-6) Dimer"
+    ],
+    "sccsOpinion": [],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "This peptide is a dimer linked by a disulfide bridge between the cysteines, consisting of a single chain synthetic fusion peptide produced by fermentation in Chinese hamster ovary cells (CHO). The starting gene is synthesized by the fusion of the genes from Oligopeptide-163, sh-Polypeptide-117, sh-Polypeptide-94, sh-Polypeptide-95, Pentapeptide-63, sh-Polypeptide-6 and Nonapeptide-43. This fusion protein binds to Immunoglobulin E (IgE) and Interleukin-10 (IL-10) receptors; and it contains 433 amino acids which may contain disulfide bonds and/or glycosylation, and consists of the proper sequence of the 20 amino acids."
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "E2517B7F02F04511CA051B16D04A585E"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [],
+    "maximumConcentration": [],
+    "identifiedIngredient": [],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "inciName": [
+      "SR-(OLIGOPEPTIDE-163 SH-POLYPEPTIDE-117 SH-POLYPEPTIDE-94 SH-POLYPEPTIDE-95 PENTAPEPTIDE-63 OLIGOPEPTIDE-163 SH-POLYPEPTIDE-6 NONAPEPTIDE-43 SH-POLYPEPTIDE-6) DIMER"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [],
+    "substanceId": [
+      "98743"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "annexNo": [],
+    "productTypeBodyParts": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "SKIN CONDITIONING - EMOLLIENT",
+      "SKIN CONDITIONING - HUMECTANT",
+      "SKIN CONDITIONING - MISCELLANEOUS"
+    ],
+    "esDA_IngestDate": [
+      "2023-05-23T08:00:28.436+0200"
+    ],
+    "currentVersion": [],
+    "corporate-search-version": [
+      "102"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-05-23T08:00:28.413+0200"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "datasource": [
+      "GROWTH_COSING"
+    ],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "8b222b71-e86c-4b66-b44d-5bc59406cc5a. Available at: urn:test",
+  "score": 12.088693
+}

@@ -1,0 +1,114 @@
+{
+  "apiVersion": "2.146",
+  "reference": "cfb063cc-76c4-4173-8899-e964b0197320",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088693,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "TRIMETHYLPENTYL/METHOXY PEG-10 PROPYL POLYSILSESQUIOXANE"
+    ],
+    "otherRestrictions": [],
+    "note": [],
+    "refNo": [],
+    "sccsOpinionUrls": [],
+    "innName": [],
+    "other": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "chemicalName": [],
+    "sccsOpinion": [],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "Trimethylpentyl/Methoxy PEG-10 Propyl Polysilsesquioxane is a resinous material composed of a mixture of three-dimensional siloxane polymers and oligomers with cage structures. For the oligomers, the silicon atom in the polysilsesquioxane is connected via oxygen atoms to three other silicon atoms and can be represented by the empirical formulation RSiO3/2 where R represents the trimethylpentyl group. For the larger polymeric polysilsesquioxanes, some of the silicon atoms are not connected to other silicon atoms and instead have a silanol (SiOH) group. Trimethylpentyl/Methoxy PEG-10 Propyl Polysilsesquioxane is prepared by the hydrolysis and condensation of trimethylpentyl trimethoxysilane with Methoxy PEG-10 Propyltrimethoxysilane."
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "0745E9D7155E651BE1013EFE640F4D3C"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [],
+    "maximumConcentration": [],
+    "identifiedIngredient": [],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "inciName": [
+      "TRIMETHYLPENTYL/METHOXY PEG-10 PROPYL POLYSILSESQUIOXANE"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [],
+    "substanceId": [
+      "96411"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "annexNo": [],
+    "productTypeBodyParts": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "NOT REPORTED"
+    ],
+    "esDA_IngestDate": [
+      "2023-05-23T07:54:10.312+0200"
+    ],
+    "currentVersion": [],
+    "corporate-search-version": [
+      "102"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-05-23T07:54:10.280+0200"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "datasource": [
+      "GROWTH_COSING"
+    ],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "cfb063cc-76c4-4173-8899-e964b0197320. Available at: urn:test",
+  "score": 12.088693
+}

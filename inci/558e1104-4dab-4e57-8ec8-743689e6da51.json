@@ -1,0 +1,117 @@
+{
+  "apiVersion": "2.146",
+  "reference": "558e1104-4dab-4e57-8ec8-743689e6da51",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088693,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "SILKWORM R-SLEEPING CHIRONOMID POLYPEPTIDE-1/R-SLEEPING CHIRONOMID POLYPEPTIDE-2"
+    ],
+    "otherRestrictions": [],
+    "note": [],
+    "refNo": [],
+    "sccsOpinionUrls": [],
+    "innName": [],
+    "other": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "chemicalName": [],
+    "sccsOpinion": [],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "Silkworm r-Sleeping Chironomid Polypeptide-1/r-Sleeping Chironomid Polypeptide-2 is a single chain recombinant peptide, produced by silkworm after transformation with either a transient expression system or transgenesis (stable insertion of a copy of a sleeping chironomid gene into its DNA), and consists of r-Sleeping Chironomid Polypeptide-1 and r-Sleeping Chironomid Polypeptide-2. It contains a maximum of 323 amino acids, which may contain disulfide bonds and/or glycosylation. The protein consists of the proper sequence of the 20 standard amino acids. Silkworm is producing both at the same time so that is why there is a slash."
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "879E1103AA12974C851C6687347243ED"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [],
+    "maximumConcentration": [],
+    "identifiedIngredient": [],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "inciName": [
+      "SILKWORM R-SLEEPING CHIRONOMID POLYPEPTIDE-1/R-SLEEPING CHIRONOMID POLYPEPTIDE-2"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [],
+    "substanceId": [
+      "98072"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "annexNo": [],
+    "productTypeBodyParts": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "HUMECTANT",
+      "SKIN CONDITIONING"
+    ],
+    "esDA_IngestDate": [
+      "2023-05-23T07:52:09.920+0200"
+    ],
+    "currentVersion": [],
+    "corporate-search-version": [
+      "102"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-05-23T07:52:09.891+0200"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "datasource": [
+      "GROWTH_COSING"
+    ],
+    "wordingOfConditions": [],
+    "inciUsaName": [
+      "SILKWORM R-SLEEPING CHIRONOMID POLYPEPTIDE-1/R-SLEEPING CHIRONOMID POLYPEPTIDE-2"
+    ],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "558e1104-4dab-4e57-8ec8-743689e6da51. Available at: urn:test",
+  "score": 12.088693
+}

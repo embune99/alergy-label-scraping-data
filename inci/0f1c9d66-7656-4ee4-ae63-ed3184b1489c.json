@@ -1,0 +1,116 @@
+{
+  "apiVersion": "2.146",
+  "reference": "0f1c9d66-7656-4ee4-ae63-ed3184b1489c",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088693,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "NICOTIANA BENTHAMIANA R-(S-SOLITARY BEE OLIGOPEPTIDE-1 PENTAPEPTIDE-75 S-PROPIONIBACTERIUM PHAGE P9.1 POLYPEPTIDE-1)"
+    ],
+    "otherRestrictions": [],
+    "note": [],
+    "refNo": [],
+    "sccsOpinionUrls": [],
+    "innName": [],
+    "other": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "chemicalName": [],
+    "sccsOpinion": [],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "Nicotiana Benthamiana r-(s-Solitary Bee Oligopeptide-1 Pentapeptide-75 s-Propionibacterium Phage P9.1 Polypeptide-1) is a single chain recombinant peptide produced by Nicotiana benthamiana after transformation with either a transient expression system or transgenesis (stable insertion of a copy of the synthetic gene into its DNA). The starting gene is synthesized by the fusion of the genes from s-Solitary Bee Oligopeptide-1, Pentapeptide-75, and s-Propionibacterium Phage P9.1 Polypeptide-1. The fusion peptide contains 317 amino acids which may contain disulfide bonds and/or glycosylation, and consists of the proper sequence of the 20 standard amino acids"
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "E9B877571DDE407D0BF8DC75B8CE160E"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [],
+    "maximumConcentration": [],
+    "identifiedIngredient": [],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "inciName": [
+      "NICOTIANA BENTHAMIANA R-(S-SOLITARY BEE OLIGOPEPTIDE-1 PENTAPEPTIDE-75 S-PROPIONIBACTERIUM PHAGE P9.1 POLYPEPTIDE-1)"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [],
+    "substanceId": [
+      "99755"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "annexNo": [],
+    "productTypeBodyParts": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "ANTIMICROBIAL",
+      "SKIN PROTECTING",
+      "LYTIC"
+    ],
+    "esDA_IngestDate": [
+      "2023-05-23T08:05:00.220+0200"
+    ],
+    "currentVersion": [],
+    "corporate-search-version": [
+      "102"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-05-23T08:05:00.192+0200"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "datasource": [
+      "GROWTH_COSING"
+    ],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "0f1c9d66-7656-4ee4-ae63-ed3184b1489c. Available at: urn:test",
+  "score": 12.088693
+}
