@@ -1,0 +1,118 @@
+{
+  "apiVersion": "2.146",
+  "reference": "5552caba-1be0-44a1-bb90-fa1d825472f1",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088693,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "GLYCEOLLINS"
+    ],
+    "otherRestrictions": [],
+    "note": [],
+    "refNo": [],
+    "sccsOpinionUrls": [],
+    "innName": [],
+    "other": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "chemicalName": [
+      "6H-Benzofuro[3,2-c]furo[3,2-g][1]benzopyran-6a,9(11aH)-diol, 1,2-dihydro-2-(1-methylethenyl)-, (2S,6aS,11aS)- ;\r\n3H,7H-Benzofuro[3,2-c]pyrano[3,2-g][1]benzopyran-7a,10(12aH)-diol, 3,3-dimethyl-, (7aS,12aS)- ;\r\n2H,6H-Benzofuro(3,2-c)pyrano(2,3-h)(1)benzopyran-6a,9(11aH)-diol, 2,2- dimethyl- ."
+    ],
+    "sccsOpinion": [],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "Glyceollins are a mixture of isomers that conform to the formulae:(structure)"
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "ADE1FDB1EC13F0685DC9C508ADDB08E4"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [],
+    "maximumConcentration": [],
+    "identifiedIngredient": [],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "inciName": [
+      "GLYCEOLLINS"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "57103-57-8 (isomer)  ; 61080-23-7 (isomer); 67314-98-1 (isomer)"
+    ],
+    "substanceId": [
+      "89001"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "annexNo": [],
+    "productTypeBodyParts": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [],
+    "esDA_IngestDate": [
+      "2023-05-22T15:45:17.751+0200"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "corporate-search-version": [
+      "102"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-05-22T15:45:17.705+0200"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "datasource": [
+      "GROWTH_COSING"
+    ],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "5552caba-1be0-44a1-bb90-fa1d825472f1. Available at: urn:test",
+  "score": 12.088693
+}

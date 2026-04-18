@@ -1,0 +1,163 @@
+{
+  "apiVersion": "2.146",
+  "reference": "bd205ffd-962e-428a-baa6-8270c1674a0c",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088693,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "3-METHYLAMINO-4-NITROPHENOXYETHANOL"
+    ],
+    "otherRestrictions": [
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>"
+    ],
+    "note": [
+      "17 - The free base and salts of this hair colouring ingredient unless prohibited under Annex II are permitted for use"
+    ],
+    "refNo": [
+      "235"
+    ],
+    "sccsOpinionUrls": [
+      "http://ec.europa.eu/health/ph_risk/committees/sccp/documents/out_202.pdf",
+      "http://ec.europa.eu/health/ph_risk/committees/sccp/documents/out272_en.pdf",
+      "http://ec.europa.eu/health/ph_risk/committees/04_sccp/docs/sccp_o_00l.pdf",
+      "http://ec.europa.eu/health/ph_risk/committees/sccp/docshtml/sccp_out143_en.htm",
+      "http://ec.europa.eu/health/ph_risk/committees/sccp/documents/out184_en.pdf",
+      "http://ec.europa.eu/health/ph_risk/committees/sccp/docshtml/sccp_out35_en.htm",
+      "http://ec.europa.eu/health/ph_risk/committees/04_sccp/docs/sccp_o_110.pdf"
+    ],
+    "innName": [],
+    "other": [
+      "- Do not use with nitrosating agents\r\n- Maximum nitrosamine content: 50 micrograme/Kg\r\n- Keep in nitrite-free containers"
+    ],
+    "itemType": [
+      "substance"
+    ],
+    "es_SortDate": [
+      "2013-04-25T00:00:00.000+0200"
+    ],
+    "chemicalName": [],
+    "sccsOpinion": [
+      "Request for a Re-evaluation of hair dyes listed in Annex III to Directive 76/768/EEC on Cosmetic Products",
+      "Opinion concerning Use of Permanent Hair Dyes and Bladder Cancer - Updated 2004",
+      "Opinion on Personal Use of Hair Dyes and Cancer Risk",
+      "Opinion on the Use of Permanent Hair Dyes and Bladder Cancer Risk",
+      "Assessment Strategies for Hair Dyes",
+      "Opinion on 1-(2-Hydroxyethyloxy)-3-methylamino-4-nitrobenzene",
+      "Opinion on 3-Methylamino-4-nitrophenoxyethanol"
+    ],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "AD8DD83F8F037186B36D4FE59445F87B"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [
+      "261-940-7"
+    ],
+    "maximumConcentration": [
+      "0 15%"
+    ],
+    "identifiedIngredient": [
+      "31517"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "inciName": [
+      "2-[3-(Methylamino)-4-nitrophenoxy]ethanol  (see note 17)"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "59820-63-2"
+    ],
+    "substanceId": [
+      "82177"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "annexNo": [
+      "III"
+    ],
+    "productTypeBodyParts": [
+      "Hair due substance in non-oxidative hair dye products"
+    ],
+    "publicationDate": [
+      "2013-04-25T00:00:00.000+0200"
+    ],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "HAIR DYEING"
+    ],
+    "esDA_IngestDate": [
+      "2023-05-10T16:09:15.558+0200"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "corporate-search-version": [
+      "102"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-05-10T16:09:15.492+0200"
+    ],
+    "refNo_digit": [
+      "235"
+    ],
+    "colour": [],
+    "datasource": [
+      "GROWTH_COSING"
+    ],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [
+      "(EC) 2013/344"
+    ],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "bd205ffd-962e-428a-baa6-8270c1674a0c. Available at: urn:test",
+  "score": 12.088693
+}

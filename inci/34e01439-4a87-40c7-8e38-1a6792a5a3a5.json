@@ -1,0 +1,116 @@
+{
+  "apiVersion": "2.146",
+  "reference": "34e01439-4a87-40c7-8e38-1a6792a5a3a5",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088693,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "PHENYLAMINOPROPYL POLYSESQUIOXANE"
+    ],
+    "otherRestrictions": [],
+    "note": [],
+    "refNo": [],
+    "sccsOpinionUrls": [],
+    "innName": [],
+    "other": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "chemicalName": [],
+    "sccsOpinion": [],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "Phenylaminopropyl Polysesquioxane is a resinous material composed of a mixture of three-dimensional siloxane polymers and oligomers with cage structures. For the oligomers, each silicon atom in the polysilsesquioxane is connected via oxygen atoms to three other silicon atoms and can be represented by the empirical formulation RSiO3/2 where R represents the phenylaminopropyl group. For the larger polymeric polysilsesquioxanes, some of the silicon atoms are not connected to other silicon atoms and instead have a silanol (SiOH) group. Phenylaminopropyl Polysesquioxane is prepared by the hydrolysis and condensation of N-phenylaminopropyl trimethoxysilane."
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "3D49218AC908CF781E450B588B0793A3"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [],
+    "maximumConcentration": [],
+    "identifiedIngredient": [],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "inciName": [
+      "PHENYLAMINOPROPYL POLYSESQUIOXANE"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "1187675-16-6"
+    ],
+    "substanceId": [
+      "93233"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "annexNo": [],
+    "productTypeBodyParts": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "NAIL CONDITIONING"
+    ],
+    "esDA_IngestDate": [
+      "2023-05-22T16:43:33.417+0200"
+    ],
+    "currentVersion": [],
+    "corporate-search-version": [
+      "102"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-05-22T16:43:33.391+0200"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "datasource": [
+      "GROWTH_COSING"
+    ],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "34e01439-4a87-40c7-8e38-1a6792a5a3a5. Available at: urn:test",
+  "score": 12.088693
+}

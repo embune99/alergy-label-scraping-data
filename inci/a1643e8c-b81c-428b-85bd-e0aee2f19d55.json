@@ -1,0 +1,118 @@
+{
+  "apiVersion": "2.146",
+  "reference": "a1643e8c-b81c-428b-85bd-e0aee2f19d55",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088693,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "ISOBUTYL POLYSILSESQUIOXANE"
+    ],
+    "otherRestrictions": [],
+    "note": [],
+    "refNo": [],
+    "sccsOpinionUrls": [],
+    "innName": [],
+    "other": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "chemicalName": [
+      "Pentacyclo[9.5.1.13,9.15,15.17,13]octasiloxane, 1,3,5,7,9,11,13,15-octakis(2-methylpropyl)-"
+    ],
+    "sccsOpinion": [],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "Isobutyl Polysilsesquioxane is a resinous material composed of a mixture of three-dimensional siloxane polymers and oligomers with cage structures. For the oligomers, each silicon atom in the polysilsesquioxane is connected via oxygen atoms to three other silicon atoms and can be represented by the empirical formulation RSiO3/2 where R represents the isobutyl group. For the larger polymeric polysilsesquioxanes, some of the silicon atoms are not connected to other silicon atoms and instead have a silanol (SiOH) group. Isobutyl Polysilsesquioxane is prepared by the hydrolysis and condensation of 2-methylpropyl trimethoxysilane."
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "AF34C39F7A3CA758566F5C10C16CB666"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [],
+    "maximumConcentration": [],
+    "identifiedIngredient": [],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "inciName": [
+      "ISOBUTYL POLYSILSESQUIOXANE"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "221326-46-1"
+    ],
+    "substanceId": [
+      "93230"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "annexNo": [],
+    "productTypeBodyParts": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "NAIL CONDITIONING"
+    ],
+    "esDA_IngestDate": [
+      "2023-05-22T16:43:25.175+0200"
+    ],
+    "currentVersion": [],
+    "corporate-search-version": [
+      "102"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-05-22T16:43:25.155+0200"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "datasource": [
+      "GROWTH_COSING"
+    ],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "a1643e8c-b81c-428b-85bd-e0aee2f19d55. Available at: urn:test",
+  "score": 12.088693
+}

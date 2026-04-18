@@ -1,0 +1,128 @@
+{
+  "apiVersion": "2.146",
+  "reference": "dce483d0-847c-44e9-a432-096690558747",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "application/octet-stream",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088693,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "TRIMETHYLBENZOYL DIPHENYLPHOSPHINE OXIDE"
+    ],
+    "refNo": [],
+    "otherRestrictions": [],
+    "note": [],
+    "sccsOpinionUrls": [
+      "https://ec.europa.eu/health/scientific_committees/consumer_safety/docs/sccs_o_149.pdf"
+    ],
+    "itemType": [
+      "ingredient"
+    ],
+    "other": [],
+    "innName": [],
+    "chemicalName": [
+      "diphenyl(2,4,6-trimethylbenzoyl)phosphine oxide"
+    ],
+    "sccsOpinion": [
+      "Opinion on Trimethylbenzoyl diphenylphosphine oxide (TPO)"
+    ],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "Trimethylbenzoyl Diphenylphosphine Oxide is the organic compound"
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "805B9456D0032654C8E1B05E2DFB3128"
+    ],
+    "cosmeticRestriction": [
+      "II/1731"
+    ],
+    "ecNo": [
+      "278-355-8"
+    ],
+    "maximumConcentration": [],
+    "identifiedIngredient": [
+      "105962",
+      "97722"
+    ],
+    "inciName": [
+      "TRIMETHYLBENZOYL DIPHENYLPHOSPHINE OXIDE"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "75980-60-8"
+    ],
+    "substanceId": [
+      "87159"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "REFERENCE": [
+      "dce483d0-847c-44e9-a432-096690558747"
+    ],
+    "productTypeBodyParts": [],
+    "annexNo": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "application/octet-stream"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "NAIL SCULPTING"
+    ],
+    "esDA_IngestDate": [
+      "2025-09-11T17:06:51.215+0200"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2025-09-11T17:06:51.209+0200"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "dce483d0-847c-44e9-a432-096690558747. Available at: urn:test",
+  "score": 12.088693
+}

@@ -1,0 +1,123 @@
+{
+  "apiVersion": "2.146",
+  "reference": "f9d7fc27-eec5-4382-927d-94327f93e887",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088693,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "Cucurbiturils"
+    ],
+    "otherRestrictions": [],
+    "note": [],
+    "refNo": [],
+    "sccsOpinionUrls": [],
+    "innName": [],
+    "other": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "chemicalName": [
+      "2,20:3,19-Dimethano-2,3,4a,5a,6a,7a,8a,9a,10a,11a,12a,13a,14a,15a,16a,17a,19,20,21a,22a,23a,24a,25a,26a,27a,28a,29a,30a,31a,32a,33a,34a-dotriacontaazabispentaleno[1''',6''':5'',6'',7'']cycloocta[1'',2'',3'':3'',4'']pentaleno[1'',6'':5',6',7']cycloocta[1',2',3':3',4']pentaleno[1',6':5,6,7]cycloocta[1,2,3-gh:1',2',3'-g'h']cycloocta[1,2,3-cd:5,6,7-c'd']dipentalene-1,4,6,8,10,12,14,16,18,21,23,25,27,29,31,33-hexadecone, hexadecahydro-, stereoisomer,2,18:3,17-Dimethano-2,3,4a,5a,6a,7a,8a,9a,10a,11a,12a,13a,14a,15a,17,18,19a,20a,21a,22a,23a,24a,25a,26a,27a,28a,29a,30a-octacosaazabispentaleno[1''',6''':5'',6'',7'']cycloocta[1'',2'',3'':3'',4'']pentaleno[1'',6'':5',6',7']cycloocta[1',2',3':3',4']pentaleno[1',6':5,6,7]cycloocta[1,2,3-cd:1',2',3'-gh]pentalene-1,4,6,8,10,12,14,16,19,21,23,25,27,29-tetradecone, tetradecahydro-, stereoisomer,1H,4H,12H,15H-2,14:3,13-Dimethano-5H,6H,7H,8H,9H,10H,11H,16H,17H,18H,19H,20H,21H,22H-2,3,4a,5a,6a,7a,8a,9a,10a,11a,13,14,15a,16a,17a,18a,19a,20a,21a,22a-eicosaazabispentaleno[1'',6'':5',6',7']cycloocta[1',2',3':3',4']pentaleno[1',6':5,6,7]cycloocta[1,2,3-cd:1',2',3'-gh]pentalene-1,4,6,8,10,12,15,17,19,21-decone, decahydro-, stereoisomer"
+    ],
+    "sccsOpinion": [],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "Cucurbiturils are cyclic molecules that consist of glycouril units linked by methylene bridges, where n can be 5, 6, 7 or 8."
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "F6D7516C5390235E7CB06842A839BADB"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [
+      "-/ - /- /-"
+    ],
+    "maximumConcentration": [],
+    "identifiedIngredient": [],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "inciName": [
+      "CUCURBITURILS"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "80262-44-8/ 259886-51-6/ 259886-50-5/ 259886-49-2"
+    ],
+    "substanceId": [
+      "91623"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "annexNo": [],
+    "productTypeBodyParts": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "ABSORBENT",
+      "CHELATING",
+      "EMULSION STABILISING",
+      "FILM FORMING"
+    ],
+    "esDA_IngestDate": [
+      "2023-07-24T12:08:13.832+0200"
+    ],
+    "currentVersion": [],
+    "corporate-search-version": [
+      "102"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-07-24T12:08:13.762+0200"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "datasource": [
+      "GROWTH_COSING"
+    ],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "f9d7fc27-eec5-4382-927d-94327f93e887. Available at: urn:test",
+  "score": 12.088693
+}

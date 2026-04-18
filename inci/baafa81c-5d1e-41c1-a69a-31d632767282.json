@@ -1,0 +1,151 @@
+{
+  "apiVersion": "2.146",
+  "reference": "baafa81c-5d1e-41c1-a69a-31d632767282",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088693,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [],
+    "otherRestrictions": [
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "as a constituent of other substances, or in mixtures, in concentrations equal to, or greater than 0.1% by weight",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>"
+    ],
+    "note": [],
+    "refNo": [
+      "177"
+    ],
+    "sccsOpinionUrls": [
+      "http://ec.europa.eu/health/ph_risk/committees/sccp/documents/out252_en.pdf"
+    ],
+    "innName": [],
+    "other": [],
+    "itemType": [
+      "substance"
+    ],
+    "es_SortDate": [
+      "2013-04-25T00:00:00.000+0200"
+    ],
+    "chemicalName": [],
+    "sccsOpinion": [
+      "An update of the initial list of perfumery materials which must not form part of cosmetic products except subject to the restrictions and conditions laid down"
+    ],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "0EDDEDED4B3A5DBC12BB66516AB7A2CA"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [
+      "241-411-7"
+    ],
+    "maximumConcentration": [
+      "(b) 0.06%"
+    ],
+    "identifiedIngredient": [
+      "41310"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "inciName": [
+      "2-Hexylidene cyclopentanone"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "17373-89-6"
+    ],
+    "substanceId": [
+      "87796"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "annexNo": [
+      "III"
+    ],
+    "productTypeBodyParts": [
+      "(a) Oral products\r\n(b) Other products"
+    ],
+    "publicationDate": [
+      "2013-04-25T00:00:00.000+0200"
+    ],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [],
+    "esDA_IngestDate": [
+      "2023-05-10T16:10:48.621+0200"
+    ],
+    "currentVersion": [
+      "2"
+    ],
+    "corporate-search-version": [
+      "102"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-05-10T16:10:48.596+0200"
+    ],
+    "refNo_digit": [
+      "177"
+    ],
+    "colour": [],
+    "datasource": [
+      "GROWTH_COSING"
+    ],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [
+      "(EC) 2013/344"
+    ],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "baafa81c-5d1e-41c1-a69a-31d632767282. Available at: urn:test",
+  "score": 12.088693
+}

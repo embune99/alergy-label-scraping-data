@@ -1,0 +1,116 @@
+{
+  "apiVersion": "2.146",
+  "reference": "10a7a176-d407-4d6d-b260-ae340816eb5a",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088693,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "TRIPEPTIDE-46 HEXAPEPTIDE-40 DECAPEPTIDE-27 OLIGOPEPTIDE-91 DIPEPTIDE-19 SH-POLYPEPTIDE-60 TETRAPEPTIDE-48"
+    ],
+    "otherRestrictions": [],
+    "note": [],
+    "refNo": [],
+    "sccsOpinionUrls": [],
+    "innName": [],
+    "other": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "chemicalName": [],
+    "sccsOpinion": [],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "Tripeptide-46 Hexapeptide-40 Decapeptide-27 Oligopeptide-91 Dipeptide-19 sh-Polypeptide-60 Tetrapeptide-48 is a single chain synthetic fusion peptide, produced by fermentation in  E. coli.  The starting gene is synthesized by the fusion of the gene from Tripeptide-46, Hexapeptide-40, Decapeptide-27, Oligopeptide-91, Dipeptide-19, sh-Polypeptide-60 and Tetrapeptide-48. The fusion peptide contains 140 amino acids and consists of the proper sequence of the 20 standard amino acids"
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "301648AC7BEB852BB44F3369CEC2768B"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [],
+    "maximumConcentration": [],
+    "identifiedIngredient": [],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "inciName": [
+      "TRIPEPTIDE-46 HEXAPEPTIDE-40 DECAPEPTIDE-27 OLIGOPEPTIDE-91 DIPEPTIDE-19 SH-POLYPEPTIDE-60 TETRAPEPTIDE-48"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [],
+    "substanceId": [
+      "93459"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "annexNo": [],
+    "productTypeBodyParts": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "HAIR CONDITIONING",
+      "SKIN CONDITIONING",
+      "SKIN PROTECTING"
+    ],
+    "esDA_IngestDate": [
+      "2023-05-22T16:44:16.382+0200"
+    ],
+    "currentVersion": [],
+    "corporate-search-version": [
+      "102"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-05-22T16:44:16.357+0200"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "datasource": [
+      "GROWTH_COSING"
+    ],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "10a7a176-d407-4d6d-b260-ae340816eb5a. Available at: urn:test",
+  "score": 12.088693
+}

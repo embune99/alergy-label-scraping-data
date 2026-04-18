@@ -1,0 +1,136 @@
+{
+  "apiVersion": "2.146",
+  "reference": "32136b63-b3db-4115-bcca-a76bd084597c",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "application/octet-stream",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088693,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [],
+    "refNo": [
+      "108"
+    ],
+    "otherRestrictions": [],
+    "note": [],
+    "sccsOpinionUrls": [
+      "http://ec.europa.eu/health/ph_risk/committees/sccp/documents/out150_en.pdf"
+    ],
+    "itemType": [
+      "substance"
+    ],
+    "other": [
+      "Peroxide value less than 10 mmoles/L  (15 )"
+    ],
+    "innName": [],
+    "es_SortDate": [
+      "2013-04-25T00:00:00.000+0200"
+    ],
+    "chemicalName": [],
+    "sccsOpinion": [
+      "An Initial List of Perfumery Materials which must not form part of Cosmetic products except subject to the restrictions and conditions laid down"
+    ],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "531CAE2C8FC07CA8B38C8C8C99BEB869"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [
+      "290-164-1"
+    ],
+    "maximumConcentration": [],
+    "identifiedIngredient": [
+      "41474",
+      "41475"
+    ],
+    "inciName": [
+      "Pinus mugo pumilio oil and extract"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "90082-73-8"
+    ],
+    "substanceId": [
+      "87726"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "REFERENCE": [
+      "32136b63-b3db-4115-bcca-a76bd084597c"
+    ],
+    "productTypeBodyParts": [],
+    "annexNo": [
+      "III"
+    ],
+    "publicationDate": [
+      "2013-04-25T00:00:00.000+0200"
+    ],
+    "phEurName": [],
+    "es_ContentType": [
+      "application/octet-stream"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [],
+    "esDA_IngestDate": [
+      "2025-02-13T08:35:04.709+0100"
+    ],
+    "currentVersion": [
+      "2"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2025-02-13T08:35:04.702+0100"
+    ],
+    "refNo_digit": [
+      "108"
+    ],
+    "colour": [],
+    "wordingOfConditions": [
+      "(15 ) This limit applies to the substance and not to the finished cosmetic product.’"
+    ],
+    "inciUsaName": [],
+    "relatedRegulations": [
+      "(EC) 2013/344"
+    ],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "32136b63-b3db-4115-bcca-a76bd084597c. Available at: urn:test",
+  "score": 12.088693
+}
