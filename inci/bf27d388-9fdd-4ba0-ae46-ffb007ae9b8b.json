@@ -1,0 +1,125 @@
+{
+  "apiVersion": "2.146",
+  "reference": "bf27d388-9fdd-4ba0-ae46-ffb007ae9b8b",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088693,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "CUMINUM CYMINUM FRUIT OIL"
+    ],
+    "otherRestrictions": [],
+    "note": [],
+    "refNo": [],
+    "sccsOpinionUrls": [],
+    "innName": [],
+    "other": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "chemicalName": [],
+    "sccsOpinion": [],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "Cuminum Cyminum Fruit Oil is an essential oil obtained from the fruits of the Cumin, Cuminum cyminum L., Umbelliferae"
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "1F9DBF09DC0807C3F291E1E4A640B4A1"
+    ],
+    "cosmeticRestriction": [
+      "II/358\r\nIII/156"
+    ],
+    "ecNo": [
+      "283-881-6 / -"
+    ],
+    "maximumConcentration": [],
+    "identifiedIngredient": [
+      "28697",
+      "87775"
+    ],
+    "officialJournalPublication": [
+      "N"
+    ],
+    "inciName": [
+      "CUMINUM CYMINUM FRUIT OIL"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "84775-51-9 / 8014-13-9"
+    ],
+    "substanceId": [
+      "41427"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "annexNo": [],
+    "productTypeBodyParts": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "PERFUMING"
+    ],
+    "esDA_IngestDate": [
+      "2023-05-22T15:38:59.606+0200"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "corporate-search-version": [
+      "102"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-05-22T15:38:59.580+0200"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "datasource": [
+      "GROWTH_COSING"
+    ],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "Y"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "bf27d388-9fdd-4ba0-ae46-ffb007ae9b8b. Available at: urn:test",
+  "score": 12.088693
+}

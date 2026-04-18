@@ -1,0 +1,130 @@
+{
+  "apiVersion": "2.146",
+  "reference": "2c6381d8-012b-4df9-97e8-665e75236c0f",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088693,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "7-ETHYLBICYCLOOXAZOLIDINE"
+    ],
+    "otherRestrictions": [],
+    "note": [],
+    "refNo": [],
+    "sccsOpinionUrls": [
+      "https://ec.europa.eu/health/sites/default/files/scientific_committees/consumer_safety/docs/sccs_o_254.pdf"
+    ],
+    "innName": [],
+    "other": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "chemicalName": [
+      "7a-ethyldihydro-1H,3H,5H-oxazolo[3,4-c]oxazole"
+    ],
+    "sccsOpinion": [
+      "SCIENTIFIC ADVICE ON the threshold for the warning ‘contains formaldehyde’ in Annex V, preamble point 2 for formaldehyde-releasing substances"
+    ],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "7-Ethylbicyclooxazolidine is the heterocyclic compound that conforms to the formula:"
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "A6865DE8AD7575531808F36762574B08"
+    ],
+    "cosmeticRestriction": [
+      "V/49"
+    ],
+    "ecNo": [
+      "231-810-4"
+    ],
+    "maximumConcentration": [],
+    "identifiedIngredient": [
+      "28796"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "inciName": [
+      "7-ETHYLBICYCLOOXAZOLIDINE"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "7747-35-5"
+    ],
+    "substanceId": [
+      "31546"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "annexNo": [],
+    "productTypeBodyParts": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "PRESERVATIVE"
+    ],
+    "esDA_IngestDate": [
+      "2023-05-22T15:28:16.770+0200"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "corporate-search-version": [
+      "102"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-05-22T15:28:16.745+0200"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "datasource": [
+      "GROWTH_COSING"
+    ],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "2c6381d8-012b-4df9-97e8-665e75236c0f. Available at: urn:test",
+  "score": 12.088693
+}

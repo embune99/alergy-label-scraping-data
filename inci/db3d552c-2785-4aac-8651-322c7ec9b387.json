@@ -1,0 +1,167 @@
+{
+  "apiVersion": "2.146",
+  "reference": "db3d552c-2785-4aac-8651-322c7ec9b387",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088638,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "POLYAMINOPROPYL BIGUANIDE"
+    ],
+    "otherRestrictions": [
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "as a constituent of other substances, or in mixtures, in concentrations equal to, or greater than 0.1% by weight",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "Shall not be placed on the market, or used, as substance or in mixtures in concentrations equal to ot greater than 0.1% by weight",
+      "<empty>"
+    ],
+    "note": [],
+    "refNo": [
+      "28"
+    ],
+    "sccsOpinionUrls": [
+      "http://ec.europa.eu/health/ph_risk/committees/sccp/docshtml/sccp_out59_en.htm",
+      "http://ec.europa.eu/health/scientific_committees/consumer_safety/docs/sccs_o_157.pdf",
+      "https://ec.europa.eu/health/sites/health/files/scientific_committees/consumer_safety/docs/sccs_o_204.pdf"
+    ],
+    "innName": [
+      "Polyhexamethylene biguanide hydrochloride"
+    ],
+    "other": [
+      "Not to be used in applications that may lead to exposure of the end-user's lungs by inhalation"
+    ],
+    "itemType": [
+      "substance"
+    ],
+    "es_SortDate": [
+      "2019-05-23T00:00:00.000+0200"
+    ],
+    "chemicalName": [
+      "Polyhexamethylene biguanide hydrochloride"
+    ],
+    "sccsOpinion": [
+      "Opinion concerning Restrictions on Materials listed in annex VI of Directive 76/768/EEC on Cosmetic Products",
+      "Opinion on the safety of poly(hexamethylene) biguanide hydrochloride (PHMB). (Revision of 16 December 2014) - CAS number have been added. Corrigendum (02/02/2016) test concentrations (last paragraph) on page 25 have been corrected",
+      "OPINION ON Polyaminopropyl Biguanide (PHMB) - Submission III"
+    ],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "7E683D43FE45717B9FD7A794C4ADF9B4"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [
+      "608-723-9 [1]/ 608-042-7 [2]"
+    ],
+    "maximumConcentration": [
+      "0.1%"
+    ],
+    "identifiedIngredient": [
+      "36692"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "inciName": [
+      "Polyhexamethylene biguanide hydrochloride"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "32289-58-0 [1]/ 27083-27-8 [2]/  28757-47-3 [3]/ 133029-32-0 [4]"
+    ],
+    "substanceId": [
+      "28155"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "annexNo": [
+      "V"
+    ],
+    "productTypeBodyParts": [],
+    "publicationDate": [
+      "2019-05-23T00:00:00.000+0200"
+    ],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[[\"2\",\"Carcinogenic\",\"\"]]"
+    ],
+    "functionName": [],
+    "esDA_IngestDate": [
+      "2023-05-10T16:11:58.048+0200"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "corporate-search-version": [
+      "102"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-05-10T16:11:57.992+0200"
+    ],
+    "refNo_digit": [
+      "28"
+    ],
+    "colour": [],
+    "datasource": [
+      "GROWTH_COSING"
+    ],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [
+      "(EU) 2019/831"
+    ],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "db3d552c-2785-4aac-8651-322c7ec9b387. Available at: urn:test",
+  "score": 12.088638
+}

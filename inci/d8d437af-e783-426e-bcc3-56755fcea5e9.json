@@ -1,0 +1,147 @@
+{
+  "apiVersion": "2.146",
+  "reference": "d8d437af-e783-426e-bcc3-56755fcea5e9",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088638,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "STRONTIUM CHLORIDE"
+    ],
+    "otherRestrictions": [
+      "<empty>",
+      "<empty>",
+      "<empty>"
+    ],
+    "note": [],
+    "refNo": [
+      "57"
+    ],
+    "sccsOpinionUrls": [
+      "http://ec.europa.eu/health/ph_risk/committees/sccp/docshtml/sccp_out02_en.htm"
+    ],
+    "innName": [],
+    "other": [],
+    "itemType": [
+      "substance"
+    ],
+    "es_SortDate": [
+      "2009-12-22T00:00:00.000+0100"
+    ],
+    "chemicalName": [],
+    "sccsOpinion": [
+      "Strontium chloride hexahydrate"
+    ],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "C2CFA44D72A715A2530BC4F3BB566D25"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [
+      "233-971-6"
+    ],
+    "maximumConcentration": [
+      "(a) 3.5% (as strontium) \r\nWhen mixed with other permitted strontium products the total strontium content must not exceed 3.5%\r\n(b) 2.1% (as strontium)\r\nWhen mixed with other permitted strontium products the total strontium content must not exceed 2.1%"
+    ],
+    "identifiedIngredient": [
+      "38354",
+      "58895"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "inciName": [
+      "Strontium chloride hexahydrate"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "10476-85-4"
+    ],
+    "substanceId": [
+      "28307"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "annexNo": [
+      "III"
+    ],
+    "productTypeBodyParts": [
+      "(a) Oral products\r\n(b) Shampoo and face products"
+    ],
+    "publicationDate": [
+      "2009-12-22T00:00:00.000+0100"
+    ],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [],
+    "esDA_IngestDate": [
+      "2023-05-10T16:08:55.401+0200"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "corporate-search-version": [
+      "102"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-05-10T16:08:55.375+0200"
+    ],
+    "refNo_digit": [
+      "57"
+    ],
+    "colour": [],
+    "datasource": [
+      "GROWTH_COSING"
+    ],
+    "wordingOfConditions": [
+      "Contains strontium chloride\r\nFrequent use by children is not advisable"
+    ],
+    "inciUsaName": [],
+    "relatedRegulations": [
+      "(EC) 2009/1223"
+    ],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "d8d437af-e783-426e-bcc3-56755fcea5e9. Available at: urn:test",
+  "score": 12.088638
+}

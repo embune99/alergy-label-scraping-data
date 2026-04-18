@@ -1,0 +1,139 @@
+{
+  "apiVersion": "2.146",
+  "reference": "a194e8e4-9678-446c-9b15-fc72c1600b33",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088693,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [],
+    "otherRestrictions": [
+      "<empty>",
+      "<empty>"
+    ],
+    "note": [],
+    "refNo": [
+      "1006"
+    ],
+    "sccsOpinionUrls": [
+      "http://ec.europa.eu/health/ph_risk/committees/sccp/documents/out278_en.pdf",
+      "http://ec.europa.eu/health/ph_risk/committees/sccp/documents/out149_en.pdf"
+    ],
+    "innName": [],
+    "other": [],
+    "itemType": [
+      "substance"
+    ],
+    "es_SortDate": [
+      "2009-12-22T00:00:00.000+0100"
+    ],
+    "chemicalName": [],
+    "sccsOpinion": [
+      "Opinion concerning Chemical Ingredients in Cosmetic Products classified as Carcinogenic, Mutagenic or Toxic to Reproduction according to the Chemicals Directive 67/548/EECC",
+      "Opinion concerning Chemical Ingredients in Cosmetic Products classified as Carcinogenic, Mutagenic or Toxic to Reproduction according to the Chemicals Directive 67/548/EEC"
+    ],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "77F513608D798A37EE4F5402B9B0E756"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [
+      "235-008-5 [1] / 234-348-1 [2]"
+    ],
+    "maximumConcentration": [],
+    "identifiedIngredient": [],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "inciName": [
+      "Nickel dihydroxide [1]; nickel hydroxide [2]"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "12054-48-7 [1] / 11113-74-9 [2]"
+    ],
+    "substanceId": [
+      "30033"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "annexNo": [
+      "II"
+    ],
+    "productTypeBodyParts": [],
+    "publicationDate": [
+      "2009-12-22T00:00:00.000+0100"
+    ],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [
+      "(EC) 2009/790"
+    ],
+    "classificationInformation": [
+      "[[\"1A\",\"Carcinogenic\",\"\"],[\"1B\",\"Reprotoxic\",\"\"],[\"2\",\"Mutagenic\",\"\"]]"
+    ],
+    "functionName": [],
+    "esDA_IngestDate": [
+      "2023-05-10T16:08:22.473+0200"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "corporate-search-version": [
+      "102"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-05-10T16:08:22.446+0200"
+    ],
+    "refNo_digit": [
+      "1006"
+    ],
+    "colour": [],
+    "datasource": [
+      "GROWTH_COSING"
+    ],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [
+      "(EC) 2009/1223"
+    ],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "a194e8e4-9678-446c-9b15-fc72c1600b33. Available at: urn:test",
+  "score": 12.088693
+}

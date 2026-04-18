@@ -1,0 +1,135 @@
+{
+  "apiVersion": "2.146",
+  "reference": "3d0be04f-516f-4999-811f-68f97ab63ffd",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088638,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [],
+    "otherRestrictions": [
+      "<empty>",
+      "<empty>"
+    ],
+    "note": [],
+    "refNo": [
+      "123"
+    ],
+    "sccsOpinionUrls": [],
+    "innName": [
+      "clofenotane (INN); DDT (ISO)"
+    ],
+    "other": [],
+    "itemType": [
+      "substance"
+    ],
+    "es_SortDate": [
+      "2009-12-22T00:00:00.000+0100"
+    ],
+    "chemicalName": [
+      "dicophane;1,1,1-trichloro-2,2-bis((4-chlorophenyl)ethane; dichlorodiphenyltrichloroethane"
+    ],
+    "sccsOpinion": [],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "ED15596A4F2DB2EB909CF144EED12577"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [
+      "200-024-3"
+    ],
+    "maximumConcentration": [],
+    "identifiedIngredient": [],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "inciName": [
+      "Clofenotane (INN); DDT (ISO)"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "50-29-3"
+    ],
+    "substanceId": [
+      "28342"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "annexNo": [
+      "II"
+    ],
+    "productTypeBodyParts": [],
+    "publicationDate": [
+      "2009-12-22T00:00:00.000+0100"
+    ],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[[\"2\",\"Carcinogenic\",\"\"]]"
+    ],
+    "functionName": [],
+    "esDA_IngestDate": [
+      "2023-05-10T16:08:24.625+0200"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "corporate-search-version": [
+      "102"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-05-10T16:08:24.594+0200"
+    ],
+    "refNo_digit": [
+      "123"
+    ],
+    "colour": [],
+    "datasource": [
+      "GROWTH_COSING"
+    ],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [
+      "(EC) 2009/1223"
+    ],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "3d0be04f-516f-4999-811f-68f97ab63ffd. Available at: urn:test",
+  "score": 12.088638
+}

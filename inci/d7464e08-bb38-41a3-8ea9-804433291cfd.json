@@ -1,0 +1,142 @@
+{
+  "apiVersion": "2.146",
+  "reference": "d7464e08-bb38-41a3-8ea9-804433291cfd",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088693,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [],
+    "otherRestrictions": [
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>"
+    ],
+    "note": [],
+    "refNo": [
+      "844"
+    ],
+    "sccsOpinionUrls": [
+      "http://ec.europa.eu/health/ph_risk/committees/sccp/documents/out278_en.pdf",
+      "http://ec.europa.eu/health/ph_risk/committees/sccp/documents/out149_en.pdf"
+    ],
+    "innName": [],
+    "other": [],
+    "itemType": [
+      "substance"
+    ],
+    "es_SortDate": [
+      "2009-12-22T00:00:00.000+0100"
+    ],
+    "chemicalName": [],
+    "sccsOpinion": [
+      "Opinion concerning Chemical Ingredients in Cosmetic Products classified as Carcinogenic, Mutagenic or Toxic to Reproduction according to the Chemicals Directive 67/548/EECC",
+      "Opinion concerning Chemical Ingredients in Cosmetic Products classified as Carcinogenic, Mutagenic or Toxic to Reproduction according to the Chemicals Directive 67/548/EEC"
+    ],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "AE29E834732D36DEF9D5DF82EB4EDE5A"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [
+      "307-661-7"
+    ],
+    "maximumConcentration": [],
+    "identifiedIngredient": [],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "inciName": [
+      "Hydrocarbons, C17-30, hydrotreated solvent-deasphalted atm. distn. residue, distn. lights, if they contain > 3 % w/w DMSO extract"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "97675-87-1"
+    ],
+    "substanceId": [
+      "29311"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "annexNo": [
+      "II"
+    ],
+    "productTypeBodyParts": [],
+    "publicationDate": [
+      "2009-12-22T00:00:00.000+0100"
+    ],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[[\"1B\",\"Carcinogenic\",\"\"]]"
+    ],
+    "functionName": [],
+    "esDA_IngestDate": [
+      "2023-05-10T16:09:55.797+0200"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "corporate-search-version": [
+      "102"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-05-10T16:09:55.770+0200"
+    ],
+    "refNo_digit": [
+      "844"
+    ],
+    "colour": [],
+    "datasource": [
+      "GROWTH_COSING"
+    ],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [
+      "(EC) 2009/1223"
+    ],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "d7464e08-bb38-41a3-8ea9-804433291cfd. Available at: urn:test",
+  "score": 12.088693
+}

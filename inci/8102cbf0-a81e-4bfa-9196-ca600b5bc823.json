@@ -1,0 +1,138 @@
+{
+  "apiVersion": "2.146",
+  "reference": "8102cbf0-a81e-4bfa-9196-ca600b5bc823",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088693,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [],
+    "otherRestrictions": [
+      "<empty>",
+      "<empty>",
+      "<empty>"
+    ],
+    "note": [],
+    "refNo": [
+      "754"
+    ],
+    "sccsOpinionUrls": [
+      "http://ec.europa.eu/health/ph_risk/committees/sccp/documents/out278_en.pdf",
+      "http://ec.europa.eu/health/ph_risk/committees/sccp/documents/out149_en.pdf"
+    ],
+    "innName": [],
+    "other": [],
+    "itemType": [
+      "substance"
+    ],
+    "es_SortDate": [
+      "2009-12-22T00:00:00.000+0100"
+    ],
+    "chemicalName": [],
+    "sccsOpinion": [
+      "Opinion concerning Chemical Ingredients in Cosmetic Products classified as Carcinogenic, Mutagenic or Toxic to Reproduction according to the Chemicals Directive 67/548/EECC",
+      "Opinion concerning Chemical Ingredients in Cosmetic Products classified as Carcinogenic, Mutagenic or Toxic to Reproduction according to the Chemicals Directive 67/548/EEC"
+    ],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "9E66C1C361CAFE3E182D7C2AED4568CC"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [
+      "403-250-2"
+    ],
+    "maximumConcentration": [],
+    "identifiedIngredient": [],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "inciName": [
+      "A mixture of: 4-[[bis-(4-Fluorophenyl)methylsilyl]methyl]-4H-1,2,4-triazole and 1-[[bis-(4-fluorophenyl)methylsilyl]methyl]-1H-1,2,4-triazole"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "-"
+    ],
+    "substanceId": [
+      "29221"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "annexNo": [
+      "II"
+    ],
+    "productTypeBodyParts": [],
+    "publicationDate": [
+      "2009-12-22T00:00:00.000+0100"
+    ],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[[\"1B\",\"Reprotoxic\",\"\"],[\"2\",\"Carcinogenic\",\"\"]]"
+    ],
+    "functionName": [],
+    "esDA_IngestDate": [
+      "2023-05-10T16:08:44.401+0200"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "corporate-search-version": [
+      "102"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-05-10T16:08:44.370+0200"
+    ],
+    "refNo_digit": [
+      "754"
+    ],
+    "colour": [],
+    "datasource": [
+      "GROWTH_COSING"
+    ],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [
+      "(EC) 2009/1223"
+    ],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "8102cbf0-a81e-4bfa-9196-ca600b5bc823. Available at: urn:test",
+  "score": 12.088693
+}

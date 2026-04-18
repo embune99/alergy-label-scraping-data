@@ -1,0 +1,139 @@
+{
+  "apiVersion": "2.146",
+  "reference": "d3f65126-c108-45eb-a24d-f7eaee14be90",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088693,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [],
+    "otherRestrictions": [
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>"
+    ],
+    "note": [],
+    "refNo": [
+      "990"
+    ],
+    "sccsOpinionUrls": [
+      "http://ec.europa.eu/health/ph_risk/committees/sccp/documents/out278_en.pdf",
+      "http://ec.europa.eu/health/ph_risk/committees/sccp/documents/out149_en.pdf"
+    ],
+    "innName": [],
+    "other": [],
+    "itemType": [
+      "substance"
+    ],
+    "es_SortDate": [
+      "2009-12-22T00:00:00.000+0100"
+    ],
+    "chemicalName": [],
+    "sccsOpinion": [
+      "Opinion concerning Chemical Ingredients in Cosmetic Products classified as Carcinogenic, Mutagenic or Toxic to Reproduction according to the Chemicals Directive 67/548/EECC",
+      "Opinion concerning Chemical Ingredients in Cosmetic Products classified as Carcinogenic, Mutagenic or Toxic to Reproduction according to the Chemicals Directive 67/548/EEC"
+    ],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "487D0CA158A09C396E4BAD42466F24E7"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [
+      "200-453-6"
+    ],
+    "maximumConcentration": [],
+    "identifiedIngredient": [],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "inciName": [
+      "4-Aminoazobenzene"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "60-09-3"
+    ],
+    "substanceId": [
+      "30017"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "annexNo": [
+      "II"
+    ],
+    "productTypeBodyParts": [],
+    "publicationDate": [
+      "2009-12-22T00:00:00.000+0100"
+    ],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[[\"1B\",\"Carcinogenic\",\"\"]]"
+    ],
+    "functionName": [],
+    "esDA_IngestDate": [
+      "2023-05-10T16:09:16.788+0200"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "corporate-search-version": [
+      "102"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-05-10T16:09:16.762+0200"
+    ],
+    "refNo_digit": [
+      "990"
+    ],
+    "colour": [],
+    "datasource": [
+      "GROWTH_COSING"
+    ],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [
+      "(EC) 2009/1223"
+    ],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "d3f65126-c108-45eb-a24d-f7eaee14be90. Available at: urn:test",
+  "score": 12.088693
+}

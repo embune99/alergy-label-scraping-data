@@ -1,0 +1,142 @@
+{
+  "apiVersion": "2.146",
+  "reference": "c57e1887-02ef-413c-884f-aeb39862d18b",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088693,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [],
+    "otherRestrictions": [
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>"
+    ],
+    "note": [],
+    "refNo": [
+      "1132"
+    ],
+    "sccsOpinionUrls": [
+      "http://ec.europa.eu/health/ph_risk/committees/sccp/documents/out278_en.pdf",
+      "http://ec.europa.eu/health/ph_risk/committees/sccp/documents/out149_en.pdf"
+    ],
+    "innName": [],
+    "other": [],
+    "itemType": [
+      "substance"
+    ],
+    "es_SortDate": [
+      "2009-12-22T00:00:00.000+0100"
+    ],
+    "chemicalName": [],
+    "sccsOpinion": [
+      "Opinion concerning Chemical Ingredients in Cosmetic Products classified as Carcinogenic, Mutagenic or Toxic to Reproduction according to the Chemicals Directive 67/548/EECC",
+      "Opinion concerning Chemical Ingredients in Cosmetic Products classified as Carcinogenic, Mutagenic or Toxic to Reproduction according to the Chemicals Directive 67/548/EEC"
+    ],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "46968BE83FAB3909BA8BA897C71AF9B9"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [
+      "417-470-1"
+    ],
+    "maximumConcentration": [],
+    "identifiedIngredient": [],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "inciName": [
+      "A mixture of: \r\n4-allyl-2,6-bis(2,3-epoxypropyl)phenol;\r\n4-allyl-6-[3-[6-[3-[6-[3-(4-allyl-2,6-bis(2,3-epoxypropyl)phenoxy)-2-hydroxypropyl]-4-allyl-2-(2,3-epoxypropyl)phenoxy]-2-hydroxypropyl]-4-allyl-2-(2,3-epoxypropyl)phenoxy]-2-hydroxypropyl]-2-(2,3-epoxypropyl)phenol;\r\n4-allyl-6-[3-(4-allyl-2,6-bis(2,3-epoxypropyl)phenoxy)-2-hydroxypropyl]-2-(2,3-epoxypropyl)phenol;\r\n4-allyl-6-[3-[6-[3-(4-allyl-2,6-bis(2,3-epoxypropyl)phenoxy)-2-hydroxypropyl]-4-allyl-2-(2,3-epoxypropyl)phenoxy]-2-hydroxypropyl]-2-(2,3-epoxypropyl)phenol"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "-"
+    ],
+    "substanceId": [
+      "30159"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "annexNo": [
+      "II"
+    ],
+    "productTypeBodyParts": [],
+    "publicationDate": [
+      "2009-12-22T00:00:00.000+0100"
+    ],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[[\"2\",\"Mutagenic\",\"\"]]"
+    ],
+    "functionName": [],
+    "esDA_IngestDate": [
+      "2023-05-10T16:09:37.385+0200"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "corporate-search-version": [
+      "102"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-05-10T16:09:37.361+0200"
+    ],
+    "refNo_digit": [
+      "1132"
+    ],
+    "colour": [],
+    "datasource": [
+      "GROWTH_COSING"
+    ],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [
+      "(EC) 2009/1223"
+    ],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "c57e1887-02ef-413c-884f-aeb39862d18b. Available at: urn:test",
+  "score": 12.088693
+}

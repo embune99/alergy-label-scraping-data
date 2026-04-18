@@ -1,0 +1,158 @@
+{
+  "apiVersion": "2.146",
+  "reference": "399c46bf-fbdc-49a6-aaf8-92e234776474",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088638,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "CLIMBAZOLE"
+    ],
+    "otherRestrictions": [
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>"
+    ],
+    "note": [],
+    "refNo": [
+      "32"
+    ],
+    "sccsOpinionUrls": [
+      "http://ec.europa.eu/health/ph_risk/committees/sccp/docshtml/sccp_out59_en.htm",
+      "http://ec.europa.eu/health/ph_risk/committees/sccp/documents/out207_en.pdf",
+      "http://ec.europa.eu/health/ph_risk/committees/04_sccp/docs/sccp_o_027.pdf",
+      "http://ec.europa.eu/health/ph_risk/committees/04_sccp/docs/sccp_o_164.pdf",
+      "https://ec.europa.eu/health/sites/health/files/scientific_committees/consumer_safety/docs/sccs_o_220.pdf"
+    ],
+    "innName": [],
+    "other": [],
+    "itemType": [
+      "substance"
+    ],
+    "es_SortDate": [
+      "2019-05-07T00:00:00.000+0200"
+    ],
+    "chemicalName": [
+      "(R,S)-1-(4-chlorophenoxy)-1-imidazol-1-yl-3,3-dimethylbutan-2-one"
+    ],
+    "sccsOpinion": [
+      "Opinion concerning Restrictions on Materials listed in annex VI of Directive 76/768/EEC on Cosmetic Products",
+      "Opinion concerning Azole Antimycotic Resistance",
+      "Opinion on Climbazole",
+      "Opinion on Climbazole",
+      "ADDENDUM to the scientific Opinions on Climbazole (P64) ref. SCCS/1506/13 and SCCS/1590/17"
+    ],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "91916AE136E5F6DE598B4D0C31FA6E2E"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [
+      "253-775-4"
+    ],
+    "maximumConcentration": [
+      "(a) 0,2 %\r\n(b) 0,2 %\r\n(c) 0,2 %\r\n(d) 0,5 %"
+    ],
+    "identifiedIngredient": [
+      "32909"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "inciName": [
+      "1-(4-Chlorophenoxy)-1-(imidazol-1-yl)-3,3-dimethylbutan-2-one"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "38083-17-9"
+    ],
+    "substanceId": [
+      "28160"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "annexNo": [
+      "V"
+    ],
+    "productTypeBodyParts": [
+      "(a) Hair lotions\r\n(b) Face creams\r\n(c) Foot care products\r\n(d) Rinse-off shampoo"
+    ],
+    "publicationDate": [
+      "2019-05-07T00:00:00.000+0200"
+    ],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [],
+    "esDA_IngestDate": [
+      "2023-05-10T16:09:43.223+0200"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "corporate-search-version": [
+      "102"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-05-10T16:09:43.193+0200"
+    ],
+    "refNo_digit": [
+      "32"
+    ],
+    "colour": [],
+    "datasource": [
+      "GROWTH_COSING"
+    ],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [
+      "(EU) 2019/698"
+    ],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "399c46bf-fbdc-49a6-aaf8-92e234776474. Available at: urn:test",
+  "score": 12.088638
+}

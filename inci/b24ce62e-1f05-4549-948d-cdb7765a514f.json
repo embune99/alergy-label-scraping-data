@@ -1,0 +1,182 @@
+{
+  "apiVersion": "2.146",
+  "reference": "b24ce62e-1f05-4549-948d-cdb7765a514f",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088693,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "CI 26100 /SOLVENT RED 23"
+    ],
+    "otherRestrictions": [
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "as a constituent of other substances, or in mixtures, in concentrations equal to, or greater than 0.1% by weight",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "Shall not be placed on the market, or used, as substance or in mixtures in concentrations equal to ot greater than 0.1% by weight",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "Shall not be used as propellant in aerosols for any use. Aerosols dispenser containing the substance as propellant shall not be placed on the market",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>"
+    ],
+    "note": [],
+    "refNo": [
+      "51"
+    ],
+    "sccsOpinionUrls": [
+      "http://ec.europa.eu/health/ph_risk/committees/04_sccp/docs/sccp_o_013.pdf"
+    ],
+    "innName": [],
+    "other": [],
+    "itemType": [
+      "substance"
+    ],
+    "es_SortDate": [
+      "2009-12-22T00:00:00.000+0100"
+    ],
+    "chemicalName": [
+      "1-(4-(Phenylazo)phenylazo)-2-naphthol"
+    ],
+    "sccsOpinion": [
+      "Opinion on CI 26100 (Solvent Red 23 not defended as hair dye)"
+    ],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "F26240E58E41B6C6CE0A41111A41E592"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [
+      "201-638-4"
+    ],
+    "maximumConcentration": [
+      "Not to be used in products applied on mucous membranes"
+    ],
+    "identifiedIngredient": [
+      "32744",
+      "38153"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "inciName": [
+      "1-(4-(Phenylazo)phenylazo)-2-naphthol"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "85-86-9"
+    ],
+    "substanceId": [
+      "31009"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "annexNo": [
+      "IV"
+    ],
+    "productTypeBodyParts": [],
+    "publicationDate": [
+      "2009-12-22T00:00:00.000+0100"
+    ],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [],
+    "esDA_IngestDate": [
+      "2023-05-10T16:15:20.567+0200"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "corporate-search-version": [
+      "102"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-05-10T16:15:20.525+0200"
+    ],
+    "refNo_digit": [
+      "51"
+    ],
+    "colour": [
+      "Red"
+    ],
+    "datasource": [
+      "GROWTH_COSING"
+    ],
+    "wordingOfConditions": [
+      "Purity criteria: \r\nanilin<=0.2%\r\n2-naphthol <= 0.2%\r\n4-aminoazobenzene <-0.1%\r\n1-(phenylazo)-2-naphthol<=3%\r\n1-[2-(phenylazo)phenylazo]-2-naphthalenol<=2%"
+    ],
+    "inciUsaName": [],
+    "relatedRegulations": [
+      "(EC) 2009/1223"
+    ],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "b24ce62e-1f05-4549-948d-cdb7765a514f. Available at: urn:test",
+  "score": 12.088693
+}

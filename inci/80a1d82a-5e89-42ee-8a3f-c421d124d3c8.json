@@ -1,0 +1,154 @@
+{
+  "apiVersion": "2.146",
+  "reference": "80a1d82a-5e89-42ee-8a3f-c421d124d3c8",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088693,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [],
+    "otherRestrictions": [
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "as a constituent of other substances, or in mixtures, in concentrations equal to, or greater than 0.1% by weight",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>",
+      "<empty>"
+    ],
+    "note": [],
+    "refNo": [
+      "1198"
+    ],
+    "sccsOpinionUrls": [
+      "http://ec.europa.eu/health/ph_risk/committees/04_sccp/docs/sccp_o_00g.pdf",
+      "http://ec.europa.eu/health/ph_risk/committees/04_sccp/docs/sccp_o_00h.pdf"
+    ],
+    "innName": [
+      "pymetrozine (ISO)"
+    ],
+    "other": [],
+    "itemType": [
+      "substance"
+    ],
+    "es_SortDate": [
+      "2009-12-22T00:00:00.000+0100"
+    ],
+    "chemicalName": [
+      "(E)-4,5-dihydro-6-methyl-4-(3-pyridylmethyleneamino)1,2,4-triazin-3(2H)-one"
+    ],
+    "sccsOpinion": [
+      "Opinion concerning Request for Confirmation of the SCCNFP Opinion 0474/01 on\r\nChemical Ingredients in Cosmetic Products Classified as\r\nCarcinogenic, Mutagenic or Toxic to Reproduction according to\r\nCouncil Directive 67/548/EEC",
+      "Opinion concerning Request for Confirmation of the SCCNFP Opinion 0474/01 on\r\nChemical Ingredients in Cosmetic Products Classified as\r\nCarcinogenic, Mutagenic or Toxic to Reproduction according to\r\nCouncil Directive 67/548/EEC"
+    ],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "781186A6830CD4AA83DC8463884DD330"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [
+      "602-927-1"
+    ],
+    "maximumConcentration": [],
+    "identifiedIngredient": [],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "inciName": [
+      "Pymetrozine (ISO)"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "123312-89-0"
+    ],
+    "substanceId": [
+      "29418"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "annexNo": [
+      "II"
+    ],
+    "productTypeBodyParts": [],
+    "publicationDate": [
+      "2009-12-22T00:00:00.000+0100"
+    ],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[[\"2\",\"Carcinogenic\",\"\"]]"
+    ],
+    "functionName": [],
+    "esDA_IngestDate": [
+      "2023-05-10T16:11:14.434+0200"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "corporate-search-version": [
+      "102"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-05-10T16:11:14.409+0200"
+    ],
+    "refNo_digit": [
+      "1198"
+    ],
+    "colour": [],
+    "datasource": [
+      "GROWTH_COSING"
+    ],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [
+      "(EC) 2009/1223"
+    ],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "80a1d82a-5e89-42ee-8a3f-c421d124d3c8. Available at: urn:test",
+  "score": 12.088693
+}

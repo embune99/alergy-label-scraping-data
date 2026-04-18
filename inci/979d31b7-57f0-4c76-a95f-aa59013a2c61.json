@@ -1,0 +1,133 @@
+{
+  "apiVersion": "2.146",
+  "reference": "979d31b7-57f0-4c76-a95f-aa59013a2c61",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088693,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "POTASSIUM BORATE"
+    ],
+    "otherRestrictions": [],
+    "note": [],
+    "refNo": [],
+    "sccsOpinionUrls": [
+      "http://ec.europa.eu/health/ph_risk/committees/sccp/docshtml/sccp_out40_en.htm",
+      "http://ec.europa.eu/health/scientific_committees/consumer_safety/docs/sccs_o_031.pdf"
+    ],
+    "innName": [],
+    "other": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "chemicalName": [
+      "Dipotassium tetraborate"
+    ],
+    "sccsOpinion": [
+      "Opinion on Boric acid, Borates and Tetraborates",
+      "Opinion on Sodium Perborate and Perboric Acid"
+    ],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "Potassium Borate is the inorganic salt that conforms to the formula:"
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "C5F8046B634BA381F8BE7D1277FA8158"
+    ],
+    "cosmeticRestriction": [
+      "II/1396"
+    ],
+    "ecNo": [
+      "215-575-5"
+    ],
+    "maximumConcentration": [],
+    "identifiedIngredient": [
+      "97717",
+      "97945"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "inciName": [
+      "POTASSIUM BORATE"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "1332-77-0"
+    ],
+    "substanceId": [
+      "36937"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "annexNo": [],
+    "productTypeBodyParts": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "BUFFERING"
+    ],
+    "esDA_IngestDate": [
+      "2023-05-22T13:00:08.471+0200"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "corporate-search-version": [
+      "102"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-05-22T13:00:08.406+0200"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "datasource": [
+      "GROWTH_COSING"
+    ],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "979d31b7-57f0-4c76-a95f-aa59013a2c61. Available at: urn:test",
+  "score": 12.088693
+}

@@ -1,0 +1,132 @@
+{
+  "apiVersion": "2.146",
+  "reference": "81e688a7-82f0-4095-b50d-7fb8105ec0eb",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088693,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "O-PHENYLPHENOL"
+    ],
+    "otherRestrictions": [
+      "ban substances that deplete the ozone layer"
+    ],
+    "note": [],
+    "refNo": [],
+    "sccsOpinionUrls": [
+      "https://ec.europa.eu/health/sites/health/files/scientific_committees/consumer_safety/docs/sccs_o_217.pdf"
+    ],
+    "innName": [],
+    "other": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "chemicalName": [
+      "Biphenyl-2-ol"
+    ],
+    "sccsOpinion": [
+      "ADDENDUM  to the scientific opinion on o-Phenylphenol, Sodium o-phenylphenate and Potassium o-phenylphenate (SCCS/1555/15)"
+    ],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "o-Phenylphenol is the substituted aromatic compound that conforms to the formula:"
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "743A335531C99035CD62D719A4C0FA5E"
+    ],
+    "cosmeticRestriction": [
+      "V/7\r\nThe use of o-phenylphenol as a preservative should be allowed with a maximum concentration of 0,15 % (as phenol) in leave-on and 0,2 % (as phenol) in rinse-off cosmetic products. Contact with eyes should be avoided. The use of sodium o-phenylphenate, potassium o-phenylphenate and MEA o-phenylphenate as preservatives should not be allowed."
+    ],
+    "ecNo": [
+      "201-993-5"
+    ],
+    "maximumConcentration": [],
+    "identifiedIngredient": [
+      "28130"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "inciName": [
+      "O-PHENYLPHENOL"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "90-43-7"
+    ],
+    "substanceId": [
+      "35733"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "annexNo": [],
+    "productTypeBodyParts": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "PRESERVATIVE"
+    ],
+    "esDA_IngestDate": [
+      "2023-05-22T15:05:38.986+0200"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "corporate-search-version": [
+      "102"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-05-22T15:05:38.952+0200"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "datasource": [
+      "GROWTH_COSING"
+    ],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "81e688a7-82f0-4095-b50d-7fb8105ec0eb. Available at: urn:test",
+  "score": 12.088693
+}

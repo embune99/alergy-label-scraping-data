@@ -1,0 +1,148 @@
+{
+  "apiVersion": "2.146",
+  "reference": "3e03127c-56e5-487f-874c-330cd4de38a5",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "application/octet-stream",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088638,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "o-Phenylphenol, Sodium o-Phenylphenate"
+    ],
+    "refNo": [
+      "7"
+    ],
+    "otherRestrictions": [],
+    "note": [],
+    "sccsOpinionUrls": [
+      "https://ec.europa.eu/health/sites/health/files/scientific_committees/consumer_safety/docs/sccs_o_217.pdf",
+      "https://health.ec.europa.eu/publications/sccs-opinion-biphenyl-2-ol-and-sodium-2-biphenylolate-used-cosmetic-products-casec-no-90-43-7201-993_en"
+    ],
+    "itemType": [
+      "substance"
+    ],
+    "other": [
+      "When o-Phenylphenol and Sodium o-Phenylphenate are used together, the combined concentration (as phenol) shall not exceed 0,2 % in rinse-off and 0,15 % in leave-on products.\nNot to be used in applications that may lead to exposure of the end-user’s lungs by inhalation. Not to be used in oral products."
+    ],
+    "innName": [],
+    "es_SortDate": [
+      "2026-01-13T00:00:00.000+0100"
+    ],
+    "chemicalName": [
+      "Biphenyl-2-ol"
+    ],
+    "sccsOpinion": [
+      "ADDENDUM  to the scientific opinion on o-Phenylphenol, Sodium o-phenylphenate and Potassium o-phenylphenate (SCCS/1555/15)",
+      "SCCS Opinion on Biphenyl-2-ol and Sodium 2-biphenylolate used in cosmetic products (CAS/EC No. 90-43-7/201-993-5 and 132-27-4/205-055-6)"
+    ],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "8D6B064A68A96D4847D0C495B33ABD43"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [
+      "201-993-5, 205-055-6"
+    ],
+    "maximumConcentration": [
+      "(a) 0,2 % (as phenol\n\n(b) 0,15 % (as phenol)"
+    ],
+    "identifiedIngredient": [
+      "35733",
+      "38006",
+      "35179",
+      "37007"
+    ],
+    "inciName": [
+      "Biphenyl-2-ol; 2-phenylphenol; 2-hydroxybiphenyl, Sodium 2-biphenylate"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "90-43-7, 132-27-4"
+    ],
+    "substanceId": [
+      "28130"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "REFERENCE": [
+      "3e03127c-56e5-487f-874c-330cd4de38a5"
+    ],
+    "productTypeBodyParts": [
+      "(a) Rinse-off products\n\n(b) Leave-on products"
+    ],
+    "annexNo": [
+      "V"
+    ],
+    "publicationDate": [
+      "2026-01-13T00:00:00.000+0100"
+    ],
+    "phEurName": [],
+    "es_ContentType": [
+      "application/octet-stream"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [],
+    "esDA_IngestDate": [
+      "2026-01-15T11:38:14.327+0100"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2026-01-15T11:38:14.287+0100"
+    ],
+    "refNo_digit": [
+      "7"
+    ],
+    "colour": [],
+    "wordingOfConditions": [
+      "Avoid contact with eyes."
+    ],
+    "inciUsaName": [],
+    "relatedRegulations": [
+      "(EU) 2026/78"
+    ],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "3e03127c-56e5-487f-874c-330cd4de38a5. Available at: urn:test",
+  "score": 12.088638
+}

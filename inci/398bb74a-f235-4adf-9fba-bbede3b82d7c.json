@@ -1,0 +1,134 @@
+{
+  "apiVersion": "2.146",
+  "reference": "398bb74a-f235-4adf-9fba-bbede3b82d7c",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088693,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "5-BROMO-5-NITRO-1,3-DIOXANE"
+    ],
+    "otherRestrictions": [],
+    "note": [],
+    "refNo": [],
+    "sccsOpinionUrls": [
+      "http://ec.europa.eu/health/ph_risk/committees/sccp/documents/out188_en.pdf",
+      "http://ec.europa.eu/health/ph_risk/committees/sccp/documents/out187_en.pdf",
+      "https://ec.europa.eu/health/sites/default/files/scientific_committees/consumer_safety/docs/sccs_o_254.pdf"
+    ],
+    "innName": [],
+    "other": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "chemicalName": [
+      "5-bromo-5-nitro-1,3-dioxane"
+    ],
+    "sccsOpinion": [
+      "Opinion on The Determination of certain Formaldehyde Releasers in Cosmetic Products",
+      "A Clarification on the Formaldehyde and para-Formaldehyde Entry in Directive 76/768/EEC on cosmetic products",
+      "SCIENTIFIC ADVICE ON the threshold for the warning ‘contains formaldehyde’ in Annex V, preamble point 2 for formaldehyde-releasing substances"
+    ],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "5-Bromo-5-Nitro-1,3-Dioxane is the substituted cyclic ether that conforms to the formula:"
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "3484C1FF73BD414BC34156AEB5EC9F0A"
+    ],
+    "cosmeticRestriction": [
+      "V/20"
+    ],
+    "ecNo": [
+      "250-001-7"
+    ],
+    "maximumConcentration": [],
+    "identifiedIngredient": [
+      "28147"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "inciName": [
+      "5-BROMO-5-NITRO-1,3-DIOXANE"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "30007-47-7"
+    ],
+    "substanceId": [
+      "31538"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "annexNo": [],
+    "productTypeBodyParts": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "PRESERVATIVE"
+    ],
+    "esDA_IngestDate": [
+      "2023-05-22T12:58:47.117+0200"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "corporate-search-version": [
+      "102"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-05-22T12:58:47.087+0200"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "datasource": [
+      "GROWTH_COSING"
+    ],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "398bb74a-f235-4adf-9fba-bbede3b82d7c. Available at: urn:test",
+  "score": 12.088693
+}
