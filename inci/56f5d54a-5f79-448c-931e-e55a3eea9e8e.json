@@ -1,0 +1,115 @@
+{
+  "apiVersion": "2.146",
+  "reference": "56f5d54a-5f79-448c-931e-e55a3eea9e8e",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088693,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "PIGMENT GREEN 50"
+    ],
+    "refNo": [],
+    "otherRestrictions": [],
+    "note": [],
+    "sccsOpinionUrls": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "other": [],
+    "innName": [],
+    "chemicalName": [],
+    "sccsOpinion": [],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "Pigment Green 50 is an inorganic pigment consisting chiefly of cobalt carbonate and lithium carbonate."
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "e989cfc0-b3f0-42bf-b0bc-39d625254240"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [],
+    "maximumConcentration": [],
+    "identifiedIngredient": [],
+    "inciName": [
+      "PIGMENT GREEN 50"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "68186-85-6"
+    ],
+    "substanceId": [
+      "105233"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "REFERENCE": [
+      "56f5d54a-5f79-448c-931e-e55a3eea9e8e"
+    ],
+    "productTypeBodyParts": [],
+    "annexNo": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "COLORANT"
+    ],
+    "esDA_IngestDate": [
+      "2024-08-26T13:00:27.962+0200"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2024-08-26T13:00:27.923+0200"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "56f5d54a-5f79-448c-931e-e55a3eea9e8e. Available at: urn:test",
+  "score": 12.088693
+}

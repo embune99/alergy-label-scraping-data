@@ -1,0 +1,133 @@
+{
+  "apiVersion": "2.146",
+  "reference": "e6c78c88-84da-487b-9110-4f04851bf7c6",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "application/octet-stream",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088693,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [],
+    "refNo": [
+      "1727"
+    ],
+    "otherRestrictions": [],
+    "note": [],
+    "sccsOpinionUrls": [
+      "https://ec.europa.eu/health/sites/health/files/scientific_committees/consumer_safety/docs/sccs_o_219.pdf",
+      "https://health.ec.europa.eu/publications/sccs-opinion-safety-silver-casec-no-7440-22-4231-131-3-used-cosmetic-products_en"
+    ],
+    "itemType": [
+      "substance"
+    ],
+    "other": [],
+    "innName": [],
+    "es_SortDate": [
+      "2026-01-13T00:00:00.000+0100"
+    ],
+    "chemicalName": [],
+    "sccsOpinion": [
+      "OPINION ON Colloidal Silver (nano)",
+      "Opinion on the safety of Silver (CAS/EC No. 7440-22-4/231-131-3) used in cosmetic products"
+    ],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "ca242de0-36fd-4b51-9d93-01993886f445"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [
+      "231-131-3"
+    ],
+    "maximumConcentration": [],
+    "identifiedIngredient": [
+      "83140"
+    ],
+    "inciName": [
+      "Silver (nano) [1 nm < particle diameter ≤ 100 nm]\nSilver (massive) [particle diameter ≥ 1 mm]"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "7440-22-4"
+    ],
+    "substanceId": [
+      "104240"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "REFERENCE": [
+      "e6c78c88-84da-487b-9110-4f04851bf7c6"
+    ],
+    "productTypeBodyParts": [],
+    "annexNo": [
+      "II"
+    ],
+    "publicationDate": [
+      "2026-01-13T00:00:00.000+0100"
+    ],
+    "phEurName": [],
+    "es_ContentType": [
+      "application/octet-stream"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [],
+    "esDA_IngestDate": [
+      "2026-01-15T11:26:51.870+0100"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2026-01-15T11:26:51.859+0100"
+    ],
+    "refNo_digit": [
+      "1727"
+    ],
+    "colour": [],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [
+      "(EU) 2026/78"
+    ],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "e6c78c88-84da-487b-9110-4f04851bf7c6. Available at: urn:test",
+  "score": 12.088693
+}

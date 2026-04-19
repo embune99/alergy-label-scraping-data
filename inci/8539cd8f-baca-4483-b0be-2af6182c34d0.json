@@ -1,0 +1,113 @@
+{
+  "apiVersion": "2.146",
+  "reference": "8539cd8f-baca-4483-b0be-2af6182c34d0",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "application/octet-stream",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088693,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "sr-(Methionyl sh-Polypeptide-3 Dipeptide-46 Oligopeptide-163 sh-Oligopeptide-197)"
+    ],
+    "refNo": [],
+    "otherRestrictions": [],
+    "note": [],
+    "sccsOpinionUrls": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "other": [],
+    "innName": [],
+    "chemicalName": [],
+    "sccsOpinion": [],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "sr-(Methionyl sh-Polypeptide-3 Dipeptide-46 Oligopeptide-163 sh-Oligopeptide-197) is a single chain recombinant peptide produced by Chinese hamster ovary cells. The starting gene is synthesized by the fusion of the genes from sh-Polypeptide-3, Dipeptide-46, Oligopeptide-163, and sh-Oligopeptide-197 (q.v.) with the initiation code for methionine. The fusion peptide contains 75 amino acids which may contain disulfide bonds and/or glycosylation, and consists of the proper sequence from the 20 standard amino acids."
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "ab212e6b-0571-494d-b2d9-076691c15f4b"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [],
+    "maximumConcentration": [],
+    "identifiedIngredient": [],
+    "inciName": [
+      "SR-(METHIONYL SH-POLYPEPTIDE-3 DIPEPTIDE-46 OLIGOPEPTIDE-163 SH-OLIGOPEPTIDE-197)"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [],
+    "substanceId": [
+      "105870"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "REFERENCE": [
+      "8539cd8f-baca-4483-b0be-2af6182c34d0"
+    ],
+    "productTypeBodyParts": [],
+    "annexNo": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "application/octet-stream"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "HAIR CONDITIONING",
+      "SKIN CONDITIONING - MISCELLANEOUS"
+    ],
+    "esDA_FirstIngestDate": [
+      "2025-04-30T15:07:43.897+0200"
+    ],
+    "esDA_IngestDate": [
+      "2025-04-30T15:07:43.897+0200"
+    ],
+    "currentVersion": [],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2025-04-30T15:07:43.887+0200"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": []
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "8539cd8f-baca-4483-b0be-2af6182c34d0. Available at: urn:test",
+  "score": 12.088693
+}

@@ -1,0 +1,110 @@
+{
+  "apiVersion": "2.146",
+  "reference": "41fb5582-9cbe-4f94-a8e0-b46d2702b393",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088693,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "Larix Occidentalis Oil"
+    ],
+    "refNo": [],
+    "otherRestrictions": [],
+    "note": [],
+    "sccsOpinionUrls": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "other": [],
+    "innName": [],
+    "chemicalName": [],
+    "sccsOpinion": [],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "Larix Occidentalis Oil is the volatile oil obtained from the whole plant, Larix occidentalis."
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "0d01cd9f-31f3-417d-9fd4-296d6db5c11c"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [],
+    "maximumConcentration": [],
+    "identifiedIngredient": [],
+    "inciName": [
+      "LARIX OCCIDENTALIS OIL"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [],
+    "substanceId": [
+      "101970"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "REFERENCE": [
+      "41fb5582-9cbe-4f94-a8e0-b46d2702b393"
+    ],
+    "productTypeBodyParts": [],
+    "annexNo": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "FRAGRANCE",
+      "PERFUMING"
+    ],
+    "esDA_IngestDate": [
+      "2024-06-25T15:10:04.254+0200"
+    ],
+    "currentVersion": [],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2024-06-25T15:10:04.233+0200"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": []
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "41fb5582-9cbe-4f94-a8e0-b46d2702b393. Available at: urn:test",
+  "score": 12.088693
+}

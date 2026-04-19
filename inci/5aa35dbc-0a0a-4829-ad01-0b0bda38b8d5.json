@@ -1,0 +1,109 @@
+{
+  "apiVersion": "2.146",
+  "reference": "5aa35dbc-0a0a-4829-ad01-0b0bda38b8d5",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088693,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "Aframomum Corrorima Seed Oil"
+    ],
+    "refNo": [],
+    "otherRestrictions": [],
+    "note": [],
+    "sccsOpinionUrls": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "other": [],
+    "innName": [],
+    "chemicalName": [],
+    "sccsOpinion": [],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "Aframomum Corrorima Seed Oil the volatile oil derived from the seeds of Aframomum corrorima."
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "e0919cce-6de2-4d3a-b8ec-879f09246a21"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [],
+    "maximumConcentration": [],
+    "identifiedIngredient": [],
+    "inciName": [
+      "AFRAMOMUM CORRORIMA SEED OIL"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [],
+    "substanceId": [
+      "100688"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "productTypeBodyParts": [],
+    "annexNo": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "ANTI-SEBORRHEIC",
+      "ANTIMICROBIAL",
+      "ANTI-SEBUM",
+      "ASTRINGENT"
+    ],
+    "esDA_IngestDate": [
+      "2023-09-25T14:49:56.843+0200"
+    ],
+    "currentVersion": [],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-09-25T14:49:56.833+0200"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": []
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "5aa35dbc-0a0a-4829-ad01-0b0bda38b8d5. Available at: urn:test",
+  "score": 12.088693
+}

@@ -1,0 +1,118 @@
+{
+  "apiVersion": "2.146",
+  "reference": "26e0c800-1175-4ad9-94db-3c15a6ea6697",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "application/octet-stream",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088693,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "Human Foreskin Mesenchymal Stem Cell Exosomes"
+    ],
+    "refNo": [],
+    "otherRestrictions": [],
+    "note": [],
+    "sccsOpinionUrls": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "other": [],
+    "innName": [],
+    "chemicalName": [],
+    "sccsOpinion": [],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "Human Foreskin Mesenchymal Stem Cell Exosomes are exosomes that are secreted into the conditioned media by human foreskin mesenchymal stem cells."
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "b88e94e8-bd9f-4413-be69-4445f58446a5"
+    ],
+    "cosmeticRestriction": [
+      "II/416"
+    ],
+    "ecNo": [],
+    "maximumConcentration": [],
+    "identifiedIngredient": [],
+    "inciName": [
+      "HUMAN FORESKIN MESENCHYMAL STEM CELL EXOSOMES"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [],
+    "substanceId": [
+      "105812"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "REFERENCE": [
+      "26e0c800-1175-4ad9-94db-3c15a6ea6697"
+    ],
+    "productTypeBodyParts": [],
+    "annexNo": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "application/octet-stream"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "ANTIOXIDANT",
+      "SKIN CONDITIONING - EMOLLIENT",
+      "HUMECTANT",
+      "SKIN PROTECTING",
+      "SKIN CONDITIONING - HUMECTANT"
+    ],
+    "esDA_FirstIngestDate": [
+      "2025-05-19T17:52:04.086+0200"
+    ],
+    "esDA_IngestDate": [
+      "2025-05-19T17:52:04.086+0200"
+    ],
+    "currentVersion": [],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2025-05-19T17:52:04.079+0200"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": []
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "26e0c800-1175-4ad9-94db-3c15a6ea6697. Available at: urn:test",
+  "score": 12.088693
+}

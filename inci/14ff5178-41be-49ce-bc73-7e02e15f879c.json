@@ -1,0 +1,111 @@
+{
+  "apiVersion": "2.146",
+  "reference": "14ff5178-41be-49ce-bc73-7e02e15f879c",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088693,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "Camellia Sinensis sh-Oligopeptide-1"
+    ],
+    "refNo": [],
+    "otherRestrictions": [],
+    "note": [],
+    "sccsOpinionUrls": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "other": [],
+    "innName": [],
+    "chemicalName": [],
+    "sccsOpinion": [],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "Camellia Sinensis sh-Oligopeptide-1 is a single chain recombinant human peptide, produced by Camellia sinesis, after transformation with either a transient expression system or transgenesis (stable insertion of a copy of a human gene into its DNA). The starting gene is synthesized to be identical to the human gene which codes for Epidermal Growth Factor. It contains a maximum of 53 amino acids, which may contain disulfide bonds and/or glycosylation. The protein consists of the proper sequence of the 20 standard amino acids."
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "83be37ab-9ca6-4b85-95f4-d7c921e507f6"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [],
+    "maximumConcentration": [],
+    "identifiedIngredient": [],
+    "inciName": [
+      "CAMELLIA SINENSIS SH-OLIGOPEPTIDE-1"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [],
+    "substanceId": [
+      "101308"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "REFERENCE": [
+      "14ff5178-41be-49ce-bc73-7e02e15f879c"
+    ],
+    "productTypeBodyParts": [],
+    "annexNo": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "ANTIMICROBIAL",
+      "ANTIOXIDANT",
+      "HAIR CONDITIONING"
+    ],
+    "esDA_IngestDate": [
+      "2024-07-01T13:35:40.641+0200"
+    ],
+    "currentVersion": [],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2024-07-01T13:35:40.629+0200"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": []
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "14ff5178-41be-49ce-bc73-7e02e15f879c. Available at: urn:test",
+  "score": 12.088693
+}

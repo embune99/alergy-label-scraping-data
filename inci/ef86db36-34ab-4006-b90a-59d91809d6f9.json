@@ -1,0 +1,120 @@
+{
+  "apiVersion": "2.146",
+  "reference": "ef86db36-34ab-4006-b90a-59d91809d6f9",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "application/octet-stream",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088693,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "cadmium (non-pyrophoric)[1]; cadmium oxide (non-pyrophoric)[2]"
+    ],
+    "refNo": [],
+    "otherRestrictions": [],
+    "note": [],
+    "sccsOpinionUrls": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "other": [],
+    "innName": [],
+    "chemicalName": [],
+    "sccsOpinion": [],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "1cc727fd-24cf-4be8-bc14-5cffa2badd2c"
+    ],
+    "cosmeticRestriction": [
+      "Annex: II/68"
+    ],
+    "ecNo": [
+      "231-152-8[1] / 215-146-2[2]"
+    ],
+    "maximumConcentration": [],
+    "identifiedIngredient": [],
+    "inciName": [
+      "CADMIUM (NON-PYROPHORIC)[1]; CADMIUM OXIDE (NON-PYROPHORIC)[2]"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "7440-43-9[1] / 1306-19-0[2]"
+    ],
+    "substanceId": [
+      "105955"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "REFERENCE": [
+      "ef86db36-34ab-4006-b90a-59d91809d6f9"
+    ],
+    "productTypeBodyParts": [],
+    "annexNo": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "application/octet-stream"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "NOT REPORTED"
+    ],
+    "esDA_FirstIngestDate": [
+      "2025-05-07T16:31:41.614+0200"
+    ],
+    "esDA_IngestDate": [
+      "2025-05-07T16:32:55.600+0200"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2025-05-07T16:32:55.593+0200"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "ef86db36-34ab-4006-b90a-59d91809d6f9. Available at: urn:test",
+  "score": 12.088693
+}

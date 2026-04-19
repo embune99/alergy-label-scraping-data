@@ -1,0 +1,116 @@
+{
+  "apiVersion": "2.146",
+  "reference": "555c80cb-5ec7-4d12-8604-9d72563f919a",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "application/octet-stream",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088693,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "Edenia Gomezpompae Ferment Lysate Extract"
+    ],
+    "refNo": [],
+    "otherRestrictions": [],
+    "note": [],
+    "sccsOpinionUrls": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "other": [],
+    "innName": [],
+    "chemicalName": [],
+    "sccsOpinion": [],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "Edenia Gomezpompae Ferment Lysate Extract is the extract of a lysate of the product obtained by the fermentation of media by the microorganism, Edenia gomezpompae."
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "9238f132-53e8-48a1-b59b-867fe3e11e07"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [],
+    "maximumConcentration": [],
+    "identifiedIngredient": [],
+    "inciName": [
+      "EDENIA GOMEZPOMPAE FERMENT LYSATE EXTRACT"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [],
+    "substanceId": [
+      "105496"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "REFERENCE": [
+      "555c80cb-5ec7-4d12-8604-9d72563f919a"
+    ],
+    "productTypeBodyParts": [],
+    "annexNo": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "application/octet-stream"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "ANTIOXIDANT",
+      "SKIN CONDITIONING - EMOLLIENT",
+      "SKIN CONDITIONING - HUMECTANT",
+      "SKIN CONDITIONING - MISCELLANEOUS",
+      "SKIN CONDITIONING - OCCLUSIVE"
+    ],
+    "esDA_FirstIngestDate": [
+      "2024-11-14T10:04:09.317+0100"
+    ],
+    "esDA_IngestDate": [
+      "2024-11-14T10:04:09.317+0100"
+    ],
+    "currentVersion": [],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2024-11-14T10:04:09.296+0100"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": []
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "555c80cb-5ec7-4d12-8604-9d72563f919a. Available at: urn:test",
+  "score": 12.088693
+}

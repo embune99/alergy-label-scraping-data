@@ -1,0 +1,113 @@
+{
+  "apiVersion": "2.146",
+  "reference": "af80b40e-b9ee-4f56-a8a9-5442f92cffa3",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088693,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "sr-(Methionyl r-Green Mussel Oligopeptide-1)"
+    ],
+    "refNo": [],
+    "otherRestrictions": [],
+    "note": [],
+    "sccsOpinionUrls": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "other": [],
+    "innName": [],
+    "chemicalName": [],
+    "sccsOpinion": [],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "sr-(Methionyl r-Green Mussel Oligopeptide-1) is a single chain recombinant peptide, produced by fermentation in E. coli. The starting gene is synthesized by the fusion of the gene from r-Green Mussel Oligopeptide-1 with the initiation code for methionine. The fusion peptide contains 63 amino acids which may contain disulfide bonds and/or glycosylation, and consists of the proper sequence of the 20 standard amino acids."
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "9b5f9259-8148-41ac-83b0-06daa64248cd"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [],
+    "maximumConcentration": [],
+    "identifiedIngredient": [],
+    "inciName": [
+      "SR-(METHIONYL R-GREEN MUSSEL OLIGOPEPTIDE-1)"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [],
+    "substanceId": [
+      "104722"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "REFERENCE": [
+      "af80b40e-b9ee-4f56-a8a9-5442f92cffa3"
+    ],
+    "productTypeBodyParts": [],
+    "annexNo": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "ANTIOXIDANT",
+      "HAIR CONDITIONING",
+      "HUMECTANT",
+      "REDUCING",
+      "SKIN CONDITIONING - HUMECTANT"
+    ],
+    "esDA_IngestDate": [
+      "2024-08-13T08:38:27.952+0200"
+    ],
+    "currentVersion": [],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2024-08-13T08:38:27.940+0200"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": []
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "af80b40e-b9ee-4f56-a8a9-5442f92cffa3. Available at: urn:test",
+  "score": 12.088693
+}

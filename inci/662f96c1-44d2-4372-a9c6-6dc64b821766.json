@@ -1,0 +1,109 @@
+{
+  "apiVersion": "2.146",
+  "reference": "662f96c1-44d2-4372-a9c6-6dc64b821766",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088693,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "sr-(Methionyl s-Rainbow Trout Oligopeptide-1 sh-Polypeptide-92 Hexapeptide-40)"
+    ],
+    "refNo": [],
+    "otherRestrictions": [],
+    "note": [],
+    "sccsOpinionUrls": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "other": [],
+    "innName": [],
+    "chemicalName": [],
+    "sccsOpinion": [],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "sr-(Methionyl s-Rainbow Trout Oligopeptide-1 sh-Polypeptide-92 Hexapeptide-40) is a single chain fusion peptide, produced by fermentation in E. coli. The starting gene is synthesized by the fusion of the gene from sr-Rainbow Trout Oligopeptide-1, sh-Polypeptide-92 and Hexapeptide-40 with the initiation code for methionine. The fusion peptide contains 130 amino acids which may contain disulfide bonds and/or glycosylation, and consists of the proper sequence from the 20 standard amino acids."
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "308867a0-f331-4eed-a516-2994b66b9161"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [],
+    "maximumConcentration": [],
+    "identifiedIngredient": [],
+    "inciName": [
+      "SR-(METHIONYL S-RAINBOW TROUT OLIGOPEPTIDE-1 SH-POLYPEPTIDE-92 HEXAPEPTIDE-40)"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [],
+    "substanceId": [
+      "100916"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "productTypeBodyParts": [],
+    "annexNo": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "ANTIOXIDANT",
+      "HAIR CONDITIONING",
+      "SKIN PROTECTING",
+      "SKIN CONDITIONING - MISCELLANEOUS"
+    ],
+    "esDA_IngestDate": [
+      "2023-12-14T09:31:22.121+0100"
+    ],
+    "currentVersion": [],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-12-14T09:31:22.106+0100"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": []
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "662f96c1-44d2-4372-a9c6-6dc64b821766. Available at: urn:test",
+  "score": 12.088693
+}

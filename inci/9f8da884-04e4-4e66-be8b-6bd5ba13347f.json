@@ -1,0 +1,111 @@
+{
+  "apiVersion": "2.146",
+  "reference": "9f8da884-04e4-4e66-be8b-6bd5ba13347f",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088693,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "sr-(Methionyl sh-Oligopeptide-75 sh-Polypeptide-9 Hexapeptide-40)"
+    ],
+    "refNo": [],
+    "otherRestrictions": [],
+    "note": [],
+    "sccsOpinionUrls": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "other": [],
+    "innName": [],
+    "chemicalName": [],
+    "sccsOpinion": [],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "sr-(Methionyl sh-Oligopeptide-75 sh-Polypeptide-9 Hexapeptide-40) is a single chain recombinant peptide produced by fermentation in E. coli. The starting gene is synthesized by the fusion of the genes from sh-Oligopeptide-75, sh-Polypeptide-9, and Hexapeptide-40 with the initiation code for methionine. The fusion peptide contains 134 amino acids which may contain disulfide bonds and/or glycosylation, and consists of the proper sequence from the 20 standard amino acids."
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "ca93ba2e-2f7d-478d-be3a-2449942d30f4"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [],
+    "maximumConcentration": [],
+    "identifiedIngredient": [],
+    "inciName": [
+      "SR-(METHIONYL SH-OLIGOPEPTIDE-75 SH-POLYPEPTIDE-9 HEXAPEPTIDE-40)"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [],
+    "substanceId": [
+      "100923"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "productTypeBodyParts": [],
+    "annexNo": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "ANTIOXIDANT",
+      "HAIR CONDITIONING",
+      "SKIN PROTECTING",
+      "SKIN CONDITIONING - HUMECTANT",
+      "SKIN CONDITIONING - MISCELLANEOUS",
+      "SKIN CONDITIONING - OCCLUSIVE"
+    ],
+    "esDA_IngestDate": [
+      "2024-01-18T11:06:24.710+0100"
+    ],
+    "currentVersion": [],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2024-01-18T11:06:24.695+0100"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": []
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "9f8da884-04e4-4e66-be8b-6bd5ba13347f. Available at: urn:test",
+  "score": 12.088693
+}

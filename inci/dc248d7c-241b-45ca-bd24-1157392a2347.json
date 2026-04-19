@@ -1,0 +1,114 @@
+{
+  "apiVersion": "2.146",
+  "reference": "dc248d7c-241b-45ca-bd24-1157392a2347",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "application/octet-stream",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088693,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "Nicotiana Benthamiana r-(s-Hordeum Vulgare Oligopeptide-1 sh-Polypeptide-166)"
+    ],
+    "refNo": [],
+    "otherRestrictions": [],
+    "note": [],
+    "sccsOpinionUrls": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "other": [],
+    "innName": [],
+    "chemicalName": [],
+    "sccsOpinion": [],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "Nicotiana Benthamiana r-(s-Hordeum Vulgare Oligopeptide-1 sh-Polypeptide-166) is a single chain recombinant peptide produced by Nicotiana benthamiana after transformation with either a transient expression system or transgenesis (stable insertion of a copy of the synthetic gene into its DNA). The starting gene is synthesized by the fusion of the genes from s-Hordeum Vulgare Oligopeptide-1 and sh-Polypeptide-166. The peptide contains a maximum of 1389 amino acids which may contain disulfide bonds and/or glycosylation. The fusion peptide consists of the proper sequence of the 20 standard amino acids."
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "02167e36-7731-4c60-ad66-8c85d295134e"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [],
+    "maximumConcentration": [],
+    "identifiedIngredient": [],
+    "inciName": [
+      "NICOTIANA BENTHAMIANA R-(S-HORDEUM VULGARE OLIGOPEPTIDE-1 SH-POLYPEPTIDE-166)"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [],
+    "substanceId": [
+      "105509"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "REFERENCE": [
+      "dc248d7c-241b-45ca-bd24-1157392a2347"
+    ],
+    "productTypeBodyParts": [],
+    "annexNo": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "application/octet-stream"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "FILM FORMING",
+      "HAIR CONDITIONING",
+      "SKIN CONDITIONING - MISCELLANEOUS"
+    ],
+    "esDA_FirstIngestDate": [
+      "2024-11-13T11:33:39.302+0100"
+    ],
+    "esDA_IngestDate": [
+      "2024-11-13T11:33:39.302+0100"
+    ],
+    "currentVersion": [],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2024-11-13T11:33:39.286+0100"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": []
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "dc248d7c-241b-45ca-bd24-1157392a2347. Available at: urn:test",
+  "score": 12.088693
+}

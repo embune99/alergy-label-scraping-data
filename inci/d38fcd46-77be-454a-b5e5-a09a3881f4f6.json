@@ -1,0 +1,113 @@
+{
+  "apiVersion": "2.146",
+  "reference": "d38fcd46-77be-454a-b5e5-a09a3881f4f6",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088693,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "R-(TETRAPEPTIDE-38 HEXAPEPTIDE-40 OLIGOPEPTIDE-152 SH-POLYPEPTIDE-106)"
+    ],
+    "refNo": [],
+    "otherRestrictions": [],
+    "note": [],
+    "sccsOpinionUrls": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "other": [],
+    "innName": [],
+    "chemicalName": [],
+    "sccsOpinion": [],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "r-(Tetrapeptide-38 Hexapeptide-40 Oligopeptide-152 sh-Polypeptide-106) is a single chain fusion peptide, produced by fermentation in E. coli. The starting gene is synthesized by the fusion of the genes encoding for Tetrapeptide-38, Hexapeptide-40, Oligopeptide-152 and the sh-Polypeptide-106. The fusion peptide contains 493amino acids which may contain disulfide bonds and/or glycosylation, and consists of the proper sequence of the 20 standard amino acids."
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "8d2db934-367a-44a0-b0ed-d4baa1d3d476"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [],
+    "maximumConcentration": [],
+    "identifiedIngredient": [],
+    "inciName": [
+      "R-(TETRAPEPTIDE-38 HEXAPEPTIDE-40 OLIGOPEPTIDE-152 SH-POLYPEPTIDE-106)"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [],
+    "substanceId": [
+      "105249"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "REFERENCE": [
+      "d38fcd46-77be-454a-b5e5-a09a3881f4f6"
+    ],
+    "productTypeBodyParts": [],
+    "annexNo": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "HAIR CONDITIONING"
+    ],
+    "esDA_IngestDate": [
+      "2024-08-26T14:21:42.262+0200"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2024-08-26T14:21:42.247+0200"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "d38fcd46-77be-454a-b5e5-a09a3881f4f6. Available at: urn:test",
+  "score": 12.088693
+}

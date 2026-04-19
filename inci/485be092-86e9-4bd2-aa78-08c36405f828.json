@@ -1,0 +1,109 @@
+{
+  "apiVersion": "2.146",
+  "reference": "485be092-86e9-4bd2-aa78-08c36405f828",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088693,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "sr-(Oligopeptide-184 sh-Polypeptide-60)"
+    ],
+    "refNo": [],
+    "otherRestrictions": [],
+    "note": [],
+    "sccsOpinionUrls": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "other": [],
+    "innName": [],
+    "chemicalName": [],
+    "sccsOpinion": [],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "sr-(Oligopeptide-184 sh-Polypeptide-60) is a single chain fusion peptide, produced by fermentation in E. coli. The starting gene is synthesized by the fusion of the gene from Oligopeptide-184 and sh-Polypeptide-60. The fusion peptide contains 183 amino acids which may contain disulfide bonds and/or glycosylation, and consists of the proper sequence from the 20 standard amino acids."
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "b2c0b427-1ddb-4750-8e22-654a51fe93c3"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [],
+    "maximumConcentration": [],
+    "identifiedIngredient": [],
+    "inciName": [
+      "SR-(OLIGOPEPTIDE-184 SH-POLYPEPTIDE-60)"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [],
+    "substanceId": [
+      "100756"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "productTypeBodyParts": [],
+    "annexNo": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "SKIN CONDITIONING - EMOLLIENT",
+      "HAIR CONDITIONING",
+      "SKIN PROTECTING",
+      "SKIN CONDITIONING - MISCELLANEOUS"
+    ],
+    "esDA_IngestDate": [
+      "2023-10-12T16:28:02.949+0200"
+    ],
+    "currentVersion": [],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-10-12T16:28:02.939+0200"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": []
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "485be092-86e9-4bd2-aa78-08c36405f828. Available at: urn:test",
+  "score": 12.088693
+}

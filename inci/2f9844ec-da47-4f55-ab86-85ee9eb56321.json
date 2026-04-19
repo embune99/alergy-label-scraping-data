@@ -1,0 +1,115 @@
+{
+  "apiVersion": "2.146",
+  "reference": "2f9844ec-da47-4f55-ab86-85ee9eb56321",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088693,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "sh-Polypeptide-156"
+    ],
+    "refNo": [],
+    "otherRestrictions": [],
+    "note": [],
+    "sccsOpinionUrls": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "other": [],
+    "innName": [],
+    "chemicalName": [],
+    "sccsOpinion": [],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "sh-Polypeptide-156 is a single chain recombinant human peptide, produced by fermentation in E. coli. The starting gene which is a synthesized copy of the human gene that codes for Growth/Differentiation Factor 8, is used as such or adapted to the production host. It contains a maximum of 371 amino acids which may contain disulfide bonds and/or glycosylation. The protein consists of the proper sequence of the 20 standard amino acids."
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "6d7f9a75-4f74-468f-8f53-82f82de3760e"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [],
+    "maximumConcentration": [],
+    "identifiedIngredient": [],
+    "inciName": [
+      "SH-POLYPEPTIDE-156"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [],
+    "substanceId": [
+      "104432"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "REFERENCE": [
+      "2f9844ec-da47-4f55-ab86-85ee9eb56321"
+    ],
+    "productTypeBodyParts": [],
+    "annexNo": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "ANTIMICROBIAL",
+      "ANTIOXIDANT",
+      "ASTRINGENT",
+      "SKIN CONDITIONING - EMOLLIENT",
+      "HAIR CONDITIONING",
+      "HUMECTANT",
+      "SKIN CONDITIONING - HUMECTANT"
+    ],
+    "esDA_IngestDate": [
+      "2024-08-16T11:59:49.425+0200"
+    ],
+    "currentVersion": [],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2024-08-16T11:59:49.407+0200"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": []
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "2f9844ec-da47-4f55-ab86-85ee9eb56321. Available at: urn:test",
+  "score": 12.088693
+}

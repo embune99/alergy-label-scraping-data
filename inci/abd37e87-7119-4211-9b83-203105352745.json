@@ -1,0 +1,117 @@
+{
+  "apiVersion": "2.146",
+  "reference": "abd37e87-7119-4211-9b83-203105352745",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "application/octet-stream",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088693,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "Human Umbilical Mesenchymal Stem Cell Extracellular Vesicles"
+    ],
+    "refNo": [],
+    "otherRestrictions": [],
+    "note": [],
+    "sccsOpinionUrls": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "other": [],
+    "innName": [],
+    "chemicalName": [],
+    "sccsOpinion": [],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "Human Umbilical Mesenchymal Stem Cell Extracellular Vesicles are the extracellular vesicles secreted by human umbilical mesenchymal stem cells into the media."
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "75c23dac-6798-468f-8417-eb1cad2920fc"
+    ],
+    "cosmeticRestriction": [
+      "II/416"
+    ],
+    "ecNo": [],
+    "maximumConcentration": [],
+    "identifiedIngredient": [],
+    "inciName": [
+      "HUMAN UMBILICAL MESENCHYMAL STEM CELL EXTRACELLULAR VESICLES"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [],
+    "substanceId": [
+      "105819"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "REFERENCE": [
+      "abd37e87-7119-4211-9b83-203105352745"
+    ],
+    "productTypeBodyParts": [],
+    "annexNo": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "application/octet-stream"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "SKIN CONDITIONING - EMOLLIENT",
+      "SKIN PROTECTING",
+      "SKIN CONDITIONING - HUMECTANT",
+      "SKIN CONDITIONING - MISCELLANEOUS"
+    ],
+    "esDA_FirstIngestDate": [
+      "2025-05-19T17:33:56.078+0200"
+    ],
+    "esDA_IngestDate": [
+      "2025-05-19T17:33:56.078+0200"
+    ],
+    "currentVersion": [],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2025-05-19T17:33:56.073+0200"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": []
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "abd37e87-7119-4211-9b83-203105352745. Available at: urn:test",
+  "score": 12.088693
+}

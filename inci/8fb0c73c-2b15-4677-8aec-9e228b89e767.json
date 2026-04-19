@@ -1,0 +1,113 @@
+{
+  "apiVersion": "2.146",
+  "reference": "8fb0c73c-2b15-4677-8aec-9e228b89e767",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "application/octet-stream",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088693,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "sr-(sh-Polypeptide-170 Dipeptide-19 Hexapeptide-40)"
+    ],
+    "refNo": [],
+    "otherRestrictions": [],
+    "note": [],
+    "sccsOpinionUrls": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "other": [],
+    "innName": [],
+    "chemicalName": [],
+    "sccsOpinion": [],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "sr-(sh-Polypeptide-170 Dipeptide-19 Hexapeptide-40) is a single chain fusion peptide, produced by fermentation in E. coli. The starting gene is synthesized by the fusion of the gene from sh-Polypeptide-170, Dipeptide-19, and Hexapeptide-40. The fusion peptide contains 367 amino acids which may contain disulfide bonds and/or glycosylation and consists of the proper sequence from the 20 standard amino acids."
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "eabd9f24-c43f-4f43-b584-f6bf3e6ee7a0"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [],
+    "maximumConcentration": [],
+    "identifiedIngredient": [],
+    "inciName": [
+      "SR-(SH-POLYPEPTIDE-170 DIPEPTIDE-19 HEXAPEPTIDE-40)"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [],
+    "substanceId": [
+      "105888"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "REFERENCE": [
+      "8fb0c73c-2b15-4677-8aec-9e228b89e767"
+    ],
+    "productTypeBodyParts": [],
+    "annexNo": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "application/octet-stream"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "HUMECTANT",
+      "SKIN CONDITIONING - MISCELLANEOUS"
+    ],
+    "esDA_FirstIngestDate": [
+      "2025-04-28T14:47:32.764+0200"
+    ],
+    "esDA_IngestDate": [
+      "2025-04-28T14:47:32.764+0200"
+    ],
+    "currentVersion": [],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2025-04-28T14:47:32.758+0200"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": []
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "8fb0c73c-2b15-4677-8aec-9e228b89e767. Available at: urn:test",
+  "score": 12.088693
+}

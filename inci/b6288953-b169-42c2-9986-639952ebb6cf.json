@@ -1,0 +1,112 @@
+{
+  "apiVersion": "2.146",
+  "reference": "b6288953-b169-42c2-9986-639952ebb6cf",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088693,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "Pichia Extract/sh-Polypeptide-49"
+    ],
+    "refNo": [],
+    "otherRestrictions": [],
+    "note": [],
+    "sccsOpinionUrls": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "other": [],
+    "innName": [],
+    "chemicalName": [],
+    "sccsOpinion": [],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "Pichia Extract/sh-Polypeptide-49 is a single chain recombinant peptide produced by fermentation in Pichia, where the final product contains proteins from the Pichia host. The starting gene of sh-Polypeptide-49 is a synthesized copy of the human gene that codes for Fibronectin, and is used as such or adapted to the production host. It contains a maximum of 2386 amino acids which may contain disulfide bonds and/or glycosylation. The protein consists of the proper sequence of the 20 standard amino acids."
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "d45b2f3f-3365-4298-9c41-d23cd30be5a3"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [],
+    "maximumConcentration": [],
+    "identifiedIngredient": [],
+    "inciName": [
+      "PICHIA EXTRACT/SH-POLYPEPTIDE-49"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [],
+    "substanceId": [
+      "104681"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "REFERENCE": [
+      "b6288953-b169-42c2-9986-639952ebb6cf"
+    ],
+    "productTypeBodyParts": [],
+    "annexNo": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "HAIR CONDITIONING",
+      "ORAL CARE",
+      "SKIN PROTECTING",
+      "SKIN CONDITIONING - MISCELLANEOUS"
+    ],
+    "esDA_IngestDate": [
+      "2024-08-13T11:44:48.043+0200"
+    ],
+    "currentVersion": [],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2024-08-13T11:44:48.031+0200"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": []
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "b6288953-b169-42c2-9986-639952ebb6cf. Available at: urn:test",
+  "score": 12.088693
+}

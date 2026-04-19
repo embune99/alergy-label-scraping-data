@@ -1,0 +1,110 @@
+{
+  "apiVersion": "2.146",
+  "reference": "2ba70a97-aa1c-4167-a411-f282940a1475",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088693,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "Jasminum Officinale Flower/Stem Powder"
+    ],
+    "refNo": [],
+    "otherRestrictions": [],
+    "note": [],
+    "sccsOpinionUrls": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "other": [],
+    "innName": [],
+    "chemicalName": [],
+    "sccsOpinion": [],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "Jasminum Officinale Flower/Stem Powder is the powder obtained from the dried, ground flowers and stems of Jasminum officinale."
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "e13b36a8-b174-42e7-83fa-e26d56e99518"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [
+      "289-960-1"
+    ],
+    "maximumConcentration": [],
+    "identifiedIngredient": [],
+    "inciName": [
+      "JASMINUM OFFICINALE FLOWER/STEM POWDER"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "90045-94-6 (generic)"
+    ],
+    "substanceId": [
+      "103507"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "productTypeBodyParts": [],
+    "annexNo": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "EXFOLIATING"
+    ],
+    "esDA_IngestDate": [
+      "2024-02-16T13:38:42.437+0100"
+    ],
+    "currentVersion": [],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2024-02-16T13:38:42.425+0100"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": []
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "2ba70a97-aa1c-4167-a411-f282940a1475. Available at: urn:test",
+  "score": 12.088693
+}

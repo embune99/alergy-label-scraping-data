@@ -1,0 +1,114 @@
+{
+  "apiVersion": "2.146",
+  "reference": "4dcf7a01-a17f-4e92-96e9-9df428c67ef5",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088693,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "sr-(Escherichia Coli Extract/sh-Polypeptide-138 sh-Polypeptide-50 Leucyl sh-Polypeptide-50 Arginine)"
+    ],
+    "refNo": [],
+    "otherRestrictions": [],
+    "note": [],
+    "sccsOpinionUrls": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "other": [],
+    "innName": [],
+    "chemicalName": [],
+    "sccsOpinion": [],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "sr-(Escherichia Coli Extract/sh-Polypeptide-138 sh-Polypeptide-50 Leucyl sh-Polypeptide-50 Arginine) is a single chain recombinant peptide, produced by fermentation in E. coli, where the final product contains proteins from the E. coli host. The starting gene is synthesized by the fusion of the gene from sh-Polypeptide-138, sh-Polypeptide-50, Leucine, sh-Polypeptide-50, and Arginine. The fusion peptide contains 39 amino acids which may contain disulfide bonds and/or glycosylation, and consists of the proper sequence of the 20 standard amino acids."
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "37f1b482-84a3-4c2d-bbce-a88114d15198"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [],
+    "maximumConcentration": [],
+    "identifiedIngredient": [],
+    "inciName": [
+      "SR-(ESCHERICHIA COLI EXTRACT/SH-POLYPEPTIDE-138 SH-POLYPEPTIDE-50 LEUCYL SH-POLYPEPTIDE-50 ARGININE)"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [],
+    "substanceId": [
+      "102059"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "REFERENCE": [
+      "4dcf7a01-a17f-4e92-96e9-9df428c67ef5"
+    ],
+    "productTypeBodyParts": [],
+    "annexNo": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "FILM FORMING",
+      "HAIR CONDITIONING",
+      "HAIR FIXING",
+      "HAIR WAVING OR STRAIGHTENING",
+      "ADHESIVE",
+      "SURFACE MODIFIER"
+    ],
+    "esDA_IngestDate": [
+      "2024-06-25T14:49:46.963+0200"
+    ],
+    "currentVersion": [],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2024-06-25T14:49:46.902+0200"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": []
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "4dcf7a01-a17f-4e92-96e9-9df428c67ef5. Available at: urn:test",
+  "score": 12.088693
+}

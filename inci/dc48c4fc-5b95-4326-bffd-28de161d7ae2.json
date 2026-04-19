@@ -1,0 +1,111 @@
+{
+  "apiVersion": "2.146",
+  "reference": "dc48c4fc-5b95-4326-bffd-28de161d7ae2",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088693,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "C6-10 Alketh-4 Phosphate (Formerly C6-10 Pareth-4 Phosphate)"
+    ],
+    "refNo": [],
+    "otherRestrictions": [],
+    "note": [],
+    "sccsOpinionUrls": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "other": [],
+    "innName": [],
+    "chemicalName": [],
+    "sccsOpinion": [],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "C6-10 Alketh-4 Phosphate is a complex mixture of esters of phosphoric acid and a synthetic C6-10 ethoxylated alcohol containing an average of 4 moles of ethylene oxide."
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "2184ac45-1b08-4d8c-8255-0bc76cdcbce4"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [
+      "-"
+    ],
+    "maximumConcentration": [],
+    "identifiedIngredient": [],
+    "inciName": [
+      "C6-10 ALKETH-4 PHOSPHATE (FORMERLY C6-10 PARETH-4 PHOSPHATE)"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "70248-14-5 (generic)"
+    ],
+    "substanceId": [
+      "102822"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "productTypeBodyParts": [],
+    "annexNo": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "SURFACTANT - EMULSIFYING",
+      "SURFACTANT - CLEANSING"
+    ],
+    "esDA_IngestDate": [
+      "2024-02-19T16:55:28.595+0100"
+    ],
+    "currentVersion": [],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2024-02-19T16:55:28.585+0100"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": []
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "dc48c4fc-5b95-4326-bffd-28de161d7ae2. Available at: urn:test",
+  "score": 12.088693
+}

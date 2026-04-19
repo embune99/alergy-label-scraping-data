@@ -1,0 +1,138 @@
+{
+  "apiVersion": "2.146",
+  "reference": "21cdb8e5-6f35-446b-a553-81623dc49262",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088693,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "Alpha-Arbutin"
+    ],
+    "refNo": [
+      "377"
+    ],
+    "otherRestrictions": [],
+    "note": [],
+    "sccsOpinionUrls": [
+      "https://ec.europa.eu/health/sites/health/files/scientific_committees/consumer_safety/docs/sccs_o_176.pdf",
+      "https://health.ec.europa.eu/publications/safety-alpha-arbutin-and-beta-arbutin-cosmetic-products_en"
+    ],
+    "itemType": [
+      "substance"
+    ],
+    "other": [
+      "Hydroquinone levels shall remain as low as possible in formulations containing alpha-Arbutin and shall not be higher than the unavoidable trace level.\n\nFrom 1 February 2025 cosmetic products containing that substance and not complying with the conditions shall not be placed on the Union market. From 1 November 2025 cosmetic products containing that substance and not complying with the conditions shall not be made available on the Union market."
+    ],
+    "innName": [],
+    "es_SortDate": [
+      "2024-04-04T00:00:00.000+0200"
+    ],
+    "chemicalName": [],
+    "sccsOpinion": [
+      "OPINION ON α-arbutin",
+      "Opinion on the safety of alpha- (CAS No. 84380-018, EC No. 617-561-8) and beta-arbutin (CAS No. 497-76-7, EC No. 207-8503) in cosmetic products, preliminary version of 15-16 March 2022, final version of 31 January 2023, SCCS/1642/22"
+    ],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "b820b7a0-4b27-4c9e-8d62-09bda4a4168b"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [
+      "617-561-8"
+    ],
+    "maximumConcentration": [
+      "(a) 2 %\n\n(b) 0,5 %"
+    ],
+    "identifiedIngredient": [
+      "54359"
+    ],
+    "inciName": [
+      "4-Hydroxyphenyl-alpha-D-glucopyranoside"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "84380-01-8"
+    ],
+    "substanceId": [
+      "104252"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "productTypeBodyParts": [
+      "(a) Face cream\n\n(b) Body lotion"
+    ],
+    "annexNo": [
+      "III"
+    ],
+    "publicationDate": [
+      "2024-04-04T00:00:00.000+0200"
+    ],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [],
+    "esDA_IngestDate": [
+      "2024-04-04T13:10:24.207+0200"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2024-04-04T13:10:24.189+0200"
+    ],
+    "refNo_digit": [
+      "377"
+    ],
+    "colour": [],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [
+      "(EU) 2024/996"
+    ],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "21cdb8e5-6f35-446b-a553-81623dc49262. Available at: urn:test",
+  "score": 12.088693
+}

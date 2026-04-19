@@ -1,0 +1,107 @@
+{
+  "apiVersion": "2.146",
+  "reference": "8ea4cf8f-9a47-4b86-a2d4-37f54fef5378",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088693,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "sr-(Clostridium Botulinum Polypeptide-2 Arginyl Oligopeptide-192 Clostridium Botulinum Polypeptide-1 Oligopeptide-192 Oligopeptide-193)"
+    ],
+    "refNo": [],
+    "otherRestrictions": [],
+    "note": [],
+    "sccsOpinionUrls": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "other": [],
+    "innName": [],
+    "chemicalName": [],
+    "sccsOpinion": [],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "sr-(Clostridium Botulinum Polypeptide-2 Arginyl Oligopeptide-192 Clostridium Botulinum Polypeptide-1 Oligopeptide-192 Oligopeptide-193) is a single chain recombinant peptide produced by fermentation in E. coli. The starting gene is synthesized by the fusion of the gene from sr-Clostridium Botulinum Polypeptide-2, Oligopeptide-192, sr-Clostridium Botulinum Polypeptide-1, and Oligopeptide-193 with the initiation code for arginine. The fusion peptide contains 492 amino acids which may contain disulfide bonds and/or glycosylation, and consists of the proper sequence from the 20 standard amino acids."
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "df07db1d-8449-4f61-9b36-617768e20301"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [],
+    "maximumConcentration": [],
+    "identifiedIngredient": [],
+    "inciName": [
+      "SR-(CLOSTRIDIUM BOTULINUM POLYPEPTIDE-2 ARGINYL OLIGOPEPTIDE-192 CLOSTRIDIUM BOTULINUM POLYPEPTIDE-1 OLIGOPEPTIDE-192 OLIGOPEPTIDE-193)"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [],
+    "substanceId": [
+      "100778"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "productTypeBodyParts": [],
+    "annexNo": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "SKIN PROTECTING",
+      "SKIN CONDITIONING - MISCELLANEOUS"
+    ],
+    "esDA_IngestDate": [
+      "2023-11-09T12:51:15.909+0100"
+    ],
+    "currentVersion": [],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-11-09T12:51:15.899+0100"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": []
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "8ea4cf8f-9a47-4b86-a2d4-37f54fef5378. Available at: urn:test",
+  "score": 12.088693
+}

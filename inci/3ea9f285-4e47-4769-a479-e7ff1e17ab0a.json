@@ -1,0 +1,110 @@
+{
+  "apiVersion": "2.146",
+  "reference": "3ea9f285-4e47-4769-a479-e7ff1e17ab0a",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088693,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "C14-16 Isoalkane (Formerly C14-16 Isoparaffin)"
+    ],
+    "refNo": [],
+    "otherRestrictions": [],
+    "note": [],
+    "sccsOpinionUrls": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "other": [],
+    "innName": [],
+    "chemicalName": [],
+    "sccsOpinion": [],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "C14-16 Isoalkane is a mixture of branched chain aliphatic hydrocarbons with 14 to 16 carbons in the alkyl chain."
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "b2250674-9482-4605-82e6-f49777ee4e1b"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [
+      "940-728-4"
+    ],
+    "maximumConcentration": [],
+    "identifiedIngredient": [],
+    "inciName": [
+      "C14-16 ISOALKANE (FORMERLY C14-16 ISOPARAFFIN)"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "1174918-46-7"
+    ],
+    "substanceId": [
+      "103946"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "productTypeBodyParts": [],
+    "annexNo": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "SOLVENT"
+    ],
+    "esDA_IngestDate": [
+      "2024-02-13T17:41:30.403+0100"
+    ],
+    "currentVersion": [],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2024-02-13T17:41:30.391+0100"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": []
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "3ea9f285-4e47-4769-a479-e7ff1e17ab0a. Available at: urn:test",
+  "score": 12.088693
+}

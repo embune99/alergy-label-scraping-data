@@ -1,0 +1,109 @@
+{
+  "apiVersion": "2.146",
+  "reference": "21d8bd68-aeab-46bf-b117-7caad2e6420f",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088693,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "r-(s-HIV-1 Oligopeptide-5 rh-Oligopeptide-98 Oligopeptide-207 rh-Oligopeptide-109 rh-Oligopeptide-110 rh-Oligopeptide-101)"
+    ],
+    "refNo": [],
+    "otherRestrictions": [],
+    "note": [],
+    "sccsOpinionUrls": [],
+    "itemType": [
+      "ingredient"
+    ],
+    "other": [],
+    "innName": [],
+    "chemicalName": [],
+    "sccsOpinion": [],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [
+      "r-(s-HIV-1 Oligopeptide-5 rh-Oligopeptide-98 Oligopeptide-207 rh-Oligopeptide-109 rh-Oligopeptide-110 rh-Oligopeptide-101) is a single chain fusion peptide produced by fermentation in E. coli. The starting gene is synthesized by the fusion of the genes encoding for s-HIV-1 Oligopeptide-5 SP, rh-Oligopeptide-98, Oligopeptide-207, rh-Oligopeptide-109, rh-Oligopeptide-110, and rh-Oligopeptide-101. The fusion peptide contains 263 amino acids which may contain disulfide bonds and/or glycosylation an d consists of the proper sequence of the 20 standard amino acids."
+    ],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "23c69f34-5390-46ef-b531-d66c5d1771a2"
+    ],
+    "cosmeticRestriction": [
+      "II/416"
+    ],
+    "ecNo": [],
+    "maximumConcentration": [],
+    "identifiedIngredient": [],
+    "inciName": [
+      "R-(S-HIV-1 OLIGOPEPTIDE-5 RH-OLIGOPEPTIDE-98 OLIGOPEPTIDE-207 RH-OLIGOPEPTIDE-109 RH-OLIGOPEPTIDE-110 RH-OLIGOPEPTIDE-101)"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [],
+    "substanceId": [
+      "104229"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "productTypeBodyParts": [],
+    "annexNo": [],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [
+      "SKIN CONDITIONING - EMOLLIENT",
+      "SKIN CONDITIONING"
+    ],
+    "esDA_IngestDate": [
+      "2023-12-14T09:45:43.683+0100"
+    ],
+    "currentVersion": [],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2023-12-14T09:45:43.599+0100"
+    ],
+    "refNo_digit": [],
+    "colour": [],
+    "wordingOfConditions": [],
+    "inciUsaName": [],
+    "relatedRegulations": [],
+    "perfuming": [
+      "N"
+    ],
+    "status": []
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "21d8bd68-aeab-46bf-b117-7caad2e6420f. Available at: urn:test",
+  "score": 12.088693
+}

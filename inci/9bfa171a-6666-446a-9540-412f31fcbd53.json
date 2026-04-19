@@ -1,0 +1,142 @@
+{
+  "apiVersion": "2.146",
+  "reference": "9bfa171a-6666-446a-9540-412f31fcbd53",
+  "url": "urn:test",
+  "title": null,
+  "contentType": "text/plain",
+  "language": "en",
+  "databaseLabel": "Growth Cosmetic Ingredients and Substances",
+  "database": "GROWTH_COSING",
+  "summary": "",
+  "weight": 12.088693,
+  "groupById": null,
+  "content": "",
+  "accessRestriction": false,
+  "pages": null,
+  "checksum": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+  "metadata": {
+    "nameOfCommonIngredientsGlossary": [
+      "Retinol; Retinyl Acetate; Retinyl Palmitate"
+    ],
+    "refNo": [
+      "376"
+    ],
+    "otherRestrictions": [],
+    "note": [],
+    "sccsOpinionUrls": [
+      "https://ec.europa.eu/health/sites/health/files/scientific_committees/consumer_safety/docs/sccs_o_199.pdf",
+      "https://health.ec.europa.eu/publications/revision-scientific-opinion-sccs157616-vitamin-retinol-retinyl-acetate-retinyl-palmitate_en"
+    ],
+    "itemType": [
+      "substance"
+    ],
+    "other": [
+      "From 1 November 2025 cosmetic products containing that substance and not complying with the conditions shall not be placed on the Union market. From 1 May 2027 cosmetic products containing that substance and not complying with the conditions shall not be made available on the Union market."
+    ],
+    "innName": [],
+    "es_SortDate": [
+      "2024-04-04T00:00:00.000+0200"
+    ],
+    "chemicalName": [],
+    "sccsOpinion": [
+      "OPINION ON Vitamin A (Retinol, Retinyl Acetate, Retinyl Palmitate)",
+      "revision of the scientific Opinion (SCCS/1576/16) on vitamin A (Retinol, Retinyl Acetate, Retinyl Palmitate), preliminary version of 10 December 2021, final version of 24-25 October 2022, SCCS/1639/21."
+    ],
+    "refNo_letter": [],
+    "language": [
+      "en"
+    ],
+    "chemicalDescription": [],
+    "esST_checksum": [
+      "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    ],
+    "reference": [
+      "31571ea9-50df-42b3-9204-66c87bcccb80"
+    ],
+    "cosmeticRestriction": [],
+    "ecNo": [
+      "234-328-2/ 200-683-7; 204-844-2; 201-228-5"
+    ],
+    "maximumConcentration": [
+      "(a) 0,05 % Retinol Equivalent (RE)\n\n(b) 0,3 % RE"
+    ],
+    "identifiedIngredient": [
+      "37479",
+      "37480",
+      "37482"
+    ],
+    "inciName": [
+      "(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraen-1-ol; \n[(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenyl] acetate; \n[(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenyl] hexadecanoate"
+    ],
+    "officialJournalPublication": [
+      "Y"
+    ],
+    "esST_FileName": [
+      "file.txt"
+    ],
+    "casNo": [
+      "11103-57-4/ 68-26-8; 127-47-9; 79-81-2"
+    ],
+    "substanceId": [
+      "104250"
+    ],
+    "DATASOURCE": [
+      "GROWTH_COSING"
+    ],
+    "productTypeBodyParts": [
+      "(a) Body lotion\n\n(b) other leave-on and rinse-off products"
+    ],
+    "annexNo": [
+      "III"
+    ],
+    "publicationDate": [
+      "2024-04-04T00:00:00.000+0200"
+    ],
+    "phEurName": [],
+    "es_ContentType": [
+      "text/plain"
+    ],
+    "otherRegulations": [],
+    "classificationInformation": [
+      "[]"
+    ],
+    "functionName": [],
+    "esDA_IngestDate": [
+      "2024-04-04T13:05:16.697+0200"
+    ],
+    "currentVersion": [
+      "1"
+    ],
+    "url": [
+      "urn:test"
+    ],
+    "esST_URL": [
+      "urn:test"
+    ],
+    "esDA_QueueDate": [
+      "2024-04-04T13:05:16.644+0200"
+    ],
+    "refNo_digit": [
+      "376"
+    ],
+    "colour": [],
+    "wordingOfConditions": [
+      "For any cosmetic product containing Retinol, Retinyl Acetate or Retinyl Palmitate the following, labelling is obligatory: ‘Contains Vitamin A. Consider your daily intake before use’."
+    ],
+    "inciUsaName": [],
+    "relatedRegulations": [
+      "(EU) 2024/996"
+    ],
+    "perfuming": [
+      "N"
+    ],
+    "status": [
+      "Active"
+    ]
+  },
+  "enrichedMetadata": {},
+  "children": [],
+  "highlightedFragments": [],
+  "citation": "9bfa171a-6666-446a-9540-412f31fcbd53. Available at: urn:test",
+  "score": 12.088693
+}
